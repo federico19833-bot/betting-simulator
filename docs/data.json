@@ -1,5 +1,5 @@
 {
-  "last_update": "17/05/2026 15:32:13",
+  "last_update": "17/05/2026 15:33:35",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -31,7 +31,7 @@
     {
       "match": "Heerenveen vs Ajax",
       "campionato": "Netherlands Eredivisie",
-      "volume": 125821,
+      "volume": 123042,
       "quota": 8.547,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,28 @@
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0
+    },
+    {
+      "match": "TSG Hoffenheim vs RB Leipzig",
+      "campionato": "Germany Bundesliga Women",
+      "volume": 0,
+      "quota": 1.63,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "OddsAPI"
+    },
+    {
+      "match": "Hamburger SV vs Bayern Munich",
+      "campionato": "Germany Bundesliga Women",
+      "volume": 0,
+      "quota": 1.56,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "OddsAPI"
     }
   ],
   "tracked_matches": [],
