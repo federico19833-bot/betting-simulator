@@ -1,5 +1,5 @@
 {
-  "last_update": "17/05/2026 21:01:37",
+  "last_update": "17/05/2026 21:02:55",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -19,10 +19,20 @@
   },
   "live_events": [
     {
+      "match": "Cobresal vs Universidad de Chile",
+      "campionato": "Chile Primera Division",
+      "volume": 6900,
+      "quota": 8.696,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    },
+    {
       "match": "Sassuolo vs Lecce",
       "campionato": "Italy Serie A",
-      "volume": 10710,
-      "quota": 8.403,
+      "volume": 7150,
+      "quota": 7.692,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -41,7 +51,7 @@
     {
       "match": "Bahia vs Grêmio",
       "campionato": "Brazil Serie A",
-      "volume": 84464,
+      "volume": 9810,
       "quota": 9.174,
       "in_range": false,
       "monitored": false,
@@ -51,8 +61,8 @@
     {
       "match": "Botafogo vs Corinthians",
       "campionato": "Brazil Serie A",
-      "volume": 10440,
-      "quota": 8.621,
+      "volume": 10530,
+      "quota": 8.547,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -61,8 +71,8 @@
     {
       "match": "Marseille vs Rennes",
       "campionato": "France Ligue 1",
-      "volume": 7150,
-      "quota": 7.692,
+      "volume": 4506,
+      "quota": 9.434,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -81,8 +91,18 @@
     {
       "match": "Brest vs Angers",
       "campionato": "France Ligue 1",
-      "volume": 4705,
+      "volume": 738,
       "quota": 8.929,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    },
+    {
+      "match": "Lorient vs Le Havre",
+      "campionato": "France Ligue 1",
+      "volume": 10350,
+      "quota": 8.696,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -99,19 +119,9 @@
       "whale_tot": 0
     },
     {
-      "match": "Lille OSC vs AJ Auxerre",
+      "match": "Strasbourg vs Monaco",
       "campionato": "France Ligue 1",
-      "volume": 5140,
-      "quota": 9.259,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0
-    },
-    {
-      "match": "Paris FC vs PSG",
-      "campionato": "France Ligue 1",
-      "volume": 1354,
+      "volume": 9985,
       "quota": 9.524,
       "in_range": false,
       "monitored": false,
@@ -119,10 +129,10 @@
       "whale_tot": 0
     },
     {
-      "match": "Nantes vs Toulouse",
+      "match": "Lille OSC vs AJ Auxerre",
       "campionato": "France Ligue 1",
-      "volume": 9900,
-      "quota": 9.091,
+      "volume": 9720,
+      "quota": 9.259,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
