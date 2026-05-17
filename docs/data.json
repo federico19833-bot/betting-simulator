@@ -1,5 +1,5 @@
 {
-  "last_update": "17/05/2026 17:30:21",
+  "last_update": "17/05/2026 17:31:37",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -19,6 +19,16 @@
   },
   "live_events": [
     {
+      "match": "Leeds vs Brighton",
+      "campionato": "England Premier League",
+      "volume": 3621,
+      "quota": 5.618,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    },
+    {
       "match": "St. Gallen vs FC Thun",
       "campionato": "Switzerland Super League",
       "volume": 128633,
@@ -33,6 +43,16 @@
       "campionato": "Sweden Allsvenskan",
       "volume": 151094,
       "quota": 7.874,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    },
+    {
+      "match": "Lechia Gdansk vs Legia Warszawa",
+      "campionato": "Poland Ekstraklasa",
+      "volume": 9990,
+      "quota": 9.009,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
