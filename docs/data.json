@@ -1,5 +1,5 @@
 {
-  "last_update": "17/05/2026 17:49:28",
+  "last_update": "17/05/2026 17:50:46",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Leeds vs Brighton",
       "campionato": "England Premier League",
-      "volume": 3093,
-      "quota": 3.125,
+      "volume": 10403,
+      "quota": 2.778,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -31,8 +31,8 @@
     {
       "match": "St. Gallen vs FC Thun",
       "campionato": "Switzerland Super League",
-      "volume": 1668,
-      "quota": 7.937,
+      "volume": 130,
+      "quota": 7.752,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -41,8 +41,8 @@
     {
       "match": "Mjällby AIF vs BK Häcken",
       "campionato": "Sweden Allsvenskan",
-      "volume": 9765,
-      "quota": 6.623,
+      "volume": 9180,
+      "quota": 6.536,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,12 +51,34 @@
     {
       "match": "Olimpija Ljubljana vs NK Radomlje",
       "campionato": "Slovenia Prva Liga",
-      "volume": 365,
-      "quota": 9.259,
+      "volume": 9810,
+      "quota": 9.174,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0
+    },
+    {
+      "match": "Leeds United vs Brighton and Hove Albion",
+      "campionato": "Epl",
+      "volume": 0,
+      "quota": 1.88,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "OddsAPI"
+    },
+    {
+      "match": "Mjällby AIF vs BK Hacken",
+      "campionato": "Sweden Allsvenskan",
+      "volume": 0,
+      "quota": 1.38,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "OddsAPI"
     }
   ],
   "tracked_matches": [],
