@@ -1,9 +1,9 @@
 {
-  "last_update": "17/05/2026 13:15:49",
+  "last_update": "17/05/2026 13:17:58",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
-    "volume_threshold": 20000,
+    "volume_threshold": 10000,
     "stake": 100.0,
     "poll_interval": 30
   },
@@ -21,8 +21,18 @@
     {
       "match": "Como vs Parma",
       "campionato": "Italy Serie A",
-      "volume": 186786,
-      "quota": 8.13,
+      "volume": 2721,
+      "quota": 8.065,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    },
+    {
+      "match": "TransINVEST Vilnius vs Žalgiris Vilnius",
+      "campionato": "Lithuania A Lyga",
+      "volume": 9990,
+      "quota": 9.009,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -31,8 +41,8 @@
     {
       "match": "Bucheon FC 1995 vs Pohang Steelers",
       "campionato": "Korea Republic K League 1",
-      "volume": 244,
-      "quota": 5.405,
+      "volume": 17189,
+      "quota": 5.236,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
