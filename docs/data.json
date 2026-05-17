@@ -1,5 +1,5 @@
 {
-  "last_update": "17/05/2026 15:35:42",
+  "last_update": "17/05/2026 15:36:58",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,8 +21,18 @@
     {
       "match": "Inter Milan vs Verona",
       "campionato": "Italy Serie A",
-      "volume": 162334,
+      "volume": 161439,
       "quota": 8.772,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    },
+    {
+      "match": "Heerenveen vs Ajax",
+      "campionato": "Netherlands Eredivisie",
+      "volume": 2749,
+      "quota": 8.547,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
