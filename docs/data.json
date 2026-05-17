@@ -1,5 +1,5 @@
 {
-  "last_update": "17/05/2026 21:33:30",
+  "last_update": "17/05/2026 21:34:47",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -19,10 +19,20 @@
   },
   "live_events": [
     {
+      "match": "Cobresal vs Universidad de Chile",
+      "campionato": "Chile Primera Division",
+      "volume": 7500,
+      "quota": 8.0,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    },
+    {
       "match": "Barcelona vs Real Betis",
       "campionato": "Spain La Liga",
-      "volume": 7106,
-      "quota": 9.709,
+      "volume": 21,
+      "quota": 9.615,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -31,7 +41,7 @@
     {
       "match": "Bahia vs Grêmio",
       "campionato": "Brazil Serie A",
-      "volume": 127033,
+      "volume": 10440,
       "quota": 8.621,
       "in_range": false,
       "monitored": false,
@@ -41,7 +51,7 @@
     {
       "match": "Nice vs Metz",
       "campionato": "France Ligue 1",
-      "volume": 296696,
+      "volume": 289545,
       "quota": 9.009,
       "in_range": false,
       "monitored": false,
@@ -51,28 +61,8 @@
     {
       "match": "Brest vs Angers",
       "campionato": "France Ligue 1",
-      "volume": 2092,
-      "quota": 8.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0
-    },
-    {
-      "match": "Lorient vs Le Havre",
-      "campionato": "France Ligue 1",
-      "volume": 1106,
-      "quota": 8.264,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0
-    },
-    {
-      "match": "Lille OSC vs AJ Auxerre",
-      "campionato": "France Ligue 1",
-      "volume": 7150,
-      "quota": 7.692,
+      "volume": 978,
+      "quota": 8.065,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -81,7 +71,7 @@
     {
       "match": "Paris FC vs PSG",
       "campionato": "France Ligue 1",
-      "volume": 149108,
+      "volume": 147144,
       "quota": 9.009,
       "in_range": false,
       "monitored": false,
