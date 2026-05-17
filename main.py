@@ -6,8 +6,9 @@ from config import POLL_INTERVAL_SECONDS
 from database import init_db
 from data_source import scan_markets
 from trading import execute_entry, check_and_resolve_pending
-from telegram_bot import init_bot, invia_notifica_entrata, invia_report_giornaliero, invia_heartbeat
+from telegram_bot import init_bot, invia_notifica_entrata, invia_notifica_esito, invia_notifica_errore, invia_report_giornaliero, invia_heartbeat
 from analysis import generate_equity_chart
+from generate_dashboard import generate as update_dashboard
 
 bot_ready = False
 
@@ -15,11 +16,22 @@ async def poll_markets():
     global bot_ready
     print(f"\n[MAIN] Scan {datetime.now().strftime('%H:%M:%S')}")
     matches = scan_markets()
-    for m in matches:
-        giocata_id = execute_entry(m["match"], m["campionato"], m["volume"], m["quota"], m.get("event_id", ""))
-        if bot_ready:
+    if matches:
+        matches.sort(key=lambda x: x["volume"], reverse=True)
+        m = matches[0]
+        giocata_id = execute_entry(m["match"], m["campionato"], m["volume"], m["quota"], m.get("event_id", ""), m.get("whale_max", 0), m.get("whale_tot", 0))
+        if bot_ready and giocata_id:
             await invia_notifica_entrata(giocata_id, m["match"], m["campionato"], m["quota"], m["volume"])
-    check_and_resolve_pending()
+            if len(matches) > 1:
+                print(f"[MAIN] Altri {len(matches)-1} segnali ignorati (entro solo il primo)")
+    risolti = check_and_resolve_pending()
+    if risolti and bot_ready:
+        for r in risolti:
+            if r.get("discrepancy"):
+                await invia_notifica_errore(r["id"], r["match"], r["smarkets"], r["sportsdb"])
+            else:
+                await invia_notifica_esito(r["id"], r["match"], r["campionato"], r["quota"], r["esito"], r["profitto"])
+    update_dashboard(deploy=True)
 
 async def daily_report():
     print(f"[MAIN] Report giornaliero {datetime.now().strftime('%d/%m/%Y')}")

@@ -42,10 +42,19 @@ def start_polling():
     global app
     if not TELEGRAM_TOKEN or TELEGRAM_TOKEN == "YOUR_TELEGRAM_BOT_TOKEN":
         return
-    app = Application.builder().token(TELEGRAM_TOKEN).build()
-    app.add_handler(CommandHandler("start", start_command))
-    app.add_handler(CommandHandler("status", status_command))
-    app.run_polling(allowed_updates=["message"])
+    try:
+        import asyncio
+        try:
+            loop = asyncio.new_event_loop()
+            asyncio.set_event_loop(loop)
+        except:
+            pass
+        app = Application.builder().token(TELEGRAM_TOKEN).build()
+        app.add_handler(CommandHandler("start", start_command))
+        app.add_handler(CommandHandler("status", status_command))
+        app.run_polling(allowed_updates=["message"])
+    except Exception as e:
+        print(f"[TELEGRAM] ERRORE polling: {e}")
 
 def init_bot():
     global bot
@@ -62,6 +71,42 @@ def init_bot():
         t.start()
         return True
     return False
+
+async def invia_notifica_esito(giocata_id, match, campionato, quota, esito, profitto):
+    if not bot:
+        return
+    icon = "✅" if esito == "VINTA" else "❌"
+    msg = (
+        f"{icon} GIOCATA RISOLTA\n"
+        f"━━━━━━━━━━━━━━━━\n"
+        f"ID: #{giocata_id}\n"
+        f"Match: {match}\n"
+        f"Campionato: {campionato}\n"
+        f"Quota: {quota}\n"
+        f"Esito: {esito}\n"
+        f"Profitto: {profitto:+.2f}€"
+    )
+    try:
+        await bot.send_message(chat_id=TELEGRAM_CHAT_ID, text=msg)
+    except TelegramError as e:
+        print(f"[TELEGRAM] Errore notifica esito: {e}")
+
+async def invia_notifica_errore(giocata_id, match, smarkets, sportsdb):
+    if not bot:
+        return
+    msg = (
+        f"⚠️ DISCREPANZA RISULTATI\n"
+        f"━━━━━━━━━━━━━━━━\n"
+        f"ID: #{giocata_id}\n"
+        f"Match: {match}\n"
+        f"Smarkets: {'GOAL' if smarkets else '0-0'}\n"
+        f"TheSportsDB: {'GOAL' if sportsdb else '0-0'}\n"
+        f"⏳ In attesa di riconciliazione..."
+    )
+    try:
+        await bot.send_message(chat_id=TELEGRAM_CHAT_ID, text=msg)
+    except TelegramError as e:
+        print(f"[TELEGRAM] Errore notifica discrepanza: {e}")
 
 async def invia_notifica_entrata(giocata_id, match, campionato, quota, volume):
     if not bot:
