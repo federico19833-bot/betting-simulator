@@ -1,5 +1,5 @@
 {
-  "last_update": "18/05/2026 17:05:17",
+  "last_update": "18/05/2026 17:05:57",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -17,7 +17,18 @@
     "roi": -1.66,
     "balance": 975.04
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "FC Lahti vs VPS",
+      "campionato": "Finland Veikkausliiga",
+      "volume": 10169,
+      "quota": 8.85,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0
+    }
+  ],
   "tracked_matches": [],
   "giocate": [
     {
