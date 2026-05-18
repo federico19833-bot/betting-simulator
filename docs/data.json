@@ -1,5 +1,5 @@
 {
-  "last_update": "18/05/2026 22:16:58",
+  "last_update": "18/05/2026 22:18:08",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -19,19 +19,9 @@
   },
   "live_events": [
     {
-      "match": "Leganés vs Huesca",
-      "campionato": "Spain La Liga 2",
-      "volume": 15395,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0
-    },
-    {
       "match": "HK Kópavogs vs UMFN Njarðvík",
       "campionato": "Iceland First Division",
-      "volume": 1393,
+      "volume": 2933,
       "quota": 8.065,
       "in_range": false,
       "monitored": false,
@@ -41,7 +31,7 @@
     {
       "match": "Throttur vs Leiknir Reykjavík",
       "campionato": "Iceland First Division",
-      "volume": 109855,
+      "volume": 4258,
       "quota": 8.403,
       "in_range": false,
       "monitored": false,
@@ -51,8 +41,8 @@
     {
       "match": "Envigado FC vs Deportes Quindío",
       "campionato": "Colombia Categoria Primera B",
-      "volume": 11070,
-      "quota": 8.13,
+      "volume": 11159,
+      "quota": 8.065,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -61,12 +51,23 @@
     {
       "match": "Defensores de Belgrano vs CA Chaco For Ever",
       "campionato": "Argentina Primera Nacional",
-      "volume": 40504,
-      "quota": 2.222,
+      "volume": 4950,
+      "quota": 1.818,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0
+    },
+    {
+      "match": "Leganés vs SD Huesca",
+      "campionato": "Spain Segunda Division",
+      "volume": 0,
+      "quota": 9.0,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "OddsAPI"
     }
   ],
   "tracked_matches": [],
