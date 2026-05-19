@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 21:35:16",
+  "last_update": "19/05/2026 21:35:48",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.09,
@@ -19,9 +19,22 @@
   },
   "live_events": [
     {
+      "match": "AC Monza v Juve Stabia",
+      "campionato": "Italian Serie B",
+      "volume": 8,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258290473"
+    },
+    {
       "match": "Genk v Antwerp",
       "campionato": "Belgian Pro League",
-      "volume": 3433,
+      "volume": 2457,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -34,8 +47,8 @@
     {
       "match": "Chelsea v Tottenham",
       "campionato": "English Premier League",
-      "volume": 237,
-      "quota": 2.24,
+      "volume": 85,
+      "quota": 2.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
