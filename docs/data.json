@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 20:32:14",
+  "last_update": "19/05/2026 20:33:31",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -38,20 +38,33 @@
       "quota": 1.13,
       "market_id": "1.258279618",
       "total_matched": 3278.89,
-      "total_available": 6117.17,
+      "total_available": 6118.69,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
       "event_id": "45080053"
     },
     {
+      "match": "Westerlo vs Standard Liège",
+      "campionato": "Belgium First Division A",
+      "volume": 9630,
+      "quota": 9.346,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45078330",
+      "market_id": "140688559"
+    },
+    {
       "match": "AC Monza v Juve Stabia",
       "campionato": "Italian Serie B",
-      "volume": 9358,
+      "volume": 9393,
       "quota": 1.17,
       "market_id": "1.258290473",
       "total_matched": 18556.46,
-      "total_available": 17249.94,
+      "total_available": 18181.16,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair"
@@ -59,7 +72,7 @@
     {
       "match": "Charleroi vs OH Leuven",
       "campionato": "Belgium First Division A",
-      "volume": 6420,
+      "volume": 9630,
       "quota": 9.346,
       "in_range": false,
       "monitored": false,
@@ -72,8 +85,8 @@
     {
       "match": "FC Rouen vs Stade Lavallois",
       "campionato": "France Ligue 2 Promotion Relegation",
-      "volume": 2133,
-      "quota": 8.772,
+      "volume": 1370,
+      "quota": 8.696,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -85,8 +98,8 @@
     {
       "match": "Bournemouth vs Man City",
       "campionato": "England Premier League",
-      "volume": 32099,
-      "quota": 9.346,
+      "volume": 10715,
+      "quota": 7.692,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
