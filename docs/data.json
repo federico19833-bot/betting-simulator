@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 20:14:43",
+  "last_update": "19/05/2026 20:15:48",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,24 +21,37 @@
     {
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "volume": 3703,
-      "quota": 1.11,
+      "volume": 2864,
+      "quota": 1.12,
       "market_id": "1.258279618",
       "total_matched": 2997.91,
-      "total_available": 7132.15,
+      "total_available": 6202.98,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
       "event_id": "45080053"
     },
     {
+      "match": "Monza vs Juve Stabia",
+      "campionato": "Italy Serie B",
+      "volume": 7535,
+      "quota": 8.696,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45078315",
+      "market_id": "140683047"
+    },
+    {
       "match": "AC Monza v Juve Stabia",
       "campionato": "Italian Serie B",
-      "volume": 9647,
-      "quota": 1.11,
+      "volume": 2075,
+      "quota": 1.1,
       "market_id": "1.258290473",
-      "total_matched": 14451.65,
-      "total_available": 20229.05,
+      "total_matched": 14459.64,
+      "total_available": 5783.95,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair"
