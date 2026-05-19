@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 21:20:40",
+  "last_update": "19/05/2026 21:21:14",
   "config": {
     "min_odds": 1.05,
     "max_odds": 1.1,
@@ -17,8 +17,72 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
-  "tracked_matches": [],
+  "live_events": [
+    {
+      "match": "Hapoel Petach Tikva v Beitar Jerusalem",
+      "campionato": "Israeli Premier League",
+      "volume": 23233,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258279618"
+    },
+    {
+      "match": "AC Monza v Juve Stabia",
+      "campionato": "Italian Serie B",
+      "volume": 3732,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258290473"
+    },
+    {
+      "match": "Genk v Antwerp",
+      "campionato": "Belgian Pro League",
+      "volume": 20,
+      "quota": 3.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258276405"
+    },
+    {
+      "match": "Chelsea v Tottenham",
+      "campionato": "English Premier League",
+      "volume": 775,
+      "quota": 1.56,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258143448"
+    }
+  ],
+  "tracked_matches": [
+    {
+      "event_id": "bf_1.258279618",
+      "match": "Hapoel Petach Tikva v Beitar Jerusalem",
+      "campionato": "Israeli Premier League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 23233,
+      "whale_max": 0,
+      "entered": false
+    }
+  ],
   "giocate": [
     {
       "id": 1,
