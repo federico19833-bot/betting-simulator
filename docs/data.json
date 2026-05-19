@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 17:07:34",
+  "last_update": "19/05/2026 17:08:17",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -17,7 +17,20 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "FC Noah v FC Ararat Yerevan",
+      "campionato": "Armenian Premier League",
+      "volume": 299,
+      "quota": 1.01,
+      "market_id": "1.258333302",
+      "total_matched": 1357.16,
+      "total_available": 458.99,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair"
+    }
+  ],
   "tracked_matches": [],
   "giocate": [],
   "max_whale": 0
