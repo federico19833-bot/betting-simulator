@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 21:03:37",
+  "last_update": "19/05/2026 21:04:32",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 0,
+    "total": 1,
     "wins": 0,
     "losses": 0,
-    "in_corso": 0,
+    "in_corso": 1,
     "winrate": 0,
     "profit": 0.0,
     "roi": 0.0,
@@ -19,56 +19,68 @@
   },
   "live_events": [
     {
-      "match": "Genk vs Antwerp",
-      "campionato": "Belgium First Division A",
-      "volume": 157494,
-      "quota": 9.009,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45078331",
-      "market_id": "140688358"
+      "match": "Genk v Antwerp",
+      "campionato": "Belgian Pro League",
+      "volume": 86,
+      "quota": 1.64,
+      "market_id": "1.258276405",
+      "total_matched": 7824.24,
+      "total_available": 4156.17,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair (doppio)",
+      "event_id": "45078331"
     },
     {
-      "match": "Hapoel Petah Tikva vs Beitar Jerusalem",
-      "campionato": "Israel Ligat Al",
-      "volume": 64866,
-      "quota": 5.988,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45080053",
-      "market_id": "140885295"
+      "match": "AC Monza v Juve Stabia",
+      "campionato": "Italian Serie B",
+      "volume": 5883,
+      "quota": 1.09,
+      "market_id": "1.258290473",
+      "total_matched": 18092.24,
+      "total_available": 11890.23,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair (doppio)",
+      "event_id": "45078315"
     },
     {
-      "match": "Monza vs Juve Stabia",
-      "campionato": "Italy Serie B",
-      "volume": 199301,
-      "quota": 7.407,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45078315",
-      "market_id": "140683047"
+      "match": "Hapoel Petach Tikva v Beitar Jerusalem",
+      "campionato": "Israeli Premier League",
+      "volume": 22458,
+      "quota": 1.09,
+      "market_id": "1.258279618",
+      "total_matched": 43955.77,
+      "total_available": 42272.49,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair (doppio)",
+      "event_id": "45080053"
     },
     {
-      "match": "Bournemouth vs Man City",
-      "campionato": "England Premier League",
-      "volume": 194130,
-      "quota": 9.009,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45071608",
-      "market_id": "140165066"
+      "match": "Bournemouth v Man City",
+      "campionato": "English Premier League",
+      "volume": 5897,
+      "quota": 1.31,
+      "market_id": "1.258188498",
+      "total_matched": 21886.03,
+      "total_available": 16988.59,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair (doppio)",
+      "event_id": "45071608"
+    },
+    {
+      "match": "USM Alger v Olympique Akbou",
+      "campionato": "Algerian Ligue 1",
+      "volume": 1047,
+      "quota": 1.15,
+      "market_id": "1.258341577",
+      "total_matched": 118.02,
+      "total_available": 2138.39,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair"
     }
   ],
   "tracked_matches": [
@@ -76,13 +88,26 @@
       "event_id": "bf_1.258279618",
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 7784,
+      "volume": 22458,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     }
   ],
-  "giocate": [],
+  "giocate": [
+    {
+      "id": 1,
+      "orario": "2026-05-19 21:04:32",
+      "match": "Hapoel Petach Tikva v Beitar Jerusalem",
+      "campionato": "Israeli Premier League",
+      "quota": 1.09,
+      "volume": 22458,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    }
+  ],
   "max_whale": 0
 }
