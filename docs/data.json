@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 16:45:03",
+  "last_update": "19/05/2026 16:45:39",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -17,7 +17,20 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "Lokomotiva Zvolen v KFC Komarno",
+      "campionato": "Slovakian Super League",
+      "volume": 2717,
+      "quota": 1.11,
+      "market_id": "1.258336554",
+      "total_matched": 6199.17,
+      "total_available": 6100.01,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair"
+    }
+  ],
   "tracked_matches": [],
   "giocate": [],
   "max_whale": 0
