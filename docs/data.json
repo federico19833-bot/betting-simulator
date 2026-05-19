@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 20:42:50",
+  "last_update": "19/05/2026 20:44:11",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -19,17 +19,55 @@
   },
   "live_events": [
     {
-      "match": "Hapoel Petach Tikva v Beitar Jerusalem",
-      "campionato": "Israeli Premier League",
-      "volume": 1053,
-      "quota": 1.2,
-      "market_id": "1.258279618",
-      "total_matched": 3569.29,
-      "total_available": 5578.88,
+      "match": "Genk v Antwerp",
+      "campionato": "Belgian Pro League",
+      "volume": 3274,
+      "quota": 1.26,
+      "market_id": "1.258276405",
+      "total_matched": 19646.04,
+      "total_available": 9032.46,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
-      "event_id": "45080053"
+      "event_id": "45078331"
+    },
+    {
+      "match": "Monza vs Juve Stabia",
+      "campionato": "Italy Serie B",
+      "volume": 181429,
+      "quota": 7.874,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45078315",
+      "market_id": "140683047"
+    },
+    {
+      "match": "Hapoel Petah Tikva vs Beitar Jerusalem",
+      "campionato": "Israel Ligat Al",
+      "volume": 6334,
+      "quota": 7.874,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45080053",
+      "market_id": "140885295"
+    },
+    {
+      "match": "AC Monza v Juve Stabia",
+      "campionato": "Italian Serie B",
+      "volume": 1155,
+      "quota": 1.2,
+      "market_id": "1.258290473",
+      "total_matched": 3569.29,
+      "total_available": 6220.65,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair"
     },
     {
       "match": "Charleroi vs OH Leuven",
@@ -47,7 +85,7 @@
     {
       "match": "FC Rouen vs Stade Lavallois",
       "campionato": "France Ligue 2 Promotion Relegation",
-      "volume": 1581,
+      "volume": 1510,
       "quota": 8.475,
       "in_range": false,
       "monitored": false,
@@ -58,61 +96,10 @@
       "market_id": "140871209"
     },
     {
-      "match": "Genk vs Antwerp",
-      "campionato": "Belgium First Division A",
-      "volume": 6748,
-      "quota": 9.346,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45078331",
-      "market_id": "140688358"
-    },
-    {
-      "match": "Westerlo vs Standard Liège",
-      "campionato": "Belgium First Division A",
-      "volume": 1664,
-      "quota": 9.346,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45078330",
-      "market_id": "140688559"
-    },
-    {
-      "match": "AC Monza v Juve Stabia",
-      "campionato": "Italian Serie B",
-      "volume": 7527,
-      "quota": 1.22,
-      "market_id": "1.258290473",
-      "total_matched": 19415.52,
-      "total_available": 16771.02,
-      "is_delayed": true,
-      "status": "OPEN",
-      "source": "Betfair"
-    },
-    {
-      "match": "Monza vs Juve Stabia",
-      "campionato": "Italy Serie B",
-      "volume": 189626,
-      "quota": 7.874,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45078315",
-      "market_id": "140683047"
-    },
-    {
       "match": "Bournemouth vs Man City",
       "campionato": "England Premier League",
-      "volume": 183543,
-      "quota": 9.346,
+      "volume": 32401,
+      "quota": 9.259,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
