@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 01:37:49",
+  "last_update": "20/05/2026 01:38:23",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -17,7 +17,21 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "Orlando City v Atlanta Utd",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258288245"
+    }
+  ],
   "tracked_matches": [],
   "giocate": [
     {
