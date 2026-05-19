@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 18:34:16",
+  "last_update": "19/05/2026 18:35:01",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -17,7 +17,21 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "SV Guntamatic Ried vs RZ Pellets WAC",
+      "campionato": "Austria Bundesliga",
+      "volume": 39290,
+      "quota": 9.009,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45081613",
+      "market_id": "141064854"
+    }
+  ],
   "tracked_matches": [],
   "giocate": [],
   "max_whale": 0
