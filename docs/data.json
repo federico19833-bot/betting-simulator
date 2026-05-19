@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 20:07:57",
+  "last_update": "19/05/2026 20:09:05",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,24 +21,23 @@
     {
       "match": "SV Ried v RZ Pellets WAC",
       "campionato": "Austrian Bundesliga",
-      "volume": 2410,
-      "quota": 1.08,
+      "volume": 2056,
+      "quota": 1.09,
       "market_id": "1.258317493",
-      "total_matched": 2428.9,
-      "total_available": 4922.51,
+      "total_matched": 2522.9,
+      "total_available": 5084.55,
       "is_delayed": true,
       "status": "OPEN",
-      "source": "Betfair (doppio)",
-      "event_id": "45081613"
+      "source": "Betfair"
     },
     {
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "volume": 12695,
-      "quota": 1.09,
+      "volume": 7486,
+      "quota": 1.1,
       "market_id": "1.258279618",
-      "total_matched": 10665.59,
-      "total_available": 21646.1,
+      "total_matched": 12141.59,
+      "total_available": 16861.0,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
@@ -47,11 +46,11 @@
     {
       "match": "AC Monza v Juve Stabia",
       "campionato": "Italian Serie B",
-      "volume": 173,
-      "quota": 1.6,
+      "volume": 124,
+      "quota": 1.59,
       "market_id": "1.258290473",
-      "total_matched": 30339.58,
-      "total_available": 21107.53,
+      "total_matched": 30355.58,
+      "total_available": 20141.54,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair"
@@ -59,8 +58,8 @@
     {
       "match": "Monza vs Juve Stabia",
       "campionato": "Italy Serie B",
-      "volume": 126627,
-      "quota": 9.009,
+      "volume": 135105,
+      "quota": 8.85,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -75,9 +74,9 @@
       "event_id": "bf_1.258279618",
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.1,
       "quota_iniziale": 1.09,
-      "volume": 12695,
+      "volume": 7486,
       "whale_max": 0,
       "entered": false
     }
