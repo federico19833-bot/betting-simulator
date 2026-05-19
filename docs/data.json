@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 19:45:41",
+  "last_update": "19/05/2026 19:46:42",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -19,9 +19,48 @@
   },
   "live_events": [
     {
+      "match": "SV Guntamatic Ried vs RZ Pellets WAC",
+      "campionato": "Austria Bundesliga",
+      "volume": 9829,
+      "quota": 6.623,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45081613",
+      "market_id": "141064854"
+    },
+    {
+      "match": "Hapoel Petah Tikva vs Beitar Jerusalem",
+      "campionato": "Israel Ligat Al",
+      "volume": 3695,
+      "quota": 9.434,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45080053",
+      "market_id": "140885295"
+    },
+    {
+      "match": "Hapoel Be'er Sheva vs Maccabi Tel Aviv",
+      "campionato": "Israel Ligat Al",
+      "volume": 7097,
+      "quota": 9.091,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45080058",
+      "market_id": "140885770"
+    },
+    {
       "match": "Maccabi Haifa vs Hapoel Tel Aviv",
       "campionato": "Israel Ligat Al",
-      "volume": 10080,
+      "volume": 901,
       "quota": 8.929,
       "in_range": false,
       "monitored": false,
@@ -30,19 +69,6 @@
       "source": "Smarkets",
       "event_id": "45079976",
       "market_id": "140870975"
-    },
-    {
-      "match": "Hapoel Be'er Sheva vs Maccabi Tel Aviv",
-      "campionato": "Israel Ligat Al",
-      "volume": 51251,
-      "quota": 9.174,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45080058",
-      "market_id": "140885770"
     },
     {
       "match": "Hapoel Akko v Hapoel Eran Hadera",
@@ -55,19 +81,6 @@
       "is_delayed": true,
       "status": "SUSPENDED",
       "source": "Betfair"
-    },
-    {
-      "match": "SV Guntamatic Ried vs RZ Pellets WAC",
-      "campionato": "Austria Bundesliga",
-      "volume": 15043,
-      "quota": 6.757,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45081613",
-      "market_id": "141064854"
     }
   ],
   "tracked_matches": [],
