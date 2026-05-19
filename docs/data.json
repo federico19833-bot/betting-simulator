@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 20:02:18",
+  "last_update": "19/05/2026 20:03:26",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,11 +21,11 @@
     {
       "match": "SV Ried v RZ Pellets WAC",
       "campionato": "Austrian Bundesliga",
-      "volume": 3138,
-      "quota": 1.06,
+      "volume": 2112,
+      "quota": 1.07,
       "market_id": "1.258317493",
       "total_matched": 2428.9,
-      "total_available": 5518.99,
+      "total_available": 4685.08,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
@@ -34,18 +34,41 @@
     {
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "volume": 138,
-      "quota": 1.86,
+      "volume": 21569,
+      "quota": 1.09,
       "market_id": "1.258279618",
-      "total_matched": 29411.85,
-      "total_available": 17750.94,
+      "total_matched": 9883.99,
+      "total_available": 39676.25,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
       "event_id": "45080053"
+    },
+    {
+      "match": "AC Monza v Juve Stabia",
+      "campionato": "Italian Serie B",
+      "volume": 136,
+      "quota": 1.78,
+      "market_id": "1.258290473",
+      "total_matched": 29462.1,
+      "total_available": 15323.81,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair"
     }
   ],
-  "tracked_matches": [],
+  "tracked_matches": [
+    {
+      "event_id": "bf_1.258279618",
+      "match": "Hapoel Petach Tikva v Beitar Jerusalem",
+      "campionato": "Israeli Premier League",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 21569,
+      "whale_max": 0,
+      "entered": false
+    }
+  ],
   "giocate": [],
   "max_whale": 0
 }
