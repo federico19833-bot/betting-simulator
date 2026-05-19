@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 19:57:59",
+  "last_update": "19/05/2026 19:59:04",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,11 +21,11 @@
     {
       "match": "SV Ried v RZ Pellets WAC",
       "campionato": "Austrian Bundesliga",
-      "volume": 1348,
-      "quota": 1.04,
+      "volume": 3027,
+      "quota": 1.06,
       "market_id": "1.258317493",
-      "total_matched": 2333.38,
-      "total_available": 1964.6,
+      "total_matched": 2382.89,
+      "total_available": 7482.91,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
@@ -43,6 +43,19 @@
       "source": "Smarkets",
       "event_id": "45080053",
       "market_id": "140885295"
+    },
+    {
+      "match": "Boston Bolts vs Vermont Green FC",
+      "campionato": "Us Usl League Two",
+      "volume": 10260,
+      "quota": 8.772,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45082617",
+      "market_id": "141211734"
     }
   ],
   "tracked_matches": [],
