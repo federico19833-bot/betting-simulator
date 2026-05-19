@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 19:56:57",
+  "last_update": "19/05/2026 19:57:59",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -19,17 +19,17 @@
   },
   "live_events": [
     {
-      "match": "Maccabi Haifa vs Hapoel Tel Aviv",
-      "campionato": "Israel Ligat Al",
-      "volume": 3213,
-      "quota": 8.696,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45079976",
-      "market_id": "140870975"
+      "match": "SV Ried v RZ Pellets WAC",
+      "campionato": "Austrian Bundesliga",
+      "volume": 1348,
+      "quota": 1.04,
+      "market_id": "1.258317493",
+      "total_matched": 2333.38,
+      "total_available": 1964.6,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair (doppio)",
+      "event_id": "45081613"
     },
     {
       "match": "Hapoel Petah Tikva vs Beitar Jerusalem",
@@ -43,19 +43,6 @@
       "source": "Smarkets",
       "event_id": "45080053",
       "market_id": "140885295"
-    },
-    {
-      "match": "SV Ried v RZ Pellets WAC",
-      "campionato": "Austrian Bundesliga",
-      "volume": 2630,
-      "quota": 1.05,
-      "market_id": "1.258317493",
-      "total_matched": 2333.38,
-      "total_available": 4139.63,
-      "is_delayed": true,
-      "status": "OPEN",
-      "source": "Betfair (doppio)",
-      "event_id": "45081613"
     }
   ],
   "tracked_matches": [],
