@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 19:53:54",
+  "last_update": "19/05/2026 19:54:55",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Maccabi Haifa vs Hapoel Tel Aviv",
       "campionato": "Israel Ligat Al",
-      "volume": 10440,
+      "volume": 4581,
       "quota": 8.621,
       "in_range": false,
       "monitored": false,
@@ -45,17 +45,17 @@
       "market_id": "140885295"
     },
     {
-      "match": "SV Guntamatic Ried vs RZ Pellets WAC",
-      "campionato": "Austria Bundesliga",
-      "volume": 15571,
-      "quota": 5.78,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Smarkets",
-      "event_id": "45081613",
-      "market_id": "141064854"
+      "match": "SV Ried v RZ Pellets WAC",
+      "campionato": "Austrian Bundesliga",
+      "volume": 3850,
+      "quota": 1.05,
+      "market_id": "1.258317493",
+      "total_matched": 2333.38,
+      "total_available": 8261.03,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair (doppio)",
+      "event_id": "45081613"
     }
   ],
   "tracked_matches": [],
