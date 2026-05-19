@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 20:03:26",
+  "last_update": "19/05/2026 20:04:34",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,11 +21,11 @@
     {
       "match": "SV Ried v RZ Pellets WAC",
       "campionato": "Austrian Bundesliga",
-      "volume": 2112,
+      "volume": 3438,
       "quota": 1.07,
       "market_id": "1.258317493",
       "total_matched": 2428.9,
-      "total_available": 4685.08,
+      "total_available": 7599.82,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
@@ -34,11 +34,11 @@
     {
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "volume": 21569,
+      "volume": 3481,
       "quota": 1.09,
       "market_id": "1.258279618",
-      "total_matched": 9883.99,
-      "total_available": 39676.25,
+      "total_matched": 10269.58,
+      "total_available": 10925.68,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
@@ -47,14 +47,27 @@
     {
       "match": "AC Monza v Juve Stabia",
       "campionato": "Italian Serie B",
-      "volume": 136,
-      "quota": 1.78,
+      "volume": 137,
+      "quota": 1.8,
       "market_id": "1.258290473",
-      "total_matched": 29462.1,
-      "total_available": 15323.81,
+      "total_matched": 29436.1,
+      "total_available": 17913.05,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair"
+    },
+    {
+      "match": "Monza vs Juve Stabia",
+      "campionato": "Italy Serie B",
+      "volume": 9073,
+      "quota": 8.85,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45078315",
+      "market_id": "140683047"
     }
   ],
   "tracked_matches": [
