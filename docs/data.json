@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 16:28:05",
+  "last_update": "19/05/2026 16:28:43",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -17,7 +17,21 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "MFK Zvolen vs KFC Komárno",
+      "campionato": "Slovakia Super Liga Promotion Relegation",
+      "volume": 31144,
+      "quota": 9.174,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45082527",
+      "market_id": "141202391"
+    }
+  ],
   "tracked_matches": [],
   "giocate": [],
   "max_whale": 0
