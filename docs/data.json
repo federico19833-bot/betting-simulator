@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 21:04:32",
+  "last_update": "19/05/2026 21:05:09",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -21,66 +21,65 @@
     {
       "match": "Genk v Antwerp",
       "campionato": "Belgian Pro League",
-      "volume": 86,
-      "quota": 1.64,
+      "volume": 5892,
+      "quota": 1.31,
       "market_id": "1.258276405",
-      "total_matched": 7824.24,
-      "total_available": 4156.17,
+      "total_matched": 21886.03,
+      "total_available": 16988.18,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair (doppio)",
       "event_id": "45078331"
     },
     {
-      "match": "AC Monza v Juve Stabia",
-      "campionato": "Italian Serie B",
-      "volume": 5883,
-      "quota": 1.09,
-      "market_id": "1.258290473",
-      "total_matched": 18092.24,
-      "total_available": 11890.23,
-      "is_delayed": true,
-      "status": "OPEN",
-      "source": "Betfair (doppio)",
-      "event_id": "45078315"
-    },
-    {
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "volume": 22458,
+      "volume": 5042,
       "quota": 1.09,
       "market_id": "1.258279618",
-      "total_matched": 43955.77,
-      "total_available": 42272.49,
-      "is_delayed": true,
-      "status": "OPEN",
-      "source": "Betfair (doppio)",
-      "event_id": "45080053"
-    },
-    {
-      "match": "Bournemouth v Man City",
-      "campionato": "English Premier League",
-      "volume": 5897,
-      "quota": 1.31,
-      "market_id": "1.258188498",
-      "total_matched": 21886.03,
-      "total_available": 16988.59,
-      "is_delayed": true,
-      "status": "OPEN",
-      "source": "Betfair (doppio)",
-      "event_id": "45071608"
-    },
-    {
-      "match": "USM Alger v Olympique Akbou",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1047,
-      "quota": 1.15,
-      "market_id": "1.258341577",
-      "total_matched": 118.02,
-      "total_available": 2138.39,
+      "total_matched": 18079.5,
+      "total_available": 11736.63,
       "is_delayed": true,
       "status": "OPEN",
       "source": "Betfair"
+    },
+    {
+      "match": "AC Monza v Juve Stabia",
+      "campionato": "Italian Serie B",
+      "volume": 98,
+      "quota": 1.59,
+      "market_id": "1.258290473",
+      "total_matched": 7763.75,
+      "total_available": 3771.48,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair"
+    },
+    {
+      "match": "Monza vs Juve Stabia",
+      "campionato": "Italy Serie B",
+      "volume": 205019,
+      "quota": 7.407,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45078315",
+      "market_id": "140683047"
+    },
+    {
+      "match": "Bournemouth vs Man City",
+      "campionato": "England Premier League",
+      "volume": 158572,
+      "quota": 9.009,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Smarkets",
+      "event_id": "45071608",
+      "market_id": "140165066"
     }
   ],
   "tracked_matches": [
@@ -88,11 +87,11 @@
       "event_id": "bf_1.258279618",
       "match": "Hapoel Petach Tikva v Beitar Jerusalem",
       "campionato": "Israeli Premier League",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 22458,
+      "volume": 7784,
       "whale_max": 0,
-      "entered": true
+      "entered": false
     }
   ],
   "giocate": [
