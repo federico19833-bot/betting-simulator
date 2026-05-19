@@ -1,5 +1,5 @@
 {
-  "last_update": "19/05/2026 18:00:44",
+  "last_update": "19/05/2026 18:01:28",
   "config": {
     "min_odds": 1.09,
     "max_odds": 1.1,
@@ -17,7 +17,20 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "Hapoel Nof HaGalil v Ironi Modiin",
+      "campionato": "Israeli National League",
+      "volume": 912,
+      "quota": 1.1,
+      "market_id": "1.258349971",
+      "total_matched": 177.1,
+      "total_available": 1806.42,
+      "is_delayed": true,
+      "status": "OPEN",
+      "source": "Betfair"
+    }
+  ],
   "tracked_matches": [],
   "giocate": [],
   "max_whale": 0
