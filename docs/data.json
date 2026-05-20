@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:11:54",
+  "last_update": "20/05/2026 21:12:33",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 15228,
-      "quota": 1.07,
+      "volume": 13648,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -63,7 +63,7 @@
     {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1100,
+      "volume": 1083,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -73,20 +73,6 @@
       "event_id": "35582794",
       "market_id": "1.258364904",
       "_is_inplay": false
-    },
-    {
-      "match": "Belouizdad v MC Oran",
-      "campionato": "Algerian Ligue 1",
-      "volume": 943,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625993",
-      "market_id": "1.258366842",
-      "_is_inplay": true
     },
     {
       "match": "Columbus v New York City",
@@ -101,6 +87,20 @@
       "event_id": "35622064",
       "market_id": "1.258326396",
       "_is_inplay": false
+    },
+    {
+      "match": "Ravenna v Salernitana",
+      "campionato": "Italian Serie C",
+      "volume": 697,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625128",
+      "market_id": "1.258360012",
+      "_is_inplay": true
     },
     {
       "match": "Cusco FC v Ind Medellin",
@@ -173,20 +173,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Ravenna v Salernitana",
-      "campionato": "Italian Serie C",
-      "volume": 205,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625128",
-      "market_id": "1.258360012",
-      "_is_inplay": true
-    },
-    {
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
       "volume": 172,
@@ -201,9 +187,23 @@
       "_is_inplay": false
     },
     {
+      "match": "Belouizdad v MC Oran",
+      "campionato": "Algerian Ligue 1",
+      "volume": 103,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625993",
+      "market_id": "1.258366842",
+      "_is_inplay": true
+    },
+    {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 87,
+      "volume": 62,
       "quota": 1.22,
       "in_range": false,
       "monitored": false,
@@ -217,8 +217,8 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 42,
-      "quota": 1.37,
+      "volume": 20,
+      "quota": 1.35,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -227,6 +227,20 @@
       "event_id": "35625131",
       "market_id": "1.258358124",
       "_is_inplay": true
+    },
+    {
+      "match": "Talleres v Atl Tucuman",
+      "campionato": "Argentinian Cup",
+      "volume": 16,
+      "quota": 1.58,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629149",
+      "market_id": "1.258393671",
+      "_is_inplay": false
     },
     {
       "match": "Fortaleza FC v Orsomarso",
@@ -367,20 +381,6 @@
       "event_id": "35625500",
       "market_id": "1.258359431",
       "_is_inplay": false
-    },
-    {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 14,
-      "quota": 1.57,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -388,9 +388,9 @@
       "event_id": "bf_1.258388006",
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 15228,
+      "volume": 13648,
       "whale_max": 0,
       "entered": true
     },
@@ -500,7 +500,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1100,
+      "volume": 1083,
       "whale_max": 0,
       "entered": false
     },
