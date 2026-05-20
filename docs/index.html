@@ -42,7 +42,7 @@ tr:hover { background:#1a2744; }
 <h2><span class="live-dot"></span>Eventi Live Monitorati</h2>
 <div style="overflow-x:auto">
 <table>
-<thead><tr><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Stato</th><th>Idonea</th><th>Fonte</th></tr></thead>
+<thead><tr><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Stato</th><th>Idonea</th></tr></thead>
 <tbody id="liveBody"></tbody>
 </table>
 </div>
@@ -126,7 +126,6 @@ function render(data) {
                 <td>${e.whale_max > 0 ? `<span class="tag" style="background:#a855f7;color:#e9d5ff">🐋 ${e.whale_max.toLocaleString()}€</span>` : '-'}</td>
                 <td>${statusTag}</td>
                 <td><span class="tag ${e.in_range ? 'tag-yes' : 'tag-no'}">${e.in_range ? 'SI' : 'NO'}</span></td>
-                <td><span style="color:#94a3b8;font-size:11px">${e.source || 'Smarkets'}</span></td>
             </tr>`;
         }).join('');
     } else {
