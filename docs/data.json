@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:17:24",
+  "last_update": "21/05/2026 00:17:59",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -61,6 +61,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 2371,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
+    },
+    {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 1875,
@@ -101,20 +115,6 @@
       "event_id": "35629786",
       "market_id": "1.258396051",
       "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1617,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
     },
     {
       "match": "Flamengo v Estudiantes",
@@ -231,8 +231,8 @@
     {
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "volume": 417,
-      "quota": 1.07,
+      "volume": 480,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -259,8 +259,8 @@
     {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 104,
-      "quota": 1.16,
+      "volume": 64,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -273,7 +273,7 @@
     {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 31,
+      "volume": 32,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -344,7 +344,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 1617,
+      "volume": 2371,
       "whale_max": 0,
       "entered": false
     },
@@ -362,9 +362,9 @@
       "event_id": "bf_1.258395768",
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 417,
+      "volume": 480,
       "whale_max": 0,
       "entered": false
     },
