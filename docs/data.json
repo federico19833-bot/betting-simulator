@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:11:16",
+  "last_update": "20/05/2026 21:11:54",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 15164,
+      "volume": 15228,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -63,7 +63,7 @@
     {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1083,
+      "volume": 1100,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -73,6 +73,20 @@
       "event_id": "35582794",
       "market_id": "1.258364904",
       "_is_inplay": false
+    },
+    {
+      "match": "Belouizdad v MC Oran",
+      "campionato": "Algerian Ligue 1",
+      "volume": 943,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625993",
+      "market_id": "1.258366842",
+      "_is_inplay": true
     },
     {
       "match": "Columbus v New York City",
@@ -87,20 +101,6 @@
       "event_id": "35622064",
       "market_id": "1.258326396",
       "_is_inplay": false
-    },
-    {
-      "match": "Ascoli v Potenza",
-      "campionato": "Italian Serie C",
-      "volume": 708,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625131",
-      "market_id": "1.258358124",
-      "_is_inplay": true
     },
     {
       "match": "Cusco FC v Ind Medellin",
@@ -147,7 +147,7 @@
     {
       "match": "Independiente Petrolero v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 530,
+      "volume": 545,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -201,24 +201,10 @@
       "_is_inplay": false
     },
     {
-      "match": "Belouizdad v MC Oran",
-      "campionato": "Algerian Ligue 1",
-      "volume": 162,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625993",
-      "market_id": "1.258366842",
-      "_is_inplay": true
-    },
-    {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 75,
-      "quota": 1.2,
+      "volume": 87,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -226,6 +212,20 @@
       "source": "Betfair",
       "event_id": "35625127",
       "market_id": "1.258358145",
+      "_is_inplay": true
+    },
+    {
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
+      "volume": 42,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625131",
+      "market_id": "1.258358124",
       "_is_inplay": true
     },
     {
@@ -390,7 +390,7 @@
       "campionato": "Republic of North Macedonian Soccer",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 15164,
+      "volume": 15228,
       "whale_max": 0,
       "entered": true
     },
@@ -480,7 +480,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 530,
+      "volume": 545,
       "whale_max": 0,
       "entered": false
     },
@@ -500,7 +500,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1083,
+      "volume": 1100,
       "whale_max": 0,
       "entered": false
     },
