@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:50:22",
+  "last_update": "20/05/2026 21:50:39",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -8,14 +8,14 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 4,
-    "wins": 0,
-    "losses": 0,
-    "in_corso": 4,
-    "winrate": 0,
-    "profit": 0.0,
-    "roi": 0.0,
-    "balance": 1000.0
+    "total": 17,
+    "wins": 14,
+    "losses": 2,
+    "in_corso": 1,
+    "winrate": 87.5,
+    "profit": -124.96,
+    "roi": -7.35,
+    "balance": 875.04
   },
   "live_events": [
     {
@@ -35,7 +35,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1429,
+      "volume": 1428,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -75,31 +75,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Fortaleza FC v Orsomarso",
+      "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "volume": 860,
-      "quota": 1.33,
+      "volume": 1172,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630119",
-      "market_id": "1.258396987",
-      "_is_inplay": false
-    },
-    {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 836,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
+      "event_id": "35630095",
+      "market_id": "1.258397010",
       "_is_inplay": false
     },
     {
@@ -131,20 +117,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Llaneros FC v Boyaca Patriotas",
-      "campionato": "Colombian Cup",
-      "volume": 580,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630095",
-      "market_id": "1.258397010",
-      "_is_inplay": false
-    },
-    {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 545,
@@ -170,6 +142,34 @@
       "source": "Betfair",
       "event_id": "35622064",
       "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 482,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 415,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
       "_is_inplay": false
     },
     {
@@ -348,7 +348,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 580,
+      "volume": 1172,
       "whale_max": 0,
       "entered": false
     },
@@ -388,7 +388,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 836,
+      "volume": 482,
       "whale_max": 0,
       "entered": false
     },
@@ -568,15 +568,15 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1429,
+      "volume": 1428,
       "whale_max": 0,
       "entered": false
     }
   ],
   "giocate": [
     {
-      "id": 4,
-      "orario": "2026-05-20 21:16:27",
+      "id": 23,
+      "orario": "2026-05-20 21:18:51",
       "match": "Freiburg v Aston Villa",
       "campionato": "UEFA Europa League",
       "quota": 1.09,
@@ -587,38 +587,194 @@
       "whale_tot": 0.0
     },
     {
-      "id": 3,
-      "orario": "2026-05-20 20:55:30",
-      "match": "FK Sileks v Shkendija",
-      "campionato": "Republic of North Macedonian Soccer",
-      "quota": 1.07,
-      "volume": 14815,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
-      "whale_max": 0.0,
-      "whale_tot": 0.0
-    },
-    {
-      "id": 2,
+      "id": 24,
       "orario": "2026-05-20 20:51:12",
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
       "quota": 1.07,
       "volume": 13860,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "PERSA",
+      "profitto": -100.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 19,
+      "orario": "2026-05-16 13:49:03",
+      "match": "FK Ulytau Zhezkazgan vs FK Kaspiy Aktau",
+      "campionato": "Kazakhstan Premier League",
+      "quota": 1.111,
+      "volume": 81008,
+      "esito": "VINTA",
+      "profitto": 10.54,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 15,
+      "orario": "2026-05-15 19:30:44",
+      "match": "Corum Belediyespor vs Bodrumspor",
+      "campionato": "Turkey 1 Lig",
+      "quota": 1.042,
+      "volume": 45316,
+      "esito": "VINTA",
+      "profitto": 3.99,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 14,
+      "orario": "2026-05-15 17:54:23",
+      "match": "Araz-Naxcivan PFK vs FC Kapaz",
+      "campionato": "Azerbaijan Premier League",
+      "quota": 1.042,
+      "volume": 129172,
+      "esito": "VINTA",
+      "profitto": 3.99,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 12,
+      "orario": "2026-05-15 14:04:16",
+      "match": "? vs ?",
+      "campionato": "?",
+      "quota": 1.042,
+      "volume": 86372,
+      "esito": "VINTA",
+      "profitto": 3.99,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 11,
+      "orario": "2026-05-15 14:04:03",
+      "match": "Henan Jianye vs Chengdu Rongcheng",
+      "campionato": "China Super League",
+      "quota": 1.042,
+      "volume": 86372,
+      "esito": "VINTA",
+      "profitto": 3.99,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 10,
+      "orario": "2026-05-15 10:37:11",
+      "match": "Dalian Kewei vs Nantong Zhiyun F.C",
+      "campionato": "China Fa Cup",
+      "quota": 1.042,
+      "volume": 55125,
+      "esito": "VINTA",
+      "profitto": 3.99,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 9,
+      "orario": "2026-05-15 03:32:40",
+      "match": "? vs ?",
+      "campionato": "?",
+      "quota": 1.042,
+      "volume": 21833,
+      "esito": "VINTA",
+      "profitto": 3.99,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 8,
+      "orario": "2026-05-15 03:32:31",
+      "match": "Pachuca vs Pumas UNAM",
+      "campionato": "Mexico Liga Mx",
+      "quota": 1.042,
+      "volume": 28585,
+      "esito": "VINTA",
+      "profitto": 3.99,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 7,
+      "orario": "2026-05-15 01:02:56",
+      "match": "CRB vs Fortaleza",
+      "campionato": "Brazil Cup",
+      "quota": 1.042,
+      "volume": 34318,
+      "esito": "PERSA",
+      "profitto": -100.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 6,
+      "orario": "2026-05-14 23:07:49",
+      "match": "Chapecoense vs Botafogo",
+      "campionato": "Brazil Cup",
+      "quota": 1.087,
+      "volume": 17332,
+      "esito": "VINTA",
+      "profitto": 8.26,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 5,
+      "orario": "2026-05-14 21:09:30",
+      "match": "Bradford vs Bolton",
+      "campionato": "England League 1",
+      "quota": 1.064,
+      "volume": 21867,
+      "esito": "VINTA",
+      "profitto": 6.08,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 4,
+      "orario": "2026-05-14 19:05:11",
+      "match": "Valencia vs Rayo Vallecano",
+      "campionato": "Spain La Liga",
+      "quota": 1.064,
+      "volume": 31744,
+      "esito": "VINTA",
+      "profitto": 6.08,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 3,
+      "orario": "2026-05-14 17:01:53",
+      "match": "FC Sion vs Lugano",
+      "campionato": "Switzerland Super League",
+      "quota": 1.064,
+      "volume": 34476,
+      "esito": "VINTA",
+      "profitto": 6.08,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
+    {
+      "id": 2,
+      "orario": "2026-05-14 15:31:22",
+      "match": "Union Saint Gilloise vs Anderlecht",
+      "campionato": "Belgium Cup",
+      "quota": 1.042,
+      "volume": 86372,
+      "esito": "VINTA",
+      "profitto": 3.99,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
     {
       "id": 1,
-      "orario": "2026-05-19 21:04:32",
-      "match": "Hapoel Petach Tikva v Beitar Jerusalem",
-      "campionato": "Israeli Premier League",
-      "quota": 1.09,
-      "volume": 22458,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "orario": "2026-05-14 13:30:46",
+      "match": "Tvååkers IF vs BK Olympic",
+      "campionato": "Sweden Division 1 Sodra",
+      "quota": 1.064,
+      "volume": 23380,
+      "esito": "VINTA",
+      "profitto": 6.08,
       "whale_max": 0.0,
       "whale_tot": 0.0
     }
