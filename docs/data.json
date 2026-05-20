@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:16:11",
+  "last_update": "21/05/2026 00:16:48",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -8,16 +8,30 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 19,
+    "total": 20,
     "wins": 14,
     "losses": 2,
-    "in_corso": 3,
+    "in_corso": 4,
     "winrate": 87.5,
     "profit": -124.96,
-    "roi": -6.58,
+    "roi": -6.25,
     "balance": 875.04
   },
   "live_events": [
+    {
+      "match": "Llaneros FC v Boyaca Patriotas",
+      "campionato": "Colombian Cup",
+      "volume": 12509,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630095",
+      "market_id": "1.258397010",
+      "_is_inplay": true
+    },
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -75,20 +89,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1814,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
-    },
-    {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
       "volume": 1724,
@@ -129,6 +129,20 @@
       "event_id": "35616713",
       "market_id": "1.258341964",
       "_is_inplay": false
+    },
+    {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1117,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
     },
     {
       "match": "Inter Kashi v Quess East Bengal",
@@ -257,20 +271,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 116,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
-      "_is_inplay": true
-    },
-    {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 104,
@@ -283,20 +283,6 @@
       "event_id": "35627039",
       "market_id": "1.258432791",
       "_is_inplay": false
-    },
-    {
-      "match": "Llaneros FC v Boyaca Patriotas",
-      "campionato": "Colombian Cup",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630095",
-      "market_id": "1.258397010",
-      "_is_inplay": true
     },
     {
       "match": "EC Vitoria Salvador v ABC RN",
@@ -459,16 +445,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258364578",
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1448,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258432749",
       "match": "Independiente Petrolero v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -532,11 +508,11 @@
       "event_id": "bf_1.258397010",
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 12509,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258341964",
@@ -550,6 +526,18 @@
     }
   ],
   "giocate": [
+    {
+      "id": 27,
+      "orario": "2026-05-21 00:16:47",
+      "match": "Llaneros FC v Boyaca Patriotas",
+      "campionato": "Colombian Cup",
+      "quota": 1.03,
+      "volume": 12509,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 26,
       "orario": "2026-05-21 00:11:58",
