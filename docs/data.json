@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:44:26",
+  "last_update": "21/05/2026 00:45:02",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -49,7 +49,7 @@
     {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1954,
+      "volume": 1875,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -59,20 +59,6 @@
       "event_id": "35580140",
       "market_id": "1.258212874",
       "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1669,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
     },
     {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
@@ -143,6 +129,20 @@
       "event_id": "35619968",
       "market_id": "1.258350565",
       "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 875,
+      "quota": 1.31,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
     },
     {
       "match": "Shakhtar v Kolos Kovalyovka",
@@ -316,7 +316,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 1954,
+      "volume": 1875,
       "whale_max": 0,
       "entered": false
     },
