@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:03:10",
+  "last_update": "20/05/2026 19:03:45",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -32,6 +32,19 @@
       "market_id": "1.258384636"
     },
     {
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "volume": 9024,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258311655"
+    },
+    {
       "match": "ASO Chlef v Kabylie",
       "campionato": "Algerian Ligue 1",
       "volume": 5127,
@@ -60,7 +73,7 @@
     {
       "match": "Sogndal v Stabaek",
       "campionato": "Norwegian 1st Division",
-      "volume": 3559,
+      "volume": 2704,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -73,8 +86,8 @@
     {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 2048,
-      "quota": 1.16,
+      "volume": 38,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -84,23 +97,10 @@
       "market_id": "1.258314627"
     },
     {
-      "match": "Ranheim IL v Hodd",
-      "campionato": "Norwegian 1st Division",
-      "volume": 1077,
-      "quota": 1.39,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258314606"
-    },
-    {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 2094,
-      "quota": 1.06,
+      "volume": 3248,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -144,6 +144,16 @@
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
       "volume": 7656,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258311655",
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 9024,
       "whale_max": 0,
       "entered": false
     }
