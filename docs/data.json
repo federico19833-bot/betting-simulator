@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:00:07",
+  "last_update": "20/05/2026 22:00:42",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -145,20 +145,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 423,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
-      "_is_inplay": false
-    },
-    {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 394,
@@ -170,6 +156,20 @@
       "source": "Betfair",
       "event_id": "35587027",
       "market_id": "1.258364980",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 77,
+      "quota": 1.42,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
       "_is_inplay": false
     },
     {
@@ -212,6 +212,20 @@
       "source": "Betfair",
       "event_id": "35581247",
       "market_id": "1.258364557",
+      "_is_inplay": false
+    },
+    {
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
       "_is_inplay": false
     },
     {
@@ -358,9 +372,9 @@
       "event_id": "bf_1.258177074",
       "match": "Santos v San Lorenzo",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 423,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
