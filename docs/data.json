@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:44:53",
+  "last_update": "21/05/2026 01:45:31",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -257,6 +257,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 19,
+      "quota": 3.6,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": true
+    },
+    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 15,
@@ -297,20 +311,6 @@
       "event_id": "35629786",
       "market_id": "1.258396051",
       "_is_inplay": false
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 4,
-      "quota": 3.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": true
     }
   ],
   "tracked_matches": [
