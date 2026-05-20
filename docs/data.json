@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:17:19",
+  "last_update": "20/05/2026 22:17:54",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -103,6 +103,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 880,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 750,
@@ -187,23 +201,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 144,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": false
-    },
-    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 28,
+      "volume": 27,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -420,7 +420,7 @@
       "campionato": "Brazilian Copa do Nordeste",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 28,
+      "volume": 27,
       "whale_max": 0,
       "entered": false
     },
