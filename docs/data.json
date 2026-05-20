@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 23:11:08",
+  "last_update": "20/05/2026 23:11:45",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,20 +18,6 @@
     "balance": 875.04
   },
   "live_events": [
-    {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 3606,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
-      "_is_inplay": false
-    },
     {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
@@ -212,6 +198,20 @@
       "source": "Betfair",
       "event_id": "35582794",
       "market_id": "1.258364904",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 461,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -510,7 +510,7 @@
       "campionato": "Brazilian Copa do Nordeste",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 3606,
+      "volume": 461,
       "whale_max": 0,
       "entered": false
     },
