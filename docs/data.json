@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:57:46",
+  "last_update": "20/05/2026 21:58:21",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,6 +33,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1401,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
+      "_is_inplay": false
+    },
+    {
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
       "volume": 1349,
@@ -58,20 +72,6 @@
       "source": "Betfair",
       "event_id": "35630095",
       "market_id": "1.258397010",
-      "_is_inplay": false
-    },
-    {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1221,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -117,20 +117,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 523,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
-      "_is_inplay": false
-    },
-    {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
       "volume": 496,
@@ -142,6 +128,20 @@
       "source": "Betfair",
       "event_id": "35622064",
       "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 482,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
       "_is_inplay": false
     },
     {
@@ -159,9 +159,23 @@
       "_is_inplay": false
     },
     {
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 121,
+      "quota": 1.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
+      "_is_inplay": false
+    },
+    {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 64,
+      "volume": 94,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -360,7 +374,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 523,
+      "volume": 482,
       "whale_max": 0,
       "entered": false
     },
@@ -520,7 +534,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 64,
+      "volume": 94,
       "whale_max": 0,
       "entered": false
     }
