@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 23:17:47",
+  "last_update": "20/05/2026 23:18:23",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -117,20 +117,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 952,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": false
-    },
-    {
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
       "volume": 927,
@@ -145,17 +131,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 778,
-      "quota": 1.09,
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 773,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
       "_is_inplay": false
     },
     {
@@ -311,6 +297,20 @@
       "event_id": "35629776",
       "market_id": "1.258395768",
       "_is_inplay": false
+    },
+    {
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
+      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -330,7 +330,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 952,
+      "volume": 773,
       "whale_max": 0,
       "entered": false
     },
@@ -380,7 +380,7 @@
       "campionato": "Ukrainian Premier League",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 778,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
