@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:39:02",
+  "last_update": "21/05/2026 00:39:38",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,6 +44,20 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
+      "_is_inplay": false
+    },
+    {
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1710,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579862",
+      "market_id": "1.258364926",
       "_is_inplay": false
     },
     {
@@ -215,34 +229,6 @@
       "_is_inplay": false
     },
     {
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 500,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579862",
-      "market_id": "1.258364926",
-      "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 128,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
-    },
-    {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
       "volume": 118,
@@ -257,10 +243,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 60,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
+    },
+    {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 67,
-      "quota": 1.16,
+      "volume": 21,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -396,7 +396,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 500,
+      "volume": 1710,
       "whale_max": 0,
       "entered": true
     },
