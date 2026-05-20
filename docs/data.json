@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:42:38",
+  "last_update": "21/05/2026 00:43:15",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -58,20 +58,6 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
-      "_is_inplay": false
-    },
-    {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 1775,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -145,6 +131,34 @@
       "_is_inplay": false
     },
     {
+      "match": "Cebrayil FK v Simal FK",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 912,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630420",
+      "market_id": "1.258404457",
+      "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 822,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
+    },
+    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 676,
@@ -215,17 +229,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Cebrayil FK v Simal FK",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 231,
-      "quota": 1.1,
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 291,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630420",
-      "market_id": "1.258404457",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -241,20 +255,6 @@
       "event_id": "35616713",
       "market_id": "1.258341964",
       "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 71,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
     },
     {
       "match": "Columbus v New York City",
@@ -464,9 +464,9 @@
       "event_id": "bf_1.258432791",
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1775,
+      "volume": 291,
       "whale_max": 0,
       "entered": false
     },
@@ -486,7 +486,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 231,
+      "volume": 912,
       "whale_max": 0,
       "entered": false
     }
