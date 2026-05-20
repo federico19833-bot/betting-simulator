@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:03:30",
+  "last_update": "20/05/2026 20:04:05",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 185,
+      "volume": 149,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -34,8 +34,8 @@
     {
       "match": "Al Najma Club v Al-Shabab (KSA)",
       "campionato": "Saudi Professional League",
-      "volume": 176,
-      "quota": 1.02,
+      "volume": 88,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,8 +47,8 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 2549,
-      "quota": 1.05,
+      "volume": 36827,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -56,9 +56,46 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258388006"
+    },
+    {
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
+      "volume": 1400,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258358124"
+    },
+    {
+      "match": "Palermo v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 311,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258333344"
     }
   ],
-  "tracked_matches": [],
+  "tracked_matches": [
+    {
+      "event_id": "bf_1.258388006",
+      "match": "FK Sileks v Shkendija",
+      "campionato": "Republic of North Macedonian Soccer",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 36827,
+      "whale_max": 0,
+      "entered": false
+    }
+  ],
   "giocate": [
     {
       "id": 1,
