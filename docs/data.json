@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 23:29:52",
+  "last_update": "20/05/2026 23:30:28",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -61,6 +61,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 2007,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
+      "_is_inplay": false
+    },
+    {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 1349,
@@ -114,6 +128,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 703,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -189,7 +217,7 @@
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 28,
+      "volume": 96,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -226,34 +254,6 @@
       "source": "Betfair",
       "event_id": "35581247",
       "market_id": "1.258364557",
-      "_is_inplay": false
-    },
-    {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
-      "_is_inplay": false
-    },
-    {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 15,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
       "_is_inplay": false
     },
     {
@@ -420,7 +420,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 28,
+      "volume": 96,
       "whale_max": 0,
       "entered": false
     },
@@ -458,9 +458,9 @@
       "event_id": "bf_1.258177074",
       "match": "Santos v San Lorenzo",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 2007,
       "whale_max": 0,
       "entered": false
     },
@@ -470,7 +470,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 15,
+      "volume": 703,
       "whale_max": 0,
       "entered": false
     },
