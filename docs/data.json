@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:14:17",
+  "last_update": "20/05/2026 19:14:53",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -32,7 +32,7 @@
       "market_id": "1.258384636"
     },
     {
-      "match": "Nomme Kalju v Harju JK Laagri",
+      "match": "Trans Narva v Paide Linnameeskond",
       "campionato": "Estonian Premier League",
       "volume": 7250,
       "quota": 1.07,
@@ -42,52 +42,26 @@
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258342339"
-    },
-    {
-      "match": "Trans Narva v Paide Linnameeskond",
-      "campionato": "Estonian Premier League",
-      "volume": 1010,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
       "market_id": "1.258311655"
     },
     {
-      "match": "Asane v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 9755,
-      "quota": 1.04,
+      "match": "ES Setif v MC Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 1075,
+      "quota": 1.34,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258314627"
-    },
-    {
-      "match": "Ranheim IL v Hodd",
-      "campionato": "Norwegian 1st Division",
-      "volume": 9636,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258314606"
+      "market_id": "1.258366821"
     },
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 3481,
-      "quota": 1.05,
+      "volume": 9755,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -99,8 +73,8 @@
     {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 1072,
-      "quota": 1.19,
+      "volume": 9636,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -112,8 +86,8 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 972,
-      "quota": 1.25,
+      "volume": 3417,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -123,7 +97,7 @@
       "market_id": "1.258301372"
     },
     {
-      "match": "Strommen v Haugesund",
+      "match": "Raufoss v Bryne",
       "campionato": "Norwegian 1st Division",
       "volume": 4738,
       "quota": 1.07,
@@ -133,7 +107,7 @@
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258314585"
+      "market_id": "1.258314520"
     }
   ],
   "tracked_matches": [
@@ -148,18 +122,18 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258314606",
-      "match": "Ranheim IL v Hodd",
-      "campionato": "Norwegian 1st Division",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.05,
-      "volume": 9636,
+      "event_id": "bf_1.258311655",
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 7250,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258314627",
-      "match": "Asane v Sandnes Ulf",
+      "event_id": "bf_1.258314675",
+      "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
@@ -168,12 +142,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258342339",
-      "match": "Nomme Kalju v Harju JK Laagri",
-      "campionato": "Estonian Premier League",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 7250,
+      "event_id": "bf_1.258314541",
+      "match": "Kongsvinger v Odds BK",
+      "campionato": "Norwegian 1st Division",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 9636,
       "whale_max": 0,
       "entered": false
     }
