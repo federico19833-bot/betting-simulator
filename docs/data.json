@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:38:05",
+  "last_update": "20/05/2026 19:38:39",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Trans Narva v Paide Linnameeskond",
       "campionato": "Estonian Premier League",
-      "volume": 430,
-      "quota": 2.28,
+      "volume": 409,
+      "quota": 2.38,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,7 +34,7 @@
     {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 935,
+      "volume": 87,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -56,6 +56,19 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258314675"
+    },
+    {
+      "match": "Raufoss v Bryne",
+      "campionato": "Norwegian 1st Division",
+      "volume": 1710,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314520"
     }
   ],
   "tracked_matches": [
