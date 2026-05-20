@@ -114,7 +114,7 @@ function render(data) {
     if (data.live_events && data.live_events.length > 0) {
         liveSection.style.display = 'block';
         liveBody.innerHTML = data.live_events.map(e => {
-            const isPreMatch = e.quota > 1.50;
+            const isPreMatch = e._is_inplay === false;
             const statusTag = isPreMatch 
                 ? '<span class="tag" style="background:#451a03;color:#fdba74">📅 PRE-MATCH</span>'
                 : '<span class="tag" style="background:#166534;color:#86efac">⚽ LIVE</span>';
