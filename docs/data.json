@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:19:40",
+  "last_update": "20/05/2026 22:20:16",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,6 +44,20 @@
       "source": "Betfair",
       "event_id": "35629786",
       "market_id": "1.258396051",
+      "_is_inplay": false
+    },
+    {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 1461,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
       "_is_inplay": false
     },
     {
@@ -170,20 +184,6 @@
       "source": "Betfair",
       "event_id": "35582821",
       "market_id": "1.258432749",
-      "_is_inplay": false
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 100,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
       "_is_inplay": false
     },
     {
