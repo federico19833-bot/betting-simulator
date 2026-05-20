@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:34:14",
+  "last_update": "21/05/2026 00:34:50",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 12266,
+      "volume": 9918,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -30,20 +30,6 @@
       "source": "Betfair",
       "event_id": "35587027",
       "market_id": "1.258364980",
-      "_is_inplay": false
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 4514,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
       "_is_inplay": false
     },
     {
@@ -61,23 +47,23 @@
       "_is_inplay": false
     },
     {
-      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
-      "campionato": "Colombian Cup",
-      "volume": 2391,
-      "quota": 1.06,
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 3776,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35629786",
-      "market_id": "1.258396051",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
       "_is_inplay": false
     },
     {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1860,
+      "volume": 1875,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -103,6 +89,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1564,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
+    },
+    {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 1544,
@@ -114,6 +114,20 @@
       "source": "Betfair",
       "event_id": "35627039",
       "market_id": "1.258432791",
+      "_is_inplay": false
+    },
+    {
+      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
+      "campionato": "Colombian Cup",
+      "volume": 1423,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629786",
+      "market_id": "1.258396051",
       "_is_inplay": false
     },
     {
@@ -159,20 +173,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1042,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
-    },
-    {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
       "volume": 987,
@@ -203,7 +203,7 @@
     {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
-      "volume": 644,
+      "volume": 676,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -316,7 +316,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 1860,
+      "volume": 1875,
       "whale_max": 0,
       "entered": false
     },
@@ -356,7 +356,7 @@
       "campionato": "Ukrainian Premier League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 644,
+      "volume": 676,
       "whale_max": 0,
       "entered": false
     },
@@ -366,7 +366,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 2391,
+      "volume": 1423,
       "whale_max": 0,
       "entered": false
     },
@@ -416,7 +416,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 12266,
+      "volume": 9918,
       "whale_max": 0,
       "entered": true
     },
