@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:36:10",
+  "last_update": "20/05/2026 21:36:52",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,6 +18,20 @@
     "balance": 1000.0
   },
   "live_events": [
+    {
+      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "campionato": "Italian Serie C",
+      "volume": 11092,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625127",
+      "market_id": "1.258358145",
+      "_is_inplay": true
+    },
     {
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
@@ -73,20 +87,6 @@
       "event_id": "35580128",
       "market_id": "1.258212853",
       "_is_inplay": false
-    },
-    {
-      "match": "Union Brescia v S.S.D. Casarano Calcio",
-      "campionato": "Italian Serie C",
-      "volume": 1203,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625127",
-      "market_id": "1.258358145",
-      "_is_inplay": true
     },
     {
       "match": "Talleres v Atl Tucuman",
@@ -173,23 +173,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Ravenna v Salernitana",
-      "campionato": "Italian Serie C",
-      "volume": 109,
-      "quota": 2.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625128",
-      "market_id": "1.258360012",
-      "_is_inplay": true
-    },
-    {
       "match": "Freiburg v Aston Villa",
       "campionato": "UEFA Europa League",
-      "volume": 58,
+      "volume": 88,
       "quota": 1.33,
       "in_range": false,
       "monitored": false,
@@ -198,6 +184,20 @@
       "source": "Betfair",
       "event_id": "35583725",
       "market_id": "1.258176990",
+      "_is_inplay": true
+    },
+    {
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
+      "volume": 15,
+      "quota": 2.0,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625131",
+      "market_id": "1.258358124",
       "_is_inplay": true
     },
     {
@@ -355,17 +355,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Ascoli v Potenza",
+      "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 14,
-      "quota": 1.89,
+      "volume": 12,
+      "quota": 2.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625131",
-      "market_id": "1.258358124",
+      "event_id": "35625128",
+      "market_id": "1.258360012",
       "_is_inplay": true
     }
   ],
