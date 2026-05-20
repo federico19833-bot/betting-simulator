@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:01:59",
+  "last_update": "20/05/2026 19:02:34",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,23 +19,23 @@
   },
   "live_events": [
     {
-      "match": "Cr Temouchent v US Chaouia",
-      "campionato": "Algerian Ligue 2",
-      "volume": 1589,
-      "quota": 1.23,
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "volume": 9024,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258384636"
+      "market_id": "1.258311655"
     },
     {
       "match": "ASO Chlef v Kabylie",
       "campionato": "Algerian Ligue 1",
-      "volume": 2704,
-      "quota": 1.09,
+      "volume": 71,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -45,9 +45,22 @@
       "market_id": "1.258366707"
     },
     {
-      "match": "ES Setif v MC Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 2040,
+      "match": "Sogndal v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 3559,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314564"
+    },
+    {
+      "match": "Asane v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 2048,
       "quota": 1.16,
       "in_range": false,
       "monitored": false,
@@ -55,10 +68,10 @@
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258366821"
+      "market_id": "1.258314627"
     },
     {
-      "match": "Sogndal v Stabaek",
+      "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
       "volume": 1142,
       "quota": 1.37,
@@ -68,10 +81,70 @@
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258314564"
+      "market_id": "1.258314606"
+    },
+    {
+      "match": "Kongsvinger v Odds BK",
+      "campionato": "Norwegian 1st Division",
+      "volume": 3248,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314541"
+    },
+    {
+      "match": "Pyramids v Smouha",
+      "campionato": "Egyptian Premier",
+      "volume": 7656,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258201333"
+    },
+    {
+      "match": "Al-Masry v Al Ahly Cairo",
+      "campionato": "Egyptian Premier",
+      "volume": 3666,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258201378"
     }
   ],
-  "tracked_matches": [],
+  "tracked_matches": [
+    {
+      "event_id": "bf_1.258311655",
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 9024,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258201333",
+      "match": "Pyramids v Smouha",
+      "campionato": "Egyptian Premier",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 7656,
+      "whale_max": 0,
+      "entered": false
+    }
+  ],
   "giocate": [
     {
       "id": 1,
