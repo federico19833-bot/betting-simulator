@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:52:57",
+  "last_update": "20/05/2026 20:53:36",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 13846,
+      "volume": 13832,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -75,6 +75,20 @@
       "_is_inplay": true
     },
     {
+      "match": "Ravenna v Salernitana",
+      "campionato": "Italian Serie C",
+      "volume": 1259,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625128",
+      "market_id": "1.258360012",
+      "_is_inplay": true
+    },
+    {
       "match": "Freiburg v Aston Villa",
       "campionato": "UEFA Europa League",
       "volume": 321,
@@ -105,7 +119,7 @@
     {
       "match": "Talleres v Atl Tucuman",
       "campionato": "Argentinian Cup",
-      "volume": 386,
+      "volume": 758,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -189,7 +203,7 @@
     {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 707,
+      "volume": 722,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -287,8 +301,8 @@
     {
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "volume": 668,
-      "quota": 1.06,
+      "volume": 15,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -362,7 +376,7 @@
       "campionato": "Norwegian 1st Division",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 13846,
+      "volume": 13832,
       "whale_max": 0,
       "entered": true
     }
