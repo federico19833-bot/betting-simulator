@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:44:43",
+  "last_update": "20/05/2026 21:45:23",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,20 +18,6 @@
     "balance": 1000.0
   },
   "live_events": [
-    {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2158,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
-      "_is_inplay": false
-    },
     {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -72,6 +58,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1166,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -175,8 +175,8 @@
     {
       "match": "Talleres v Atl Tucuman",
       "campionato": "Argentinian Cup",
-      "volume": 117,
-      "quota": 1.76,
+      "volume": 54,
+      "quota": 2.9,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
