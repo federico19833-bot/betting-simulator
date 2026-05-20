@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:27:57",
+  "last_update": "20/05/2026 22:28:33",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -49,7 +49,7 @@
     {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1414,
+      "volume": 1420,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -131,6 +131,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 640,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 596,
@@ -175,7 +189,7 @@
     {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 116,
+      "volume": 175,
       "quota": 1.16,
       "in_range": false,
       "monitored": false,
@@ -297,20 +311,6 @@
       "event_id": "35580140",
       "market_id": "1.258212874",
       "_is_inplay": false
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 15,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -390,7 +390,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 640,
       "whale_max": 0,
       "entered": false
     },
@@ -430,7 +430,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1414,
+      "volume": 1420,
       "whale_max": 0,
       "entered": false
     },
