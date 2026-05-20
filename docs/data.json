@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 04:07:08",
+  "last_update": "20/05/2026 04:07:42",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Deportivo Cuenca v Deportivo Recoleta",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 4341,
+      "volume": 659,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -34,7 +34,7 @@
     {
       "match": "America de Cali S.A v Tigre",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 177,
+      "volume": 10799,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -47,8 +47,8 @@
     {
       "match": "Independiente (Ecu) v Libertad",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 446,
-      "quota": 1.16,
+      "volume": 1139,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -58,7 +58,18 @@
       "market_id": "1.258326354"
     }
   ],
-  "tracked_matches": [],
+  "tracked_matches": [
+    {
+      "event_id": "bf_1.258326375",
+      "match": "America de Cali S.A v Tigre",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 10799,
+      "whale_max": 0,
+      "entered": false
+    }
+  ],
   "giocate": [
     {
       "id": 1,
