@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:11:57",
+  "last_update": "20/05/2026 19:12:33",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
-      "volume": 1204,
-      "quota": 1.08,
+      "volume": 73,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,8 +34,8 @@
     {
       "match": "Nomme Kalju v Harju JK Laagri",
       "campionato": "Estonian Premier League",
-      "volume": 2090,
-      "quota": 1.08,
+      "volume": 7250,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -43,6 +43,19 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258342339"
+    },
+    {
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "volume": 1176,
+      "quota": 1.32,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258311655"
     },
     {
       "match": "Asane v Sandnes Ulf",
@@ -60,7 +73,7 @@
     {
       "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
-      "volume": 10488,
+      "volume": 10124,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -73,7 +86,7 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 1302,
+      "volume": 2742,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -86,8 +99,8 @@
     {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 1072,
-      "quota": 1.19,
+      "volume": 24,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -99,7 +112,7 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 1258,
+      "volume": 2638,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -112,8 +125,8 @@
     {
       "match": "Moss v Stromsgodset",
       "campionato": "Norwegian 1st Division",
-      "volume": 4773,
-      "quota": 1.06,
+      "volume": 5425,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -140,7 +153,7 @@
       "campionato": "Norwegian 1st Division",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 10488,
+      "volume": 10124,
       "whale_max": 0,
       "entered": false
     },
@@ -151,6 +164,16 @@
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 9329,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258342339",
+      "match": "Nomme Kalju v Harju JK Laagri",
+      "campionato": "Estonian Premier League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 7250,
       "whale_max": 0,
       "entered": false
     }
