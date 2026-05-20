@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:18:24",
+  "last_update": "20/05/2026 21:19:04",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -47,10 +47,24 @@
       "_is_inplay": false
     },
     {
+      "match": "FK Sileks v Shkendija",
+      "campionato": "Republic of North Macedonian Soccer",
+      "volume": 1225,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628419",
+      "market_id": "1.258388006",
+      "_is_inplay": true
+    },
+    {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1126,
-      "quota": 1.06,
+      "volume": 1120,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -161,7 +175,7 @@
     {
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "volume": 336,
+      "volume": 320,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -173,24 +187,10 @@
       "_is_inplay": false
     },
     {
-      "match": "FK Sileks v Shkendija",
-      "campionato": "Republic of North Macedonian Soccer",
-      "volume": 139,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628419",
-      "market_id": "1.258388006",
-      "_is_inplay": true
-    },
-    {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 46,
-      "quota": 1.21,
+      "volume": 65,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -201,23 +201,9 @@
       "_is_inplay": true
     },
     {
-      "match": "Ascoli v Potenza",
-      "campionato": "Italian Serie C",
-      "volume": 33,
-      "quota": 1.44,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625131",
-      "market_id": "1.258358124",
-      "_is_inplay": true
-    },
-    {
       "match": "Belouizdad v MC Oran",
       "campionato": "Algerian Ligue 1",
-      "volume": 31,
+      "volume": 50,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -229,18 +215,32 @@
       "_is_inplay": true
     },
     {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 19,
-      "quota": 1.75,
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
+      "volume": 47,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
-      "_is_inplay": false
+      "event_id": "35625131",
+      "market_id": "1.258358124",
+      "_is_inplay": true
+    },
+    {
+      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "campionato": "Italian Serie C",
+      "volume": 35,
+      "quota": 1.34,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625127",
+      "market_id": "1.258358145",
+      "_is_inplay": true
     },
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
@@ -369,18 +369,18 @@
       "_is_inplay": false
     },
     {
-      "match": "Union Brescia v S.S.D. Casarano Calcio",
-      "campionato": "Italian Serie C",
-      "volume": 14,
-      "quota": 1.3,
+      "match": "Talleres v Atl Tucuman",
+      "campionato": "Argentinian Cup",
+      "volume": 13,
+      "quota": 1.76,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625127",
-      "market_id": "1.258358145",
-      "_is_inplay": true
+      "event_id": "35629149",
+      "market_id": "1.258393671",
+      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -420,7 +420,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 336,
+      "volume": 320,
       "whale_max": 0,
       "entered": false
     },
@@ -498,9 +498,9 @@
       "event_id": "bf_1.258364904",
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1126,
+      "volume": 1120,
       "whale_max": 0,
       "entered": false
     },
