@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:21:36",
+  "last_update": "21/05/2026 00:22:12",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 12266,
+      "volume": 9791,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -35,7 +35,7 @@
     {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 5285,
+      "volume": 5085,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -77,7 +77,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1878,
+      "volume": 1875,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -87,6 +87,20 @@
       "event_id": "35579877",
       "market_id": "1.258364959",
       "_is_inplay": false
+    },
+    {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1779,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
     },
     {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
@@ -142,6 +156,20 @@
       "source": "Betfair",
       "event_id": "35616713",
       "market_id": "1.258341964",
+      "_is_inplay": false
+    },
+    {
+      "match": "River Plate v Red Bull Bragantino",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1226,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587027",
+      "market_id": "1.258364980",
       "_is_inplay": false
     },
     {
@@ -229,20 +257,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 130,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
-    },
-    {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
       "volume": 118,
@@ -259,7 +273,7 @@
     {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 64,
+      "volume": 113,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -269,6 +283,20 @@
       "event_id": "35627039",
       "market_id": "1.258432791",
       "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 74,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
     },
     {
       "match": "Llaneros FC v Boyaca Patriotas",
@@ -296,20 +324,6 @@
       "source": "Betfair",
       "event_id": "35627040",
       "market_id": "1.258432808",
-      "_is_inplay": false
-    },
-    {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
       "_is_inplay": false
     }
   ],
@@ -410,7 +424,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 12266,
+      "volume": 9791,
       "whale_max": 0,
       "entered": true
     },
@@ -420,7 +434,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1878,
+      "volume": 1875,
       "whale_max": 0,
       "entered": false
     },
@@ -430,7 +444,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.1,
-      "volume": 15,
+      "volume": 1226,
       "whale_max": 0,
       "entered": false
     },
