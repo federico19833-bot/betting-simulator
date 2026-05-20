@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:07:36",
+  "last_update": "20/05/2026 20:08:10",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 74,
-      "quota": 1.2,
+      "volume": 20,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,8 +34,8 @@
     {
       "match": "Al Najma Club v Al-Shabab (KSA)",
       "campionato": "Saudi Professional League",
-      "volume": 118,
-      "quota": 1.03,
+      "volume": 117,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -45,22 +45,9 @@
       "market_id": "1.258317362"
     },
     {
-      "match": "FK Sileks v Shkendija",
-      "campionato": "Republic of North Macedonian Soccer",
-      "volume": 700,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258388006"
-    },
-    {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 2728,
+      "volume": 179,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -73,8 +60,8 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 83,
-      "quota": 1.07,
+      "volume": 699,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -86,8 +73,8 @@
     {
       "match": "Palermo v Catanzaro",
       "campionato": "Italian Serie B",
-      "volume": 33,
-      "quota": 1.1,
+      "volume": 12,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -97,18 +84,7 @@
       "market_id": "1.258333344"
     }
   ],
-  "tracked_matches": [
-    {
-      "event_id": "bf_1.258388006",
-      "match": "FK Sileks v Shkendija",
-      "campionato": "Republic of North Macedonian Soccer",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 36827,
-      "whale_max": 0,
-      "entered": false
-    }
-  ],
+  "tracked_matches": [],
   "giocate": [
     {
       "id": 1,
