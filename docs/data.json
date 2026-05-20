@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:24:20",
+  "last_update": "20/05/2026 19:24:54",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,10 +19,23 @@
   },
   "live_events": [
     {
+      "match": "Cr Temouchent v US Chaouia",
+      "campionato": "Algerian Ligue 2",
+      "volume": 2592,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258384636"
+    },
+    {
       "match": "Trans Narva v Paide Linnameeskond",
       "campionato": "Estonian Premier League",
-      "volume": 4227,
-      "quota": 1.11,
+      "volume": 677,
+      "quota": 1.61,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -32,10 +45,23 @@
       "market_id": "1.258311655"
     },
     {
+      "match": "ES Setif v MC Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 5939,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258366821"
+    },
+    {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 164,
-      "quota": 1.12,
+      "volume": 65,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,8 +73,8 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 2880,
-      "quota": 1.06,
+      "volume": 9149,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -60,8 +86,8 @@
     {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 30,
-      "quota": 1.09,
+      "volume": 2603,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -73,8 +99,8 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 1050,
-      "quota": 1.08,
+      "volume": 510,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -82,19 +108,6 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258301372"
-    },
-    {
-      "match": "Pyramids v Smouha",
-      "campionato": "Egyptian Premier",
-      "volume": 1537,
-      "quota": 1.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258201333"
     }
   ],
   "tracked_matches": [
@@ -115,6 +128,16 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 10804,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258314675",
+      "match": "Egersund v Lyn",
+      "campionato": "Norwegian 1st Division",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 9149,
       "whale_max": 0,
       "entered": false
     }
