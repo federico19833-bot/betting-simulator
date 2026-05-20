@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:17:59",
+  "last_update": "21/05/2026 00:18:35",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,6 +18,20 @@
     "balance": 875.04
   },
   "live_events": [
+    {
+      "match": "Llaneros FC v Boyaca Patriotas",
+      "campionato": "Colombian Cup",
+      "volume": 12509,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630095",
+      "market_id": "1.258397010",
+      "_is_inplay": true
+    },
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -87,20 +101,6 @@
       "event_id": "35579877",
       "market_id": "1.258364959",
       "_is_inplay": false
-    },
-    {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1814,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
     },
     {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
@@ -215,6 +215,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 534,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
+    },
+    {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 533,
@@ -259,8 +273,8 @@
     {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 64,
-      "quota": 1.17,
+      "volume": 104,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -282,20 +296,6 @@
       "source": "Betfair",
       "event_id": "35586972",
       "market_id": "1.258364578",
-      "_is_inplay": true
-    },
-    {
-      "match": "Llaneros FC v Boyaca Patriotas",
-      "campionato": "Colombian Cup",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630095",
-      "market_id": "1.258397010",
       "_is_inplay": true
     },
     {
@@ -522,9 +522,9 @@
       "event_id": "bf_1.258397010",
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 12509,
       "whale_max": 0,
       "entered": true
     },
