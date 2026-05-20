@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:08:45",
+  "last_update": "20/05/2026 20:09:19",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 1880,
-      "quota": 1.2,
+      "volume": 133,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -32,10 +32,23 @@
       "market_id": "1.258314675"
     },
     {
+      "match": "Al Najma Club v Al-Shabab (KSA)",
+      "campionato": "Saudi Professional League",
+      "volume": 200,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258317362"
+    },
+    {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 242,
-      "quota": 1.04,
+      "volume": 2200,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,8 +60,8 @@
     {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 82,
-      "quota": 1.07,
+      "volume": 72,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -60,19 +73,6 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 83,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258358124"
-    },
-    {
-      "match": "Al-Khaleej Saihat v Al Ahli",
-      "campionato": "Saudi Professional League",
       "volume": 50,
       "quota": 1.11,
       "in_range": false,
@@ -81,7 +81,7 @@
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258316286"
+      "market_id": "1.258358124"
     }
   ],
   "tracked_matches": [],
