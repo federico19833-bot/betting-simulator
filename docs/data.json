@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:38:01",
+  "last_update": "21/05/2026 01:38:38",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -31,6 +31,20 @@
       "event_id": "35629786",
       "market_id": "1.258396051",
       "_is_inplay": false
+    },
+    {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 3048,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
     },
     {
       "match": "Fortaleza EC v Sport Recife",
@@ -103,20 +117,6 @@
       "_is_inplay": false
     },
     {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 965,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
-      "_is_inplay": false
-    },
-    {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 720,
@@ -170,6 +170,20 @@
       "source": "Betfair",
       "event_id": "35630420",
       "market_id": "1.258404457",
+      "_is_inplay": false
+    },
+    {
+      "match": "River Plate v Red Bull Bragantino",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 579,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587027",
+      "market_id": "1.258364980",
       "_is_inplay": false
     },
     {
@@ -257,34 +271,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 38,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 38,
-      "quota": 2.78,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": true
-    },
-    {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 36,
@@ -297,6 +283,20 @@
       "event_id": "35580128",
       "market_id": "1.258212853",
       "_is_inplay": false
+    },
+    {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 25,
+      "quota": 2.72,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": true
     },
     {
       "match": "EC Vitoria Salvador v ABC RN",
@@ -318,9 +318,9 @@
       "event_id": "bf_1.258364557",
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 38,
+      "volume": 3048,
       "whale_max": 0,
       "entered": false
     },
@@ -430,7 +430,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 965,
+      "volume": 579,
       "whale_max": 0,
       "entered": true
     },
