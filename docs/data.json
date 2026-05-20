@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:37:41",
+  "last_update": "20/05/2026 21:38:18",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,6 +18,20 @@
     "balance": 1000.0
   },
   "live_events": [
+    {
+      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "campionato": "Italian Serie C",
+      "volume": 12804,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625127",
+      "market_id": "1.258358145",
+      "_is_inplay": true
+    },
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -103,20 +117,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Union Brescia v S.S.D. Casarano Calcio",
-      "campionato": "Italian Serie C",
-      "volume": 612,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625127",
-      "market_id": "1.258358145",
-      "_is_inplay": true
-    },
-    {
       "match": "Talleres v Atl Tucuman",
       "campionato": "Argentinian Cup",
       "volume": 580,
@@ -147,8 +147,8 @@
     {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 304,
-      "quota": 2.12,
+      "volume": 475,
+      "quota": 2.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -173,24 +173,10 @@
       "_is_inplay": false
     },
     {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 158,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": false
-    },
-    {
       "match": "Freiburg v Aston Villa",
       "campionato": "UEFA Europa League",
-      "volume": 57,
-      "quota": 1.35,
+      "volume": 166,
+      "quota": 1.34,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -203,8 +189,8 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 16,
-      "quota": 2.02,
+      "volume": 18,
+      "quota": 2.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -226,6 +212,20 @@
       "source": "Betfair",
       "event_id": "35630119",
       "market_id": "1.258396987",
+      "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
       "_is_inplay": false
     },
     {
@@ -406,7 +406,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 158,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
