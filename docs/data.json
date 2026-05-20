@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:04:20",
+  "last_update": "20/05/2026 19:04:55",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -34,7 +34,7 @@
     {
       "match": "Trans Narva v Paide Linnameeskond",
       "campionato": "Estonian Premier League",
-      "volume": 9024,
+      "volume": 11541,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -45,22 +45,9 @@
       "market_id": "1.258311655"
     },
     {
-      "match": "ASO Chlef v Kabylie",
-      "campionato": "Algerian Ligue 1",
-      "volume": 4135,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258366707"
-    },
-    {
       "match": "ES Setif v MC Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 2721,
+      "volume": 4737,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -73,8 +60,8 @@
     {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 3559,
-      "quota": 1.09,
+      "volume": 3438,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -84,17 +71,17 @@
       "market_id": "1.258314627"
     },
     {
-      "match": "Egersund v Lyn",
-      "campionato": "Norwegian 1st Division",
-      "volume": 1077,
-      "quota": 1.39,
+      "match": "GAIS v Hammarby",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 1426,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258314675"
+      "market_id": "1.258301372"
     },
     {
       "match": "Pyramids v Smouha",
@@ -112,8 +99,8 @@
     {
       "match": "Al-Masry v Al Ahly Cairo",
       "campionato": "Egyptian Premier",
-      "volume": 1244,
-      "quota": 1.07,
+      "volume": 6478,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -121,6 +108,19 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258201378"
+    },
+    {
+      "match": "Moss v Stromsgodset",
+      "campionato": "Norwegian 1st Division",
+      "volume": 4354,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314648"
     }
   ],
   "tracked_matches": [
@@ -140,7 +140,7 @@
       "campionato": "Estonian Premier League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 9024,
+      "volume": 11541,
       "whale_max": 0,
       "entered": false
     }
