@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:08:22",
+  "last_update": "21/05/2026 00:08:58",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,37 +19,23 @@
   },
   "live_events": [
     {
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 4634,
-      "quota": 1.05,
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 2468,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35579862",
-      "market_id": "1.258364926",
-      "_is_inplay": false
-    },
-    {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 3706,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
       "_is_inplay": true
     },
     {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 2318,
+      "volume": 2314,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -133,7 +119,7 @@
     {
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "volume": 971,
+      "volume": 975,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -143,20 +129,6 @@
       "event_id": "35629776",
       "market_id": "1.258395768",
       "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 931,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
     },
     {
       "match": "Shakhtar v Kolos Kovalyovka",
@@ -175,7 +147,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 672,
+      "volume": 668,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -231,7 +203,7 @@
     {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 285,
+      "volume": 281,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -257,10 +229,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 91,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
+    },
+    {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 69,
-      "quota": 1.13,
+      "volume": 33,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -269,20 +255,6 @@
       "event_id": "35627039",
       "market_id": "1.258432791",
       "_is_inplay": false
-    },
-    {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 49,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
-      "_is_inplay": true
     },
     {
       "match": "Llaneros FC v Boyaca Patriotas",
@@ -299,6 +271,20 @@
       "_is_inplay": true
     },
     {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
+      "_is_inplay": true
+    },
+    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 15,
@@ -310,6 +296,20 @@
       "source": "Betfair",
       "event_id": "35627040",
       "market_id": "1.258432808",
+      "_is_inplay": false
+    },
+    {
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 15,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579862",
+      "market_id": "1.258364926",
       "_is_inplay": false
     },
     {
@@ -344,7 +344,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 931,
+      "volume": 2468,
       "whale_max": 0,
       "entered": false
     },
@@ -364,7 +364,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 971,
+      "volume": 975,
       "whale_max": 0,
       "entered": false
     },
@@ -374,7 +374,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.08,
-      "volume": 285,
+      "volume": 281,
       "whale_max": 0,
       "entered": false
     },
@@ -424,7 +424,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.06,
-      "volume": 2318,
+      "volume": 2314,
       "whale_max": 0,
       "entered": false
     },
@@ -432,9 +432,9 @@
       "event_id": "bf_1.258364926",
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 4634,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -444,7 +444,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 672,
+      "volume": 668,
       "whale_max": 0,
       "entered": false
     },
