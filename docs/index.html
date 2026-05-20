@@ -38,6 +38,16 @@ tr:hover { background:#1a2744; }
 
 <div class="stats" id="stats"></div>
 
+<div class="section">
+<h2>Storico Giocate</h2>
+<div style="overflow-x:auto">
+<table>
+<thead><tr><th>ID</th><th>Data</th><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Esito</th><th>Profitto</th></tr></thead>
+<tbody id="tableBody"></tbody>
+</table>
+</div>
+</div>
+
 <div class="section" id="liveSection" style="display:none">
 <h2><span class="live-dot"></span>Eventi Live Monitorati</h2>
 <div style="overflow-x:auto">
@@ -61,16 +71,6 @@ tr:hover { background:#1a2744; }
 <div class="section">
 <h2>Andamento Capitale</h2>
 <div class="chart-wrap"><canvas id="equityChart"></canvas></div>
-</div>
-
-<div class="section">
-<h2>Storico Giocate</h2>
-<div style="overflow-x:auto">
-<table>
-<thead><tr><th>ID</th><th>Data</th><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Esito</th><th>Profitto</th></tr></thead>
-<tbody id="tableBody"></tbody>
-</table>
-</div>
 </div>
 
 <div class="footer" id="footer"></div>
