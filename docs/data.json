@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:24:54",
+  "last_update": "20/05/2026 19:25:28",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
-      "volume": 2592,
-      "quota": 1.11,
+      "volume": 30,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -32,23 +32,10 @@
       "market_id": "1.258384636"
     },
     {
-      "match": "Trans Narva v Paide Linnameeskond",
-      "campionato": "Estonian Premier League",
-      "volume": 677,
-      "quota": 1.61,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258311655"
-    },
-    {
       "match": "ES Setif v MC Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 5939,
-      "quota": 1.09,
+      "volume": 164,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -60,8 +47,8 @@
     {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 65,
-      "quota": 1.06,
+      "volume": 54,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -73,8 +60,8 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 9149,
-      "quota": 1.08,
+      "volume": 30,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -86,7 +73,7 @@
     {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 2603,
+      "volume": 1775,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -99,8 +86,8 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 510,
-      "quota": 1.09,
+      "volume": 2459,
+      "quota": 1.29,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -111,16 +98,6 @@
     }
   ],
   "tracked_matches": [
-    {
-      "event_id": "bf_1.258311655",
-      "match": "Trans Narva v Paide Linnameeskond",
-      "campionato": "Estonian Premier League",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.07,
-      "volume": 7908,
-      "whale_max": 0,
-      "entered": false
-    },
     {
       "event_id": "bf_1.258314541",
       "match": "Kongsvinger v Odds BK",
