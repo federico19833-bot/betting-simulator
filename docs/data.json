@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:40:14",
+  "last_update": "21/05/2026 00:40:51",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,20 +33,6 @@
       "_is_inplay": false
     },
     {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2786,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
-      "_is_inplay": false
-    },
-    {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 2058,
@@ -58,20 +44,6 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
-      "_is_inplay": false
-    },
-    {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 1544,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -128,6 +100,20 @@
       "source": "Betfair",
       "event_id": "35629776",
       "market_id": "1.258395768",
+      "_is_inplay": false
+    },
+    {
+      "match": "River Plate v Red Bull Bragantino",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1196,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587027",
+      "market_id": "1.258364980",
       "_is_inplay": false
     },
     {
@@ -226,6 +212,20 @@
       "source": "Betfair",
       "event_id": "35579862",
       "market_id": "1.258364926",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 291,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -416,7 +416,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 2786,
+      "volume": 1196,
       "whale_max": 0,
       "entered": true
     },
@@ -464,9 +464,9 @@
       "event_id": "bf_1.258432791",
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1544,
+      "volume": 291,
       "whale_max": 0,
       "entered": false
     },
