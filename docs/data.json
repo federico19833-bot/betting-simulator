@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:48:07",
+  "last_update": "21/05/2026 00:48:44",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -63,7 +63,7 @@
     {
       "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1508,
+      "volume": 1511,
       "quota": 1.35,
       "in_range": false,
       "monitored": false,
@@ -201,6 +201,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 341,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 291,
@@ -255,20 +269,6 @@
       "event_id": "35581247",
       "market_id": "1.258364557",
       "_is_inplay": true
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 15,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": false
     },
     {
       "match": "LDU v Lanus",
