@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:14:00",
+  "last_update": "21/05/2026 01:14:37",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,6 +44,20 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
+      "_is_inplay": false
+    },
+    {
+      "match": "LDU v Lanus",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1725,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579877",
+      "market_id": "1.258364959",
       "_is_inplay": false
     },
     {
@@ -159,20 +173,6 @@
       "_is_inplay": false
     },
     {
-      "match": "LDU v Lanus",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 514,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579877",
-      "market_id": "1.258364959",
-      "_is_inplay": false
-    },
-    {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 474,
@@ -217,8 +217,8 @@
     {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 73,
-      "quota": 1.56,
+      "volume": 63,
+      "quota": 1.62,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -392,7 +392,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 514,
+      "volume": 1725,
       "whale_max": 0,
       "entered": true
     },
