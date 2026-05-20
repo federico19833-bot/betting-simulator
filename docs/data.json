@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:21:10",
+  "last_update": "20/05/2026 19:21:45",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
-      "volume": 105,
+      "volume": 2667,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -34,8 +34,8 @@
     {
       "match": "Trans Narva v Paide Linnameeskond",
       "campionato": "Estonian Premier League",
-      "volume": 7908,
-      "quota": 1.09,
+      "volume": 4128,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,8 +47,8 @@
     {
       "match": "ES Setif v MC Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 744,
-      "quota": 1.52,
+      "volume": 793,
+      "quota": 1.48,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -73,8 +73,8 @@
     {
       "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
-      "volume": 4233,
-      "quota": 1.05,
+      "volume": 13795,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -84,9 +84,22 @@
       "market_id": "1.258314606"
     },
     {
+      "match": "Egersund v Lyn",
+      "campionato": "Norwegian 1st Division",
+      "volume": 4009,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314675"
+    },
+    {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 5258,
+      "volume": 9729,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -99,7 +112,7 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 704,
+      "volume": 64,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -150,7 +163,7 @@
       "campionato": "Norwegian 1st Division",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 9709,
+      "volume": 9729,
       "whale_max": 0,
       "entered": false
     },
@@ -158,9 +171,9 @@
       "event_id": "bf_1.258314606",
       "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 7672,
+      "volume": 13795,
       "whale_max": 0,
       "entered": false
     }
