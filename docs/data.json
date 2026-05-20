@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:03:04",
+  "last_update": "20/05/2026 22:03:39",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -75,20 +75,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 1008,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 750,
@@ -114,20 +100,6 @@
       "source": "Betfair",
       "event_id": "35582787",
       "market_id": "1.258364599",
-      "_is_inplay": false
-    },
-    {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 679,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -159,10 +131,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 446,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
+      "_is_inplay": false
+    },
+    {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 287,
-      "quota": 1.08,
+      "volume": 438,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -170,6 +156,20 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
+      "_is_inplay": false
+    },
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 295,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -189,7 +189,7 @@
     {
       "match": "Fortaleza FC v Orsomarso",
       "campionato": "Colombian Cup",
-      "volume": 44,
+      "volume": 88,
       "quota": 1.5,
       "in_range": false,
       "monitored": false,
@@ -416,9 +416,9 @@
       "event_id": "bf_1.258212874",
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 287,
+      "volume": 438,
       "whale_max": 0,
       "entered": false
     },
@@ -428,7 +428,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 1008,
+      "volume": 446,
       "whale_max": 0,
       "entered": false
     },
