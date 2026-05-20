@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:30:19",
+  "last_update": "20/05/2026 22:30:55",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -75,6 +75,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 1225,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 934,
@@ -114,20 +128,6 @@
       "source": "Betfair",
       "event_id": "35629776",
       "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 640,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -184,20 +184,6 @@
       "source": "Betfair",
       "event_id": "35582821",
       "market_id": "1.258432749",
-      "_is_inplay": false
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 118,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
       "_is_inplay": false
     },
     {
@@ -335,16 +321,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258326396",
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 144,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258364904",
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -388,9 +364,9 @@
       "event_id": "bf_1.258327129",
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 640,
+      "volume": 1225,
       "whale_max": 0,
       "entered": false
     },
