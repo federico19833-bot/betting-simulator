@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 23:22:02",
+  "last_update": "20/05/2026 23:22:38",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -103,6 +103,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1022,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": false
+    },
+    {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 975,
@@ -173,23 +187,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
-      "campionato": "Colombian Cup",
-      "volume": 514,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629786",
-      "market_id": "1.258396051",
-      "_is_inplay": false
-    },
-    {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 513,
+      "volume": 533,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -201,17 +201,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 468,
-      "quota": 1.09,
+      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
+      "campionato": "Colombian Cup",
+      "volume": 514,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
+      "event_id": "35629786",
+      "market_id": "1.258396051",
       "_is_inplay": false
     },
     {
@@ -328,9 +328,9 @@
       "event_id": "bf_1.258364599",
       "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 468,
+      "volume": 1022,
       "whale_max": 0,
       "entered": false
     },
@@ -520,7 +520,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 513,
+      "volume": 533,
       "whale_max": 0,
       "entered": false
     }
