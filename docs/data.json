@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 18:59:06",
+  "last_update": "20/05/2026 18:59:40",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -17,7 +17,34 @@
     "roi": 0.0,
     "balance": 1000.0
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "Nomme Kalju v Harju JK Laagri",
+      "campionato": "Estonian Premier League",
+      "volume": 2519,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258342339"
+    },
+    {
+      "match": "Willem II v FC Volendam",
+      "campionato": "Dutch Playoffs",
+      "volume": 1122,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258398660"
+    }
+  ],
   "tracked_matches": [],
   "giocate": [
     {
