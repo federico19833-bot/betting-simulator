@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:36:14",
+  "last_update": "20/05/2026 22:36:49",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -89,20 +89,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 750,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": false
-    },
-    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 648,
@@ -114,6 +100,20 @@
       "source": "Betfair",
       "event_id": "35585859",
       "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 604,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -142,6 +142,20 @@
       "source": "Betfair",
       "event_id": "35622064",
       "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
+      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
+      "campionato": "Colombian Cup",
+      "volume": 514,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629786",
+      "market_id": "1.258396051",
       "_is_inplay": false
     },
     {
@@ -212,20 +226,6 @@
       "source": "Betfair",
       "event_id": "35586972",
       "market_id": "1.258364578",
-      "_is_inplay": false
-    },
-    {
-      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
-      "campionato": "Colombian Cup",
-      "volume": 15,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629786",
-      "market_id": "1.258396051",
       "_is_inplay": false
     },
     {
@@ -356,7 +356,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.07,
-      "volume": 750,
+      "volume": 604,
       "whale_max": 0,
       "entered": false
     },
@@ -376,7 +376,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 514,
       "whale_max": 0,
       "entered": false
     },
