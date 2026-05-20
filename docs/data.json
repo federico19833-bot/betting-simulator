@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:27:34",
+  "last_update": "21/05/2026 01:28:10",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -131,20 +131,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 671,
-      "quota": 1.91,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": false
-    },
-    {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 571,
@@ -189,7 +175,7 @@
     {
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "volume": 408,
+      "volume": 298,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -226,6 +212,20 @@
       "source": "Betfair",
       "event_id": "35585859",
       "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 80,
+      "quota": 1.98,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
       "_is_inplay": false
     },
     {
@@ -312,7 +312,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 408,
+      "volume": 298,
       "whale_max": 0,
       "entered": false
     },
