@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:08:26",
+  "last_update": "20/05/2026 19:09:01",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
-      "volume": 1812,
-      "quota": 1.08,
+      "volume": 7049,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,7 +47,7 @@
     {
       "match": "ES Setif v MC Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 10488,
+      "volume": 9044,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -60,7 +60,7 @@
     {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 3892,
+      "volume": 142,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -73,7 +73,7 @@
     {
       "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
-      "volume": 912,
+      "volume": 24,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -125,7 +125,7 @@
     {
       "match": "Moss v Stromsgodset",
       "campionato": "Norwegian 1st Division",
-      "volume": 2405,
+      "volume": 4354,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -163,7 +163,17 @@
       "campionato": "Algerian Ligue 1",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 10488,
+      "volume": 9044,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258384636",
+      "match": "Cr Temouchent v US Chaouia",
+      "campionato": "Algerian Ligue 2",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 7049,
       "whale_max": 0,
       "entered": false
     }
