@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:52:37",
+  "last_update": "21/05/2026 01:53:15",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,6 +44,20 @@
       "source": "Betfair",
       "event_id": "35627039",
       "market_id": "1.258432791",
+      "_is_inplay": false
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 1534,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
       "_is_inplay": false
     },
     {
@@ -105,7 +119,7 @@
     {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 826,
+      "volume": 733,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -115,20 +129,6 @@
       "event_id": "35582794",
       "market_id": "1.258364904",
       "_is_inplay": false
-    },
-    {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 803,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
     },
     {
       "match": "LDU v Lanus",
@@ -142,34 +142,6 @@
       "source": "Betfair",
       "event_id": "35579877",
       "market_id": "1.258364959",
-      "_is_inplay": false
-    },
-    {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 708,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
-      "match": "Independiente Petrolero v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 543,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582821",
-      "market_id": "1.258432749",
       "_is_inplay": false
     },
     {
@@ -229,6 +201,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 58,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
+    },
+    {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 56,
@@ -257,6 +243,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 15,
+      "quota": 6.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": true
+    },
+    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 15,
@@ -269,20 +269,6 @@
       "event_id": "35627040",
       "market_id": "1.258432808",
       "_is_inplay": false
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 13,
-      "quota": 7.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": true
     },
     {
       "match": "River Plate v Red Bull Bragantino",
@@ -328,9 +314,9 @@
       "event_id": "bf_1.258395768",
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.1,
       "quota_iniziale": 1.06,
-      "volume": 708,
+      "volume": 1534,
       "whale_max": 0,
       "entered": false
     },
@@ -425,22 +411,12 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258432749",
-      "match": "Independiente Petrolero v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.1,
-      "volume": 543,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258364904",
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.01,
-      "volume": 826,
+      "volume": 733,
       "whale_max": 0,
       "entered": false
     },
@@ -510,7 +486,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 803,
+      "volume": 58,
       "whale_max": 0,
       "entered": true
     }
