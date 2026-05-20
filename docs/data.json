@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:13:50",
+  "last_update": "20/05/2026 21:14:28",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,6 +18,20 @@
     "balance": 1000.0
   },
   "live_events": [
+    {
+      "match": "FK Sileks v Shkendija",
+      "campionato": "Republic of North Macedonian Soccer",
+      "volume": 20649,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628419",
+      "market_id": "1.258388006",
+      "_is_inplay": true
+    },
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -105,7 +119,7 @@
     {
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 632,
+      "volume": 648,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -115,20 +129,6 @@
       "event_id": "35622211",
       "market_id": "1.258327129",
       "_is_inplay": false
-    },
-    {
-      "match": "FK Sileks v Shkendija",
-      "campionato": "Republic of North Macedonian Soccer",
-      "volume": 597,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628419",
-      "market_id": "1.258388006",
-      "_is_inplay": true
     },
     {
       "match": "Freiburg v Aston Villa",
@@ -175,7 +175,7 @@
     {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 176,
+      "volume": 142,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -189,7 +189,7 @@
     {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 137,
+      "volume": 43,
       "quota": 1.24,
       "in_range": false,
       "monitored": false,
@@ -213,34 +213,6 @@
       "event_id": "35625993",
       "market_id": "1.258366842",
       "_is_inplay": true
-    },
-    {
-      "match": "Ascoli v Potenza",
-      "campionato": "Italian Serie C",
-      "volume": 26,
-      "quota": 1.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625131",
-      "market_id": "1.258358124",
-      "_is_inplay": true
-    },
-    {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 15,
-      "quota": 1.63,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
-      "_is_inplay": false
     },
     {
       "match": "Fortaleza FC v Orsomarso",
@@ -381,6 +353,34 @@
       "event_id": "35625500",
       "market_id": "1.258359431",
       "_is_inplay": false
+    },
+    {
+      "match": "Talleres v Atl Tucuman",
+      "campionato": "Argentinian Cup",
+      "volume": 14,
+      "quota": 1.6,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629149",
+      "market_id": "1.258393671",
+      "_is_inplay": false
+    },
+    {
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
+      "volume": 12,
+      "quota": 1.38,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625131",
+      "market_id": "1.258358124",
+      "_is_inplay": true
     }
   ],
   "tracked_matches": [
@@ -388,9 +388,9 @@
       "event_id": "bf_1.258388006",
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 597,
+      "volume": 20649,
       "whale_max": 0,
       "entered": true
     },
@@ -570,7 +570,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 632,
+      "volume": 648,
       "whale_max": 0,
       "entered": false
     },
