@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:49:45",
+  "last_update": "20/05/2026 21:50:22",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,20 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1962,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
-      "_is_inplay": false
-    },
-    {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 1482,
@@ -49,7 +35,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1403,
+      "volume": 1429,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -72,6 +58,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1221,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -184,20 +184,6 @@
       "source": "Betfair",
       "event_id": "35579862",
       "market_id": "1.258364926",
-      "_is_inplay": false
-    },
-    {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 50,
-      "quota": 3.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
       "_is_inplay": false
     },
     {
@@ -338,6 +324,20 @@
       "source": "Betfair",
       "event_id": "35585859",
       "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
+      "match": "Talleres v Atl Tucuman",
+      "campionato": "Argentinian Cup",
+      "volume": 3,
+      "quota": 4.5,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629149",
+      "market_id": "1.258393671",
       "_is_inplay": false
     }
   ],
@@ -568,7 +568,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1403,
+      "volume": 1429,
       "whale_max": 0,
       "entered": false
     }
