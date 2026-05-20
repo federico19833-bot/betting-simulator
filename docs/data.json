@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:47:29",
+  "last_update": "21/05/2026 00:48:07",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -63,7 +63,7 @@
     {
       "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1622,
+      "volume": 1508,
       "quota": 1.35,
       "in_range": false,
       "monitored": false,
@@ -73,20 +73,6 @@
       "event_id": "35582787",
       "market_id": "1.258364599",
       "_is_inplay": true
-    },
-    {
-      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
-      "campionato": "Colombian Cup",
-      "volume": 1423,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629786",
-      "market_id": "1.258396051",
-      "_is_inplay": false
     },
     {
       "match": "Junior FC Barranquilla v Sporting Cristal",
@@ -128,6 +114,20 @@
       "source": "Betfair",
       "event_id": "35619968",
       "market_id": "1.258350565",
+      "_is_inplay": false
+    },
+    {
+      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
+      "campionato": "Colombian Cup",
+      "volume": 798,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629786",
+      "market_id": "1.258396051",
       "_is_inplay": false
     },
     {
@@ -260,7 +260,7 @@
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
       "volume": 15,
-      "quota": 1.24,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -366,7 +366,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1423,
+      "volume": 798,
       "whale_max": 0,
       "entered": false
     },
