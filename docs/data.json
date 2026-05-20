@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:21:36",
+  "last_update": "20/05/2026 21:22:15",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 16892,
-      "quota": 1.09,
+      "volume": 14604,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -72,6 +72,20 @@
       "source": "Betfair",
       "event_id": "35582794",
       "market_id": "1.258364904",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 724,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
       "_is_inplay": false
     },
     {
@@ -145,20 +159,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 498,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": false
-    },
-    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 429,
@@ -173,10 +173,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 266,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": false
+    },
+    {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 253,
-      "quota": 1.36,
+      "volume": 243,
+      "quota": 1.38,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -201,23 +215,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Belouizdad v MC Oran",
-      "campionato": "Algerian Ligue 1",
-      "volume": 136,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625993",
-      "market_id": "1.258366842",
-      "_is_inplay": true
-    },
-    {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 64,
+      "volume": 142,
       "quota": 1.21,
       "in_range": false,
       "monitored": false,
@@ -229,10 +229,24 @@
       "_is_inplay": true
     },
     {
+      "match": "Belouizdad v MC Oran",
+      "campionato": "Algerian Ligue 1",
+      "volume": 70,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625993",
+      "market_id": "1.258366842",
+      "_is_inplay": true
+    },
+    {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 21,
-      "quota": 1.52,
+      "volume": 15,
+      "quota": 1.55,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -241,34 +255,6 @@
       "event_id": "35625131",
       "market_id": "1.258358124",
       "_is_inplay": true
-    },
-    {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 17,
-      "quota": 1.8,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
-      "_is_inplay": false
-    },
-    {
-      "match": "Fortaleza FC v Orsomarso",
-      "campionato": "Colombian Cup",
-      "volume": 15,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630119",
-      "market_id": "1.258396987",
-      "_is_inplay": false
     },
     {
       "match": "Olimpia v Vasco Da Gama",
@@ -381,6 +367,20 @@
       "event_id": "35625500",
       "market_id": "1.258359431",
       "_is_inplay": false
+    },
+    {
+      "match": "Talleres v Atl Tucuman",
+      "campionato": "Argentinian Cup",
+      "volume": 12,
+      "quota": 1.93,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629149",
+      "market_id": "1.258393671",
+      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -430,7 +430,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.09,
-      "volume": 498,
+      "volume": 266,
       "whale_max": 0,
       "entered": false
     },
