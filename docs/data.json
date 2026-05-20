@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:25:25",
+  "last_update": "20/05/2026 21:26:03",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -58,6 +58,20 @@
       "source": "Betfair",
       "event_id": "35629776",
       "market_id": "1.258395768",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 724,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
       "_is_inplay": false
     },
     {
@@ -145,18 +159,18 @@
       "_is_inplay": false
     },
     {
-      "match": "EC Vitoria Salvador v ABC RN",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 429,
-      "quota": 1.09,
+      "match": "Ravenna v Salernitana",
+      "campionato": "Italian Serie C",
+      "volume": 184,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627040",
-      "market_id": "1.258432808",
-      "_is_inplay": false
+      "event_id": "35625128",
+      "market_id": "1.258360012",
+      "_is_inplay": true
     },
     {
       "match": "Llaneros FC v Boyaca Patriotas",
@@ -173,23 +187,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Ravenna v Salernitana",
-      "campionato": "Italian Serie C",
-      "volume": 129,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625128",
-      "market_id": "1.258360012",
-      "_is_inplay": true
-    },
-    {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 69,
+      "volume": 61,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -229,18 +229,18 @@
       "_is_inplay": true
     },
     {
-      "match": "Fortaleza FC v Orsomarso",
-      "campionato": "Colombian Cup",
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
       "volume": 15,
-      "quota": 1.13,
+      "quota": 1.61,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630119",
-      "market_id": "1.258396987",
-      "_is_inplay": false
+      "event_id": "35625131",
+      "market_id": "1.258358124",
+      "_is_inplay": true
     },
     {
       "match": "Olimpia v Vasco Da Gama",
@@ -296,6 +296,20 @@
       "source": "Betfair",
       "event_id": "35627039",
       "market_id": "1.258432791",
+      "_is_inplay": false
+    },
+    {
+      "match": "EC Vitoria Salvador v ABC RN",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 15,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627040",
+      "market_id": "1.258432808",
       "_is_inplay": false
     },
     {
@@ -371,8 +385,8 @@
     {
       "match": "Talleres v Atl Tucuman",
       "campionato": "Argentinian Cup",
-      "volume": 14,
-      "quota": 2.02,
+      "volume": 12,
+      "quota": 2.0,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -381,20 +395,6 @@
       "event_id": "35629149",
       "market_id": "1.258393671",
       "_is_inplay": false
-    },
-    {
-      "match": "Ascoli v Potenza",
-      "campionato": "Italian Serie C",
-      "volume": 13,
-      "quota": 1.59,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625131",
-      "market_id": "1.258358124",
-      "_is_inplay": true
     }
   ],
   "tracked_matches": [
@@ -502,9 +502,9 @@
       "event_id": "bf_1.258432808",
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.1,
       "quota_iniziale": 1.09,
-      "volume": 429,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
