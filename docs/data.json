@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:40:29",
+  "last_update": "21/05/2026 01:41:06",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -8,20 +8,20 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 22,
+    "total": 23,
     "wins": 14,
     "losses": 2,
-    "in_corso": 6,
+    "in_corso": 7,
     "winrate": 87.5,
     "profit": -124.96,
-    "roi": -5.68,
+    "roi": -5.43,
     "balance": 875.04
   },
   "live_events": [
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 6358,
+      "volume": 7796,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -187,20 +187,6 @@
       "_is_inplay": false
     },
     {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 530,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
-      "_is_inplay": false
-    },
-    {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
       "volume": 256,
@@ -287,8 +273,8 @@
     {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 15,
-      "quota": 3.05,
+      "volume": 29,
+      "quota": 2.96,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -310,6 +296,20 @@
       "source": "Betfair",
       "event_id": "35627040",
       "market_id": "1.258432808",
+      "_is_inplay": false
+    },
+    {
+      "match": "River Plate v Red Bull Bragantino",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587027",
+      "market_id": "1.258364980",
       "_is_inplay": false
     }
   ],
@@ -420,7 +420,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 530,
+      "volume": 15,
       "whale_max": 0,
       "entered": true
     },
@@ -510,12 +510,24 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 6358,
+      "volume": 7796,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     }
   ],
   "giocate": [
+    {
+      "id": 30,
+      "orario": "2026-05-21 01:41:04",
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "quota": 1.05,
+      "volume": 7796,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 29,
       "orario": "2026-05-21 00:25:47",
