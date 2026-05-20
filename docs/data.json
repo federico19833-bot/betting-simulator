@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:01:17",
+  "last_update": "20/05/2026 22:01:52",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,20 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 1654,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
-      "_is_inplay": false
-    },
-    {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 1482,
@@ -44,20 +30,6 @@
       "source": "Betfair",
       "event_id": "35582794",
       "market_id": "1.258364904",
-      "_is_inplay": false
-    },
-    {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1401,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
       "_is_inplay": false
     },
     {
@@ -145,20 +117,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 496,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": false
-    },
-    {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 438,
@@ -187,6 +145,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 231,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
       "volume": 15,
@@ -201,8 +173,8 @@
       "_is_inplay": true
     },
     {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
       "volume": 15,
       "quota": 1.04,
       "in_range": false,
@@ -210,9 +182,9 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
-      "_is_inplay": false
+      "event_id": "35630119",
+      "market_id": "1.258396987",
+      "_is_inplay": true
     },
     {
       "match": "Olimpia v Vasco Da Gama",
@@ -226,6 +198,34 @@
       "source": "Betfair",
       "event_id": "35582787",
       "market_id": "1.258364599",
+      "_is_inplay": false
+    },
+    {
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 15,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -360,7 +360,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 496,
+      "volume": 231,
       "whale_max": 0,
       "entered": false
     },
@@ -368,9 +368,9 @@
       "event_id": "bf_1.258432791",
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.1,
       "quota_iniziale": 1.07,
-      "volume": 1654,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -495,16 +495,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258393671",
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258364980",
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -521,6 +511,16 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 1349,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258396987",
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     }
