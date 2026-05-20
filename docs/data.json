@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:19:12",
+  "last_update": "21/05/2026 00:19:48",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 8582,
+      "volume": 9791,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -45,6 +45,20 @@
       "event_id": "35579862",
       "market_id": "1.258364926",
       "_is_inplay": false
+    },
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 5285,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
+      "_is_inplay": true
     },
     {
       "match": "Junior FC Barranquilla v Sporting Cristal",
@@ -129,20 +143,6 @@
       "event_id": "35616713",
       "market_id": "1.258341964",
       "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1146,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
     },
     {
       "match": "Inter Kashi v Quess East Bengal",
@@ -243,10 +243,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 129,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
+      "_is_inplay": false
+    },
+    {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 131,
-      "quota": 1.14,
+      "volume": 128,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -271,31 +285,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 65,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
-      "_is_inplay": false
-    },
-    {
-      "match": "Boston River v OHiggins",
+      "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 32,
-      "quota": 1.12,
+      "volume": 80,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
       "_is_inplay": true
     },
     {
@@ -434,7 +434,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 8582,
+      "volume": 9791,
       "whale_max": 0,
       "entered": true
     },
