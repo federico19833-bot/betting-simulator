@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:50:47",
+  "last_update": "20/05/2026 20:51:14",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 1,
+    "total": 2,
     "wins": 0,
     "losses": 0,
-    "in_corso": 1,
+    "in_corso": 2,
     "winrate": 0,
     "profit": 0.0,
     "roi": 0.0,
@@ -21,7 +21,7 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 14101,
+      "volume": 13860,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -35,8 +35,8 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 10,
-      "quota": 1.01,
+      "volume": 9,
+      "quota": 5.8,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -63,8 +63,8 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 15,
-      "quota": 1.31,
+      "volume": 33,
+      "quota": 1.29,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -72,6 +72,20 @@
       "source": "Betfair",
       "event_id": "35625131",
       "market_id": "1.258358124",
+      "_is_inplay": true
+    },
+    {
+      "match": "Ravenna v Salernitana",
+      "campionato": "Italian Serie C",
+      "volume": 96,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625128",
+      "market_id": "1.258360012",
       "_is_inplay": true
     },
     {
@@ -259,8 +273,8 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 15,
-      "quota": 1.08,
+      "volume": 866,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -362,12 +376,24 @@
       "campionato": "Norwegian 1st Division",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 14101,
+      "volume": 13860,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     }
   ],
   "giocate": [
+    {
+      "id": 2,
+      "orario": "2026-05-20 20:51:12",
+      "match": "Egersund v Lyn",
+      "campionato": "Norwegian 1st Division",
+      "quota": 1.07,
+      "volume": 13860,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 1,
       "orario": "2026-05-19 21:04:32",
