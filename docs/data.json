@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:54:13",
+  "last_update": "20/05/2026 21:54:48",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -72,20 +72,6 @@
       "source": "Betfair",
       "event_id": "35630095",
       "market_id": "1.258397010",
-      "_is_inplay": false
-    },
-    {
-      "match": "Fortaleza FC v Orsomarso",
-      "campionato": "Colombian Cup",
-      "volume": 1124,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630119",
-      "market_id": "1.258396987",
       "_is_inplay": false
     },
     {
@@ -175,7 +161,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 64,
+      "volume": 80,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -187,17 +173,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 25,
-      "quota": 3.55,
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 67,
+      "quota": 1.37,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
       "_is_inplay": false
     },
     {
@@ -338,6 +324,20 @@
       "source": "Betfair",
       "event_id": "35585859",
       "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
+      "match": "Talleres v Atl Tucuman",
+      "campionato": "Argentinian Cup",
+      "volume": 3,
+      "quota": 5.3,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629149",
+      "market_id": "1.258393671",
       "_is_inplay": false
     }
   ],
@@ -568,7 +568,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 64,
+      "volume": 80,
       "whale_max": 0,
       "entered": false
     }
