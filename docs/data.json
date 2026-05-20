@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:58:56",
+  "last_update": "20/05/2026 21:59:31",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -63,7 +63,7 @@
     {
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "volume": 1275,
+      "volume": 1287,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -117,20 +117,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 523,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
-      "_is_inplay": false
-    },
-    {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
       "volume": 496,
@@ -145,17 +131,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Flamengo v Estudiantes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 438,
-      "quota": 1.07,
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 423,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35580140",
-      "market_id": "1.258212874",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
       "_is_inplay": false
     },
     {
@@ -170,6 +156,20 @@
       "source": "Betfair",
       "event_id": "35587027",
       "market_id": "1.258364980",
+      "_is_inplay": false
+    },
+    {
+      "match": "Flamengo v Estudiantes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 94,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580140",
+      "market_id": "1.258212874",
       "_is_inplay": false
     },
     {
@@ -320,7 +320,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1275,
+      "volume": 1287,
       "whale_max": 0,
       "entered": false
     },
@@ -360,7 +360,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 523,
+      "volume": 423,
       "whale_max": 0,
       "entered": false
     },
@@ -400,7 +400,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 438,
+      "volume": 94,
       "whale_max": 0,
       "entered": false
     },
