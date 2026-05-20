@@ -1,7 +1,12 @@
 import asyncio
 import time
+import os
+import sys
 import schedule
 from datetime import datetime
+
+# Ensure working directory is script directory
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 from config import POLL_INTERVAL_SECONDS
 from database import init_db
 from data_source import scan_markets
