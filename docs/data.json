@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:06:06",
+  "last_update": "20/05/2026 19:06:40",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -34,7 +34,7 @@
     {
       "match": "Trans Narva v Paide Linnameeskond",
       "campionato": "Estonian Premier League",
-      "volume": 11145,
+      "volume": 11541,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -47,7 +47,7 @@
     {
       "match": "ASO Chlef v Kabylie",
       "campionato": "Algerian Ligue 1",
-      "volume": 3892,
+      "volume": 75,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -73,7 +73,7 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 1426,
+      "volume": 2890,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -86,8 +86,8 @@
     {
       "match": "Pyramids v Smouha",
       "campionato": "Egyptian Premier",
-      "volume": 24,
-      "quota": 1.07,
+      "volume": 2094,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -99,8 +99,8 @@
     {
       "match": "Zamalek v Ceramica Cleopatra",
       "campionato": "Egyptian Premier",
-      "volume": 1244,
-      "quota": 1.07,
+      "volume": 8238,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -140,7 +140,17 @@
       "campionato": "Estonian Premier League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 11145,
+      "volume": 11541,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258177032",
+      "match": "Zamalek v Ceramica Cleopatra",
+      "campionato": "Egyptian Premier",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 8238,
       "whale_max": 0,
       "entered": false
     }
