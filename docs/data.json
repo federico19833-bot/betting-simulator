@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:45:23",
+  "last_update": "20/05/2026 21:46:01",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,6 +18,20 @@
     "balance": 1000.0
   },
   "live_events": [
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1987,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
+      "_is_inplay": false
+    },
     {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -61,23 +75,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1166,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
-      "_is_inplay": false
-    },
-    {
       "match": "Santos v San Lorenzo",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 852,
+      "volume": 853,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -175,8 +175,8 @@
     {
       "match": "Talleres v Atl Tucuman",
       "campionato": "Argentinian Cup",
-      "volume": 54,
-      "quota": 2.9,
+      "volume": 228,
+      "quota": 1.79,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -246,7 +246,7 @@
       "match": "Independiente Petrolero v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 15,
-      "quota": 1.08,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -388,7 +388,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 852,
+      "volume": 853,
       "whale_max": 0,
       "entered": false
     },
@@ -406,7 +406,7 @@
       "event_id": "bf_1.258432749",
       "match": "Independiente Petrolero v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
       "volume": 15,
       "whale_max": 0,
