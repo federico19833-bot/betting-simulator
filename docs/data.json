@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:40:11",
+  "last_update": "20/05/2026 21:40:48",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,23 +19,9 @@
   },
   "live_events": [
     {
-      "match": "Union Brescia v S.S.D. Casarano Calcio",
-      "campionato": "Italian Serie C",
-      "volume": 13448,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625127",
-      "market_id": "1.258358145",
-      "_is_inplay": true
-    },
-    {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 2011,
+      "volume": 1871,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -161,7 +147,7 @@
     {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 246,
+      "volume": 496,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -171,6 +157,34 @@
       "event_id": "35586972",
       "market_id": "1.258364578",
       "_is_inplay": false
+    },
+    {
+      "match": "Ravenna v Salernitana",
+      "campionato": "Italian Serie C",
+      "volume": 243,
+      "quota": 2.44,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625128",
+      "market_id": "1.258360012",
+      "_is_inplay": true
+    },
+    {
+      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "campionato": "Italian Serie C",
+      "volume": 230,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625127",
+      "market_id": "1.258358145",
+      "_is_inplay": true
     },
     {
       "match": "Shakhtar v Kolos Kovalyovka",
@@ -185,20 +199,6 @@
       "event_id": "35625500",
       "market_id": "1.258359431",
       "_is_inplay": false
-    },
-    {
-      "match": "Ravenna v Salernitana",
-      "campionato": "Italian Serie C",
-      "volume": 15,
-      "quota": 2.38,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625128",
-      "market_id": "1.258360012",
-      "_is_inplay": true
     },
     {
       "match": "Fortaleza FC v Orsomarso",
@@ -402,7 +402,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.04,
-      "volume": 246,
+      "volume": 496,
       "whale_max": 0,
       "entered": false
     },
