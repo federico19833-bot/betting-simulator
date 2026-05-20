@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:22:54",
+  "last_update": "20/05/2026 21:23:31",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -58,34 +58,6 @@
       "source": "Betfair",
       "event_id": "35582794",
       "market_id": "1.258364904",
-      "_is_inplay": false
-    },
-    {
-      "match": "Belouizdad v MC Oran",
-      "campionato": "Algerian Ligue 1",
-      "volume": 738,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625993",
-      "market_id": "1.258366842",
-      "_is_inplay": true
-    },
-    {
-      "match": "Fortaleza FC v Orsomarso",
-      "campionato": "Colombian Cup",
-      "volume": 724,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630119",
-      "market_id": "1.258396987",
       "_is_inplay": false
     },
     {
@@ -159,6 +131,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 498,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": false
+    },
+    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 429,
@@ -170,20 +156,6 @@
       "source": "Betfair",
       "event_id": "35627040",
       "market_id": "1.258432808",
-      "_is_inplay": false
-    },
-    {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 266,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
       "_is_inplay": false
     },
     {
@@ -215,10 +187,24 @@
       "_is_inplay": true
     },
     {
+      "match": "Belouizdad v MC Oran",
+      "campionato": "Algerian Ligue 1",
+      "volume": 70,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625993",
+      "market_id": "1.258366842",
+      "_is_inplay": true
+    },
+    {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 129,
-      "quota": 1.23,
+      "volume": 63,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -227,6 +213,62 @@
       "event_id": "35625128",
       "market_id": "1.258360012",
       "_is_inplay": true
+    },
+    {
+      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "campionato": "Italian Serie C",
+      "volume": 35,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625127",
+      "market_id": "1.258358145",
+      "_is_inplay": true
+    },
+    {
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
+      "volume": 18,
+      "quota": 1.6,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625131",
+      "market_id": "1.258358124",
+      "_is_inplay": true
+    },
+    {
+      "match": "Talleres v Atl Tucuman",
+      "campionato": "Argentinian Cup",
+      "volume": 15,
+      "quota": 1.89,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629149",
+      "market_id": "1.258393671",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 15,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
+      "_is_inplay": false
     },
     {
       "match": "Olimpia v Vasco Da Gama",
@@ -313,6 +355,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Flamengo v Estudiantes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580140",
+      "market_id": "1.258212874",
+      "_is_inplay": false
+    },
+    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 15,
@@ -339,61 +395,9 @@
       "event_id": "35625500",
       "market_id": "1.258359431",
       "_is_inplay": false
-    },
-    {
-      "match": "Ascoli v Potenza",
-      "campionato": "Italian Serie C",
-      "volume": 14,
-      "quota": 1.57,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625131",
-      "market_id": "1.258358124",
-      "_is_inplay": true
-    },
-    {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 14,
-      "quota": 1.91,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
-      "_is_inplay": false
-    },
-    {
-      "match": "Union Brescia v S.S.D. Casarano Calcio",
-      "campionato": "Italian Serie C",
-      "volume": 13,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625127",
-      "market_id": "1.258358145",
-      "_is_inplay": true
     }
   ],
   "tracked_matches": [
-    {
-      "event_id": "bf_1.258388006",
-      "match": "FK Sileks v Shkendija",
-      "campionato": "Republic of North Macedonian Soccer",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.07,
-      "volume": 16892,
-      "whale_max": 0,
-      "entered": true
-    },
     {
       "event_id": "bf_1.258176990",
       "match": "Freiburg v Aston Villa",
@@ -401,16 +405,6 @@
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
       "volume": 580,
-      "whale_max": 0,
-      "entered": true
-    },
-    {
-      "event_id": "bf_1.258366842",
-      "match": "Belouizdad v MC Oran",
-      "campionato": "Algerian Ligue 1",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.09,
-      "volume": 17,
       "whale_max": 0,
       "entered": false
     },
@@ -429,8 +423,8 @@
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
-      "quota_iniziale": 1.09,
-      "volume": 266,
+      "quota_iniziale": 1.1,
+      "volume": 498,
       "whale_max": 0,
       "entered": false
     },
@@ -439,7 +433,7 @@
       "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
-      "quota_iniziale": 1.09,
+      "quota_iniziale": 1.1,
       "volume": 15,
       "whale_max": 0,
       "entered": false
@@ -499,7 +493,7 @@
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.05,
-      "quota_iniziale": 1.06,
+      "quota_iniziale": 1.05,
       "volume": 1120,
       "whale_max": 0,
       "entered": false
@@ -511,6 +505,16 @@
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
       "volume": 429,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258364926",
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -530,6 +534,16 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
+      "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258212874",
+      "match": "Flamengo v Estudiantes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
       "volume": 15,
       "whale_max": 0,
       "entered": false
@@ -555,16 +569,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258365653",
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 2312,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258327129",
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
@@ -580,16 +584,6 @@
       "campionato": "Ukrainian Premier League",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258364926",
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
       "volume": 15,
       "whale_max": 0,
       "entered": false
