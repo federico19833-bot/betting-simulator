@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:07:11",
+  "last_update": "21/05/2026 00:07:46",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,6 +19,20 @@
   },
   "live_events": [
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 3002,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
+    },
+    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 2314,
@@ -31,6 +45,20 @@
       "event_id": "35585859",
       "market_id": "1.258365653",
       "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 2259,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
     },
     {
       "match": "Independiente Petrolero v Botafogo FR",
@@ -105,7 +133,7 @@
     {
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "volume": 975,
+      "volume": 971,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -115,20 +143,6 @@
       "event_id": "35629776",
       "market_id": "1.258395768",
       "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 946,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
     },
     {
       "match": "Shakhtar v Kolos Kovalyovka",
@@ -229,23 +243,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 91,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
-    },
-    {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 69,
+      "volume": 73,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -259,7 +259,7 @@
     {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 49,
+      "volume": 37,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -334,7 +334,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 78,
+      "volume": 3002,
       "whale_max": 0,
       "entered": false
     },
@@ -344,7 +344,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 946,
+      "volume": 2259,
       "whale_max": 0,
       "entered": false
     },
@@ -364,7 +364,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 975,
+      "volume": 971,
       "whale_max": 0,
       "entered": false
     },
