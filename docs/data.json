@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:37:14",
+  "last_update": "20/05/2026 21:37:41",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -103,6 +103,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "campionato": "Italian Serie C",
+      "volume": 612,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625127",
+      "market_id": "1.258358145",
+      "_is_inplay": true
+    },
+    {
       "match": "Talleres v Atl Tucuman",
       "campionato": "Argentinian Cup",
       "volume": 580,
@@ -131,17 +145,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 493,
-      "quota": 1.23,
+      "volume": 304,
+      "quota": 2.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625127",
-      "market_id": "1.258358145",
+      "event_id": "35625128",
+      "market_id": "1.258360012",
       "_is_inplay": true
     },
     {
@@ -159,10 +173,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 158,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": false
+    },
+    {
       "match": "Freiburg v Aston Villa",
       "campionato": "UEFA Europa League",
-      "volume": 109,
-      "quota": 1.34,
+      "volume": 57,
+      "quota": 1.35,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -170,6 +198,20 @@
       "source": "Betfair",
       "event_id": "35583725",
       "market_id": "1.258176990",
+      "_is_inplay": true
+    },
+    {
+      "match": "Ascoli v Potenza",
+      "campionato": "Italian Serie C",
+      "volume": 16,
+      "quota": 2.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625131",
+      "market_id": "1.258358124",
       "_is_inplay": true
     },
     {
@@ -184,20 +226,6 @@
       "source": "Betfair",
       "event_id": "35630119",
       "market_id": "1.258396987",
-      "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 15,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
       "_is_inplay": false
     },
     {
@@ -339,34 +367,6 @@
       "event_id": "35625500",
       "market_id": "1.258359431",
       "_is_inplay": false
-    },
-    {
-      "match": "Ascoli v Potenza",
-      "campionato": "Italian Serie C",
-      "volume": 12,
-      "quota": 2.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625131",
-      "market_id": "1.258358124",
-      "_is_inplay": true
-    },
-    {
-      "match": "Ravenna v Salernitana",
-      "campionato": "Italian Serie C",
-      "volume": 12,
-      "quota": 2.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625128",
-      "market_id": "1.258360012",
-      "_is_inplay": true
     }
   ],
   "tracked_matches": [
@@ -406,7 +406,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 15,
+      "volume": 158,
       "whale_max": 0,
       "entered": false
     },
