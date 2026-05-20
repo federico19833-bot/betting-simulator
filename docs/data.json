@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:30:01",
+  "last_update": "21/05/2026 00:30:37",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,9 +33,23 @@
       "_is_inplay": false
     },
     {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 3159,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 4115,
+      "volume": 2946,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -77,7 +91,7 @@
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1724,
+      "volume": 1710,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -229,20 +243,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 278,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
-    },
-    {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
       "volume": 118,
@@ -257,18 +257,18 @@
       "_is_inplay": false
     },
     {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 32,
-      "quota": 1.14,
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 74,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": false
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
     },
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
@@ -346,7 +346,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.07,
-      "volume": 4115,
+      "volume": 2946,
       "whale_max": 0,
       "entered": false
     },
@@ -396,7 +396,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1724,
+      "volume": 1710,
       "whale_max": 0,
       "entered": true
     },
