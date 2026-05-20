@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:33:04",
+  "last_update": "20/05/2026 20:33:38",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 14,
+      "volume": 23,
       "quota": 1.79,
       "in_range": false,
       "monitored": false,
@@ -34,7 +34,7 @@
     {
       "match": "Al Najma Club v Al-Shabab (KSA)",
       "campionato": "Saudi Professional League",
-      "volume": 217,
+      "volume": 289,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -47,7 +47,7 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 2350,
+      "volume": 132,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -60,8 +60,8 @@
     {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 52,
-      "quota": 1.14,
+      "volume": 29,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -73,8 +73,8 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 14,
-      "quota": 1.22,
+      "volume": 1585,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -82,6 +82,19 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258358124"
+    },
+    {
+      "match": "Catania v Lecco",
+      "campionato": "Italian Serie C",
+      "volume": 32,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258359172"
     }
   ],
   "tracked_matches": [
