@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:09:36",
+  "last_update": "20/05/2026 19:10:12",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
-      "volume": 1911,
-      "quota": 1.07,
+      "volume": 1204,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,8 +34,8 @@
     {
       "match": "Nomme Kalju v Harju JK Laagri",
       "campionato": "Estonian Premier League",
-      "volume": 1396,
-      "quota": 1.26,
+      "volume": 1963,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -45,36 +45,23 @@
       "market_id": "1.258342339"
     },
     {
-      "match": "ES Setif v MC Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 10488,
-      "quota": 1.05,
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "volume": 1176,
+      "quota": 1.32,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258366821"
-    },
-    {
-      "match": "Asane v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 907,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258314627"
+      "market_id": "1.258311655"
     },
     {
       "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
-      "volume": 24,
-      "quota": 1.15,
+      "volume": 10488,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -84,10 +71,23 @@
       "market_id": "1.258314606"
     },
     {
+      "match": "Egersund v Lyn",
+      "campionato": "Norwegian 1st Division",
+      "volume": 762,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314675"
+    },
+    {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 1258,
-      "quota": 1.2,
+      "volume": 878,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -97,23 +97,23 @@
       "market_id": "1.258314541"
     },
     {
-      "match": "Pyramids v Smouha",
-      "campionato": "Egyptian Premier",
-      "volume": 3344,
-      "quota": 1.11,
+      "match": "GAIS v Hammarby",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 2638,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258201333"
+      "market_id": "1.258301372"
     },
     {
       "match": "Zamalek v Ceramica Cleopatra",
       "campionato": "Egyptian Premier",
-      "volume": 3193,
-      "quota": 1.06,
+      "volume": 1682,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -121,19 +121,22 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258177032"
+    },
+    {
+      "match": "Moss v Stromsgodset",
+      "campionato": "Norwegian 1st Division",
+      "volume": 5425,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314648"
     }
   ],
   "tracked_matches": [
-    {
-      "event_id": "bf_1.258201333",
-      "match": "Pyramids v Smouha",
-      "campionato": "Egyptian Premier",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 7656,
-      "whale_max": 0,
-      "entered": false
-    },
     {
       "event_id": "bf_1.258177032",
       "match": "Zamalek v Ceramica Cleopatra",
@@ -145,22 +148,22 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258366821",
-      "match": "ES Setif v MC Alger",
-      "campionato": "Algerian Ligue 1",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.04,
-      "volume": 10488,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258384636",
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 7049,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258314606",
+      "match": "Ranheim IL v Hodd",
+      "campionato": "Norwegian 1st Division",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 10488,
       "whale_max": 0,
       "entered": false
     }
