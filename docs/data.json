@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:11:22",
+  "last_update": "20/05/2026 19:11:57",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
-      "volume": 73,
-      "quota": 1.07,
+      "volume": 1204,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -45,19 +45,6 @@
       "market_id": "1.258342339"
     },
     {
-      "match": "Trans Narva v Paide Linnameeskond",
-      "campionato": "Estonian Premier League",
-      "volume": 1176,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258311655"
-    },
-    {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
       "volume": 9329,
@@ -73,8 +60,8 @@
     {
       "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
-      "volume": 8508,
-      "quota": 1.06,
+      "volume": 10488,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -86,7 +73,7 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 2356,
+      "volume": 1302,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -99,8 +86,8 @@
     {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 24,
-      "quota": 1.18,
+      "volume": 1072,
+      "quota": 1.19,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -112,8 +99,8 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 1310,
-      "quota": 1.22,
+      "volume": 1258,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -123,22 +110,9 @@
       "market_id": "1.258301372"
     },
     {
-      "match": "Zamalek v Ceramica Cleopatra",
-      "campionato": "Egyptian Premier",
-      "volume": 1682,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258177032"
-    },
-    {
       "match": "Moss v Stromsgodset",
       "campionato": "Norwegian 1st Division",
-      "volume": 4791,
+      "volume": 4773,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -147,32 +121,9 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258314648"
-    },
-    {
-      "match": "Strommen v Haugesund",
-      "campionato": "Norwegian 1st Division",
-      "volume": 10218,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258314585"
     }
   ],
   "tracked_matches": [
-    {
-      "event_id": "bf_1.258177032",
-      "match": "Zamalek v Ceramica Cleopatra",
-      "campionato": "Egyptian Premier",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 8238,
-      "whale_max": 0,
-      "entered": false
-    },
     {
       "event_id": "bf_1.258384636",
       "match": "Cr Temouchent v US Chaouia",
@@ -187,9 +138,9 @@
       "event_id": "bf_1.258314606",
       "match": "Ranheim IL v Hodd",
       "campionato": "Norwegian 1st Division",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 8508,
+      "volume": 10488,
       "whale_max": 0,
       "entered": false
     },
@@ -200,16 +151,6 @@
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 9329,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258314585",
-      "match": "Strommen v Haugesund",
-      "campionato": "Norwegian 1st Division",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 10218,
       "whale_max": 0,
       "entered": false
     }
