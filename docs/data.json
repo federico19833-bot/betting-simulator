@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:40:48",
+  "last_update": "20/05/2026 21:41:08",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,6 +18,20 @@
     "balance": 1000.0
   },
   "live_events": [
+    {
+      "match": "Union Brescia v S.S.D. Casarano Calcio",
+      "campionato": "Italian Serie C",
+      "volume": 12768,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625127",
+      "market_id": "1.258358145",
+      "_is_inplay": true
+    },
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -145,9 +159,23 @@
       "_is_inplay": false
     },
     {
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 394,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
+      "_is_inplay": false
+    },
+    {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 496,
+      "volume": 246,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -161,8 +189,8 @@
     {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 243,
-      "quota": 2.44,
+      "volume": 240,
+      "quota": 2.28,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -173,32 +201,18 @@
       "_is_inplay": true
     },
     {
-      "match": "Union Brescia v S.S.D. Casarano Calcio",
-      "campionato": "Italian Serie C",
-      "volume": 230,
-      "quota": 1.24,
+      "match": "Freiburg v Aston Villa",
+      "campionato": "UEFA Europa League",
+      "volume": 108,
+      "quota": 1.34,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625127",
-      "market_id": "1.258358145",
+      "event_id": "35583725",
+      "market_id": "1.258176990",
       "_is_inplay": true
-    },
-    {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 164,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
-      "_is_inplay": false
     },
     {
       "match": "Fortaleza FC v Orsomarso",
@@ -339,20 +353,6 @@
       "event_id": "35580128",
       "market_id": "1.258212853",
       "_is_inplay": false
-    },
-    {
-      "match": "Freiburg v Aston Villa",
-      "campionato": "UEFA Europa League",
-      "volume": 13,
-      "quota": 1.34,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35583725",
-      "market_id": "1.258176990",
-      "_is_inplay": true
     }
   ],
   "tracked_matches": [
@@ -402,7 +402,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.04,
-      "volume": 496,
+      "volume": 246,
       "whale_max": 0,
       "entered": false
     },
@@ -522,7 +522,7 @@
       "campionato": "Ukrainian Premier League",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 164,
+      "volume": 394,
       "whale_max": 0,
       "entered": false
     },
