@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:33:52",
+  "last_update": "20/05/2026 22:34:28",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -128,6 +128,20 @@
       "source": "Betfair",
       "event_id": "35586972",
       "market_id": "1.258364578",
+      "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 568,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -283,20 +297,6 @@
       "event_id": "35580140",
       "market_id": "1.258212874",
       "_is_inplay": false
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -364,9 +364,9 @@
       "event_id": "bf_1.258327129",
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 568,
       "whale_max": 0,
       "entered": false
     },
