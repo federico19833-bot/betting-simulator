@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:11:25",
+  "last_update": "20/05/2026 22:12:01",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -45,6 +45,20 @@
       "event_id": "35630119",
       "market_id": "1.258396987",
       "_is_inplay": true
+    },
+    {
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1815,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
+      "_is_inplay": false
     },
     {
       "match": "Gremio v Palestino",
@@ -145,6 +159,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 628,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
+      "_is_inplay": false
+    },
+    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 545,
@@ -173,24 +201,10 @@
       "_is_inplay": false
     },
     {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 183,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
-      "_is_inplay": false
-    },
-    {
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "volume": 43,
-      "quota": 1.69,
+      "volume": 21,
+      "quota": 1.73,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -226,20 +240,6 @@
       "source": "Betfair",
       "event_id": "35582787",
       "market_id": "1.258364599",
-      "_is_inplay": false
-    },
-    {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 15,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -362,9 +362,9 @@
       "event_id": "bf_1.258432791",
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 628,
       "whale_max": 0,
       "entered": false
     },
@@ -524,7 +524,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 183,
+      "volume": 1815,
       "whale_max": 0,
       "entered": false
     },
