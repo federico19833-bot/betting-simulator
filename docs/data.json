@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:12:01",
+  "last_update": "20/05/2026 22:12:36",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "Fortaleza FC v Orsomarso",
       "campionato": "Colombian Cup",
-      "volume": 1820,
+      "volume": 1883,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -45,20 +45,6 @@
       "event_id": "35630119",
       "market_id": "1.258396987",
       "_is_inplay": true
-    },
-    {
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1815,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
-      "_is_inplay": false
     },
     {
       "match": "Gremio v Palestino",
@@ -86,6 +72,20 @@
       "source": "Betfair",
       "event_id": "35586972",
       "market_id": "1.258364578",
+      "_is_inplay": false
+    },
+    {
+      "match": "Santos v San Lorenzo",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1393,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579922",
+      "market_id": "1.258177074",
       "_is_inplay": false
     },
     {
@@ -119,7 +119,7 @@
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1275,
+      "volume": 1225,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -203,8 +203,8 @@
     {
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "volume": 21,
-      "quota": 1.73,
+      "volume": 143,
+      "quota": 1.69,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -334,7 +334,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 1275,
+      "volume": 1225,
       "whale_max": 0,
       "entered": false
     },
@@ -524,7 +524,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1815,
+      "volume": 1393,
       "whale_max": 0,
       "entered": false
     },
@@ -534,7 +534,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1820,
+      "volume": 1883,
       "whale_max": 0,
       "entered": false
     },
