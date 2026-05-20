@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:10:28",
+  "last_update": "20/05/2026 20:11:02",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -22,7 +22,7 @@
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
       "volume": 20,
-      "quota": 1.26,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,7 +34,7 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 177,
+      "volume": 8113,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -47,7 +47,7 @@
     {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 347,
+      "volume": 344,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -60,8 +60,8 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 72,
-      "quota": 1.09,
+      "volume": 73,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -73,8 +73,8 @@
     {
       "match": "Al-Khaleej Saihat v Al Ahli",
       "campionato": "Saudi Professional League",
-      "volume": 50,
-      "quota": 1.11,
+      "volume": 21,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -84,7 +84,18 @@
       "market_id": "1.258316286"
     }
   ],
-  "tracked_matches": [],
+  "tracked_matches": [
+    {
+      "event_id": "bf_1.258388006",
+      "match": "FK Sileks v Shkendija",
+      "campionato": "Republic of North Macedonian Soccer",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 8113,
+      "whale_max": 0,
+      "entered": false
+    }
+  ],
   "giocate": [
     {
       "id": 1,
