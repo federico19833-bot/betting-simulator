@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 23:33:29",
+  "last_update": "20/05/2026 23:34:05",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -47,23 +47,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Independiente Petrolero v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2420,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582821",
-      "market_id": "1.258432749",
-      "_is_inplay": false
-    },
-    {
       "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2165,
+      "volume": 2153,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -128,6 +114,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Independiente Petrolero v Botafogo FR",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 798,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582821",
+      "market_id": "1.258432749",
       "_is_inplay": false
     },
     {
@@ -330,7 +330,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 2165,
+      "volume": 2153,
       "whale_max": 0,
       "entered": false
     },
@@ -490,7 +490,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.1,
-      "volume": 2420,
+      "volume": 798,
       "whale_max": 0,
       "entered": false
     },
