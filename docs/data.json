@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 23:25:03",
+  "last_update": "20/05/2026 23:25:39",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -145,6 +145,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 693,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": false
+    },
+    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 648,
@@ -156,20 +170,6 @@
       "source": "Betfair",
       "event_id": "35585859",
       "market_id": "1.258365653",
-      "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 583,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
       "_is_inplay": false
     },
     {
@@ -302,7 +302,7 @@
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 15,
-      "quota": 1.11,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -330,7 +330,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 583,
+      "volume": 693,
       "whale_max": 0,
       "entered": false
     },
