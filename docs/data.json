@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:28:21",
+  "last_update": "20/05/2026 19:28:55",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,10 +19,23 @@
   },
   "live_events": [
     {
-      "match": "Trans Narva v Paide Linnameeskond",
-      "campionato": "Estonian Premier League",
+      "match": "Cr Temouchent v US Chaouia",
+      "campionato": "Algerian Ligue 2",
       "volume": 434,
       "quota": 1.79,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258384636"
+    },
+    {
+      "match": "Trans Narva v Paide Linnameeskond",
+      "campionato": "Estonian Premier League",
+      "volume": 68,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,8 +47,8 @@
     {
       "match": "ES Setif v MC Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 68,
-      "quota": 1.13,
+      "volume": 3285,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,8 +60,8 @@
     {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 1490,
-      "quota": 1.07,
+      "volume": 802,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -60,20 +73,7 @@
     {
       "match": "Egersund v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 802,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "",
-      "market_id": "1.258314675"
-    },
-    {
-      "match": "Kongsvinger v Odds BK",
-      "campionato": "Norwegian 1st Division",
-      "volume": 49,
+      "volume": 65,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -81,20 +81,10 @@
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "",
-      "market_id": "1.258314541"
+      "market_id": "1.258314675"
     }
   ],
   "tracked_matches": [
-    {
-      "event_id": "bf_1.258314541",
-      "match": "Kongsvinger v Odds BK",
-      "campionato": "Norwegian 1st Division",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 10804,
-      "whale_max": 0,
-      "entered": false
-    },
     {
       "event_id": "bf_1.258314675",
       "match": "Egersund v Lyn",
