@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:03:39",
+  "last_update": "20/05/2026 22:04:14",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -75,20 +75,6 @@
       "_is_inplay": false
     },
     {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 750,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
-      "_is_inplay": false
-    },
-    {
       "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 722,
@@ -131,24 +117,24 @@
       "_is_inplay": false
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 446,
-      "quota": 1.08,
+      "match": "River Plate v Red Bull Bragantino",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 394,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
+      "event_id": "35587027",
+      "market_id": "1.258364980",
       "_is_inplay": false
     },
     {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 438,
-      "quota": 1.07,
+      "volume": 287,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -156,20 +142,6 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
-      "_is_inplay": false
-    },
-    {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 295,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -187,10 +159,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 146,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
+      "_is_inplay": false
+    },
+    {
       "match": "Fortaleza FC v Orsomarso",
       "campionato": "Colombian Cup",
-      "volume": 88,
-      "quota": 1.5,
+      "volume": 28,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -243,17 +229,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Santos v San Lorenzo",
+      "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 15,
-      "quota": 1.07,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35579922",
-      "market_id": "1.258177074",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -373,16 +359,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258177074",
-      "match": "Santos v San Lorenzo",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.09,
-      "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258326396",
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
@@ -416,9 +392,9 @@
       "event_id": "bf_1.258212874",
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 438,
+      "volume": 287,
       "whale_max": 0,
       "entered": false
     },
@@ -426,9 +402,9 @@
       "event_id": "bf_1.258395768",
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 446,
+      "volume": 146,
       "whale_max": 0,
       "entered": false
     },
@@ -528,7 +504,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 750,
+      "volume": 394,
       "whale_max": 0,
       "entered": false
     },
@@ -546,9 +522,9 @@
       "event_id": "bf_1.258396987",
       "match": "Fortaleza FC v Orsomarso",
       "campionato": "Colombian Cup",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 28,
       "whale_max": 0,
       "entered": false
     },
