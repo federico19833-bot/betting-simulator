@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:42:59",
+  "last_update": "21/05/2026 01:43:37",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,18 +19,18 @@
   },
   "live_events": [
     {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 4960,
-      "quota": 1.05,
+      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
+      "campionato": "Colombian Cup",
+      "volume": 3783,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
+      "event_id": "35629786",
+      "market_id": "1.258396051",
+      "_is_inplay": false
     },
     {
       "match": "Fortaleza EC v Sport Recife",
@@ -229,6 +229,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 74,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
+    },
+    {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 56,
@@ -241,20 +255,6 @@
       "event_id": "35579862",
       "market_id": "1.258364926",
       "_is_inplay": false
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 52,
-      "quota": 3.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": true
     },
     {
       "match": "Cusco FC v Ind Medellin",
@@ -299,18 +299,18 @@
       "_is_inplay": false
     },
     {
-      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
-      "campionato": "Colombian Cup",
-      "volume": 12,
-      "quota": 1.12,
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 4,
+      "quota": 3.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35629786",
-      "market_id": "1.258396051",
-      "_is_inplay": false
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": true
     }
   ],
   "tracked_matches": [
@@ -508,9 +508,9 @@
       "event_id": "bf_1.258364557",
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 4960,
+      "volume": 74,
       "whale_max": 0,
       "entered": true
     }
