@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 22:09:03",
+  "last_update": "20/05/2026 22:09:39",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -119,8 +119,8 @@
     {
       "match": "Santos v San Lorenzo",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1194,
-      "quota": 1.08,
+      "volume": 1087,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -173,20 +173,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Llaneros FC v Boyaca Patriotas",
-      "campionato": "Colombian Cup",
-      "volume": 588,
-      "quota": 1.52,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630095",
-      "market_id": "1.258397010",
-      "_is_inplay": false
-    },
-    {
       "match": "EC Vitoria Salvador v ABC RN",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 545,
@@ -212,6 +198,20 @@
       "source": "Betfair",
       "event_id": "35622064",
       "market_id": "1.258326396",
+      "_is_inplay": false
+    },
+    {
+      "match": "Llaneros FC v Boyaca Patriotas",
+      "campionato": "Colombian Cup",
+      "volume": 118,
+      "quota": 1.64,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630095",
+      "market_id": "1.258397010",
       "_is_inplay": false
     },
     {
@@ -522,9 +522,9 @@
       "event_id": "bf_1.258177074",
       "match": "Santos v San Lorenzo",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1194,
+      "volume": 1087,
       "whale_max": 0,
       "entered": false
     },
