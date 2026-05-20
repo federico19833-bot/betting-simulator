@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 21:56:35",
+  "last_update": "20/05/2026 21:57:09",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -49,7 +49,7 @@
     {
       "match": "Llaneros FC v Boyaca Patriotas",
       "campionato": "Colombian Cup",
-      "volume": 1287,
+      "volume": 1172,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -63,7 +63,7 @@
     {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1221,
+      "volume": 1164,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -161,7 +161,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 64,
+      "volume": 94,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -199,6 +199,20 @@
       "event_id": "35625128",
       "market_id": "1.258360012",
       "_is_inplay": true
+    },
+    {
+      "match": "Fortaleza FC v Orsomarso",
+      "campionato": "Colombian Cup",
+      "volume": 15,
+      "quota": 1.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630119",
+      "market_id": "1.258396987",
+      "_is_inplay": false
     },
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
@@ -311,20 +325,6 @@
       "event_id": "35585859",
       "market_id": "1.258365653",
       "_is_inplay": false
-    },
-    {
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "volume": 5,
-      "quota": 9.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629149",
-      "market_id": "1.258393671",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -334,7 +334,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1287,
+      "volume": 1172,
       "whale_max": 0,
       "entered": false
     },
@@ -469,16 +469,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258393671",
-      "match": "Talleres v Atl Tucuman",
-      "campionato": "Argentinian Cup",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.1,
-      "volume": 580,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258396051",
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
@@ -544,7 +534,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 64,
+      "volume": 94,
       "whale_max": 0,
       "entered": false
     }
