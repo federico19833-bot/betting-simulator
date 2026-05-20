@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:18:35",
+  "last_update": "21/05/2026 00:19:12",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -75,23 +75,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2371,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
-    },
-    {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1875,
+      "volume": 1878,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -143,6 +129,20 @@
       "event_id": "35616713",
       "market_id": "1.258341964",
       "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1146,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
     },
     {
       "match": "Inter Kashi v Quess East Bengal",
@@ -215,20 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Nacional (Uru) v Universitario de Deportes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 534,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581247",
-      "market_id": "1.258364557",
-      "_is_inplay": true
-    },
-    {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 533,
@@ -257,6 +243,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Nacional (Uru) v Universitario de Deportes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 131,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581247",
+      "market_id": "1.258364557",
+      "_is_inplay": true
+    },
+    {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
       "volume": 118,
@@ -273,8 +273,8 @@
     {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 104,
-      "quota": 1.16,
+      "volume": 65,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -344,7 +344,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 2371,
+      "volume": 1146,
       "whale_max": 0,
       "entered": false
     },
@@ -444,7 +444,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1875,
+      "volume": 1878,
       "whale_max": 0,
       "entered": false
     },
