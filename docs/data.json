@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:04:45",
+  "last_update": "21/05/2026 01:05:23",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -47,34 +47,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 1841,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 1639,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
-      "_is_inplay": false
-    },
-    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 1349,
@@ -100,6 +72,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 1210,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
       "_is_inplay": false
     },
     {
@@ -187,6 +173,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 291,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
+      "_is_inplay": false
+    },
+    {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
       "volume": 231,
@@ -212,6 +212,20 @@
       "source": "Betfair",
       "event_id": "35585859",
       "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 24,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
       "_is_inplay": false
     },
     {
@@ -298,7 +312,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 1841,
+      "volume": 1210,
       "whale_max": 0,
       "entered": false
     },
@@ -416,9 +430,9 @@
       "event_id": "bf_1.258432791",
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1639,
+      "volume": 291,
       "whale_max": 0,
       "entered": false
     },
