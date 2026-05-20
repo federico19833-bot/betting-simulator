@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 19:16:02",
+  "last_update": "20/05/2026 19:16:36",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Cr Temouchent v US Chaouia",
       "campionato": "Algerian Ligue 2",
-      "volume": 73,
-      "quota": 1.08,
+      "volume": 2041,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -60,7 +60,7 @@
     {
       "match": "Asane v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
-      "volume": 5183,
+      "volume": 5210,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -69,6 +69,19 @@
       "source": "Betfair",
       "event_id": "",
       "market_id": "1.258314627"
+    },
+    {
+      "match": "Ranheim IL v Hodd",
+      "campionato": "Norwegian 1st Division",
+      "volume": 76,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "",
+      "market_id": "1.258314606"
     },
     {
       "match": "Egersund v Lyn",
@@ -86,7 +99,7 @@
     {
       "match": "Kongsvinger v Odds BK",
       "campionato": "Norwegian 1st Division",
-      "volume": 9636,
+      "volume": 9632,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -99,7 +112,7 @@
     {
       "match": "GAIS v Hammarby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 65,
+      "volume": 1297,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -147,7 +160,7 @@
       "campionato": "Norwegian 1st Division",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 9636,
+      "volume": 9632,
       "whale_max": 0,
       "entered": false
     }
