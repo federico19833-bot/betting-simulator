@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 23:30:28",
+  "last_update": "20/05/2026 23:31:05",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -131,20 +131,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Boston River v OHiggins",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 703,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35586972",
-      "market_id": "1.258364578",
-      "_is_inplay": false
-    },
-    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 648,
@@ -203,7 +189,7 @@
     {
       "match": "Olimpia v Vasco Da Gama",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 468,
+      "volume": 281,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -217,7 +203,7 @@
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 96,
+      "volume": 28,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -254,6 +240,20 @@
       "source": "Betfair",
       "event_id": "35581247",
       "market_id": "1.258364557",
+      "_is_inplay": false
+    },
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -330,7 +330,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 468,
+      "volume": 281,
       "whale_max": 0,
       "entered": false
     },
@@ -420,7 +420,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 96,
+      "volume": 28,
       "whale_max": 0,
       "entered": false
     },
@@ -470,7 +470,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 703,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
