@@ -1,5 +1,5 @@
 {
-  "last_update": "20/05/2026 20:56:51",
+  "last_update": "20/05/2026 20:57:28",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "FK Sileks v Shkendija",
       "campionato": "Republic of North Macedonian Soccer",
-      "volume": 14801,
+      "volume": 14556,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -35,8 +35,8 @@
     {
       "match": "Union Brescia v S.S.D. Casarano Calcio",
       "campionato": "Italian Serie C",
-      "volume": 49,
-      "quota": 1.16,
+      "volume": 145,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,7 +49,7 @@
     {
       "match": "Ascoli v Potenza",
       "campionato": "Italian Serie C",
-      "volume": 38,
+      "volume": 18,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -63,7 +63,7 @@
     {
       "match": "Ravenna v Salernitana",
       "campionato": "Italian Serie C",
-      "volume": 134,
+      "volume": 153,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -105,7 +105,7 @@
     {
       "match": "Talleres v Atl Tucuman",
       "campionato": "Argentinian Cup",
-      "volume": 29,
+      "volume": 37,
       "quota": 1.45,
       "in_range": false,
       "monitored": false,
@@ -170,6 +170,20 @@
       "source": "Betfair",
       "event_id": "35582787",
       "market_id": "1.258364599",
+      "_is_inplay": false
+    },
+    {
+      "match": "Boston River v OHiggins",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35586972",
+      "market_id": "1.258364578",
       "_is_inplay": false
     },
     {
@@ -362,7 +376,7 @@
       "campionato": "Republic of North Macedonian Soccer",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 14801,
+      "volume": 14556,
       "whale_max": 0,
       "entered": true
     }
