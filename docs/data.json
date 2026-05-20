@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 01:54:36",
+  "last_update": "21/05/2026 01:55:15",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 3418,
+      "volume": 3394,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -45,34 +45,6 @@
       "event_id": "35581247",
       "market_id": "1.258364557",
       "_is_inplay": true
-    },
-    {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 1738,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
-      "match": "Fortaleza EC v Sport Recife",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 1648,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627039",
-      "market_id": "1.258432791",
-      "_is_inplay": false
     },
     {
       "match": "Shakhtar v Kolos Kovalyovka",
@@ -100,6 +72,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Fortaleza EC v Sport Recife",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 1218,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627039",
+      "market_id": "1.258432791",
       "_is_inplay": false
     },
     {
@@ -133,7 +119,7 @@
     {
       "match": "Gremio v Palestino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 826,
+      "volume": 733,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -170,6 +156,20 @@
       "source": "Betfair",
       "event_id": "35630455",
       "market_id": "1.258404542",
+      "_is_inplay": false
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 203,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
       "_is_inplay": false
     },
     {
@@ -227,20 +227,6 @@
       "event_id": "35580128",
       "market_id": "1.258212853",
       "_is_inplay": false
-    },
-    {
-      "match": "Columbus v New York City",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 15,
-      "quota": 10.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622064",
-      "market_id": "1.258326396",
-      "_is_inplay": true
     },
     {
       "match": "Independiente Petrolero v Botafogo FR",
@@ -311,6 +297,20 @@
       "event_id": "35629786",
       "market_id": "1.258396051",
       "_is_inplay": false
+    },
+    {
+      "match": "Columbus v New York City",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 4,
+      "quota": 10.0,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622064",
+      "market_id": "1.258326396",
+      "_is_inplay": true
     }
   ],
   "tracked_matches": [
@@ -330,7 +330,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.06,
-      "volume": 1738,
+      "volume": 203,
       "whale_max": 0,
       "entered": false
     },
@@ -430,7 +430,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.01,
-      "volume": 826,
+      "volume": 733,
       "whale_max": 0,
       "entered": false
     },
@@ -440,7 +440,7 @@
       "campionato": "Brazilian Copa do Nordeste",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1648,
+      "volume": 1218,
       "whale_max": 0,
       "entered": false
     },
@@ -500,7 +500,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 3418,
+      "volume": 3394,
       "whale_max": 0,
       "entered": true
     },
