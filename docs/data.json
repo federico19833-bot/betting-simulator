@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:33:38",
+  "last_update": "21/05/2026 00:34:14",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -77,7 +77,7 @@
     {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1875,
+      "volume": 1860,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -157,6 +157,20 @@
       "event_id": "35629776",
       "market_id": "1.258395768",
       "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1042,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
     },
     {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
@@ -243,20 +257,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 181,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
-    },
-    {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
       "volume": 118,
@@ -316,7 +316,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 1875,
+      "volume": 1860,
       "whale_max": 0,
       "entered": false
     },
