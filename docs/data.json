@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 00:07:46",
+  "last_update": "21/05/2026 00:08:22",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,9 +19,23 @@
   },
   "live_events": [
     {
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 4634,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579862",
+      "market_id": "1.258364926",
+      "_is_inplay": false
+    },
+    {
       "match": "Nacional (Uru) v Universitario de Deportes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 3002,
+      "volume": 3706,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -35,7 +49,7 @@
     {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 2314,
+      "volume": 2318,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -45,20 +59,6 @@
       "event_id": "35585859",
       "market_id": "1.258365653",
       "_is_inplay": false
-    },
-    {
-      "match": "Olimpia v Vasco Da Gama",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2259,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582787",
-      "market_id": "1.258364599",
-      "_is_inplay": true
     },
     {
       "match": "Independiente Petrolero v Botafogo FR",
@@ -143,6 +143,20 @@
       "event_id": "35629776",
       "market_id": "1.258395768",
       "_is_inplay": false
+    },
+    {
+      "match": "Olimpia v Vasco Da Gama",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 931,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582787",
+      "market_id": "1.258364599",
+      "_is_inplay": true
     },
     {
       "match": "Shakhtar v Kolos Kovalyovka",
@@ -245,7 +259,7 @@
     {
       "match": "Fortaleza EC v Sport Recife",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 73,
+      "volume": 69,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -259,7 +273,7 @@
     {
       "match": "Boston River v OHiggins",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 37,
+      "volume": 49,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -299,20 +313,6 @@
       "_is_inplay": false
     },
     {
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 15,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579862",
-      "market_id": "1.258364926",
-      "_is_inplay": false
-    },
-    {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 15,
@@ -334,7 +334,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 3002,
+      "volume": 3706,
       "whale_max": 0,
       "entered": false
     },
@@ -344,7 +344,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 2259,
+      "volume": 931,
       "whale_max": 0,
       "entered": false
     },
@@ -424,7 +424,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.06,
-      "volume": 2314,
+      "volume": 2318,
       "whale_max": 0,
       "entered": false
     },
@@ -432,9 +432,9 @@
       "event_id": "bf_1.258364926",
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 4634,
       "whale_max": 0,
       "entered": false
     },
