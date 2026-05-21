@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:34:59",
+  "last_update": "21/05/2026 13:35:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 34295,
+      "volume": 34409,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 1946,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 1392,
@@ -107,6 +92,21 @@
       "market_id": "1.258354938",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
+      "match": "Bouhajla v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 1210,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631640",
+      "market_id": "1.258432678",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -152,6 +152,21 @@
       "market_id": "1.258438109",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 535,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -231,7 +246,7 @@
     {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 137,
+      "volume": 136,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -411,7 +426,7 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1946,
+      "volume": 535,
       "whale_max": 0,
       "entered": false
     },
@@ -551,7 +566,7 @@
       "campionato": "Kuwaiti Premier League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 137,
+      "volume": 136,
       "whale_max": 0,
       "entered": false
     },
@@ -576,12 +591,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258390442",
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 34295,
+      "event_id": "bf_1.258432678",
+      "match": "Bouhajla v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 1210,
       "whale_max": 0,
       "entered": false
     }
