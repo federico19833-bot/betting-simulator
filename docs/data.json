@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 05:33:05",
+  "last_update": "21/05/2026 05:33:46",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -117,6 +117,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Cebrayil FK v Simal FK",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 756,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630420",
+      "market_id": "1.258404457",
+      "_is_inplay": false
+    },
+    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 549,
@@ -175,7 +189,7 @@
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 184,
+      "volume": 142,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -229,20 +243,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Cebrayil FK v Simal FK",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630420",
-      "market_id": "1.258404457",
-      "_is_inplay": false
-    },
-    {
       "match": "Inter Kashi v Quess East Bengal",
       "campionato": "Indian Super League",
       "volume": 15,
@@ -272,9 +272,9 @@
       "event_id": "bf_1.258404457",
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 756,
       "whale_max": 0,
       "entered": false
     },
@@ -404,7 +404,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 184,
+      "volume": 142,
       "whale_max": 0,
       "entered": false
     }
