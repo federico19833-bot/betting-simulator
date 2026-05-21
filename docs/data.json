@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:28:25",
+  "last_update": "21/05/2026 13:29:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 1881,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
       "match": "Wadi Degla v ZED FC",
       "campionato": "Egyptian Premier",
       "volume": 1800,
@@ -152,21 +167,6 @@
       "market_id": "1.258438109",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 513,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -411,7 +411,7 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 513,
+      "volume": 1881,
       "whale_max": 0,
       "entered": false
     },
@@ -572,6 +572,16 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
