@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 23:50:10",
+  "last_update": "21/05/2026 23:50:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,21 +49,6 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 4154,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "match": "PFK Turan Tovuz v FC Sabah",
       "campionato": "Azerbaijan Premier League",
       "volume": 3153,
@@ -81,7 +66,7 @@
     {
       "match": "Union Magdalena v Bogota",
       "campionato": "Colombian Primera B",
-      "volume": 2911,
+      "volume": 2687,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -96,7 +81,7 @@
     {
       "match": "Deportivo La Guaira v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1678,
+      "volume": 1663,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -212,6 +197,21 @@
       "market_id": "1.258386323",
       "_is_inplay": false,
       "open_date": "2026-05-22T14:00:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 155,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
@@ -457,16 +457,6 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 336,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258447234",
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.1,
-      "volume": 4154,
       "whale_max": 0,
       "entered": false
     }
