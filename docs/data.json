@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:56:47",
+  "last_update": "21/05/2026 02:57:27",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -30,6 +30,20 @@
       "source": "Betfair",
       "event_id": "35579862",
       "market_id": "1.258364926",
+      "_is_inplay": true
+    },
+    {
+      "match": "LDU v Lanus",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 2274,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579877",
+      "market_id": "1.258364959",
       "_is_inplay": true
     },
     {
@@ -119,8 +133,8 @@
     {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
-      "volume": 914,
-      "quota": 1.16,
+      "volume": 959,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -142,6 +156,20 @@
       "source": "Betfair",
       "event_id": "35633192",
       "market_id": "1.258438109",
+      "_is_inplay": false
+    },
+    {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 435,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
       "_is_inplay": false
     },
     {
@@ -201,20 +229,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 151,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": true
-    },
-    {
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
       "volume": 138,
@@ -227,20 +241,6 @@
       "event_id": "35623020",
       "market_id": "1.258342006",
       "_is_inplay": false
-    },
-    {
-      "match": "LDU v Lanus",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 135,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579877",
-      "market_id": "1.258364959",
-      "_is_inplay": true
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -271,20 +271,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 117,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
-      "_is_inplay": false
-    },
-    {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 100,
@@ -301,7 +287,7 @@
     {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 23,
+      "volume": 48,
       "quota": 1.27,
       "in_range": false,
       "monitored": false,
@@ -311,6 +297,20 @@
       "event_id": "35585859",
       "market_id": "1.258365653",
       "_is_inplay": false
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 21,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
+      "_is_inplay": true
     }
   ],
   "tracked_matches": [
