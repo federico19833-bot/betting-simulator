@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:52:27",
+  "last_update": "21/05/2026 09:53:08",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -173,20 +173,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Ajax v FC Groningen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 488,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622058",
-      "market_id": "1.258325413",
-      "_is_inplay": false
-    },
-    {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
       "volume": 386,
@@ -240,6 +226,20 @@
       "source": "Betfair",
       "event_id": "35625500",
       "market_id": "1.258359431",
+      "_is_inplay": false
+    },
+    {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 194,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
       "_is_inplay": false
     },
     {
@@ -528,7 +528,7 @@
       "campionato": "Dutch Eredivisie",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 488,
+      "volume": 194,
       "whale_max": 0,
       "entered": false
     },
