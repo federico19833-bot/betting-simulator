@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 22:01:26",
+  "last_update": "21/05/2026 22:02:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1173,
+      "volume": 1174,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "Cruz Azul v Pumas UNAM",
+      "campionato": "Mexican Liga MX",
+      "volume": 982,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623162",
+      "market_id": "1.258436312",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T02:00:00.000Z"
+    },
+    {
       "match": "FK Sahdag Qusar v Baku Sporting",
       "campionato": "Azerbaijan 1st Division",
       "volume": 947,
@@ -156,7 +171,7 @@
     {
       "match": "Wolfsburg v Paderborn",
       "campionato": "German Playoff",
-      "volume": 805,
+      "volume": 802,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -214,36 +229,6 @@
       "open_date": "2026-05-22T13:00:00.000Z"
     },
     {
-      "match": "Cruz Azul v Pumas UNAM",
-      "campionato": "Mexican Liga MX",
-      "volume": 307,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623162",
-      "market_id": "1.258436312",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T02:00:00.000Z"
-    },
-    {
-      "match": "Aguilas Doradas v Deportivo Pereira",
-      "campionato": "Colombian Cup",
-      "volume": 240,
-      "quota": 1.86,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634352",
-      "market_id": "1.258447318",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T20:30:00.000Z"
-    },
-    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 140,
@@ -274,9 +259,24 @@
       "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
+      "match": "Union Magdalena v Bogota",
+      "campionato": "Colombian Primera B",
+      "volume": 38,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632607",
+      "market_id": "1.258434758",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T21:00:00.000Z"
+    },
+    {
       "match": "FC Utrecht v Heerenveen",
       "campionato": "Dutch Eredivisie",
-      "volume": 28,
+      "volume": 23,
       "quota": 1.63,
       "in_range": false,
       "monitored": false,
@@ -317,21 +317,6 @@
       "market_id": "1.258440989",
       "_is_inplay": false,
       "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
-      "match": "Union Magdalena v Bogota",
-      "campionato": "Colombian Primera B",
-      "volume": 13,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632607",
-      "market_id": "1.258434758",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T21:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -361,7 +346,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1173,
+      "volume": 1174,
       "whale_max": 0,
       "entered": false
     },
@@ -421,7 +406,7 @@
       "campionato": "Mexican Liga MX",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 307,
+      "volume": 982,
       "whale_max": 0,
       "entered": false
     },
@@ -441,7 +426,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 13,
+      "volume": 38,
       "whale_max": 0,
       "entered": false
     },
