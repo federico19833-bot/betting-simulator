@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 20:40:15",
+  "last_update": "21/05/2026 20:41:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
-      "volume": 23379,
+      "volume": 20448,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,36 @@
       "market_id": "1.258315414",
       "_is_inplay": true,
       "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
+      "match": "Al-Kholood Club v Al-Fateh (KSA)",
+      "campionato": "Saudi Professional League",
+      "volume": 7324,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35617317",
+      "market_id": "1.258358187",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:00:00.000Z"
+    },
+    {
+      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
+      "campionato": "Saudi Professional League",
+      "volume": 4834,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35613629",
+      "market_id": "1.258358271",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
       "match": "Real Cartagena v Barranquilla",
@@ -66,7 +96,7 @@
     {
       "match": "PFK Turan Tovuz v FC Sabah",
       "campionato": "Azerbaijan Premier League",
-      "volume": 1524,
+      "volume": 1525,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -184,6 +214,21 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "Yellow-Red Mechelen v Club Brugge",
+      "campionato": "Belgian Pro League",
+      "volume": 691,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620490",
+      "market_id": "1.258315547",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
       "match": "Energetik Mingechevir v Sabail",
       "campionato": "Azerbaijan 1st Division",
       "volume": 659,
@@ -244,36 +289,6 @@
       "open_date": "2026-05-21T21:00:00.000Z"
     },
     {
-      "match": "Al-Kholood Club v Al-Fateh (KSA)",
-      "campionato": "Saudi Professional League",
-      "volume": 236,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35617317",
-      "market_id": "1.258358187",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
-      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
-      "campionato": "Saudi Professional League",
-      "volume": 217,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35613629",
-      "market_id": "1.258358271",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 140,
@@ -302,21 +317,6 @@
       "market_id": "1.258432315",
       "_is_inplay": false,
       "open_date": "2026-05-22T02:00:00.000Z"
-    },
-    {
-      "match": "Yellow-Red Mechelen v Club Brugge",
-      "campionato": "Belgian Pro League",
-      "volume": 69,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620490",
-      "market_id": "1.258315547",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
@@ -551,16 +551,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258358187",
-      "match": "Al-Kholood Club v Al-Fateh (KSA)",
-      "campionato": "Saudi Professional League",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.05,
-      "volume": 236,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
@@ -586,7 +576,7 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1524,
+      "volume": 1525,
       "whale_max": 0,
       "entered": false
     },
@@ -594,19 +584,9 @@
       "event_id": "bf_1.258358271",
       "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
       "campionato": "Saudi Professional League",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 217,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258315414",
-      "match": "Gent v Union St Gilloise",
-      "campionato": "Belgian Pro League",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 23379,
+      "volume": 4834,
       "whale_max": 0,
       "entered": false
     }
