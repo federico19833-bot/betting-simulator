@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 16:05:43",
+  "last_update": "21/05/2026 16:06:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -216,7 +216,7 @@
     {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "volume": 184,
+      "volume": 169,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -255,6 +255,21 @@
       "source": "Betfair",
       "event_id": "35616713",
       "market_id": "1.258341964",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "match": "Inter Kashi v Quess East Bengal",
+      "campionato": "Indian Super League",
+      "volume": 75,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619970",
+      "market_id": "1.258350437",
       "_is_inplay": true,
       "open_date": "2026-05-21T14:00:00.000Z"
     },
@@ -591,7 +606,7 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 184,
+      "volume": 169,
       "whale_max": 0,
       "entered": false
     },
@@ -622,6 +637,36 @@
       "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
       "volume": 78,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258350437",
+      "match": "Inter Kashi v Quess East Bengal",
+      "campionato": "Indian Super League",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 75,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258354980",
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 245,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258354938",
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 13098,
       "whale_max": 0,
       "entered": false
     }
