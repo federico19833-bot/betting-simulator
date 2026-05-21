@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 23:08:19",
+  "last_update": "21/05/2026 23:08:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
-      "volume": 1314,
+      "volume": 1310,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -77,21 +77,6 @@
       "market_id": "1.258447318",
       "_is_inplay": true,
       "open_date": "2026-05-21T20:30:00.000Z"
-    },
-    {
-      "match": "Slavia Sofia v Montana",
-      "campionato": "Bulgarian A League",
-      "volume": 971,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625554",
-      "market_id": "1.258359504",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
       "match": "Botev Vratsa v Beroe Stara Za",
@@ -107,21 +92,6 @@
       "market_id": "1.258360405",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "Penarol v Corinthians",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 863,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35583980",
-      "market_id": "1.258251313",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Energetik Mingechevir v Sabail",
@@ -214,6 +184,21 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "volume": 234,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625554",
+      "market_id": "1.258359504",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T12:30:00.000Z"
+    },
+    {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
       "volume": 191,
@@ -259,9 +244,24 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "Penarol v Corinthians",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 64,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35583980",
+      "market_id": "1.258251313",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Racing Club v Caracas",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 27,
+      "volume": 17,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -406,7 +406,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 27,
+      "volume": 17,
       "whale_max": 0,
       "entered": false
     },
@@ -424,9 +424,9 @@
       "event_id": "bf_1.258359504",
       "match": "Slavia Sofia v Montana",
       "campionato": "Bulgarian A League",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 971,
+      "volume": 234,
       "whale_max": 0,
       "entered": false
     },
