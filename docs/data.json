@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 03:52:43",
+  "last_update": "21/05/2026 03:53:25",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 4689,
+      "volume": 4703,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -231,8 +231,8 @@
     {
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 45,
-      "quota": 1.75,
+      "volume": 77,
+      "quota": 1.88,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -241,6 +241,20 @@
       "event_id": "35630420",
       "market_id": "1.258404457",
       "_is_inplay": false
+    },
+    {
+      "match": "Flamengo v Estudiantes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 48,
+      "quota": 1.82,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580140",
+      "market_id": "1.258212874",
+      "_is_inplay": true
     },
     {
       "match": "Cusco FC v Ind Medellin",
@@ -364,7 +378,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 4689,
+      "volume": 4703,
       "whale_max": 0,
       "entered": false
     },
