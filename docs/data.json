@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:05:29",
+  "last_update": "21/05/2026 02:06:10",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,10 +33,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Independiente Petrolero v Botafogo FR",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 3509,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582821",
+      "market_id": "1.258432749",
+      "_is_inplay": true
+    },
+    {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 3732,
-      "quota": 1.08,
+      "volume": 3496,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,18 +61,18 @@
       "_is_inplay": false
     },
     {
-      "match": "Independiente Petrolero v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 3064,
-      "quota": 1.14,
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 2232,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35582821",
-      "market_id": "1.258432749",
-      "_is_inplay": true
+      "event_id": "35579862",
+      "market_id": "1.258364926",
+      "_is_inplay": false
     },
     {
       "match": "Bouhajla v Sportive De Tunis",
@@ -77,7 +91,7 @@
     {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1476,
+      "volume": 1453,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -161,7 +175,7 @@
     {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
-      "volume": 826,
+      "volume": 818,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -175,7 +189,7 @@
     {
       "match": "Columbus v New York City",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 275,
+      "volume": 479,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -245,7 +259,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 90,
+      "volume": 15,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -259,7 +273,7 @@
     {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 36,
+      "volume": 15,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -268,20 +282,6 @@
       "source": "Betfair",
       "event_id": "35580128",
       "market_id": "1.258212853",
-      "_is_inplay": false
-    },
-    {
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 24,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579862",
-      "market_id": "1.258364926",
       "_is_inplay": false
     },
     {
@@ -304,9 +304,9 @@
       "event_id": "bf_1.258212874",
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 3732,
+      "volume": 3496,
       "whale_max": 0,
       "entered": false
     },
@@ -326,7 +326,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.08,
-      "volume": 36,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -346,7 +346,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.05,
-      "volume": 826,
+      "volume": 818,
       "whale_max": 0,
       "entered": false
     },
@@ -376,7 +376,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 1476,
+      "volume": 1453,
       "whale_max": 0,
       "entered": true
     },
@@ -426,7 +426,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 275,
+      "volume": 479,
       "whale_max": 0,
       "entered": false
     },
@@ -454,9 +454,9 @@
       "event_id": "bf_1.258364926",
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 24,
+      "volume": 2232,
       "whale_max": 0,
       "entered": false
     },
@@ -496,7 +496,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 90,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     }
