@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 03:05:00",
+  "last_update": "21/05/2026 03:05:41",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "volume": 2811,
+      "volume": 3652,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -105,8 +105,8 @@
     {
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 1001,
-      "quota": 1.07,
+      "volume": 1313,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -114,6 +114,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 1198,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
       "_is_inplay": false
     },
     {
@@ -201,20 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 146,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
-      "_is_inplay": false
-    },
-    {
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
       "volume": 138,
@@ -283,20 +283,6 @@
       "event_id": "35587027",
       "market_id": "1.258364980",
       "_is_inplay": true
-    },
-    {
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 23,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35585859",
-      "market_id": "1.258365653",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -414,9 +400,9 @@
       "event_id": "bf_1.258327129",
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1001,
+      "volume": 1313,
       "whale_max": 0,
       "entered": false
     },
