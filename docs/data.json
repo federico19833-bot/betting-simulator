@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 22:11:45",
+  "last_update": "21/05/2026 22:12:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -9,13 +9,13 @@
   },
   "stats": {
     "total": 41,
-    "wins": 25,
+    "wins": 30,
     "losses": 4,
-    "in_corso": 12,
-    "winrate": 86.2,
-    "profit": -257.51,
-    "roi": -6.28,
-    "balance": 742.49
+    "in_corso": 7,
+    "winrate": 88.2,
+    "profit": -216.66,
+    "roi": -5.28,
+    "balance": 783.34
   },
   "live_events": [
     {
@@ -94,6 +94,21 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "CD Marathon v CD Motagua",
+      "campionato": "Honduras Liga Nacional",
+      "volume": 1140,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631728",
+      "market_id": "1.258432315",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T02:00:00.000Z"
+    },
+    {
       "match": "El Gounah v El Geish",
       "campionato": "Egyptian Premier",
       "volume": 1128,
@@ -107,21 +122,6 @@
       "market_id": "1.258386323",
       "_is_inplay": false,
       "open_date": "2026-05-22T14:00:00.000Z"
-    },
-    {
-      "match": "CD Marathon v CD Motagua",
-      "campionato": "Honduras Liga Nacional",
-      "volume": 1125,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631728",
-      "market_id": "1.258432315",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
       "match": "Zaqatala v Shafa Baku FC",
@@ -246,7 +246,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 101,
+      "volume": 77,
       "quota": 2.04,
       "in_range": false,
       "monitored": false,
@@ -257,21 +257,6 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
-      "match": "Aguilas Doradas v Deportivo Pereira",
-      "campionato": "Colombian Cup",
-      "volume": 68,
-      "quota": 3.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634352",
-      "market_id": "1.258447318",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T20:30:00.000Z"
     },
     {
       "match": "Jaguares de Cordoba v Independiente Yumbo",
@@ -307,7 +292,7 @@
       "match": "Deportivo La Guaira v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 13,
-      "quota": 1.04,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -386,7 +371,7 @@
       "campionato": "Honduras Liga Nacional",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 1125,
+      "volume": 1140,
       "whale_max": 0,
       "entered": false
     },
@@ -434,7 +419,7 @@
       "event_id": "bf_1.258212811",
       "match": "Deportivo La Guaira v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
       "volume": 13,
       "whale_max": 0,
@@ -607,8 +592,8 @@
       "campionato": "Bahraini Premier",
       "quota": 1.09,
       "volume": 13098,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 8.55,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -619,8 +604,8 @@
       "campionato": "Kuwaiti Premier League",
       "quota": 1.08,
       "volume": 523,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 7.6,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -631,8 +616,8 @@
       "campionato": "Greek Super League",
       "quota": 1.09,
       "volume": 38992,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 8.55,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -643,8 +628,8 @@
       "campionato": "Italian Campionato Primavera",
       "quota": 1.08,
       "volume": 30984,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 7.6,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -655,8 +640,8 @@
       "campionato": "Bahraini Premier",
       "quota": 1.09,
       "volume": 30906,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 8.55,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
