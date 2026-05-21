@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 01:19:19",
+  "last_update": "22/05/2026 01:19:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 15633,
+      "volume": 14287,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
-      "match": "Macara v Alianza Atletico",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1133,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582817",
-      "market_id": "1.258406330",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T02:00:00.000Z"
-    },
-    {
       "match": "FK Sahdag Qusar v Baku Sporting",
       "campionato": "Azerbaijan 1st Division",
       "volume": 947,
@@ -107,6 +92,21 @@
       "market_id": "1.258404394",
       "_is_inplay": false,
       "open_date": "2026-05-22T13:00:00.000Z"
+    },
+    {
+      "match": "Macara v Alianza Atletico",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 794,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582817",
+      "market_id": "1.258406330",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
       "match": "Zeleznicar Pancevo v Cukaricki",
@@ -336,7 +336,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1133,
+      "volume": 794,
       "whale_max": 0,
       "entered": false
     },
@@ -397,6 +397,16 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 947,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258251357",
+      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 14287,
       "whale_max": 0,
       "entered": false
     }
