@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:10:18",
+  "last_update": "21/05/2026 06:10:59",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -86,6 +86,20 @@
       "source": "Betfair",
       "event_id": "35623020",
       "market_id": "1.258342006",
+      "_is_inplay": false
+    },
+    {
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 784,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633189",
+      "market_id": "1.258438130",
       "_is_inplay": false
     },
     {
@@ -269,20 +283,6 @@
       "event_id": "35616713",
       "market_id": "1.258341964",
       "_is_inplay": false
-    },
-    {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 15,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -390,9 +390,9 @@
       "event_id": "bf_1.258438130",
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 784,
       "whale_max": 0,
       "entered": false
     },
