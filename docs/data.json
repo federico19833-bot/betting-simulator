@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 15:04:25",
+  "last_update": "21/05/2026 15:05:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 30765,
+      "volume": 30768,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -214,21 +214,6 @@
       "open_date": "2026-05-21T12:30:00.000Z"
     },
     {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 41,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 39,
@@ -242,6 +227,21 @@
       "market_id": "1.258432701",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:30:00.000Z"
+    },
+    {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 21,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Bouhajla v Sportive De Tunis",
@@ -426,7 +426,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 30765,
+      "volume": 30768,
       "whale_max": 0,
       "entered": false
     },
@@ -571,22 +571,32 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258404542",
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 878,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258390442",
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
       "volume": 1689,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258350565",
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 21,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258310519",
+      "match": "Elfsborg v Mjallby",
+      "campionato": "Swedish Allsvenskan",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 14206,
       "whale_max": 0,
       "entered": false
     }
