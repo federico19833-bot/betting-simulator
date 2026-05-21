@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 22:13:16",
+  "last_update": "21/05/2026 22:13:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -9,13 +9,13 @@
   },
   "stats": {
     "total": 41,
-    "wins": 32,
+    "wins": 34,
     "losses": 5,
-    "in_corso": 4,
-    "winrate": 86.5,
-    "profit": -301.46,
-    "roi": -7.35,
-    "balance": 698.54
+    "in_corso": 2,
+    "winrate": 87.2,
+    "profit": -286.26,
+    "roi": -6.98,
+    "balance": 713.74
   },
   "live_events": [
     {
@@ -199,21 +199,6 @@
       "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 461,
-      "quota": 2.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "match": "Energetik Mingechevir v Sabail",
       "campionato": "Azerbaijan 1st Division",
       "volume": 334,
@@ -261,8 +246,8 @@
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
-      "volume": 28,
-      "quota": 3.45,
+      "volume": 19,
+      "quota": 3.6,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -317,6 +302,21 @@
       "market_id": "1.258212811",
       "_is_inplay": false,
       "open_date": "2026-05-21T22:00:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 14,
+      "quota": 2.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -499,8 +499,8 @@
       "campionato": "Saudi Professional League",
       "quota": 1.08,
       "volume": 9100,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 7.600000000000007,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -511,8 +511,8 @@
       "campionato": "Saudi Professional League",
       "quota": 1.08,
       "volume": 8724,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 7.6,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
