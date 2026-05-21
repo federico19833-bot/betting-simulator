@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 00:54:02",
+  "last_update": "22/05/2026 00:54:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-22T13:00:00.000Z"
     },
     {
-      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 864,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581502",
-      "market_id": "1.258251357",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Zeleznicar Pancevo v Cukaricki",
       "campionato": "Serbian Super League",
       "volume": 706,
@@ -154,9 +139,24 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
+      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 446,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581502",
+      "market_id": "1.258251357",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Blooming Santa Cruz v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 444,
+      "volume": 443,
       "quota": 3.6,
       "in_range": false,
       "monitored": false,
@@ -301,7 +301,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 864,
+      "volume": 446,
       "whale_max": 0,
       "entered": false
     },
