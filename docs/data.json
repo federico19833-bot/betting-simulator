@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:56:19",
+  "last_update": "21/05/2026 13:57:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-21T12:30:00.000Z"
     },
     {
+      "match": "Moik Baku v Agsu",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 81,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630694",
+      "market_id": "1.258409650",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T13:00:00.000Z"
+    },
+    {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
       "volume": 39,
@@ -285,21 +300,6 @@
       "source": "Betfair",
       "event_id": "35630420",
       "market_id": "1.258404457",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T13:00:00.000Z"
-    },
-    {
-      "match": "Moik Baku v Agsu",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630694",
-      "market_id": "1.258409650",
       "_is_inplay": false,
       "open_date": "2026-05-21T13:00:00.000Z"
     },
@@ -406,7 +406,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 81,
       "whale_max": 0,
       "entered": false
     },
@@ -587,6 +587,26 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 1210,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34295,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258354980",
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 312,
       "whale_max": 0,
       "entered": false
     }
