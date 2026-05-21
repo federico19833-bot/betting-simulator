@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 17:24:03",
+  "last_update": "21/05/2026 17:24:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -169,21 +169,6 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
-      "volume": 792,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623020",
-      "market_id": "1.258342006",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
       "volume": 786,
@@ -246,8 +231,8 @@
     {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "volume": 363,
-      "quota": 1.21,
+      "volume": 394,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -257,6 +242,21 @@
       "market_id": "1.258350565",
       "_is_inplay": true,
       "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 377,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "IK Tord v Skara Fc",
@@ -287,21 +287,6 @@
       "market_id": "1.258336229",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 75,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "NEOM Sports Club v Al-Ettifaq",
@@ -337,7 +322,7 @@
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
       "volume": 15,
-      "quota": 1.03,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -489,7 +474,7 @@
       "event_id": "bf_1.258354959",
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
       "volume": 15,
       "whale_max": 0,
@@ -569,9 +554,9 @@
       "event_id": "bf_1.258354938",
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 75,
+      "volume": 377,
       "whale_max": 0,
       "entered": false
     },
@@ -662,6 +647,16 @@
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
       "volume": 1448,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258358271",
+      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
+      "campionato": "Saudi Professional League",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 44086,
       "whale_max": 0,
       "entered": false
     }
