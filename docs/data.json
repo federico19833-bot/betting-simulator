@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 03:28:53",
+  "last_update": "21/05/2026 03:29:35",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 3278,
+      "volume": 3284,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -58,6 +58,20 @@
       "source": "Betfair",
       "event_id": "35632634",
       "market_id": "1.258434735",
+      "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 1775,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -213,20 +227,6 @@
       "event_id": "35579877",
       "market_id": "1.258364959",
       "_is_inplay": true
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 120,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": false
     },
     {
       "match": "Ajax v FC Groningen",
@@ -422,7 +422,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3278,
+      "volume": 3284,
       "whale_max": 0,
       "entered": false
     },
