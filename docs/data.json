@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:01:30",
+  "last_update": "21/05/2026 09:02:13",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -89,20 +89,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Wadi Degla v ZED FC",
-      "campionato": "Egyptian Premier",
-      "volume": 1211,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625597",
-      "market_id": "1.258386255",
-      "_is_inplay": false
-    },
-    {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
       "volume": 741,
@@ -128,6 +114,20 @@
       "source": "Betfair",
       "event_id": "35633192",
       "market_id": "1.258438109",
+      "_is_inplay": false
+    },
+    {
+      "match": "Wadi Degla v ZED FC",
+      "campionato": "Egyptian Premier",
+      "volume": 652,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625597",
+      "market_id": "1.258386255",
       "_is_inplay": false
     },
     {
@@ -187,6 +187,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Al Arabi Kuwait v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 222,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630923",
+      "market_id": "1.258409992",
+      "_is_inplay": false
+    },
+    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 215,
@@ -217,8 +231,8 @@
     {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
-      "volume": 38,
-      "quota": 1.08,
+      "volume": 75,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -297,20 +311,6 @@
       "event_id": "35633189",
       "market_id": "1.258438130",
       "_is_inplay": false
-    },
-    {
-      "match": "Al Arabi Kuwait v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630923",
-      "market_id": "1.258409992",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -378,9 +378,9 @@
       "event_id": "bf_1.258404542",
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 38,
+      "volume": 75,
       "whale_max": 0,
       "entered": false
     },
@@ -478,9 +478,9 @@
       "event_id": "bf_1.258409992",
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 222,
       "whale_max": 0,
       "entered": false
     },
