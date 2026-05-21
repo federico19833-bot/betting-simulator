@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 05:02:14",
+  "last_update": "21/05/2026 05:02:57",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -100,6 +100,20 @@
       "source": "Betfair",
       "event_id": "35633189",
       "market_id": "1.258438130",
+      "_is_inplay": false
+    },
+    {
+      "match": "Progres Sakiet Eddaier v JS Omrane",
+      "campionato": "Tunisian Cup",
+      "volume": 579,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631644",
+      "market_id": "1.258432701",
       "_is_inplay": false
     },
     {
@@ -241,20 +255,6 @@
       "event_id": "35619970",
       "market_id": "1.258350437",
       "_is_inplay": false
-    },
-    {
-      "match": "Progres Sakiet Eddaier v JS Omrane",
-      "campionato": "Tunisian Cup",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631644",
-      "market_id": "1.258432701",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -262,9 +262,9 @@
       "event_id": "bf_1.258432701",
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 579,
       "whale_max": 0,
       "entered": false
     },
