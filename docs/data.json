@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:42:21",
+  "last_update": "21/05/2026 02:43:03",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -30,6 +30,20 @@
       "source": "Betfair",
       "event_id": "35622064",
       "market_id": "1.258326396",
+      "_is_inplay": true
+    },
+    {
+      "match": "River Plate v Red Bull Bragantino",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 3906,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587027",
+      "market_id": "1.258364980",
       "_is_inplay": true
     },
     {
@@ -89,23 +103,9 @@
       "_is_inplay": false
     },
     {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1190,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
-      "_is_inplay": true
-    },
-    {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
-      "volume": 1051,
+      "volume": 1104,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -145,20 +145,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 937,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35585859",
-      "market_id": "1.258365653",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 784,
@@ -173,17 +159,17 @@
       "_is_inplay": false
     },
     {
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 563,
-      "quota": 1.33,
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 407,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35579862",
-      "market_id": "1.258364926",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
       "_is_inplay": true
     },
     {
@@ -229,34 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Flamengo v Estudiantes",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 127,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580140",
-      "market_id": "1.258212874",
-      "_is_inplay": true
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 121,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 120,
@@ -285,23 +243,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 82,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": true
-    },
-    {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 69,
+      "volume": 100,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -310,6 +254,62 @@
       "source": "Betfair",
       "event_id": "35579877",
       "market_id": "1.258364959",
+      "_is_inplay": true
+    },
+    {
+      "match": "Flamengo v Estudiantes",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 71,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580140",
+      "market_id": "1.258212874",
+      "_is_inplay": true
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 66,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
+      "match": "Junior FC Barranquilla v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 53,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 23,
+      "quota": 1.34,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579862",
+      "market_id": "1.258364926",
       "_is_inplay": true
     }
   ],
@@ -340,7 +340,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 1190,
+      "volume": 3906,
       "whale_max": 0,
       "entered": true
     },
@@ -380,7 +380,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 69,
+      "volume": 100,
       "whale_max": 0,
       "entered": false
     },
