@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 18:33:33",
+  "last_update": "21/05/2026 18:34:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,17 +34,17 @@
       "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
-      "match": "Roma U20 v Bologna U20",
-      "campionato": "Italian Campionato Primavera",
-      "volume": 32265,
-      "quota": 1.04,
-      "in_range": false,
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 27928,
+      "quota": 1.08,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35632634",
-      "market_id": "1.258434735",
+      "event_id": "35633189",
+      "market_id": "1.258438130",
       "_is_inplay": true,
       "open_date": "2026-05-21T16:00:00.000Z"
     },
@@ -64,17 +64,32 @@
       "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 26122,
-      "quota": 1.08,
-      "in_range": true,
+      "match": "Roma U20 v Bologna U20",
+      "campionato": "Italian Campionato Primavera",
+      "volume": 16143,
+      "quota": 1.04,
+      "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
+      "event_id": "35632634",
+      "market_id": "1.258434735",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 12248,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633192",
+      "market_id": "1.258438109",
       "_is_inplay": true,
       "open_date": "2026-05-21T16:00:00.000Z"
     },
@@ -109,24 +124,9 @@
       "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
-      "match": "Deportivo La Guaira v Independiente Rivadavia",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 3415,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580146",
-      "market_id": "1.258212811",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T22:00:00.000Z"
-    },
-    {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 2233,
+      "volume": 2143,
       "quota": 1.16,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-21T21:00:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 1654,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
       "volume": 1608,
@@ -186,8 +171,8 @@
     {
       "match": "Ajax v FC Groningen",
       "campionato": "Dutch Eredivisie",
-      "volume": 1440,
-      "quota": 1.13,
+      "volume": 1152,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -197,6 +182,36 @@
       "market_id": "1.258325413",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:45:00.000Z"
+    },
+    {
+      "match": "Rigas Futbola Skola v FK Jelgava",
+      "campionato": "Latvian Virsliga",
+      "volume": 1133,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628704",
+      "market_id": "1.258392342",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 870,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Al-Ittihad v Al-Quadisiya (KSA)",
@@ -214,21 +229,6 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
-      "match": "Elfsborg v Mjallby",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 453,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620005",
-      "market_id": "1.258310519",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
       "match": "Al Fahaheel FC v Kuwait SC",
       "campionato": "Kuwaiti Premier League",
       "volume": 444,
@@ -242,6 +242,21 @@
       "market_id": "1.258434779",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:20:00.000Z"
+    },
+    {
+      "match": "Elfsborg v Mjallby",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 186,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620005",
+      "market_id": "1.258310519",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
       "match": "Al-Kholood Club v Al-Fateh (KSA)",
@@ -302,21 +317,6 @@
       "market_id": "1.258300575",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Rigas Futbola Skola v FK Jelgava",
-      "campionato": "Latvian Virsliga",
-      "volume": 69,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628704",
-      "market_id": "1.258392342",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
       "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
@@ -392,6 +392,21 @@
       "market_id": "1.258334261",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
+      "match": "Deportivo La Guaira v Independiente Rivadavia",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580146",
+      "market_id": "1.258212811",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T22:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -421,7 +436,7 @@
       "campionato": "Italian Campionato Primavera",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 32265,
+      "volume": 16143,
       "whale_max": 0,
       "entered": true
     },
@@ -471,7 +486,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 26122,
+      "volume": 27928,
       "whale_max": 0,
       "entered": true
     },
@@ -571,7 +586,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1654,
+      "volume": 870,
       "whale_max": 0,
       "entered": false
     },
@@ -599,19 +614,19 @@
       "event_id": "bf_1.258212811",
       "match": "Deportivo La Guaira v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 3415,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258315414",
-      "match": "Gent v Union St Gilloise",
-      "campionato": "Belgian Pro League",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 7410,
+      "event_id": "bf_1.258438109",
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 12248,
       "whale_max": 0,
       "entered": false
     }
