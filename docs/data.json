@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 20:25:30",
+  "last_update": "21/05/2026 20:26:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "Al-Kholood Club v Al-Fateh (KSA)",
       "campionato": "Saudi Professional League",
-      "volume": 13064,
+      "volume": 9727,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Yellow-Red Mechelen v Club Brugge",
       "campionato": "Belgian Pro League",
-      "volume": 3797,
+      "volume": 3374,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -111,8 +111,8 @@
     {
       "match": "Wolfsburg v Paderborn",
       "campionato": "German Playoff",
-      "volume": 2504,
-      "quota": 1.11,
+      "volume": 2628,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -122,21 +122,6 @@
       "market_id": "1.258334261",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Racing Club v Caracas",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1618,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582792",
-      "market_id": "1.258405627",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:00:00.000Z"
     },
     {
       "match": "Zaqatala v Shafa Baku FC",
@@ -182,21 +167,6 @@
       "market_id": "1.258212811",
       "_is_inplay": false,
       "open_date": "2026-05-21T22:00:00.000Z"
-    },
-    {
-      "match": "Penarol v Corinthians",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1120,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35583980",
-      "market_id": "1.258251313",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Deportes Recoleta v Cobreloa Calama",
@@ -304,21 +274,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Gent v Union St Gilloise",
-      "campionato": "Belgian Pro League",
-      "volume": 119,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620487",
-      "market_id": "1.258315414",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
       "match": "Blooming Santa Cruz v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 117,
@@ -332,6 +287,36 @@
       "market_id": "1.258405648",
       "_is_inplay": false,
       "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Penarol v Corinthians",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 52,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35583980",
+      "market_id": "1.258251313",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Gent v Union St Gilloise",
+      "campionato": "Belgian Pro League",
+      "volume": 26,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620487",
+      "market_id": "1.258315414",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "Union Magdalena v Bogota",
@@ -377,6 +362,21 @@
       "market_id": "1.258212832",
       "_is_inplay": false,
       "open_date": "2026-05-21T22:00:00.000Z"
+    },
+    {
+      "match": "Racing Club v Caracas",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582792",
+      "market_id": "1.258405627",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -404,9 +404,9 @@
       "event_id": "bf_1.258405627",
       "match": "Racing Club v Caracas",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 1618,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -436,7 +436,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 1120,
+      "volume": 52,
       "whale_max": 0,
       "entered": false
     },
@@ -496,7 +496,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 13064,
+      "volume": 9727,
       "whale_max": 0,
       "entered": true
     },
@@ -556,7 +556,7 @@
       "campionato": "Belgian Pro League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 119,
+      "volume": 26,
       "whale_max": 0,
       "entered": false
     },
@@ -566,7 +566,7 @@
       "campionato": "Belgian Pro League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 3797,
+      "volume": 3374,
       "whale_max": 0,
       "entered": false
     },
@@ -607,16 +607,6 @@
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
       "volume": 996,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258334261",
-      "match": "Wolfsburg v Paderborn",
-      "campionato": "German Playoff",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 71,
       "whale_max": 0,
       "entered": false
     }
