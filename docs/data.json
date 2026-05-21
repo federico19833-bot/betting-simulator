@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:58:49",
+  "last_update": "21/05/2026 02:59:30",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,6 +33,20 @@
       "_is_inplay": true
     },
     {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 2031,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
+      "_is_inplay": true
+    },
+    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 2005,
@@ -45,34 +59,6 @@
       "event_id": "35616699",
       "market_id": "1.258354938",
       "_is_inplay": false
-    },
-    {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 1817,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": true
-    },
-    {
-      "match": "LDU v Lanus",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1699,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579877",
-      "market_id": "1.258364959",
-      "_is_inplay": true
     },
     {
       "match": "Al Budaiya v Manama Club",
@@ -145,20 +131,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 959,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "volume": 784,
@@ -170,20 +142,6 @@
       "source": "Betfair",
       "event_id": "35633192",
       "market_id": "1.258438109",
-      "_is_inplay": false
-    },
-    {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 435,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
       "_is_inplay": false
     },
     {
@@ -257,20 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 128,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35585859",
-      "market_id": "1.258365653",
-      "_is_inplay": false
-    },
-    {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
       "volume": 120,
@@ -299,6 +243,20 @@
       "_is_inplay": false
     },
     {
+      "match": "LDU v Lanus",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 104,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579877",
+      "market_id": "1.258364959",
+      "_is_inplay": true
+    },
+    {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 100,
@@ -311,6 +269,34 @@
       "event_id": "35587027",
       "market_id": "1.258364980",
       "_is_inplay": true
+    },
+    {
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 67,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
+      "_is_inplay": false
+    },
+    {
+      "match": "Junior FC Barranquilla v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 22,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
+      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -371,16 +357,6 @@
       "quota_attuale": 1.1,
       "quota_iniziale": 1.03,
       "volume": 2618,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258212853",
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 1001,
       "whale_max": 0,
       "entered": false
     },
