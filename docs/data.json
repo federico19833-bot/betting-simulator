@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:08:29",
+  "last_update": "21/05/2026 09:09:11",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
-      "volume": 2045,
+      "volume": 2087,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -187,20 +187,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Ajax v FC Groningen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 319,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622058",
-      "market_id": "1.258325413",
-      "_is_inplay": false
-    },
-    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 304,
@@ -240,6 +226,20 @@
       "source": "Betfair",
       "event_id": "35625500",
       "market_id": "1.258359431",
+      "_is_inplay": false
+    },
+    {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 194,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
       "_is_inplay": false
     },
     {
@@ -504,7 +504,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 2045,
+      "volume": 2087,
       "whale_max": 0,
       "entered": false
     },
@@ -514,7 +514,7 @@
       "campionato": "Dutch Eredivisie",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 319,
+      "volume": 194,
       "whale_max": 0,
       "entered": false
     },
