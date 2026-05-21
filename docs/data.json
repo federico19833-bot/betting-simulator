@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 16:37:54",
+  "last_update": "21/05/2026 16:38:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "volume": 28235,
+      "volume": 27986,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
-      "volume": 13098,
+      "volume": 14019,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258434735",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 4391,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -111,7 +96,7 @@
     {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
-      "volume": 1270,
+      "volume": 1058,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -186,8 +171,8 @@
     {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "volume": 347,
-      "quota": 1.16,
+      "volume": 361,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -197,21 +182,6 @@
       "market_id": "1.258341964",
       "_is_inplay": true,
       "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "match": "Rigas Futbola Skola v FK Jelgava",
-      "campionato": "Latvian Virsliga",
-      "volume": 113,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628704",
-      "market_id": "1.258392342",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
       "match": "NEOM Sports Club v Al-Ettifaq",
@@ -272,6 +242,21 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 15,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "BFC Daugavpils v Ogre United",
@@ -349,6 +334,21 @@
       "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
+      "match": "Rigas Futbola Skola v FK Jelgava",
+      "campionato": "Latvian Virsliga",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628704",
+      "market_id": "1.258392342",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
       "match": "Al Fahaheel FC v Kuwait SC",
       "campionato": "Kuwaiti Premier League",
       "volume": 15,
@@ -416,7 +416,7 @@
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 1270,
+      "volume": 1058,
       "whale_max": 0,
       "entered": false
     },
@@ -424,9 +424,9 @@
       "event_id": "bf_1.258392342",
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 113,
+      "volume": 15,
       "whale_max": 0,
       "entered": true
     },
@@ -466,7 +466,7 @@
       "campionato": "Italian Campionato Primavera",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 13098,
+      "volume": 14019,
       "whale_max": 0,
       "entered": true
     },
@@ -486,7 +486,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 28235,
+      "volume": 27986,
       "whale_max": 0,
       "entered": true
     },
@@ -574,9 +574,9 @@
       "event_id": "bf_1.258350565",
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 4391,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
