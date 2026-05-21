@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:38:45",
+  "last_update": "21/05/2026 13:39:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
-      "match": "Panaitolikos v Asteras Tripolis",
-      "campionato": "Greek Super League",
-      "volume": 1570,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609901",
-      "market_id": "1.258354959",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 1392,
@@ -154,6 +139,36 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 582,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:30:00.000Z"
+    },
+    {
+      "match": "Panaitolikos v Asteras Tripolis",
+      "campionato": "Greek Super League",
+      "volume": 501,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609901",
+      "market_id": "1.258354959",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
       "volume": 456,
@@ -182,21 +197,6 @@
       "market_id": "1.258386255",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 371,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:30:00.000Z"
     },
     {
       "match": "FK Qabala v Shamakhi FK",
@@ -546,7 +546,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1570,
+      "volume": 501,
       "whale_max": 0,
       "entered": false
     },
@@ -576,7 +576,7 @@
       "campionato": "Danish Superliga",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 371,
+      "volume": 582,
       "whale_max": 0,
       "entered": false
     },
@@ -597,6 +597,16 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 1210,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
