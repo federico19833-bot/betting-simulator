@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:46:52",
+  "last_update": "21/05/2026 09:47:33",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -215,20 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Progres Sakiet Eddaier v JS Omrane",
-      "campionato": "Tunisian Cup",
-      "volume": 304,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631644",
-      "market_id": "1.258432701",
-      "_is_inplay": false
-    },
-    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 214,
@@ -310,6 +296,20 @@
       "source": "Betfair",
       "event_id": "35631640",
       "market_id": "1.258432678",
+      "_is_inplay": false
+    },
+    {
+      "match": "Progres Sakiet Eddaier v JS Omrane",
+      "campionato": "Tunisian Cup",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631644",
+      "market_id": "1.258432701",
       "_is_inplay": false
     },
     {
@@ -416,9 +416,9 @@
       "event_id": "bf_1.258432701",
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 304,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
