@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 10:02:15",
+  "last_update": "21/05/2026 10:02:58",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -131,20 +131,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 756,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "volume": 689,
@@ -156,6 +142,20 @@
       "source": "Betfair",
       "event_id": "35633192",
       "market_id": "1.258438109",
+      "_is_inplay": false
+    },
+    {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 665,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
       "_is_inplay": false
     },
     {
@@ -245,7 +245,7 @@
     {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
-      "volume": 39,
+      "volume": 38,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -394,7 +394,7 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 39,
+      "volume": 38,
       "whale_max": 0,
       "entered": false
     },
@@ -512,9 +512,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 756,
+      "volume": 665,
       "whale_max": 0,
       "entered": false
     },
