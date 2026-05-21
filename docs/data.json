@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:11:16",
+  "last_update": "21/05/2026 09:11:58",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -8,16 +8,30 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 23,
+    "total": 24,
     "wins": 14,
     "losses": 2,
-    "in_corso": 7,
+    "in_corso": 8,
     "winrate": 87.5,
     "profit": -124.96,
-    "roi": -5.43,
+    "roi": -5.21,
     "balance": 875.04
   },
   "live_events": [
+    {
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "volume": 7594,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628625",
+      "market_id": "1.258390442",
+      "_is_inplay": false
+    },
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
@@ -285,20 +299,6 @@
       "_is_inplay": false
     },
     {
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "volume": 15,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628625",
-      "market_id": "1.258390442",
-      "_is_inplay": false
-    },
-    {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
       "volume": 15,
@@ -414,9 +414,9 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 15,
+      "volume": 7594,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258354980",
@@ -540,6 +540,18 @@
     }
   ],
   "giocate": [
+    {
+      "id": 31,
+      "orario": "2026-05-21 09:11:51",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota": 1.06,
+      "volume": 7594,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 30,
       "orario": "2026-05-21 01:41:04",
