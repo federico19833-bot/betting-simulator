@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 17:05:10",
+  "last_update": "21/05/2026 17:06:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "volume": 27986,
+      "volume": 28235,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "volume": 14026,
+      "volume": 14020,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -139,19 +139,19 @@
       "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 1485,
-      "quota": 1.22,
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 1226,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T14:00:00.000Z"
+      "event_id": "35633189",
+      "market_id": "1.258438130",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "Al-Ittihad v Al-Quadisiya (KSA)",
@@ -244,21 +244,6 @@
       "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 516,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
       "match": "Wadi Degla v ZED FC",
       "campionato": "Egyptian Premier",
       "volume": 335,
@@ -274,9 +259,24 @@
       "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 191,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 175,
+      "volume": 150,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -319,19 +319,19 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 23,
-      "quota": 1.09,
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 15,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
+      "event_id": "35616713",
+      "market_id": "1.258341964",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Roma U20 v Bologna U20",
@@ -474,9 +474,9 @@
       "event_id": "bf_1.258438130",
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 516,
+      "volume": 1226,
       "whale_max": 0,
       "entered": true
     },
@@ -506,7 +506,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 14026,
+      "volume": 14020,
       "whale_max": 0,
       "entered": true
     },
@@ -514,9 +514,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 27986,
+      "volume": 28235,
       "whale_max": 0,
       "entered": true
     },
@@ -686,7 +686,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 175,
+      "volume": 150,
       "whale_max": 0,
       "entered": false
     },
@@ -696,7 +696,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 23,
+      "volume": 191,
       "whale_max": 0,
       "entered": false
     },
