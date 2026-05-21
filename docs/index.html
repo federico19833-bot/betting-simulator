@@ -52,7 +52,7 @@ tr:hover { background:#1a2744; }
 <h2><span class="live-dot"></span>Eventi Live Monitorati</h2>
 <div style="overflow-x:auto">
 <table>
-<thead><tr><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Stato</th><th>Inizio</th><th>Idonea</th></tr></thead>
+<thead><tr><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Stato</th><th>Idonea</th></tr></thead>
 <tbody id="liveBody"></tbody>
 </table>
 </div>
@@ -128,13 +128,12 @@ function render(data) {
                 ? '<span class="tag" style="background:#451a03;color:#fdba74">📅 PRE-MATCH</span>'
                 : '<span class="tag" style="background:#166534;color:#86efac">⚽ LIVE</span>';
             return `<tr${e.in_range ? ' class="eligible"' : ''}>
-                <td>${e.match}</td>
+                <td>${e.match}<br><span style="font-size:11px;color:#94a3b8">${formatDate(e.open_date)}</span></td>
                 <td>${e.campionato}</td>
                 <td>${e.quota.toFixed(3)}</td>
                 <td>${e.volume.toLocaleString()}€</td>
                 <td>${e.whale_max > 0 ? `<span class="tag" style="background:#a855f7;color:#e9d5ff">🐋 ${e.whale_max.toLocaleString()}€</span>` : '-'}</td>
                 <td>${statusTag}</td>
-                <td><span style="font-size:11px;color:#94a3b8">${formatDate(e.open_date)}</span></td>
                 <td><span class="tag ${e.in_range ? 'tag-yes' : 'tag-no'}">${e.in_range ? 'SI' : 'NO'}</span></td>
             </tr>`;
         }).join('');

@@ -44,10 +44,11 @@ def scan_markets():
         market_id = bf.get("market_id", "")
         event_id = bf.get("event_id", "")
 
+        in_range = MIN_ODDS <= quota <= MAX_ODDS and volume >= VOLUME_THRESHOLD
         bf_event = {
             "match": match, "campionato": campionato,
             "volume": round(volume), "quota": quota,
-            "in_range": False, "monitored": False,
+            "in_range": in_range, "monitored": False,
             "whale_max": 0, "whale_tot": 0,
             "source": "Betfair", "event_id": event_id, "market_id": market_id,
             "_is_inplay": bf.get("_is_inplay", False),
