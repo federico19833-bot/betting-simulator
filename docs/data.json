@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 12:00:47",
+  "last_update": "21/05/2026 12:01:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -62,6 +62,21 @@
       "market_id": "1.258409650",
       "_is_inplay": false,
       "open_date": "2026-05-21T13:00:00.000Z"
+    },
+    {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 2437,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:45:00.000Z"
     },
     {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
@@ -197,21 +212,6 @@
       "market_id": "1.258354959",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "match": "Ajax v FC Groningen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 194,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622058",
-      "market_id": "1.258325413",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:45:00.000Z"
     },
     {
       "match": "Al Arabi Kuwait v Al Tadhamon",
@@ -459,9 +459,9 @@
       "event_id": "bf_1.258325413",
       "match": "Ajax v FC Groningen",
       "campionato": "Dutch Eredivisie",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 194,
+      "volume": 2437,
       "whale_max": 0,
       "entered": false
     },
@@ -572,16 +572,6 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 1210,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258390442",
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 34230,
       "whale_max": 0,
       "entered": false
     }
