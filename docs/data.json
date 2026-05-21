@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 10:02:58",
+  "last_update": "21/05/2026 10:03:39",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -63,7 +63,7 @@
     {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "volume": 1409,
+      "volume": 1408,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -114,6 +114,20 @@
       "source": "Betfair",
       "event_id": "35619970",
       "market_id": "1.258350437",
+      "_is_inplay": false
+    },
+    {
+      "match": "Roma U20 v Bologna U20",
+      "campionato": "Italian Campionato Primavera",
+      "volume": 937,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632634",
+      "market_id": "1.258434735",
       "_is_inplay": false
     },
     {
@@ -444,7 +458,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1409,
+      "volume": 1408,
       "whale_max": 0,
       "entered": false
     },
@@ -535,6 +549,16 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258434735",
+      "match": "Roma U20 v Bologna U20",
+      "campionato": "Italian Campionato Primavera",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 937,
       "whale_max": 0,
       "entered": false
     }
