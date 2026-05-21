@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 15:08:27",
+  "last_update": "21/05/2026 15:09:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "Elfsborg v Mjallby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 14206,
+      "volume": 14214,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
-      "volume": 1392,
+      "volume": 1393,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -137,21 +137,6 @@
       "market_id": "1.258404457",
       "_is_inplay": true,
       "open_date": "2026-05-21T13:00:00.000Z"
-    },
-    {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 1226,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -182,6 +167,21 @@
       "market_id": "1.258409992",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:15:00.000Z"
+    },
+    {
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 398,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633189",
+      "market_id": "1.258438130",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "Jamshedpur FC v Odisha",
@@ -231,8 +231,8 @@
     {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "volume": 20,
-      "quota": 1.11,
+      "volume": 18,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -444,9 +444,9 @@
       "event_id": "bf_1.258438130",
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1226,
+      "volume": 398,
       "whale_max": 0,
       "entered": false
     },
@@ -476,7 +476,7 @@
       "campionato": "Italian Campionato Primavera",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 1392,
+      "volume": 1393,
       "whale_max": 0,
       "entered": false
     },
@@ -577,26 +577,6 @@
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
       "volume": 1690,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258350565",
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 41,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258310519",
-      "match": "Elfsborg v Mjallby",
-      "campionato": "Swedish Allsvenskan",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 14206,
       "whale_max": 0,
       "entered": false
     }
