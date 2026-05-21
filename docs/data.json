@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 18:43:23",
+  "last_update": "21/05/2026 18:44:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Al Riyadh SC v Al-Akhdoud",
       "campionato": "Saudi Professional League",
-      "volume": 46184,
+      "volume": 45749,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 29106,
+      "volume": 40077,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 9114,
+      "volume": 10234,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-21T20:30:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 804,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
       "campionato": "Saudi Professional League",
       "volume": 780,
@@ -214,9 +199,24 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 335,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Elfsborg v Mjallby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 294,
+      "volume": 205,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -231,7 +231,7 @@
     {
       "match": "Wadi Degla v ZED FC",
       "campionato": "Egyptian Premier",
-      "volume": 272,
+      "volume": 194,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -240,6 +240,21 @@
       "source": "Betfair",
       "event_id": "35625597",
       "market_id": "1.258386255",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
+      "match": "Rigas Futbola Skola v FK Jelgava",
+      "campionato": "Latvian Virsliga",
+      "volume": 173,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628704",
+      "market_id": "1.258392342",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
     },
@@ -302,21 +317,6 @@
       "market_id": "1.258334261",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Rigas Futbola Skola v FK Jelgava",
-      "campionato": "Latvian Virsliga",
-      "volume": 101,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628704",
-      "market_id": "1.258392342",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
       "match": "Al Nassr v Dhamk",
@@ -426,7 +426,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 46184,
+      "volume": 45749,
       "whale_max": 0,
       "entered": false
     },
@@ -544,9 +544,9 @@
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.05,
-      "volume": 804,
+      "volume": 335,
       "whale_max": 0,
       "entered": false
     },
@@ -606,7 +606,7 @@
       "campionato": "Swedish Allsvenskan",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 294,
+      "volume": 205,
       "whale_max": 0,
       "entered": false
     },
@@ -621,12 +621,22 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258438109",
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 29106,
+      "event_id": "bf_1.258409992",
+      "match": "Al Arabi Kuwait v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 10234,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258315547",
+      "match": "Yellow-Red Mechelen v Club Brugge",
+      "campionato": "Belgian Pro League",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 7410,
       "whale_max": 0,
       "entered": false
     }
