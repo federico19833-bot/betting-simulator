@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 00:35:53",
+  "last_update": "22/05/2026 00:36:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-22T13:00:00.000Z"
     },
     {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 867,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Zeleznicar Pancevo v Cukaricki",
       "campionato": "Serbian Super League",
       "volume": 706,
@@ -107,21 +122,6 @@
       "market_id": "1.258388923",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "Real Cartagena v Barranquilla",
-      "campionato": "Colombian Primera B",
-      "volume": 620,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633315",
-      "market_id": "1.258440989",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Osijek v Slaven Belupo",
@@ -244,21 +244,6 @@
       "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
-      "match": "Blooming Santa Cruz v Carabobo FC",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 28,
-      "quota": 1.89,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587335",
-      "market_id": "1.258405648",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 15,
@@ -270,6 +255,21 @@
       "source": "Betfair",
       "event_id": "35583980",
       "market_id": "1.258251313",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Blooming Santa Cruz v Carabobo FC",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 6,
+      "quota": 1.9,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587335",
+      "market_id": "1.258405648",
       "_is_inplay": false,
       "open_date": "2026-05-22T00:30:00.000Z"
     }
@@ -331,7 +331,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 620,
+      "volume": 867,
       "whale_max": 0,
       "entered": false
     },
