@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:51:44",
+  "last_update": "21/05/2026 09:52:27",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -49,7 +49,7 @@
     {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 1672,
+      "volume": 1688,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -128,6 +128,20 @@
       "source": "Betfair",
       "event_id": "35632634",
       "market_id": "1.258434735",
+      "_is_inplay": false
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 758,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
       "_is_inplay": false
     },
     {
@@ -313,20 +327,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 15,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 15,
@@ -368,7 +368,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 1672,
+      "volume": 1688,
       "whale_max": 0,
       "entered": false
     },
@@ -446,9 +446,9 @@
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 15,
+      "volume": 758,
       "whale_max": 0,
       "entered": false
     },
