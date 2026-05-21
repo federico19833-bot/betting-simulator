@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 23:31:24",
+  "last_update": "21/05/2026 23:31:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Atletico MG v Cienciano",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 4847,
+      "volume": 4846,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 4404,
+      "volume": 3964,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Deportivo La Guaira v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 3749,
+      "volume": 3728,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "PFK Turan Tovuz v FC Sabah",
       "campionato": "Azerbaijan Premier League",
-      "volume": 1599,
+      "volume": 2827,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -77,6 +77,36 @@
       "market_id": "1.258404415",
       "_is_inplay": false,
       "open_date": "2026-05-22T13:00:00.000Z"
+    },
+    {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 1992,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Union Magdalena v Bogota",
+      "campionato": "Colombian Primera B",
+      "volume": 1887,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632607",
+      "market_id": "1.258434758",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T21:00:00.000Z"
     },
     {
       "match": "Macara v Alianza Atletico",
@@ -92,21 +122,6 @@
       "market_id": "1.258406330",
       "_is_inplay": false,
       "open_date": "2026-05-22T02:00:00.000Z"
-    },
-    {
-      "match": "Union Magdalena v Bogota",
-      "campionato": "Colombian Primera B",
-      "volume": 888,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632607",
-      "market_id": "1.258434758",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T21:00:00.000Z"
     },
     {
       "match": "Spartak Varna v Lokomotiv Sofia",
@@ -316,7 +331,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 4847,
+      "volume": 4846,
       "whale_max": 0,
       "entered": false
     },
@@ -336,7 +351,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 4404,
+      "volume": 3964,
       "whale_max": 0,
       "entered": false
     },
@@ -456,7 +471,7 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 1599,
+      "volume": 2827,
       "whale_max": 0,
       "entered": false
     },
@@ -467,6 +482,16 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 335,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258440989",
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 1992,
       "whale_max": 0,
       "entered": false
     }
