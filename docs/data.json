@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 08:55:55",
+  "last_update": "21/05/2026 08:56:36",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,6 +33,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Moik Baku v Agsu",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 1672,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630694",
+      "market_id": "1.258409650",
+      "_is_inplay": false
+    },
+    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 15,
@@ -58,20 +72,6 @@
       "source": "Betfair",
       "event_id": "35630420",
       "market_id": "1.258404457",
-      "_is_inplay": false
-    },
-    {
-      "match": "Moik Baku v Agsu",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630694",
-      "market_id": "1.258409650",
       "_is_inplay": false
     },
     {
@@ -269,6 +269,20 @@
       "event_id": "35630923",
       "market_id": "1.258409992",
       "_is_inplay": false
+    },
+    {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 14,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
+      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -296,9 +310,9 @@
       "event_id": "bf_1.258409650",
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 1672,
       "whale_max": 0,
       "entered": false
     },
@@ -449,6 +463,16 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 2044,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258325413",
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 14,
       "whale_max": 0,
       "entered": false
     }
