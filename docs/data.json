@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 14:49:47",
+  "last_update": "21/05/2026 14:50:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 3440,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 1690,
@@ -154,19 +139,19 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 1091,
-      "quota": 1.04,
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 1148,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
       "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
@@ -210,6 +195,21 @@
       "source": "Betfair",
       "event_id": "35609901",
       "market_id": "1.258354959",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 290,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633189",
+      "market_id": "1.258438130",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
     },
@@ -461,7 +461,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1091,
+      "volume": 290,
       "whale_max": 0,
       "entered": false
     },
@@ -569,19 +569,19 @@
       "event_id": "bf_1.258341964",
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 3440,
+      "volume": 1148,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258310519",
-      "match": "Elfsborg v Mjallby",
-      "campionato": "Swedish Allsvenskan",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 14963,
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 31575,
       "whale_max": 0,
       "entered": false
     }
