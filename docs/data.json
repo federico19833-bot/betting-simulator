@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 18:10:39",
+  "last_update": "21/05/2026 18:11:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 32462,
+      "volume": 32467,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -141,7 +141,7 @@
     {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "volume": 2027,
+      "volume": 1685,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -154,19 +154,19 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 1779,
-      "quota": 1.07,
+      "match": "FC Utrecht v Heerenveen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 1215,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
+      "event_id": "35622059",
+      "market_id": "1.258325392",
       "_is_inplay": false,
-      "open_date": "2026-05-21T16:30:00.000Z"
+      "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
       "match": "Anderlecht v Sint Truiden",
@@ -229,19 +229,19 @@
       "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
-      "match": "FC Utrecht v Heerenveen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 396,
-      "quota": 1.05,
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 170,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622059",
-      "market_id": "1.258325392",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
       "_is_inplay": false,
-      "open_date": "2026-05-21T19:00:00.000Z"
+      "open_date": "2026-05-21T16:30:00.000Z"
     },
     {
       "match": "Gent v Union St Gilloise",
@@ -257,21 +257,6 @@
       "market_id": "1.258315414",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Ajax v FC Groningen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 110,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622058",
-      "market_id": "1.258325413",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:45:00.000Z"
     },
     {
       "match": "NEOM Sports Club v Al-Ettifaq",
@@ -291,7 +276,7 @@
     {
       "match": "Elfsborg v Mjallby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 87,
+      "volume": 95,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -302,6 +287,21 @@
       "market_id": "1.258310519",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 63,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:45:00.000Z"
     },
     {
       "match": "Al-Ittihad v Al-Quadisiya (KSA)",
@@ -431,7 +431,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 32462,
+      "volume": 32467,
       "whale_max": 0,
       "entered": true
     },
@@ -441,7 +441,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 2027,
+      "volume": 1685,
       "whale_max": 0,
       "entered": true
     },
@@ -529,9 +529,9 @@
       "event_id": "bf_1.258325413",
       "match": "Ajax v FC Groningen",
       "campionato": "Dutch Eredivisie",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 110,
+      "volume": 63,
       "whale_max": 0,
       "entered": false
     },
@@ -561,7 +561,7 @@
       "campionato": "Dutch Eredivisie",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 396,
+      "volume": 1215,
       "whale_max": 0,
       "entered": false
     },
@@ -569,9 +569,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1779,
+      "volume": 170,
       "whale_max": 0,
       "entered": false
     },
@@ -631,7 +631,17 @@
       "campionato": "Swedish Allsvenskan",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 87,
+      "volume": 95,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258315547",
+      "match": "Yellow-Red Mechelen v Club Brugge",
+      "campionato": "Belgian Pro League",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 27294,
       "whale_max": 0,
       "entered": false
     }
