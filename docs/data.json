@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 20:27:19",
+  "last_update": "21/05/2026 20:28:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 41944,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Anderlecht v Sint Truiden",
       "campionato": "Belgian Pro League",
-      "volume": 32174,
+      "volume": 33409,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -32,21 +47,6 @@
       "market_id": "1.258300575",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 27282,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Al-Kholood Club v Al-Fateh (KSA)",
@@ -92,36 +92,6 @@
       "market_id": "1.258358229",
       "_is_inplay": true,
       "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
-      "match": "Yellow-Red Mechelen v Club Brugge",
-      "campionato": "Belgian Pro League",
-      "volume": 3366,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620490",
-      "market_id": "1.258315547",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Wolfsburg v Paderborn",
-      "campionato": "German Playoff",
-      "volume": 2137,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622937",
-      "market_id": "1.258334261",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "Zaqatala v Shafa Baku FC",
@@ -244,6 +214,21 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "Wolfsburg v Paderborn",
+      "campionato": "German Playoff",
+      "volume": 585,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622937",
+      "market_id": "1.258334261",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
       "volume": 348,
@@ -257,6 +242,21 @@
       "market_id": "1.258447318",
       "_is_inplay": false,
       "open_date": "2026-05-21T20:30:00.000Z"
+    },
+    {
+      "match": "Yellow-Red Mechelen v Club Brugge",
+      "campionato": "Belgian Pro League",
+      "volume": 213,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620490",
+      "market_id": "1.258315547",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "CD Marathon v CD Motagua",
@@ -274,21 +274,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Gent v Union St Gilloise",
-      "campionato": "Belgian Pro League",
-      "volume": 119,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620487",
-      "market_id": "1.258315414",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
       "match": "Blooming Santa Cruz v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 117,
@@ -302,6 +287,21 @@
       "market_id": "1.258405648",
       "_is_inplay": false,
       "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Gent v Union St Gilloise",
+      "campionato": "Belgian Pro League",
+      "volume": 78,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620487",
+      "market_id": "1.258315414",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "Penarol v Corinthians",
@@ -554,9 +554,9 @@
       "event_id": "bf_1.258315414",
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 119,
+      "volume": 78,
       "whale_max": 0,
       "entered": false
     },
@@ -566,7 +566,7 @@
       "campionato": "Belgian Pro League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 3366,
+      "volume": 213,
       "whale_max": 0,
       "entered": false
     },
@@ -586,7 +586,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
-      "volume": 27282,
+      "volume": 41944,
       "whale_max": 0,
       "entered": false
     },
@@ -596,7 +596,7 @@
       "campionato": "Belgian Pro League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 32174,
+      "volume": 33409,
       "whale_max": 0,
       "entered": true
     },
