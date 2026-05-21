@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 22:10:04",
+  "last_update": "21/05/2026 22:10:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 1129,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "match": "El Gounah v El Geish",
       "campionato": "Egyptian Premier",
       "volume": 1128,
@@ -171,7 +156,7 @@
     {
       "match": "Macara v Alianza Atletico",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 775,
+      "volume": 760,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -201,7 +186,7 @@
     {
       "match": "Wolfsburg v Paderborn",
       "campionato": "German Playoff",
-      "volume": 477,
+      "volume": 452,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -212,6 +197,21 @@
       "market_id": "1.258334261",
       "_is_inplay": true,
       "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
+      "match": "FC Utrecht v Heerenveen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 423,
+      "quota": 1.82,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622059",
+      "market_id": "1.258325392",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
       "match": "Energetik Mingechevir v Sabail",
@@ -259,25 +259,10 @@
       "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
-      "match": "FC Utrecht v Heerenveen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 49,
-      "quota": 2.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622059",
-      "market_id": "1.258325392",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T19:00:00.000Z"
-    },
-    {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
-      "volume": 32,
-      "quota": 2.86,
+      "volume": 36,
+      "quota": 3.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -401,7 +386,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 775,
+      "volume": 760,
       "whale_max": 0,
       "entered": false
     },
