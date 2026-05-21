@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:59:27",
+  "last_update": "21/05/2026 07:00:10",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 2015,
+      "volume": 2059,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -142,20 +142,6 @@
       "source": "Betfair",
       "event_id": "35631644",
       "market_id": "1.258432701",
-      "_is_inplay": false
-    },
-    {
-      "match": "Panaitolikos v Asteras Tripolis",
-      "campionato": "Greek Super League",
-      "volume": 228,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609901",
-      "market_id": "1.258354959",
       "_is_inplay": false
     },
     {
@@ -285,6 +271,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Panaitolikos v Asteras Tripolis",
+      "campionato": "Greek Super League",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609901",
+      "market_id": "1.258354959",
+      "_is_inplay": false
+    },
+    {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
       "volume": 15,
@@ -326,7 +326,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 2015,
+      "volume": 2059,
       "whale_max": 0,
       "entered": false
     },
@@ -474,9 +474,9 @@
       "event_id": "bf_1.258354959",
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 228,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     }
