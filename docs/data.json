@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 07:03:00",
+  "last_update": "21/05/2026 07:03:41",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -128,6 +128,20 @@
       "source": "Betfair",
       "event_id": "35616699",
       "market_id": "1.258354938",
+      "_is_inplay": false
+    },
+    {
+      "match": "Panaitolikos v Asteras Tripolis",
+      "campionato": "Greek Super League",
+      "volume": 385,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609901",
+      "market_id": "1.258354959",
       "_is_inplay": false
     },
     {
@@ -268,20 +282,6 @@
       "source": "Betfair",
       "event_id": "35633192",
       "market_id": "1.258438109",
-      "_is_inplay": false
-    },
-    {
-      "match": "Panaitolikos v Asteras Tripolis",
-      "campionato": "Greek Super League",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609901",
-      "market_id": "1.258354959",
       "_is_inplay": false
     },
     {
@@ -474,9 +474,9 @@
       "event_id": "bf_1.258354959",
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 15,
+      "volume": 385,
       "whale_max": 0,
       "entered": false
     }
