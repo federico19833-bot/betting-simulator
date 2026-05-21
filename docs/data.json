@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 05:19:03",
+  "last_update": "21/05/2026 05:19:46",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -156,6 +156,20 @@
       "source": "Betfair",
       "event_id": "35632634",
       "market_id": "1.258434735",
+      "_is_inplay": false
+    },
+    {
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 126,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633192",
+      "market_id": "1.258438109",
       "_is_inplay": false
     },
     {
@@ -381,6 +395,16 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 40,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258438109",
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 126,
       "whale_max": 0,
       "entered": false
     }
