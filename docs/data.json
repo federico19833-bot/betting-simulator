@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:16:23",
+  "last_update": "21/05/2026 02:17:06",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -159,6 +159,20 @@
       "_is_inplay": true
     },
     {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 425,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
+      "_is_inplay": false
+    },
+    {
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
       "volume": 256,
@@ -173,6 +187,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Junior FC Barranquilla v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 156,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 138,
@@ -184,20 +212,6 @@
       "source": "Betfair",
       "event_id": "35628625",
       "market_id": "1.258390442",
-      "_is_inplay": false
-    },
-    {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 119,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
       "_is_inplay": false
     },
     {
@@ -231,8 +245,8 @@
     {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
-      "volume": 55,
-      "quota": 1.24,
+      "volume": 47,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -402,9 +416,9 @@
       "event_id": "bf_1.258212853",
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 119,
+      "volume": 425,
       "whale_max": 0,
       "entered": false
     },
@@ -425,6 +439,16 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 256,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258365653",
+      "match": "Junior FC Barranquilla v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 156,
       "whale_max": 0,
       "entered": false
     }
