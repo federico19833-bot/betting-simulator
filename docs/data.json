@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 00:41:09",
+  "last_update": "22/05/2026 00:41:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "CD Marathon v CD Motagua",
       "campionato": "Honduras Liga Nacional",
-      "volume": 2256,
+      "volume": 2530,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258432315",
       "_is_inplay": false,
       "open_date": "2026-05-22T02:00:00.000Z"
-    },
-    {
-      "match": "Racing Club v Caracas",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1226,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582792",
-      "market_id": "1.258405627",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:00:00.000Z"
     },
     {
       "match": "Energetik Mingechevir v Sabail",
@@ -152,6 +137,21 @@
       "market_id": "1.258406330",
       "_is_inplay": false,
       "open_date": "2026-05-22T02:00:00.000Z"
+    },
+    {
+      "match": "Racing Club v Caracas",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 365,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582792",
+      "market_id": "1.258405627",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:00:00.000Z"
     },
     {
       "match": "Spartak Varna v Lokomotiv Sofia",
@@ -291,7 +291,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 1226,
+      "volume": 365,
       "whale_max": 0,
       "entered": false
     },
@@ -371,7 +371,7 @@
       "campionato": "Honduras Liga Nacional",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 2256,
+      "volume": 2530,
       "whale_max": 0,
       "entered": false
     },
