@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 04:10:59",
+  "last_update": "21/05/2026 04:11:41",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -73,6 +73,20 @@
       "event_id": "35619970",
       "market_id": "1.258350437",
       "_is_inplay": false
+    },
+    {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1296,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
+      "_is_inplay": true
     },
     {
       "match": "FK Qabala v Shamakhi FK",
@@ -173,20 +187,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 194,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35585859",
-      "market_id": "1.258365653",
-      "_is_inplay": true
-    },
-    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 138,
@@ -199,20 +199,6 @@
       "event_id": "35631644",
       "market_id": "1.258432701",
       "_is_inplay": false
-    },
-    {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 125,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
-      "_is_inplay": true
     },
     {
       "match": "Roma U20 v Bologna U20",
@@ -240,6 +226,20 @@
       "source": "Betfair",
       "event_id": "35622211",
       "market_id": "1.258327129",
+      "_is_inplay": true
+    },
+    {
+      "match": "Junior FC Barranquilla v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 17,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
       "_is_inplay": true
     },
     {
@@ -308,7 +308,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 125,
+      "volume": 1296,
       "whale_max": 0,
       "entered": false
     },
@@ -428,7 +428,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 194,
+      "volume": 17,
       "whale_max": 0,
       "entered": false
     }
