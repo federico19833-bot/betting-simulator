@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 10:30:55",
+  "last_update": "21/05/2026 10:31:36",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -114,6 +114,34 @@
       "source": "Betfair",
       "event_id": "35619970",
       "market_id": "1.258350437",
+      "_is_inplay": false
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 758,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false
+    },
+    {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 742,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
       "_is_inplay": false
     },
     {
@@ -285,20 +313,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 15,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 15,
@@ -310,20 +324,6 @@
       "source": "Betfair",
       "event_id": "35633189",
       "market_id": "1.258438130",
-      "_is_inplay": false
-    },
-    {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 15,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
       "_is_inplay": false
     }
   ],
@@ -432,9 +432,9 @@
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 15,
+      "volume": 758,
       "whale_max": 0,
       "entered": false
     },
@@ -512,9 +512,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 15,
+      "volume": 742,
       "whale_max": 0,
       "entered": false
     },
