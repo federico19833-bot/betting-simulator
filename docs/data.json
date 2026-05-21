@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 10:46:07",
+  "last_update": "21/05/2026 10:46:45",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 26593,
+      "volume": 26608,
       "quota": 1.06,
       "in_range": true,
       "monitored": false,
@@ -137,21 +137,6 @@
       "market_id": "1.258336208",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:30:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 758,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
@@ -334,6 +319,21 @@
       "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 15,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 15,
@@ -436,7 +436,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 26593,
+      "volume": 26608,
       "whale_max": 0,
       "entered": true
     },
@@ -454,9 +454,9 @@
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 758,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
