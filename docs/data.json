@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 18:05:32",
+  "last_update": "21/05/2026 18:06:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "volume": 14170,
+      "volume": 14147,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -139,24 +139,9 @@
       "open_date": "2026-05-21T20:30:00.000Z"
     },
     {
-      "match": "Al Arabi Kuwait v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 1947,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630923",
-      "market_id": "1.258409992",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:15:00.000Z"
-    },
-    {
       "match": "FC Utrecht v Heerenveen",
       "campionato": "Dutch Eredivisie",
-      "volume": 1215,
+      "volume": 1223,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -242,6 +227,21 @@
       "market_id": "1.258358208",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:00:00.000Z"
+    },
+    {
+      "match": "Al Arabi Kuwait v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 460,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630923",
+      "market_id": "1.258409992",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:15:00.000Z"
     },
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
@@ -559,9 +559,9 @@
       "event_id": "bf_1.258409992",
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1947,
+      "volume": 460,
       "whale_max": 0,
       "entered": false
     },
@@ -611,7 +611,7 @@
       "campionato": "Dutch Eredivisie",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1215,
+      "volume": 1223,
       "whale_max": 0,
       "entered": false
     },
@@ -646,32 +646,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258300575",
-      "match": "Anderlecht v Sint Truiden",
-      "campionato": "Belgian Pro League",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 7424,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258315414",
-      "match": "Gent v Union St Gilloise",
-      "campionato": "Belgian Pro League",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 27294,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258315547",
-      "match": "Yellow-Red Mechelen v Club Brugge",
-      "campionato": "Belgian Pro League",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 52597,
+      "event_id": "bf_1.258354938",
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 14147,
       "whale_max": 0,
       "entered": false
     }
