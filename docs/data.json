@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:04:00",
+  "last_update": "21/05/2026 06:04:41",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "volume": 1460,
+      "volume": 1595,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -173,20 +173,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 235,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633192",
-      "market_id": "1.258438109",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 120,
@@ -282,6 +268,20 @@
       "source": "Betfair",
       "event_id": "35616713",
       "market_id": "1.258341964",
+      "_is_inplay": false
+    },
+    {
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633192",
+      "market_id": "1.258438109",
       "_is_inplay": false
     }
   ],
@@ -430,9 +430,9 @@
       "event_id": "bf_1.258438109",
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 235,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -442,7 +442,7 @@
       "campionato": "Danish Superliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1460,
+      "volume": 1595,
       "whale_max": 0,
       "entered": false
     },
