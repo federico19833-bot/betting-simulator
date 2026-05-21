@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:30:04",
+  "last_update": "21/05/2026 02:30:45",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,20 +33,6 @@
       "_is_inplay": true
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 4362,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 2348,
@@ -72,20 +58,6 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
-      "_is_inplay": false
-    },
-    {
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "volume": 1602,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628625",
-      "market_id": "1.258390442",
       "_is_inplay": false
     },
     {
@@ -159,6 +131,20 @@
       "_is_inplay": true
     },
     {
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "volume": 388,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628625",
+      "market_id": "1.258390442",
+      "_is_inplay": false
+    },
+    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 256,
@@ -170,20 +156,6 @@
       "source": "Betfair",
       "event_id": "35616699",
       "market_id": "1.258354938",
-      "_is_inplay": false
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 154,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -226,6 +198,34 @@
       "source": "Betfair",
       "event_id": "35579877",
       "market_id": "1.258364959",
+      "_is_inplay": false
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 79,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
+      "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 35,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -372,9 +372,9 @@
       "event_id": "bf_1.258390442",
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 1602,
+      "volume": 388,
       "whale_max": 0,
       "entered": false
     },
