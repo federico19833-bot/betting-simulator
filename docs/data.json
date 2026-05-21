@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:32:47",
+  "last_update": "21/05/2026 02:33:27",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -31,20 +31,6 @@
       "event_id": "35622064",
       "market_id": "1.258326396",
       "_is_inplay": true
-    },
-    {
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1734,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579862",
-      "market_id": "1.258364926",
-      "_is_inplay": false
     },
     {
       "match": "Punjab FC v Mumbai City FC",
@@ -103,6 +89,34 @@
       "_is_inplay": false
     },
     {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 790,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
+      "_is_inplay": false
+    },
+    {
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 787,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579862",
+      "market_id": "1.258364926",
+      "_is_inplay": false
+    },
+    {
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
       "volume": 784,
@@ -117,20 +131,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 475,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": false
-    },
-    {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 388,
@@ -142,20 +142,6 @@
       "source": "Betfair",
       "event_id": "35628625",
       "market_id": "1.258390442",
-      "_is_inplay": false
-    },
-    {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 376,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
       "_is_inplay": false
     },
     {
@@ -187,17 +173,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 120,
-      "quota": 1.05,
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 130,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35633192",
-      "market_id": "1.258438109",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -229,9 +215,23 @@
       "_is_inplay": true
     },
     {
+      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
+      "campionato": "Colombian Cup",
+      "volume": 92,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629786",
+      "market_id": "1.258396051",
+      "_is_inplay": true
+    },
+    {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 31,
+      "volume": 61,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -433,12 +433,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258438109",
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 120,
+      "event_id": "bf_1.258396051",
+      "match": "Atletico Bucaramanga v Boca Juniors de Cali",
+      "campionato": "Colombian Cup",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 92,
       "whale_max": 0,
       "entered": false
     }
