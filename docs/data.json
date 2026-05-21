@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:20:49",
+  "last_update": "21/05/2026 06:21:33",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,20 +33,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 1540,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
-      "_is_inplay": false
-    },
-    {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
       "volume": 1361,
@@ -58,20 +44,6 @@
       "source": "Betfair",
       "event_id": "35630694",
       "market_id": "1.258409650",
-      "_is_inplay": false
-    },
-    {
-      "match": "Roma U20 v Bologna U20",
-      "campionato": "Italian Campionato Primavera",
-      "volume": 1034,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632634",
-      "market_id": "1.258434735",
       "_is_inplay": false
     },
     {
@@ -145,6 +117,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 289,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
+      "_is_inplay": false
+    },
+    {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
       "volume": 257,
@@ -212,6 +198,20 @@
       "source": "Betfair",
       "event_id": "35622058",
       "market_id": "1.258325413",
+      "_is_inplay": false
+    },
+    {
+      "match": "Roma U20 v Bologna U20",
+      "campionato": "Italian Campionato Primavera",
+      "volume": 82,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632634",
+      "market_id": "1.258434735",
       "_is_inplay": false
     },
     {
@@ -400,9 +400,9 @@
       "event_id": "bf_1.258434735",
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1034,
+      "volume": 82,
       "whale_max": 0,
       "entered": false
     },
@@ -440,9 +440,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 1540,
+      "volume": 289,
       "whale_max": 0,
       "entered": false
     },
