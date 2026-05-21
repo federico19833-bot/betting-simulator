@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:47:31",
+  "last_update": "21/05/2026 13:48:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -92,6 +92,21 @@
       "market_id": "1.258432678",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:30:00.000Z"
+    },
+    {
+      "match": "Jamshedpur FC v Odisha",
+      "campionato": "Indian Super League",
+      "volume": 1122,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623020",
+      "market_id": "1.258342006",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Progres Sakiet Eddaier v JS Omrane",
@@ -214,6 +229,21 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
+      "match": "Al Arabi Kuwait v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 168,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630923",
+      "market_id": "1.258409992",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:15:00.000Z"
+    },
+    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 123,
@@ -242,21 +272,6 @@
       "market_id": "1.258409650",
       "_is_inplay": false,
       "open_date": "2026-05-21T13:00:00.000Z"
-    },
-    {
-      "match": "Al Arabi Kuwait v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 33,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630923",
-      "market_id": "1.258409992",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:15:00.000Z"
     },
     {
       "match": "Cebrayil FK v Simal FK",
@@ -315,21 +330,6 @@
       "source": "Betfair",
       "event_id": "35619968",
       "market_id": "1.258350565",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623020",
-      "market_id": "1.258342006",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:00:00.000Z"
     },
@@ -436,7 +436,7 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 15,
+      "volume": 1122,
       "whale_max": 0,
       "entered": false
     },
@@ -564,9 +564,9 @@
       "event_id": "bf_1.258409992",
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 33,
+      "volume": 168,
       "whale_max": 0,
       "entered": false
     },
@@ -597,6 +597,16 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 1210,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
