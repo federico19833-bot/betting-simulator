@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:54:06",
+  "last_update": "21/05/2026 13:54:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -62,21 +62,6 @@
       "market_id": "1.258325413",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:45:00.000Z"
-    },
-    {
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "volume": 1620,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609917",
-      "market_id": "1.258354980",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -212,6 +197,21 @@
       "market_id": "1.258386255",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "volume": 312,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609917",
+      "market_id": "1.258354980",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
       "match": "Kifisia v Athlitiki Enosi Larissa",
@@ -491,16 +491,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258354980",
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.08,
-      "volume": 1620,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
@@ -597,16 +587,6 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 1210,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258390442",
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
