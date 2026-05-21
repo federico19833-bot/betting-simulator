@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:39:06",
+  "last_update": "21/05/2026 06:39:49",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -18,20 +18,6 @@
     "balance": 875.04
   },
   "live_events": [
-    {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 2292,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": false
-    },
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
@@ -86,20 +72,6 @@
       "source": "Betfair",
       "event_id": "35623020",
       "market_id": "1.258342006",
-      "_is_inplay": false
-    },
-    {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 657,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
       "_is_inplay": false
     },
     {
@@ -170,6 +142,20 @@
       "source": "Betfair",
       "event_id": "35630923",
       "market_id": "1.258409992",
+      "_is_inplay": false
+    },
+    {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 136,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
       "_is_inplay": false
     },
     {
@@ -254,6 +240,20 @@
       "source": "Betfair",
       "event_id": "35619970",
       "market_id": "1.258350437",
+      "_is_inplay": false
+    },
+    {
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
       "_is_inplay": false
     },
     {
@@ -364,9 +364,9 @@
       "event_id": "bf_1.258341964",
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 2292,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -396,7 +396,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 657,
+      "volume": 136,
       "whale_max": 0,
       "entered": false
     },
