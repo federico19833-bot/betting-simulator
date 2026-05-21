@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:33:27",
+  "last_update": "21/05/2026 02:34:09",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -31,6 +31,20 @@
       "event_id": "35622064",
       "market_id": "1.258326396",
       "_is_inplay": true
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 1535,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
+      "_is_inplay": false
     },
     {
       "match": "Punjab FC v Mumbai City FC",
@@ -89,24 +103,10 @@
       "_is_inplay": false
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 790,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 787,
-      "quota": 1.11,
+      "volume": 815,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -159,6 +159,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 159,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 138,
@@ -173,17 +187,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 130,
-      "quota": 1.12,
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 120,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
+      "event_id": "35633192",
+      "market_id": "1.258438109",
       "_is_inplay": false
     },
     {
@@ -231,7 +245,7 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 61,
+      "volume": 31,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -328,7 +342,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.06,
-      "volume": 1734,
+      "volume": 815,
       "whale_max": 0,
       "entered": false
     },
@@ -439,6 +453,16 @@
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
       "volume": 92,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258438109",
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 120,
       "whale_max": 0,
       "entered": false
     }
