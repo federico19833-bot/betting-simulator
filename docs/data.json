@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 03:07:43",
+  "last_update": "21/05/2026 03:08:23",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,24 +33,10 @@
       "_is_inplay": true
     },
     {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 2005,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
-      "volume": 1659,
-      "quota": 1.05,
+      "volume": 2005,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -61,8 +47,22 @@
       "_is_inplay": false
     },
     {
-      "match": "Flamengo v Estudiantes",
-      "campionato": "CONMEBOL Copa Libertadores",
+      "match": "Roma U20 v Bologna U20",
+      "campionato": "Italian Campionato Primavera",
+      "volume": 1659,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632634",
+      "market_id": "1.258434735",
+      "_is_inplay": false
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
       "volume": 1349,
       "quota": 1.06,
       "in_range": false,
@@ -70,14 +70,28 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35580140",
-      "market_id": "1.258212874",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
       "_is_inplay": true
+    },
+    {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 1345,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
+      "_is_inplay": false
     },
     {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "volume": 1345,
+      "volume": 987,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -89,22 +103,8 @@
       "_is_inplay": false
     },
     {
-      "match": "Inter Kashi v Quess East Bengal",
-      "campionato": "Indian Super League",
-      "volume": 987,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619970",
-      "market_id": "1.258350437",
-      "_is_inplay": false
-    },
-    {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
       "volume": 910,
       "quota": 1.14,
       "in_range": false,
@@ -112,9 +112,9 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": true
+      "event_id": "35580128",
+      "market_id": "1.258212853",
+      "_is_inplay": false
     },
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
@@ -145,38 +145,10 @@
       "_is_inplay": false
     },
     {
-      "match": "Roma U20 v Bologna U20",
-      "campionato": "Italian Campionato Primavera",
-      "volume": 388,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632634",
-      "market_id": "1.258434735",
-      "_is_inplay": false
-    },
-    {
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "volume": 257,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609917",
-      "market_id": "1.258354980",
-      "_is_inplay": false
-    },
-    {
       "match": "Bouhajla v Sportive De Tunis",
       "campionato": "Tunisian Cup",
-      "volume": 256,
-      "quota": 1.03,
+      "volume": 388,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -187,8 +159,36 @@
       "_is_inplay": false
     },
     {
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 257,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
+      "_is_inplay": false
+    },
+    {
+      "match": "Progres Sakiet Eddaier v JS Omrane",
+      "campionato": "Tunisian Cup",
+      "volume": 256,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631644",
+      "market_id": "1.258432701",
+      "_is_inplay": false
+    },
+    {
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
       "volume": 210,
       "quota": 1.11,
       "in_range": false,
@@ -196,12 +196,12 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630455",
-      "market_id": "1.258404542",
+      "event_id": "35628625",
+      "market_id": "1.258390442",
       "_is_inplay": false
     },
     {
-      "match": "Cusco FC v Ind Medellin",
+      "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 161,
       "quota": 1.3,
@@ -210,13 +210,13 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
       "_is_inplay": false
     },
     {
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
+      "match": "FK Qabala v Shamakhi FK",
+      "campionato": "Azerbaijan Premier League",
       "volume": 138,
       "quota": 1.05,
       "in_range": false,
@@ -224,8 +224,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623020",
-      "market_id": "1.258342006",
+      "event_id": "35630455",
+      "market_id": "1.258404542",
       "_is_inplay": false
     },
     {
@@ -257,8 +257,8 @@
       "_is_inplay": false
     },
     {
-      "match": "Moik Baku v Agsu",
-      "campionato": "Azerbaijan 1st Division",
+      "match": "Inter Kashi v Quess East Bengal",
+      "campionato": "Indian Super League",
       "volume": 118,
       "quota": 1.06,
       "in_range": false,
@@ -266,13 +266,13 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630694",
-      "market_id": "1.258409650",
+      "event_id": "35619970",
+      "market_id": "1.258350437",
       "_is_inplay": false
     },
     {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
+      "match": "Flamengo v Estudiantes",
+      "campionato": "CONMEBOL Copa Libertadores",
       "volume": 100,
       "quota": 1.03,
       "in_range": false,
@@ -280,8 +280,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
+      "event_id": "35580140",
+      "market_id": "1.258212874",
       "_is_inplay": true
     }
   ],
@@ -290,21 +290,11 @@
       "event_id": "bf_1.258212874",
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.02,
-      "volume": 1349,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258364980",
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.03,
-      "quota_iniziale": 1.1,
+      "quota_iniziale": 1.02,
       "volume": 100,
       "whale_max": 0,
-      "entered": true
+      "entered": false
     },
     {
       "event_id": "bf_1.258364926",
@@ -330,29 +320,9 @@
       "event_id": "bf_1.258395768",
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.03,
-      "volume": 2618,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258409650",
-      "match": "Moik Baku v Agsu",
-      "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.06,
-      "quota_iniziale": 1.04,
-      "volume": 118,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258354980",
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 257,
+      "volume": 1349,
       "whale_max": 0,
       "entered": false
     },
@@ -360,9 +330,9 @@
       "event_id": "bf_1.258354938",
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 2005,
+      "volume": 257,
       "whale_max": 0,
       "entered": false
     },
@@ -380,9 +350,9 @@
       "event_id": "bf_1.258438130",
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 1659,
+      "volume": 2005,
       "whale_max": 0,
       "entered": false
     },
@@ -390,9 +360,9 @@
       "event_id": "bf_1.258434735",
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 388,
+      "volume": 1659,
       "whale_max": 0,
       "entered": false
     },
@@ -410,9 +380,9 @@
       "event_id": "bf_1.258350437",
       "match": "Inter Kashi v Quess East Bengal",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 987,
+      "volume": 118,
       "whale_max": 0,
       "entered": false
     },
@@ -432,14 +402,34 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
+      "volume": 987,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258432678",
+      "match": "Bouhajla v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.03,
+      "volume": 388,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258350565",
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
       "volume": 1345,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258342006",
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
+      "event_id": "bf_1.258404542",
+      "match": "FK Qabala v Shamakhi FK",
+      "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 138,
@@ -447,8 +437,8 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258432678",
-      "match": "Bouhajla v Sportive De Tunis",
+      "event_id": "bf_1.258432701",
+      "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
