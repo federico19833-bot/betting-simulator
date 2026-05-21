@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 20:34:43",
+  "last_update": "21/05/2026 20:35:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Anderlecht v Sint Truiden",
       "campionato": "Belgian Pro League",
-      "volume": 32897,
+      "volume": 29115,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Wolfsburg v Paderborn",
       "campionato": "German Playoff",
-      "volume": 21186,
+      "volume": 23677,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -49,10 +49,25 @@
       "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
+      "match": "Al-Kholood Club v Al-Fateh (KSA)",
+      "campionato": "Saudi Professional League",
+      "volume": 3926,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35617317",
+      "market_id": "1.258358187",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:00:00.000Z"
+    },
+    {
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
-      "volume": 2949,
-      "quota": 1.07,
+      "volume": 2089,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -60,7 +75,7 @@
       "source": "Betfair",
       "event_id": "35620487",
       "market_id": "1.258315414",
-      "_is_inplay": false,
+      "_is_inplay": true,
       "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
@@ -124,6 +139,21 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
+      "match": "Osijek v Slaven Belupo",
+      "campionato": "Croatian HNL",
+      "volume": 948,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619969",
+      "market_id": "1.258388879",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T14:00:00.000Z"
+    },
+    {
       "match": "NK Sesvete v BSK Bijelo Brdo",
       "campionato": "Croatian Prva NL",
       "volume": 930,
@@ -154,6 +184,21 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 788,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Slavia Sofia v Montana",
       "campionato": "Bulgarian A League",
       "volume": 659,
@@ -182,6 +227,21 @@
       "market_id": "1.258440989",
       "_is_inplay": false,
       "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Deportes Recoleta v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "volume": 468,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627428",
+      "market_id": "1.258383922",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
@@ -244,21 +304,6 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Yellow-Red Mechelen v Club Brugge",
-      "campionato": "Belgian Pro League",
-      "volume": 69,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620490",
-      "market_id": "1.258315547",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 52,
@@ -274,19 +319,19 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Deportes Recoleta v Cobreloa Calama",
-      "campionato": "Chilean Primera B",
-      "volume": 15,
-      "quota": 1.09,
+      "match": "Yellow-Red Mechelen v Club Brugge",
+      "campionato": "Belgian Pro League",
+      "volume": 31,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627428",
-      "market_id": "1.258383922",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T19:00:00.000Z"
+      "event_id": "35620490",
+      "market_id": "1.258315547",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "Union Magdalena v Bogota",
@@ -516,7 +561,7 @@
       "campionato": "Belgian Pro League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 32897,
+      "volume": 29115,
       "whale_max": 0,
       "entered": true
     },
@@ -524,9 +569,9 @@
       "event_id": "bf_1.258334261",
       "match": "Wolfsburg v Paderborn",
       "campionato": "German Playoff",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 21186,
+      "volume": 23677,
       "whale_max": 0,
       "entered": true
     },
@@ -546,7 +591,7 @@
       "campionato": "Chilean Primera B",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 15,
+      "volume": 468,
       "whale_max": 0,
       "entered": false
     },
@@ -567,6 +612,36 @@
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
       "volume": 1524,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258358187",
+      "match": "Al-Kholood Club v Al-Fateh (KSA)",
+      "campionato": "Saudi Professional League",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 3926,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258447234",
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 788,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258388879",
+      "match": "Osijek v Slaven Belupo",
+      "campionato": "Croatian HNL",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 948,
       "whale_max": 0,
       "entered": false
     }
