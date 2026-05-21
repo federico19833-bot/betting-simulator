@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 17:24:54",
+  "last_update": "21/05/2026 17:25:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "Al Riyadh SC v Al-Akhdoud",
       "campionato": "Saudi Professional League",
-      "volume": 1494,
+      "volume": 1469,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 1124,
+      "volume": 1302,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -152,21 +152,6 @@
       "market_id": "1.258358187",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 834,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "Punjab FC v Mumbai City FC",
@@ -229,36 +214,6 @@
       "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 394,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 377,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
       "match": "IK Tord v Skara Fc",
       "campionato": "Swedish Division 2",
       "volume": 335,
@@ -272,6 +227,36 @@
       "market_id": "1.258405413",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 149,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 143,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Al-Ittihad v Al-Quadisiya (KSA)",
@@ -304,6 +289,21 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 15,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633189",
+      "market_id": "1.258438130",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "volume": 15,
@@ -322,7 +322,7 @@
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
       "volume": 15,
-      "quota": 1.04,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -436,7 +436,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 1494,
+      "volume": 1469,
       "whale_max": 0,
       "entered": false
     },
@@ -444,9 +444,9 @@
       "event_id": "bf_1.258438130",
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 834,
+      "volume": 15,
       "whale_max": 0,
       "entered": true
     },
@@ -474,7 +474,7 @@
       "event_id": "bf_1.258354959",
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
       "volume": 15,
       "whale_max": 0,
@@ -554,9 +554,9 @@
       "event_id": "bf_1.258354938",
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 377,
+      "volume": 149,
       "whale_max": 0,
       "entered": false
     },
@@ -626,7 +626,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 1124,
+      "volume": 1302,
       "whale_max": 0,
       "entered": false
     },
@@ -647,16 +647,6 @@
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
       "volume": 1448,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258358271",
-      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
-      "campionato": "Saudi Professional League",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 44086,
       "whale_max": 0,
       "entered": false
     }
