@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 14:06:40",
+  "last_update": "21/05/2026 14:07:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -62,6 +62,21 @@
       "market_id": "1.258325413",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:45:00.000Z"
+    },
+    {
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "volume": 2584,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609917",
+      "market_id": "1.258354980",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -141,7 +156,7 @@
     {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
-      "volume": 520,
+      "volume": 559,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -167,21 +182,6 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
-      "match": "Wadi Degla v ZED FC",
-      "campionato": "Egyptian Premier",
-      "volume": 369,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625597",
-      "market_id": "1.258386255",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
       "match": "Kifisia v Athlitiki Enosi Larissa",
@@ -349,6 +349,21 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
+      "match": "Wadi Degla v ZED FC",
+      "campionato": "Egyptian Premier",
+      "volume": 15,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625597",
+      "market_id": "1.258386255",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
       "match": "IK Tord v Skara Fc",
       "campionato": "Swedish Division 2",
       "volume": 15,
@@ -362,21 +377,6 @@
       "market_id": "1.258405413",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "volume": 13,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609917",
-      "market_id": "1.258354980",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -446,7 +446,7 @@
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 520,
+      "volume": 559,
       "whale_max": 0,
       "entered": false
     },
@@ -584,19 +584,19 @@
       "event_id": "bf_1.258354980",
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 13,
+      "volume": 2584,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258342006",
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34185,
       "whale_max": 0,
       "entered": false
     }
