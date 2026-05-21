@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:30:45",
+  "last_update": "21/05/2026 02:31:25",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -31,20 +31,6 @@
       "event_id": "35622064",
       "market_id": "1.258326396",
       "_is_inplay": true
-    },
-    {
-      "match": "River Plate v Red Bull Bragantino",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2348,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587027",
-      "market_id": "1.258364980",
-      "_is_inplay": false
     },
     {
       "match": "Flamengo v Estudiantes",
@@ -114,6 +100,20 @@
       "source": "Betfair",
       "event_id": "35630420",
       "market_id": "1.258404457",
+      "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 562,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
       "_is_inplay": false
     },
     {
@@ -215,20 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 35,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": false
-    },
-    {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 31,
@@ -240,6 +226,20 @@
       "source": "Betfair",
       "event_id": "35579862",
       "market_id": "1.258364926",
+      "_is_inplay": false
+    },
+    {
+      "match": "River Plate v Red Bull Bragantino",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 15,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587027",
+      "market_id": "1.258364980",
       "_is_inplay": false
     },
     {
@@ -292,9 +292,9 @@
       "event_id": "bf_1.258364980",
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 2348,
+      "volume": 15,
       "whale_max": 0,
       "entered": true
     },
