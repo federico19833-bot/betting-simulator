@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 14:15:32",
+  "last_update": "21/05/2026 14:16:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -244,6 +244,21 @@
       "open_date": "2026-05-21T12:30:00.000Z"
     },
     {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 44,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
       "volume": 39,
@@ -285,21 +300,6 @@
       "source": "Betfair",
       "event_id": "35619970",
       "market_id": "1.258350437",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:00:00.000Z"
     },
@@ -474,9 +474,9 @@
       "event_id": "bf_1.258350565",
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 44,
       "whale_max": 0,
       "entered": false
     },
@@ -591,12 +591,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258342006",
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 31662,
       "whale_max": 0,
       "entered": false
     }
