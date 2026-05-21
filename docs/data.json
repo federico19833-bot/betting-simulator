@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 11:16:42",
+  "last_update": "21/05/2026 11:17:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 1668,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
       "volume": 1269,
@@ -107,21 +122,6 @@
       "market_id": "1.258438109",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 456,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -441,7 +441,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 456,
+      "volume": 1668,
       "whale_max": 0,
       "entered": false
     },
