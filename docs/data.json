@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:01:08",
+  "last_update": "21/05/2026 06:01:51",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -159,6 +159,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 385,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
+      "_is_inplay": false
+    },
+    {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
       "volume": 257,
@@ -170,20 +184,6 @@
       "source": "Betfair",
       "event_id": "35628704",
       "market_id": "1.258392342",
-      "_is_inplay": false
-    },
-    {
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 142,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633192",
-      "market_id": "1.258438109",
       "_is_inplay": false
     },
     {
@@ -212,6 +212,20 @@
       "source": "Betfair",
       "event_id": "35625500",
       "market_id": "1.258359431",
+      "_is_inplay": false
+    },
+    {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 88,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
       "_is_inplay": false
     },
     {
@@ -254,6 +268,20 @@
       "source": "Betfair",
       "event_id": "35619970",
       "market_id": "1.258350437",
+      "_is_inplay": false
+    },
+    {
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633192",
+      "market_id": "1.258438109",
       "_is_inplay": false
     }
   ],
@@ -402,9 +430,29 @@
       "event_id": "bf_1.258438109",
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 142,
+      "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258336208",
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 385,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258325413",
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 88,
       "whale_max": 0,
       "entered": false
     }
