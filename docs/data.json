@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 19:47:22",
+  "last_update": "21/05/2026 19:48:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -77,6 +77,21 @@
       "market_id": "1.258315414",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 1686,
+      "quota": 1.43,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Yellow-Red Mechelen v Club Brugge",
@@ -184,6 +199,21 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
+      "match": "Wolfsburg v Paderborn",
+      "campionato": "German Playoff",
+      "volume": 933,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622937",
+      "market_id": "1.258334261",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
       "match": "Union Magdalena v Bogota",
       "campionato": "Colombian Primera B",
       "volume": 750,
@@ -229,21 +259,6 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
-      "match": "Wolfsburg v Paderborn",
-      "campionato": "German Playoff",
-      "volume": 584,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622937",
-      "market_id": "1.258334261",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
       "volume": 230,
@@ -261,7 +276,7 @@
     {
       "match": "Al-Feiha v Al-Hilal",
       "campionato": "Saudi Professional League",
-      "volume": 98,
+      "volume": 110,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -289,24 +304,9 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 36,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "match": "Al-Ittihad v Al-Quadisiya (KSA)",
       "campionato": "Saudi Professional League",
-      "volume": 29,
+      "volume": 23,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -526,7 +526,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 29,
+      "volume": 23,
       "whale_max": 0,
       "entered": false
     },
@@ -546,7 +546,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
-      "volume": 98,
+      "volume": 110,
       "whale_max": 0,
       "entered": false
     },
@@ -601,12 +601,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258447318",
-      "match": "Aguilas Doradas v Deportivo Pereira",
-      "campionato": "Colombian Cup",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 230,
+      "event_id": "bf_1.258383922",
+      "match": "Deportes Recoleta v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 27282,
       "whale_max": 0,
       "entered": false
     }
