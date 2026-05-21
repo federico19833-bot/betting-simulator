@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 05:01:32",
+  "last_update": "21/05/2026 05:02:14",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -103,20 +103,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Progres Sakiet Eddaier v JS Omrane",
-      "campionato": "Tunisian Cup",
-      "volume": 579,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631644",
-      "market_id": "1.258432701",
-      "_is_inplay": false
-    },
-    {
       "match": "Wadi Degla v ZED FC",
       "campionato": "Egyptian Premier",
       "volume": 511,
@@ -215,6 +201,20 @@
       "_is_inplay": false
     },
     {
+      "match": "FK Qabala v Shamakhi FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 40,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630455",
+      "market_id": "1.258404542",
+      "_is_inplay": false
+    },
+    {
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
       "volume": 15,
@@ -243,17 +243,17 @@
       "_is_inplay": false
     },
     {
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
+      "match": "Progres Sakiet Eddaier v JS Omrane",
+      "campionato": "Tunisian Cup",
       "volume": 15,
-      "quota": 1.06,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630455",
-      "market_id": "1.258404542",
+      "event_id": "35631644",
+      "market_id": "1.258432701",
       "_is_inplay": false
     }
   ],
@@ -262,9 +262,9 @@
       "event_id": "bf_1.258432701",
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 579,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -404,7 +404,7 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 15,
+      "volume": 40,
       "whale_max": 0,
       "entered": false
     }
