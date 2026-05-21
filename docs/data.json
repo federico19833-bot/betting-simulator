@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 10:42:23",
+  "last_update": "21/05/2026 10:43:00",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -9,13 +9,13 @@
   },
   "stats": {
     "total": 25,
-    "wins": 15,
-    "losses": 2,
-    "in_corso": 8,
-    "winrate": 88.2,
-    "profit": -116.41,
-    "roi": -4.66,
-    "balance": 883.59
+    "wins": 20,
+    "losses": 3,
+    "in_corso": 2,
+    "winrate": 87.0,
+    "profit": -189.81,
+    "roi": -7.59,
+    "balance": 810.19
   },
   "live_events": [
     {
@@ -122,6 +122,21 @@
       "market_id": "1.258350437",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 908,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:30:00.000Z"
     },
     {
       "match": "Qatar v Sudan",
@@ -332,21 +347,6 @@
       "market_id": "1.258438130",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 15,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:30:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -534,9 +534,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 15,
+      "volume": 908,
       "whale_max": 0,
       "entered": false
     },
@@ -593,8 +593,8 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota": 1.05,
       "volume": 7796,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "PERSA",
+      "profitto": -100.0,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -605,8 +605,8 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota": 1.05,
       "volume": 12266,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 4.75,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -617,8 +617,8 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota": 1.05,
       "volume": 12266,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 4.75,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -629,8 +629,8 @@
       "campionato": "Colombian Cup",
       "quota": 1.03,
       "volume": 12509,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 2.85,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -641,8 +641,8 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota": 1.05,
       "volume": 8582,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 4.75,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -653,8 +653,8 @@
       "campionato": "Brazilian Copa do Nordeste",
       "quota": 1.1,
       "volume": 7624,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
+      "esito": "VINTA",
+      "profitto": 9.5,
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
