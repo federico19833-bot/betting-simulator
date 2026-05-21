@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 23:11:53",
+  "last_update": "21/05/2026 23:12:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,24 +49,9 @@
       "open_date": "2026-05-21T21:00:00.000Z"
     },
     {
-      "match": "Racing Club v Caracas",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 3520,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582792",
-      "market_id": "1.258405627",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:00:00.000Z"
-    },
-    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 3173,
+      "volume": 3552,
       "quota": 1.22,
       "in_range": false,
       "monitored": false,
@@ -96,7 +81,7 @@
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
-      "volume": 1312,
+      "volume": 1310,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -214,21 +199,6 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
-      "match": "Slavia Sofia v Montana",
-      "campionato": "Bulgarian A League",
-      "volume": 234,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625554",
-      "market_id": "1.258359504",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T12:30:00.000Z"
-    },
-    {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
       "volume": 191,
@@ -274,6 +244,21 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "Racing Club v Caracas",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 40,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582792",
+      "market_id": "1.258405627",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:00:00.000Z"
+    },
+    {
       "match": "Atletico MG v Cienciano",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 15,
@@ -317,6 +302,21 @@
       "market_id": "1.258251357",
       "_is_inplay": false,
       "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "volume": 15,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625554",
+      "market_id": "1.258359504",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T12:30:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -406,7 +406,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 3520,
+      "volume": 40,
       "whale_max": 0,
       "entered": false
     },
