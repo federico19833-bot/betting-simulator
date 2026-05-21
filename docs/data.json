@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 14:00:47",
+  "last_update": "21/05/2026 14:01:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "Bouhajla v Sportive De Tunis",
       "campionato": "Tunisian Cup",
-      "volume": 1211,
+      "volume": 1210,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -92,6 +92,21 @@
       "market_id": "1.258432678",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:30:00.000Z"
+    },
+    {
+      "match": "Jamshedpur FC v Odisha",
+      "campionato": "Indian Super League",
+      "volume": 1122,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623020",
+      "market_id": "1.258342006",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Al Budaiya v Manama Club",
@@ -156,7 +171,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 456,
+      "volume": 471,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -319,21 +334,6 @@
       "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
-      "volume": 15,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623020",
-      "market_id": "1.258342006",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
       "volume": 15,
@@ -486,7 +486,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 456,
+      "volume": 471,
       "whale_max": 0,
       "entered": false
     },
@@ -576,7 +576,7 @@
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1211,
+      "volume": 1210,
       "whale_max": 0,
       "entered": false
     },
@@ -587,6 +587,26 @@
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
       "volume": 13,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258342006",
+      "match": "Jamshedpur FC v Odisha",
+      "campionato": "Indian Super League",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 1122,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34315,
       "whale_max": 0,
       "entered": false
     }
