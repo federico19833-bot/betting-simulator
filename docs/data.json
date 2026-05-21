@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:19:38",
+  "last_update": "21/05/2026 13:20:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 3166,
+      "volume": 3188,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -244,6 +244,21 @@
       "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 40,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633189",
+      "market_id": "1.258438130",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
       "volume": 15,
@@ -319,21 +334,6 @@
       "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
       "volume": 15,
@@ -391,7 +391,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 3166,
+      "volume": 3188,
       "whale_max": 0,
       "entered": false
     },
@@ -511,7 +511,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 40,
       "whale_max": 0,
       "entered": false
     },
@@ -572,6 +572,16 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
