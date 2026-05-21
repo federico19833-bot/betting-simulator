@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:00:07",
+  "last_update": "21/05/2026 09:00:48",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
-      "volume": 2044,
+      "volume": 2045,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -35,7 +35,7 @@
     {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 1672,
+      "volume": 1673,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -61,37 +61,23 @@
       "_is_inplay": false
     },
     {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 1354,
-      "quota": 1.05,
+      "match": "Wadi Degla v ZED FC",
+      "campionato": "Egyptian Premier",
+      "volume": 1211,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": false
-    },
-    {
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
-      "volume": 1338,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623020",
-      "market_id": "1.258342006",
+      "event_id": "35625597",
+      "market_id": "1.258386255",
       "_is_inplay": false
     },
     {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "volume": 740,
+      "volume": 741,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -105,7 +91,7 @@
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 688,
+      "volume": 689,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -173,9 +159,23 @@
       "_is_inplay": false
     },
     {
+      "match": "Al Arabi Kuwait v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 222,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630923",
+      "market_id": "1.258409992",
+      "_is_inplay": false
+    },
+    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
-      "volume": 214,
+      "volume": 215,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -243,6 +243,34 @@
       "_is_inplay": false
     },
     {
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
+      "_is_inplay": false
+    },
+    {
+      "match": "Jamshedpur FC v Odisha",
+      "campionato": "Indian Super League",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623020",
+      "market_id": "1.258342006",
+      "_is_inplay": false
+    },
+    {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 15,
@@ -283,20 +311,6 @@
       "event_id": "35633189",
       "market_id": "1.258438130",
       "_is_inplay": false
-    },
-    {
-      "match": "Al Arabi Kuwait v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630923",
-      "market_id": "1.258409992",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -306,7 +320,7 @@
       "campionato": "Ukrainian Premier League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 214,
+      "volume": 215,
       "whale_max": 0,
       "entered": false
     },
@@ -326,7 +340,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 1672,
+      "volume": 1673,
       "whale_max": 0,
       "entered": false
     },
@@ -346,7 +360,7 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1354,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -354,9 +368,9 @@
       "event_id": "bf_1.258342006",
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1338,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -446,7 +460,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 688,
+      "volume": 689,
       "whale_max": 0,
       "entered": false
     },
@@ -464,9 +478,9 @@
       "event_id": "bf_1.258409992",
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 222,
       "whale_max": 0,
       "entered": false
     },
@@ -476,7 +490,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 2044,
+      "volume": 2045,
       "whale_max": 0,
       "entered": false
     },
@@ -496,7 +510,7 @@
       "campionato": "Danish Superliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 740,
+      "volume": 741,
       "whale_max": 0,
       "entered": false
     }
