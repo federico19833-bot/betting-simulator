@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:25:17",
+  "last_update": "21/05/2026 02:25:58",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,6 +44,20 @@
       "source": "Betfair",
       "event_id": "35587027",
       "market_id": "1.258364980",
+      "_is_inplay": false
+    },
+    {
+      "match": "Junior FC Barranquilla v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 3814,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
       "_is_inplay": false
     },
     {
@@ -117,6 +131,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1020,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
+      "_is_inplay": false
+    },
+    {
       "match": "Flamengo v Estudiantes",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 1001,
@@ -173,20 +201,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 141,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
-      "_is_inplay": false
-    },
-    {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 138,
@@ -229,23 +243,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 80,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35585859",
-      "market_id": "1.258365653",
-      "_is_inplay": false
-    },
-    {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
-      "volume": 61,
+      "volume": 31,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -418,7 +418,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.07,
-      "volume": 141,
+      "volume": 1020,
       "whale_max": 0,
       "entered": false
     },
@@ -448,7 +448,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 80,
+      "volume": 3814,
       "whale_max": 0,
       "entered": false
     }
