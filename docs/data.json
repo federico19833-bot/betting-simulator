@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 20:13:28",
+  "last_update": "21/05/2026 20:14:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 27287,
+      "volume": 27282,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Anderlecht v Sint Truiden",
       "campionato": "Belgian Pro League",
-      "volume": 23734,
+      "volume": 23653,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
+      "match": "Yellow-Red Mechelen v Club Brugge",
+      "campionato": "Belgian Pro League",
+      "volume": 822,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620490",
+      "market_id": "1.258315547",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 817,
@@ -244,21 +259,6 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Deportes Recoleta v Cobreloa Calama",
-      "campionato": "Chilean Primera B",
-      "volume": 287,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627428",
-      "market_id": "1.258383922",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T19:00:00.000Z"
-    },
-    {
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
       "volume": 231,
@@ -289,21 +289,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Yellow-Red Mechelen v Club Brugge",
-      "campionato": "Belgian Pro League",
-      "volume": 194,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620490",
-      "market_id": "1.258315547",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
       "match": "Blooming Santa Cruz v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 117,
@@ -319,19 +304,19 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Wolfsburg v Paderborn",
-      "campionato": "German Playoff",
-      "volume": 73,
-      "quota": 1.07,
+      "match": "Deportes Recoleta v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "volume": 15,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622937",
-      "market_id": "1.258334261",
+      "event_id": "35627428",
+      "market_id": "1.258383922",
       "_is_inplay": false,
-      "open_date": "2026-05-21T18:30:00.000Z"
+      "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
       "match": "Union Magdalena v Bogota",
@@ -514,21 +499,11 @@
       "event_id": "bf_1.258358229",
       "match": "Al Nassr v Dhamk",
       "campionato": "Saudi Professional League",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
       "volume": 8724,
       "whale_max": 0,
       "entered": true
-    },
-    {
-      "event_id": "bf_1.258334261",
-      "match": "Wolfsburg v Paderborn",
-      "campionato": "German Playoff",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.02,
-      "volume": 73,
-      "whale_max": 0,
-      "entered": false
     },
     {
       "event_id": "bf_1.258447318",
@@ -576,7 +551,7 @@
       "campionato": "Belgian Pro League",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.1,
-      "volume": 194,
+      "volume": 822,
       "whale_max": 0,
       "entered": false
     },
@@ -596,17 +571,17 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
-      "volume": 27287,
+      "volume": 27282,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258300575",
-      "match": "Anderlecht v Sint Truiden",
-      "campionato": "Belgian Pro League",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 23734,
+      "event_id": "bf_1.258383922",
+      "match": "Deportes Recoleta v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     }
