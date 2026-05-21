@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 11:17:05",
+  "last_update": "21/05/2026 11:17:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 34186,
+      "volume": 34295,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258409650",
       "_is_inplay": false,
       "open_date": "2026-05-21T13:00:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 1668,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -124,6 +109,21 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 456,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
       "volume": 400,
@@ -150,21 +150,6 @@
       "source": "Betfair",
       "event_id": "35619968",
       "market_id": "1.258350565",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 349,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:00:00.000Z"
     },
@@ -274,6 +259,21 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
       "volume": 15,
@@ -379,9 +379,9 @@
       "event_id": "bf_1.258341964",
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 349,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -421,7 +421,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 34186,
+      "volume": 34295,
       "whale_max": 0,
       "entered": true
     },
@@ -441,7 +441,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1668,
+      "volume": 456,
       "whale_max": 0,
       "entered": false
     },
