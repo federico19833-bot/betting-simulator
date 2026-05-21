@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:32:13",
+  "last_update": "21/05/2026 09:32:55",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -8,16 +8,30 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 24,
+    "total": 25,
     "wins": 14,
     "losses": 2,
-    "in_corso": 8,
+    "in_corso": 9,
     "winrate": 87.5,
     "profit": -124.96,
-    "roi": -5.21,
+    "roi": -5.0,
     "balance": 875.04
   },
   "live_events": [
+    {
+      "match": "Rigas Futbola Skola v FK Jelgava",
+      "campionato": "Latvian Virsliga",
+      "volume": 31079,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628704",
+      "market_id": "1.258392342",
+      "_is_inplay": false
+    },
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
@@ -30,20 +44,6 @@
       "source": "Betfair",
       "event_id": "35628625",
       "market_id": "1.258390442",
-      "_is_inplay": false
-    },
-    {
-      "match": "Rigas Futbola Skola v FK Jelgava",
-      "campionato": "Latvian Virsliga",
-      "volume": 2087,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628704",
-      "market_id": "1.258392342",
       "_is_inplay": false
     },
     {
@@ -518,9 +518,9 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 2087,
+      "volume": 31079,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258325413",
@@ -564,6 +564,18 @@
     }
   ],
   "giocate": [
+    {
+      "id": 32,
+      "orario": "2026-05-21 09:32:48",
+      "match": "Rigas Futbola Skola v FK Jelgava",
+      "campionato": "Latvian Virsliga",
+      "quota": 1.03,
+      "volume": 31079,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 31,
       "orario": "2026-05-21 09:11:51",
