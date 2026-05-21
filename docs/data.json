@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:16:09",
+  "last_update": "21/05/2026 09:16:51",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,20 +44,6 @@
       "source": "Betfair",
       "event_id": "35628704",
       "market_id": "1.258392342",
-      "_is_inplay": false
-    },
-    {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 1682,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
       "_is_inplay": false
     },
     {
@@ -198,6 +184,20 @@
       "source": "Betfair",
       "event_id": "35625597",
       "market_id": "1.258386255",
+      "_is_inplay": false
+    },
+    {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 330,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
       "_is_inplay": false
     },
     {
@@ -532,9 +532,9 @@
       "event_id": "bf_1.258350565",
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1682,
+      "volume": 330,
       "whale_max": 0,
       "entered": false
     }
