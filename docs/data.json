@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 18:44:32",
+  "last_update": "21/05/2026 18:45:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 10234,
+      "volume": 9114,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Al Fahaheel FC v Kuwait SC",
       "campionato": "Kuwaiti Premier League",
-      "volume": 4195,
+      "volume": 4259,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -201,8 +201,8 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 335,
-      "quota": 1.01,
+      "volume": 436,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -214,9 +214,24 @@
       "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
+      "match": "Wadi Degla v ZED FC",
+      "campionato": "Egyptian Premier",
+      "volume": 299,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625597",
+      "market_id": "1.258386255",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
       "match": "Elfsborg v Mjallby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 205,
+      "volume": 294,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -229,39 +244,24 @@
       "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
-      "match": "Wadi Degla v ZED FC",
-      "campionato": "Egyptian Premier",
-      "volume": 194,
-      "quota": 1.17,
+      "match": "Deportes Recoleta v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "volume": 214,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625597",
-      "market_id": "1.258386255",
+      "event_id": "35627428",
+      "market_id": "1.258383922",
       "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "match": "Rigas Futbola Skola v FK Jelgava",
-      "campionato": "Latvian Virsliga",
-      "volume": 173,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628704",
-      "market_id": "1.258392342",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
+      "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
       "match": "Al-Feiha v Al-Hilal",
       "campionato": "Saudi Professional League",
-      "volume": 154,
+      "volume": 156,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -287,21 +287,6 @@
       "market_id": "1.258440729",
       "_is_inplay": false,
       "open_date": "2026-05-21T21:00:00.000Z"
-    },
-    {
-      "match": "Deportes Recoleta v Cobreloa Calama",
-      "campionato": "Chilean Primera B",
-      "volume": 116,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627428",
-      "market_id": "1.258383922",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
       "match": "Wolfsburg v Paderborn",
@@ -347,6 +332,21 @@
       "market_id": "1.258325413",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:45:00.000Z"
+    },
+    {
+      "match": "Rigas Futbola Skola v FK Jelgava",
+      "campionato": "Latvian Virsliga",
+      "volume": 32,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628704",
+      "market_id": "1.258392342",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
       "match": "Al-Kholood Club v Al-Fateh (KSA)",
@@ -416,7 +416,7 @@
       "campionato": "Kuwaiti Premier League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 4195,
+      "volume": 4259,
       "whale_max": 0,
       "entered": false
     },
@@ -476,7 +476,7 @@
       "campionato": "Chilean Primera B",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 116,
+      "volume": 214,
       "whale_max": 0,
       "entered": true
     },
@@ -544,9 +544,9 @@
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 335,
+      "volume": 436,
       "whale_max": 0,
       "entered": false
     },
@@ -606,7 +606,7 @@
       "campionato": "Swedish Allsvenskan",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 205,
+      "volume": 294,
       "whale_max": 0,
       "entered": false
     },
@@ -616,27 +616,17 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 154,
+      "volume": 156,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258409992",
-      "match": "Al Arabi Kuwait v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 10234,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258315547",
-      "match": "Yellow-Red Mechelen v Club Brugge",
-      "campionato": "Belgian Pro League",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 7410,
+      "event_id": "bf_1.258438109",
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 40077,
       "whale_max": 0,
       "entered": false
     }
