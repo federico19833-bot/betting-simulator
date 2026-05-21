@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 19:15:25",
+  "last_update": "21/05/2026 19:16:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Wolfsburg v Paderborn",
       "campionato": "German Playoff",
-      "volume": 37980,
+      "volume": 38337,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Al-Feiha v Al-Hilal",
       "campionato": "Saudi Professional League",
-      "volume": 4259,
+      "volume": 4386,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
+      "match": "NEOM Sports Club v Al-Ettifaq",
+      "campionato": "Saudi Professional League",
+      "volume": 1215,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616711",
+      "market_id": "1.258358166",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:00:00.000Z"
+    },
+    {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
       "volume": 1102,
@@ -152,6 +167,21 @@
       "market_id": "1.258447318",
       "_is_inplay": false,
       "open_date": "2026-05-21T20:30:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 984,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Jaguares de Cordoba v Independiente Yumbo",
@@ -229,17 +259,17 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
-      "match": "NEOM Sports Club v Al-Ettifaq",
+      "match": "Al-Ittihad v Al-Quadisiya (KSA)",
       "campionato": "Saudi Professional League",
-      "volume": 215,
-      "quota": 1.02,
+      "volume": 166,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35616711",
-      "market_id": "1.258358166",
+      "event_id": "35623154",
+      "market_id": "1.258336229",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:00:00.000Z"
     },
@@ -302,36 +332,6 @@
       "market_id": "1.258315547",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Al-Ittihad v Al-Quadisiya (KSA)",
-      "campionato": "Saudi Professional League",
-      "volume": 26,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623154",
-      "market_id": "1.258336229",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Al-Kholood Club v Al-Fateh (KSA)",
@@ -441,7 +441,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 984,
       "whale_max": 0,
       "entered": false
     },
@@ -461,7 +461,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 4259,
+      "volume": 4386,
       "whale_max": 0,
       "entered": false
     },
@@ -491,7 +491,7 @@
       "campionato": "German Playoff",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.01,
-      "volume": 37980,
+      "volume": 38337,
       "whale_max": 0,
       "entered": true
     },
@@ -601,7 +601,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 26,
+      "volume": 166,
       "whale_max": 0,
       "entered": false
     },
@@ -621,7 +621,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 215,
+      "volume": 1215,
       "whale_max": 0,
       "entered": false
     },
@@ -632,16 +632,6 @@
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
       "volume": 50,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258358229",
-      "match": "Al Nassr v Dhamk",
-      "campionato": "Saudi Professional League",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 7491,
       "whale_max": 0,
       "entered": false
     }
