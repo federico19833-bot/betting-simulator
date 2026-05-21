@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 14:36:04",
+  "last_update": "21/05/2026 14:36:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 31574,
+      "volume": 31575,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "volume": 1894,
+      "volume": 3534,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -122,6 +122,21 @@
       "market_id": "1.258354980",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:00:00.000Z"
+    },
+    {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 1393,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "Al Budaiya v Manama Club",
@@ -180,21 +195,6 @@
       "source": "Betfair",
       "event_id": "35609901",
       "market_id": "1.258354959",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 182,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
     },
@@ -292,7 +292,7 @@
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
       "volume": 15,
-      "quota": 1.07,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -451,7 +451,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 182,
+      "volume": 1393,
       "whale_max": 0,
       "entered": false
     },
@@ -571,17 +571,17 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1894,
+      "volume": 3534,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258310519",
-      "match": "Elfsborg v Mjallby",
-      "campionato": "Swedish Allsvenskan",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 14963,
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 31575,
       "whale_max": 0,
       "entered": false
     }
