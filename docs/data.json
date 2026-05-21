@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 01:59:18",
+  "last_update": "22/05/2026 01:59:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1367,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581502",
-      "market_id": "1.258251357",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "FK Sahdag Qusar v Baku Sporting",
       "campionato": "Azerbaijan 1st Division",
       "volume": 947,
@@ -109,21 +94,6 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
-      "match": "Real Cartagena v Barranquilla",
-      "campionato": "Colombian Primera B",
-      "volume": 635,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633315",
-      "market_id": "1.258440989",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Septemvri v Dobrudzha",
       "campionato": "Bulgarian A League",
       "volume": 507,
@@ -137,6 +107,21 @@
       "market_id": "1.258359539",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 469,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Energetik Mingechevir v Sabail",
@@ -186,7 +171,7 @@
     {
       "match": "Botev Vratsa v Beroe Stara Za",
       "campionato": "Bulgarian A League",
-      "volume": 132,
+      "volume": 133,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -227,6 +212,21 @@
       "market_id": "1.258405627",
       "_is_inplay": false,
       "open_date": "2026-05-22T00:00:00.000Z"
+    },
+    {
+      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581502",
+      "market_id": "1.258251357",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Penarol v Corinthians",
@@ -301,7 +301,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 635,
+      "volume": 469,
       "whale_max": 0,
       "entered": false
     },
@@ -311,7 +311,7 @@
       "campionato": "Bulgarian A League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 132,
+      "volume": 133,
       "whale_max": 0,
       "entered": false
     },
@@ -411,7 +411,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1367,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -421,6 +421,16 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
+      "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258405627",
+      "match": "Racing Club v Caracas",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
       "volume": 15,
       "whale_max": 0,
       "entered": false
