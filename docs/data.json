@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 03:04:19",
+  "last_update": "21/05/2026 03:05:00",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -30,6 +30,20 @@
       "source": "Betfair",
       "event_id": "35579862",
       "market_id": "1.258364926",
+      "_is_inplay": true
+    },
+    {
+      "match": "Deportivo Cali v Alianza FC Valledupar",
+      "campionato": "Colombian Cup",
+      "volume": 2811,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629776",
+      "market_id": "1.258395768",
       "_is_inplay": true
     },
     {
@@ -73,20 +87,6 @@
       "event_id": "35580140",
       "market_id": "1.258212874",
       "_is_inplay": true
-    },
-    {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1349,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
-      "_is_inplay": false
     },
     {
       "match": "Punjab FC v Mumbai City FC",
@@ -187,20 +187,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Deportivo Cali v Alianza FC Valledupar",
-      "campionato": "Colombian Cup",
-      "volume": 217,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629776",
-      "market_id": "1.258395768",
-      "_is_inplay": true
-    },
-    {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
       "volume": 210,
@@ -215,6 +201,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 146,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
+      "_is_inplay": false
+    },
+    {
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
       "volume": 138,
@@ -226,6 +226,20 @@
       "source": "Betfair",
       "event_id": "35623020",
       "market_id": "1.258342006",
+      "_is_inplay": false
+    },
+    {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 132,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
       "_is_inplay": false
     },
     {
@@ -271,37 +285,9 @@
       "_is_inplay": true
     },
     {
-      "match": "LDU v Lanus",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 70,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579877",
-      "market_id": "1.258364959",
-      "_is_inplay": true
-    },
-    {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 24,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
-      "_is_inplay": false
-    },
-    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 20,
+      "volume": 23,
       "quota": 1.33,
       "in_range": false,
       "monitored": false,
@@ -341,16 +327,6 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 5042,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258364959",
-      "match": "LDU v Lanus",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 69,
       "whale_max": 0,
       "entered": false
     },
