@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:36:18",
+  "last_update": "21/05/2026 06:37:00",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -91,7 +91,7 @@
     {
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
-      "volume": 816,
+      "volume": 992,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -128,20 +128,6 @@
       "source": "Betfair",
       "event_id": "35625597",
       "market_id": "1.258386255",
-      "_is_inplay": false
-    },
-    {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 388,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
       "_is_inplay": false
     },
     {
@@ -254,6 +240,20 @@
       "source": "Betfair",
       "event_id": "35619970",
       "market_id": "1.258350437",
+      "_is_inplay": false
+    },
+    {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 15,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
       "_is_inplay": false
     },
     {
@@ -394,9 +394,9 @@
       "event_id": "bf_1.258354938",
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 388,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
