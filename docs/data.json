@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 17:59:23",
+  "last_update": "21/05/2026 18:00:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "NEOM Sports Club v Al-Ettifaq",
       "campionato": "Saudi Professional League",
-      "volume": 52597,
+      "volume": 52655,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -216,7 +216,7 @@
     {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "volume": 333,
+      "volume": 304,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -337,7 +337,7 @@
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 6,
-      "quota": 6.2,
+      "quota": 7.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -406,7 +406,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 333,
+      "volume": 304,
       "whale_max": 0,
       "entered": true
     },
@@ -537,6 +537,26 @@
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 18215,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258310519",
+      "match": "Elfsborg v Mjallby",
+      "campionato": "Swedish Allsvenskan",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 14055,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258358166",
+      "match": "NEOM Sports Club v Al-Ettifaq",
+      "campionato": "Saudi Professional League",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 52655,
       "whale_max": 0,
       "entered": false
     }
