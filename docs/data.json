@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 16:25:15",
+  "last_update": "21/05/2026 16:26:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -141,7 +141,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 995,
+      "volume": 929,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -167,21 +167,6 @@
       "market_id": "1.258310519",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 609,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -227,6 +212,21 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 182,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Ajax v FC Groningen",
@@ -456,7 +456,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 995,
+      "volume": 929,
       "whale_max": 0,
       "entered": false
     },
@@ -644,9 +644,9 @@
       "event_id": "bf_1.258341964",
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 609,
+      "volume": 182,
       "whale_max": 0,
       "entered": false
     },
@@ -657,16 +657,6 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258447234",
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 245,
       "whale_max": 0,
       "entered": false
     }
