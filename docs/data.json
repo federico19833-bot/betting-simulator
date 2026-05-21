@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 11:07:09",
+  "last_update": "21/05/2026 11:07:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
-      "volume": 31050,
+      "volume": 31064,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -184,19 +184,19 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 214,
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 366,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
       "_is_inplay": false,
-      "open_date": "2026-05-21T12:30:00.000Z"
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Ajax v FC Groningen",
@@ -212,6 +212,21 @@
       "market_id": "1.258325413",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:45:00.000Z"
+    },
+    {
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 138,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T12:30:00.000Z"
     },
     {
       "match": "Kifisia v Athlitiki Enosi Larissa",
@@ -274,21 +289,6 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 15,
@@ -339,9 +339,9 @@
       "event_id": "bf_1.258359431",
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 214,
+      "volume": 138,
       "whale_max": 0,
       "entered": false
     },
@@ -501,7 +501,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 31050,
+      "volume": 31064,
       "whale_max": 0,
       "entered": true
     },
@@ -529,9 +529,9 @@
       "event_id": "bf_1.258350565",
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 366,
       "whale_max": 0,
       "entered": false
     }
