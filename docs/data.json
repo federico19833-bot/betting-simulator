@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 00:27:05",
+  "last_update": "22/05/2026 00:27:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
-      "volume": 2256,
+      "volume": 2529,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -229,6 +229,21 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
+      "match": "Blooming Santa Cruz v Carabobo FC",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 119,
+      "quota": 1.57,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587335",
+      "market_id": "1.258405648",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Cruz Azul v Pumas UNAM",
       "campionato": "Mexican Liga MX",
       "volume": 117,
@@ -242,36 +257,6 @@
       "market_id": "1.258436312",
       "_is_inplay": false,
       "open_date": "2026-05-22T02:00:00.000Z"
-    },
-    {
-      "match": "Blooming Santa Cruz v Carabobo FC",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 82,
-      "quota": 1.51,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587335",
-      "market_id": "1.258405648",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 76,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Penarol v Corinthians",
@@ -371,16 +356,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258447234",
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 76,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258440989",
       "match": "Real Cartagena v Barranquilla",
       "campionato": "Colombian Primera B",
@@ -426,7 +401,7 @@
       "campionato": "Croatian HNL",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2256,
+      "volume": 2529,
       "whale_max": 0,
       "entered": false
     },
