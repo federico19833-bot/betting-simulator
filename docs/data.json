@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 01:08:39",
+  "last_update": "22/05/2026 01:09:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
+      "match": "Macara v Alianza Atletico",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1133,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582817",
+      "market_id": "1.258406330",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T02:00:00.000Z"
+    },
+    {
       "match": "FK Sahdag Qusar v Baku Sporting",
       "campionato": "Azerbaijan 1st Division",
       "volume": 947,
@@ -109,6 +124,21 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 520,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Septemvri v Dobrudzha",
       "campionato": "Bulgarian A League",
       "volume": 507,
@@ -122,36 +152,6 @@
       "market_id": "1.258359539",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "Real Cartagena v Barranquilla",
-      "campionato": "Colombian Primera B",
-      "volume": 437,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633315",
-      "market_id": "1.258440989",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
-      "match": "Macara v Alianza Atletico",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 419,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582817",
-      "market_id": "1.258406330",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
       "match": "Energetik Mingechevir v Sabail",
@@ -306,7 +306,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 437,
+      "volume": 520,
       "whale_max": 0,
       "entered": false
     },
@@ -346,7 +346,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 419,
+      "volume": 1133,
       "whale_max": 0,
       "entered": false
     },
