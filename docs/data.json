@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 12:20:26",
+  "last_update": "21/05/2026 12:21:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -107,6 +107,21 @@
       "market_id": "1.258354938",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
+      "match": "Wadi Degla v ZED FC",
+      "campionato": "Egyptian Premier",
+      "volume": 1226,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625597",
+      "market_id": "1.258386255",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
       "match": "Bouhajla v Sportive De Tunis",
@@ -349,21 +364,6 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
-      "match": "Wadi Degla v ZED FC",
-      "campionato": "Egyptian Premier",
-      "volume": 15,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625597",
-      "market_id": "1.258386255",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
       "match": "IK Tord v Skara Fc",
       "campionato": "Swedish Division 2",
       "volume": 15,
@@ -597,6 +597,16 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34244,
       "whale_max": 0,
       "entered": false
     }
