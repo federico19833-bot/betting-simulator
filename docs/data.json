@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:09:52",
+  "last_update": "21/05/2026 09:10:35",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -215,20 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Al Arabi Kuwait v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 222,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630923",
-      "market_id": "1.258409992",
-      "_is_inplay": false
-    },
-    {
       "match": "Shakhtar v Kolos Kovalyovka",
       "campionato": "Ukrainian Premier League",
       "volume": 214,
@@ -324,6 +310,20 @@
       "source": "Betfair",
       "event_id": "35633189",
       "market_id": "1.258438130",
+      "_is_inplay": false
+    },
+    {
+      "match": "Al Arabi Kuwait v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 15,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630923",
+      "market_id": "1.258409992",
       "_is_inplay": false
     }
   ],
@@ -492,9 +492,9 @@
       "event_id": "bf_1.258409992",
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 222,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
