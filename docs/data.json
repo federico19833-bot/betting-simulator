@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:34:53",
+  "last_update": "21/05/2026 06:35:36",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -77,7 +77,7 @@
     {
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
-      "volume": 1048,
+      "volume": 1032,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -156,20 +156,6 @@
       "source": "Betfair",
       "event_id": "35628704",
       "market_id": "1.258392342",
-      "_is_inplay": false
-    },
-    {
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 235,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633192",
-      "market_id": "1.258438109",
       "_is_inplay": false
     },
     {
@@ -271,6 +257,34 @@
       "_is_inplay": false
     },
     {
+      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633192",
+      "market_id": "1.258438109",
+      "_is_inplay": false
+    },
+    {
+      "match": "Panaitolikos v Asteras Tripolis",
+      "campionato": "Greek Super League",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609901",
+      "market_id": "1.258354959",
+      "_is_inplay": false
+    },
+    {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
       "volume": 15,
@@ -362,7 +376,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 1048,
+      "volume": 1032,
       "whale_max": 0,
       "entered": false
     },
@@ -430,9 +444,9 @@
       "event_id": "bf_1.258438109",
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 235,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -453,6 +467,16 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 88,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258354959",
+      "match": "Panaitolikos v Asteras Tripolis",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     }
