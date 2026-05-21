@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 16:59:47",
+  "last_update": "21/05/2026 17:00:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "volume": 33207,
+      "volume": 33222,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 27986,
+      "volume": 27998,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 13556,
+      "volume": 14026,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -64,24 +64,9 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
-      "match": "Bouhajla v Sportive De Tunis",
-      "campionato": "Tunisian Cup",
-      "volume": 2591,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631640",
-      "market_id": "1.258432678",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T14:30:00.000Z"
-    },
-    {
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
-      "volume": 1696,
+      "volume": 1697,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -96,7 +81,7 @@
     {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "volume": 1486,
+      "volume": 1487,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -107,6 +92,21 @@
       "market_id": "1.258350565",
       "_is_inplay": true,
       "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "match": "Bouhajla v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 1445,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631640",
+      "market_id": "1.258432678",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
       "match": "Qatar v Sudan",
@@ -171,7 +171,7 @@
     {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "volume": 716,
+      "volume": 673,
       "quota": 1.22,
       "in_range": false,
       "monitored": false,
@@ -231,7 +231,7 @@
     {
       "match": "Al-Feiha v Al-Hilal",
       "campionato": "Saudi Professional League",
-      "volume": 50,
+      "volume": 51,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -246,7 +246,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 38,
+      "volume": 15,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -466,7 +466,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 13556,
+      "volume": 14026,
       "whale_max": 0,
       "entered": true
     },
@@ -476,7 +476,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 33207,
+      "volume": 33222,
       "whale_max": 0,
       "entered": true
     },
@@ -516,7 +516,7 @@
       "campionato": "Kuwaiti Premier League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 27986,
+      "volume": 27998,
       "whale_max": 0,
       "entered": true
     },
@@ -586,7 +586,7 @@
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 2591,
+      "volume": 1445,
       "whale_max": 0,
       "entered": false
     },
@@ -596,7 +596,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 38,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -646,7 +646,7 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1696,
+      "volume": 1697,
       "whale_max": 0,
       "entered": false
     },
@@ -656,7 +656,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 50,
+      "volume": 51,
       "whale_max": 0,
       "entered": false
     }
