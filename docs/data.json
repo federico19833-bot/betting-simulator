@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:12:58",
+  "last_update": "21/05/2026 02:13:40",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "River Plate v Red Bull Bragantino",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 3285,
+      "volume": 3283,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -49,7 +49,7 @@
     {
       "match": "SE Palmeiras v Cerro Porteno",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 2083,
+      "volume": 2081,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -58,6 +58,20 @@
       "source": "Betfair",
       "event_id": "35579862",
       "market_id": "1.258364926",
+      "_is_inplay": false
+    },
+    {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 2071,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
       "_is_inplay": false
     },
     {
@@ -147,7 +161,7 @@
     {
       "match": "Independiente Petrolero v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 479,
+      "volume": 494,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -159,23 +173,9 @@
       "_is_inplay": true
     },
     {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 341,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
-      "_is_inplay": false
-    },
-    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 313,
+      "volume": 423,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -229,10 +229,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 69,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": false
+    },
+    {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
       "volume": 34,
-      "quota": 1.19,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -246,7 +260,7 @@
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
       "volume": 15,
-      "quota": 1.1,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -254,20 +268,6 @@
       "source": "Betfair",
       "event_id": "35629776",
       "market_id": "1.258395768",
-      "_is_inplay": false
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
       "_is_inplay": false
     }
   ],
@@ -288,7 +288,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 69,
       "whale_max": 0,
       "entered": false
     },
@@ -308,7 +308,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 313,
+      "volume": 423,
       "whale_max": 0,
       "entered": false
     },
@@ -358,7 +358,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.07,
-      "volume": 479,
+      "volume": 494,
       "whale_max": 0,
       "entered": false
     },
@@ -368,7 +368,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 2083,
+      "volume": 2081,
       "whale_max": 0,
       "entered": false
     },
@@ -426,9 +426,9 @@
       "event_id": "bf_1.258212853",
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 341,
+      "volume": 2071,
       "whale_max": 0,
       "entered": false
     },
