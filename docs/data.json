@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:21:33",
+  "last_update": "21/05/2026 06:22:15",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,6 +44,20 @@
       "source": "Betfair",
       "event_id": "35630694",
       "market_id": "1.258409650",
+      "_is_inplay": false
+    },
+    {
+      "match": "Roma U20 v Bologna U20",
+      "campionato": "Italian Campionato Primavera",
+      "volume": 1034,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632634",
+      "market_id": "1.258434735",
       "_is_inplay": false
     },
     {
@@ -198,20 +212,6 @@
       "source": "Betfair",
       "event_id": "35622058",
       "market_id": "1.258325413",
-      "_is_inplay": false
-    },
-    {
-      "match": "Roma U20 v Bologna U20",
-      "campionato": "Italian Campionato Primavera",
-      "volume": 82,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632634",
-      "market_id": "1.258434735",
       "_is_inplay": false
     },
     {
@@ -400,9 +400,9 @@
       "event_id": "bf_1.258434735",
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 82,
+      "volume": 1034,
       "whale_max": 0,
       "entered": false
     },
