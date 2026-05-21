@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 15:51:01",
+  "last_update": "21/05/2026 15:51:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -216,7 +216,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 38,
+      "volume": 86,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -231,8 +231,8 @@
     {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "volume": 15,
-      "quota": 1.03,
+      "volume": 49,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -406,7 +406,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 38,
+      "volume": 86,
       "whale_max": 0,
       "entered": false
     },
@@ -494,9 +494,9 @@
       "event_id": "bf_1.258341964",
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 49,
       "whale_max": 0,
       "entered": false
     },
@@ -537,6 +537,26 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258354980",
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 245,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258354938",
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 13098,
       "whale_max": 0,
       "entered": false
     }
