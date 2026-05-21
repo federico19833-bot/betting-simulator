@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 00:24:10",
+  "last_update": "22/05/2026 00:24:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Union Magdalena v Bogota",
       "campionato": "Colombian Primera B",
-      "volume": 3798,
+      "volume": 2945,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -199,6 +199,21 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 165,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 140,
@@ -229,21 +244,6 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 130,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
       "match": "Cruz Azul v Pumas UNAM",
       "campionato": "Mexican Liga MX",
       "volume": 117,
@@ -261,7 +261,7 @@
     {
       "match": "Blooming Santa Cruz v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 54,
+      "volume": 86,
       "quota": 1.45,
       "in_range": false,
       "monitored": false,
@@ -376,7 +376,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 130,
+      "volume": 165,
       "whale_max": 0,
       "entered": false
     },
