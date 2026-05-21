@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:44:36",
+  "last_update": "21/05/2026 13:45:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -62,21 +62,6 @@
       "market_id": "1.258325413",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:45:00.000Z"
-    },
-    {
-      "match": "Moik Baku v Agsu",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 3166,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630694",
-      "market_id": "1.258409650",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -244,6 +229,21 @@
       "open_date": "2026-05-21T12:30:00.000Z"
     },
     {
+      "match": "Moik Baku v Agsu",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 81,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630694",
+      "market_id": "1.258409650",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T13:00:00.000Z"
+    },
+    {
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
       "volume": 15,
@@ -404,9 +404,9 @@
       "event_id": "bf_1.258409650",
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 3166,
+      "volume": 81,
       "whale_max": 0,
       "entered": false
     },
@@ -597,6 +597,16 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 1210,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
