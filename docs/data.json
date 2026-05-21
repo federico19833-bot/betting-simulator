@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:38:24",
+  "last_update": "21/05/2026 06:39:06",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -86,6 +86,20 @@
       "source": "Betfair",
       "event_id": "35623020",
       "market_id": "1.258342006",
+      "_is_inplay": false
+    },
+    {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 657,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
       "_is_inplay": false
     },
     {
@@ -243,20 +257,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 15,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "volume": 15,
@@ -394,9 +394,9 @@
       "event_id": "bf_1.258354938",
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 657,
       "whale_max": 0,
       "entered": false
     },
