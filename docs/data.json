@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 22:03:25",
+  "last_update": "21/05/2026 22:04:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-21T22:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 2787,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
       "volume": 2466,
@@ -81,7 +96,7 @@
     {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1173,
+      "volume": 1174,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -184,21 +199,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "FC Utrecht v Heerenveen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 703,
-      "quota": 1.68,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622059",
-      "market_id": "1.258325392",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T19:00:00.000Z"
-    },
-    {
       "match": "CD Marathon v CD Motagua",
       "campionato": "Honduras Liga Nacional",
       "volume": 658,
@@ -231,8 +231,8 @@
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
-      "volume": 194,
-      "quota": 2.02,
+      "volume": 181,
+      "quota": 2.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -242,21 +242,6 @@
       "market_id": "1.258447318",
       "_is_inplay": false,
       "open_date": "2026-05-21T20:30:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 160,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Penarol v Corinthians",
@@ -289,6 +274,21 @@
       "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
+      "match": "Union Magdalena v Bogota",
+      "campionato": "Colombian Primera B",
+      "volume": 38,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632607",
+      "market_id": "1.258434758",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T21:00:00.000Z"
+    },
+    {
       "match": "Jaguares de Cordoba v Independiente Yumbo",
       "campionato": "Colombian Cup",
       "volume": 15,
@@ -319,19 +319,19 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Union Magdalena v Bogota",
-      "campionato": "Colombian Primera B",
-      "volume": 13,
-      "quota": 1.04,
+      "match": "FC Utrecht v Heerenveen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 14,
+      "quota": 1.68,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35632607",
-      "market_id": "1.258434758",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T21:00:00.000Z"
+      "event_id": "35622059",
+      "market_id": "1.258325392",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T19:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -361,7 +361,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1173,
+      "volume": 1174,
       "whale_max": 0,
       "entered": false
     },
@@ -441,7 +441,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 13,
+      "volume": 38,
       "whale_max": 0,
       "entered": false
     },
