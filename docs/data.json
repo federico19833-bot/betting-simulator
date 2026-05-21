@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:08:12",
+  "last_update": "21/05/2026 06:08:54",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -30,20 +30,6 @@
       "source": "Betfair",
       "event_id": "35628625",
       "market_id": "1.258390442",
-      "_is_inplay": false
-    },
-    {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 1595,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
       "_is_inplay": false
     },
     {
@@ -156,6 +142,20 @@
       "source": "Betfair",
       "event_id": "35616699",
       "market_id": "1.258354938",
+      "_is_inplay": false
+    },
+    {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 330,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
       "_is_inplay": false
     },
     {
@@ -440,9 +440,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1595,
+      "volume": 330,
       "whale_max": 0,
       "entered": false
     },
