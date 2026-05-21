@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 07:00:53",
+  "last_update": "21/05/2026 07:01:35",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 2015,
+      "volume": 2059,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -103,20 +103,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 521,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
-      "_is_inplay": false
-    },
-    {
       "match": "Wadi Degla v ZED FC",
       "campionato": "Egyptian Premier",
       "volume": 511,
@@ -131,6 +117,34 @@
       "_is_inplay": false
     },
     {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 506,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
+      "_is_inplay": false
+    },
+    {
+      "match": "Panaitolikos v Asteras Tripolis",
+      "campionato": "Greek Super League",
+      "volume": 385,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609901",
+      "market_id": "1.258354959",
+      "_is_inplay": false
+    },
+    {
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 369,
@@ -142,20 +156,6 @@
       "source": "Betfair",
       "event_id": "35633189",
       "market_id": "1.258438130",
-      "_is_inplay": false
-    },
-    {
-      "match": "Panaitolikos v Asteras Tripolis",
-      "campionato": "Greek Super League",
-      "volume": 228,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609901",
-      "market_id": "1.258354959",
       "_is_inplay": false
     },
     {
@@ -326,7 +326,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 2015,
+      "volume": 2059,
       "whale_max": 0,
       "entered": false
     },
@@ -396,7 +396,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 521,
+      "volume": 506,
       "whale_max": 0,
       "entered": false
     },
@@ -476,7 +476,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 228,
+      "volume": 385,
       "whale_max": 0,
       "entered": false
     }
