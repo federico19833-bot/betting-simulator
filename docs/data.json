@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 04:19:25",
+  "last_update": "21/05/2026 04:20:06",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -31,20 +31,6 @@
       "event_id": "35628704",
       "market_id": "1.258392342",
       "_is_inplay": false
-    },
-    {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 1699,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": true
     },
     {
       "match": "Progres Sakiet Eddaier v JS Omrane",
@@ -101,6 +87,20 @@
       "event_id": "35609917",
       "market_id": "1.258354980",
       "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 694,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": true
     },
     {
       "match": "Wadi Degla v ZED FC",
@@ -282,9 +282,9 @@
       "event_id": "bf_1.258327129",
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1699,
+      "volume": 694,
       "whale_max": 0,
       "entered": false
     },
