@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 19:16:26",
+  "last_update": "21/05/2026 19:17:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Al-Feiha v Al-Hilal",
       "campionato": "Saudi Professional League",
-      "volume": 4386,
+      "volume": 4368,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -77,21 +77,6 @@
       "market_id": "1.258358250",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
-      "match": "Brondby v FC Copenhagen",
-      "campionato": "Danish Superliga",
-      "volume": 3763,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623148",
-      "market_id": "1.258336208",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T16:30:00.000Z"
     },
     {
       "match": "Deportivo La Guaira v Independiente Rivadavia",
@@ -139,21 +124,6 @@
       "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
-      "match": "NEOM Sports Club v Al-Ettifaq",
-      "campionato": "Saudi Professional League",
-      "volume": 1215,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616711",
-      "market_id": "1.258358166",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
       "volume": 1102,
@@ -184,6 +154,21 @@
       "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
+      "match": "Racing Club v Caracas",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 980,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582792",
+      "market_id": "1.258405627",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:00:00.000Z"
+    },
+    {
       "match": "Jaguares de Cordoba v Independiente Yumbo",
       "campionato": "Colombian Cup",
       "volume": 945,
@@ -197,6 +182,21 @@
       "market_id": "1.258440729",
       "_is_inplay": false,
       "open_date": "2026-05-21T21:00:00.000Z"
+    },
+    {
+      "match": "Al Fahaheel FC v Kuwait SC",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 898,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632283",
+      "market_id": "1.258434779",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:20:00.000Z"
     },
     {
       "match": "Wadi Degla v ZED FC",
@@ -214,24 +214,9 @@
       "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
-      "match": "Al Fahaheel FC v Kuwait SC",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 733,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632283",
-      "market_id": "1.258434779",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:20:00.000Z"
-    },
-    {
       "match": "FC Utrecht v Heerenveen",
       "campionato": "Dutch Eredivisie",
-      "volume": 551,
+      "volume": 566,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -244,24 +229,39 @@
       "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
-      "match": "Al Riyadh SC v Al-Akhdoud",
+      "match": "NEOM Sports Club v Al-Ettifaq",
       "campionato": "Saudi Professional League",
-      "volume": 430,
-      "quota": 1.03,
+      "volume": 215,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35616697",
-      "market_id": "1.258358208",
+      "event_id": "35616711",
+      "market_id": "1.258358166",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "volume": 214,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T16:30:00.000Z"
+    },
+    {
       "match": "Al-Ittihad v Al-Quadisiya (KSA)",
       "campionato": "Saudi Professional League",
-      "volume": 166,
+      "volume": 167,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -276,7 +276,7 @@
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
-      "volume": 105,
+      "volume": 109,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -287,21 +287,6 @@
       "market_id": "1.258392342",
       "_is_inplay": true,
       "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "match": "Racing Club v Caracas",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 77,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582792",
-      "market_id": "1.258405627",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:00:00.000Z"
     },
     {
       "match": "IK Tord v Skara Fc",
@@ -317,6 +302,21 @@
       "market_id": "1.258405413",
       "_is_inplay": true,
       "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
+      "match": "Al Riyadh SC v Al-Akhdoud",
+      "campionato": "Saudi Professional League",
+      "volume": 52,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616697",
+      "market_id": "1.258358208",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
       "match": "Yellow-Red Mechelen v Club Brugge",
@@ -401,7 +401,7 @@
       "campionato": "Dutch Eredivisie",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 551,
+      "volume": 566,
       "whale_max": 0,
       "entered": false
     },
@@ -461,7 +461,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 4386,
+      "volume": 4368,
       "whale_max": 0,
       "entered": false
     },
@@ -529,9 +529,9 @@
       "event_id": "bf_1.258405627",
       "match": "Racing Club v Caracas",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 77,
+      "volume": 980,
       "whale_max": 0,
       "entered": false
     },
@@ -571,7 +571,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 105,
+      "volume": 109,
       "whale_max": 0,
       "entered": false
     },
@@ -579,9 +579,9 @@
       "event_id": "bf_1.258358208",
       "match": "Al Riyadh SC v Al-Akhdoud",
       "campionato": "Saudi Professional League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 430,
+      "volume": 52,
       "whale_max": 0,
       "entered": false
     },
@@ -601,7 +601,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 166,
+      "volume": 167,
       "whale_max": 0,
       "entered": false
     },
@@ -621,7 +621,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 1215,
+      "volume": 215,
       "whale_max": 0,
       "entered": false
     },
@@ -632,6 +632,16 @@
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
       "volume": 50,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258358229",
+      "match": "Al Nassr v Dhamk",
+      "campionato": "Saudi Professional League",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 7491,
       "whale_max": 0,
       "entered": false
     }
