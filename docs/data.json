@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 05:11:22",
+  "last_update": "21/05/2026 05:12:03",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,20 +33,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "volume": 1659,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609917",
-      "market_id": "1.258354980",
-      "_is_inplay": false
-    },
-    {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
       "volume": 1361,
@@ -72,6 +58,20 @@
       "source": "Betfair",
       "event_id": "35616713",
       "market_id": "1.258341964",
+      "_is_inplay": false
+    },
+    {
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "volume": 1032,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609917",
+      "market_id": "1.258354980",
       "_is_inplay": false
     },
     {
@@ -332,9 +332,9 @@
       "event_id": "bf_1.258354980",
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 1659,
+      "volume": 1032,
       "whale_max": 0,
       "entered": false
     },
