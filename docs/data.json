@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 21:56:49",
+  "last_update": "21/05/2026 21:57:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,21 +18,6 @@
     "balance": 810.19
   },
   "live_events": [
-    {
-      "match": "Wolfsburg v Paderborn",
-      "campionato": "German Playoff",
-      "volume": 4679,
-      "quota": 1.52,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622937",
-      "market_id": "1.258334261",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
     {
       "match": "Union Magdalena v Bogota",
       "campionato": "Colombian Primera B",
@@ -64,6 +49,21 @@
       "open_date": "2026-05-21T22:00:00.000Z"
     },
     {
+      "match": "Gent v Union St Gilloise",
+      "campionato": "Belgian Pro League",
+      "volume": 2660,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620487",
+      "market_id": "1.258315414",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
       "match": "Puerto Cabello v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 2466,
@@ -77,6 +77,21 @@
       "market_id": "1.258212832",
       "_is_inplay": false,
       "open_date": "2026-05-21T22:00:00.000Z"
+    },
+    {
+      "match": "FC Utrecht v Heerenveen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 1908,
+      "quota": 1.54,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622059",
+      "market_id": "1.258325392",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
@@ -229,21 +244,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Gent v Union St Gilloise",
-      "campionato": "Belgian Pro League",
-      "volume": 192,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620487",
-      "market_id": "1.258315414",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 140,
@@ -274,19 +274,19 @@
       "open_date": "2026-05-22T11:45:00.000Z"
     },
     {
-      "match": "FC Utrecht v Heerenveen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 16,
-      "quota": 1.71,
+      "match": "Wolfsburg v Paderborn",
+      "campionato": "German Playoff",
+      "volume": 89,
+      "quota": 1.57,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622059",
-      "market_id": "1.258325392",
+      "event_id": "35622937",
+      "market_id": "1.258334261",
       "_is_inplay": true,
-      "open_date": "2026-05-21T19:00:00.000Z"
+      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
