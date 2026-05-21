@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 12:37:32",
+  "last_update": "21/05/2026 12:38:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
-      "volume": 31502,
+      "volume": 31495,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -229,6 +229,21 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
+      "match": "Progres Sakiet Eddaier v JS Omrane",
+      "campionato": "Tunisian Cup",
+      "volume": 272,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631644",
+      "market_id": "1.258432701",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:30:00.000Z"
+    },
+    {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 136,
@@ -302,21 +317,6 @@
       "market_id": "1.258342006",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "match": "Progres Sakiet Eddaier v JS Omrane",
-      "campionato": "Tunisian Cup",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631644",
-      "market_id": "1.258432701",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
       "match": "Al Budaiya v Manama Club",
@@ -456,7 +456,7 @@
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 15,
+      "volume": 272,
       "whale_max": 0,
       "entered": false
     },
@@ -466,7 +466,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 31502,
+      "volume": 31495,
       "whale_max": 0,
       "entered": true
     },
@@ -567,16 +567,6 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258390442",
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 34303,
       "whale_max": 0,
       "entered": false
     },
