@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 08:58:00",
+  "last_update": "21/05/2026 08:58:41",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,6 +33,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Moik Baku v Agsu",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 1672,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630694",
+      "market_id": "1.258409650",
+      "_is_inplay": false
+    },
+    {
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
       "volume": 1517,
@@ -58,6 +72,48 @@
       "source": "Betfair",
       "event_id": "35633192",
       "market_id": "1.258438109",
+      "_is_inplay": false
+    },
+    {
+      "match": "Roma U20 v Bologna U20",
+      "campionato": "Italian Campionato Primavera",
+      "volume": 456,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632634",
+      "market_id": "1.258434735",
+      "_is_inplay": false
+    },
+    {
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 394,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
+      "_is_inplay": false
+    },
+    {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 194,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
       "_is_inplay": false
     },
     {
@@ -100,20 +156,6 @@
       "source": "Betfair",
       "event_id": "35630420",
       "market_id": "1.258404457",
-      "_is_inplay": false
-    },
-    {
-      "match": "Moik Baku v Agsu",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630694",
-      "market_id": "1.258409650",
       "_is_inplay": false
     },
     {
@@ -201,20 +243,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "volume": 15,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
-      "_is_inplay": false
-    },
-    {
       "match": "Al Budaiya v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 15,
@@ -226,20 +254,6 @@
       "source": "Betfair",
       "event_id": "35633189",
       "market_id": "1.258438130",
-      "_is_inplay": false
-    },
-    {
-      "match": "Roma U20 v Bologna U20",
-      "campionato": "Italian Campionato Primavera",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632634",
-      "market_id": "1.258434735",
       "_is_inplay": false
     },
     {
@@ -269,20 +283,6 @@
       "event_id": "35630923",
       "market_id": "1.258409992",
       "_is_inplay": false
-    },
-    {
-      "match": "Ajax v FC Groningen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 14,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622058",
-      "market_id": "1.258325413",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -310,9 +310,9 @@
       "event_id": "bf_1.258409650",
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 1672,
       "whale_max": 0,
       "entered": false
     },
@@ -402,7 +402,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 394,
       "whale_max": 0,
       "entered": false
     },
@@ -420,9 +420,9 @@
       "event_id": "bf_1.258434735",
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 15,
+      "volume": 456,
       "whale_max": 0,
       "entered": false
     },
@@ -470,9 +470,9 @@
       "event_id": "bf_1.258325413",
       "match": "Ajax v FC Groningen",
       "campionato": "Dutch Eredivisie",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 14,
+      "volume": 194,
       "whale_max": 0,
       "entered": false
     }
