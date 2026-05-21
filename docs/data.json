@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 15:57:47",
+  "last_update": "21/05/2026 15:58:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
-      "volume": 1541,
+      "volume": 754,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 48,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
       "volume": 15,
@@ -242,21 +257,6 @@
       "market_id": "1.258432701",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:30:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -391,7 +391,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 15,
+      "volume": 48,
       "whale_max": 0,
       "entered": false
     },
@@ -461,7 +461,7 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 1541,
+      "volume": 754,
       "whale_max": 0,
       "entered": false
     },
@@ -512,26 +512,6 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 559,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258354980",
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 245,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258354938",
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 13098,
       "whale_max": 0,
       "entered": false
     }
