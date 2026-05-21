@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 23:44:17",
+  "last_update": "21/05/2026 23:44:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,21 +18,6 @@
     "balance": 506.14
   },
   "live_events": [
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 5349,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
     {
       "match": "Atletico MG v Cienciano",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -214,6 +199,21 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 160,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 140,
@@ -246,7 +246,7 @@
     {
       "match": "Real Cartagena v Barranquilla",
       "campionato": "Colombian Primera B",
-      "volume": 37,
+      "volume": 38,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -342,16 +342,6 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
       "volume": 506,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258447234",
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 5349,
       "whale_max": 0,
       "entered": false
     },
