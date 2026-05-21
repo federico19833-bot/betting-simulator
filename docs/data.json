@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 17:01:09",
+  "last_update": "21/05/2026 17:01:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 27998,
+      "volume": 27986,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
+      "match": "Wadi Degla v ZED FC",
+      "campionato": "Egyptian Premier",
+      "volume": 922,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625597",
+      "market_id": "1.258386255",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 834,
@@ -156,7 +171,7 @@
     {
       "match": "Punjab FC v Mumbai City FC",
       "campionato": "Indian Super League",
-      "volume": 673,
+      "volume": 709,
       "quota": 1.22,
       "in_range": false,
       "monitored": false,
@@ -184,6 +199,21 @@
       "open_date": "2026-05-21T17:20:00.000Z"
     },
     {
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "volume": 108,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628625",
+      "market_id": "1.258390442",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:00:00.000Z"
+    },
+    {
       "match": "IK Tord v Skara Fc",
       "campionato": "Swedish Division 2",
       "volume": 105,
@@ -197,21 +227,6 @@
       "market_id": "1.258405413",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "volume": 87,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628625",
-      "market_id": "1.258390442",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
       "match": "Al-Feiha v Al-Hilal",
@@ -231,8 +246,8 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 23,
-      "quota": 1.07,
+      "volume": 18,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -242,21 +257,6 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35609917",
-      "market_id": "1.258354980",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
       "match": "Al Budaiya v Manama Club",
@@ -315,21 +315,6 @@
       "source": "Betfair",
       "event_id": "35628704",
       "market_id": "1.258392342",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
-    },
-    {
-      "match": "Wadi Degla v ZED FC",
-      "campionato": "Egyptian Premier",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625597",
-      "market_id": "1.258386255",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
     },
@@ -489,9 +474,9 @@
       "event_id": "bf_1.258386255",
       "match": "Wadi Degla v ZED FC",
       "campionato": "Egyptian Premier",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 922,
       "whale_max": 0,
       "entered": false
     },
@@ -501,7 +486,7 @@
       "campionato": "Kuwaiti Premier League",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 27998,
+      "volume": 27986,
       "whale_max": 0,
       "entered": true
     },
@@ -571,7 +556,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 87,
+      "volume": 108,
       "whale_max": 0,
       "entered": false
     },
@@ -592,16 +577,6 @@
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
       "volume": 23,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258354980",
-      "match": "Atromitos v Panserraikos",
-      "campionato": "Greek Super League",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.05,
-      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
