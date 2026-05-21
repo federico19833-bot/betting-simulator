@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 01:54:01",
+  "last_update": "22/05/2026 01:54:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Racing Club v Caracas",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 5648,
+      "volume": 5674,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "CD Marathon v CD Motagua",
       "campionato": "Honduras Liga Nacional",
-      "volume": 3172,
+      "volume": 2718,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
-      "match": "Real Cartagena v Barranquilla",
-      "campionato": "Colombian Primera B",
-      "volume": 635,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633315",
-      "market_id": "1.258440989",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Septemvri v Dobrudzha",
       "campionato": "Bulgarian A League",
       "volume": 507,
@@ -152,6 +137,21 @@
       "market_id": "1.258359539",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 437,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Energetik Mingechevir v Sabail",
@@ -281,7 +281,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 5648,
+      "volume": 5674,
       "whale_max": 0,
       "entered": false
     },
@@ -311,7 +311,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 635,
+      "volume": 437,
       "whale_max": 0,
       "entered": false
     },
@@ -331,7 +331,7 @@
       "campionato": "Honduras Liga Nacional",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 3172,
+      "volume": 2718,
       "whale_max": 0,
       "entered": false
     },
