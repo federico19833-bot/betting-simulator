@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 03:15:20",
+  "last_update": "21/05/2026 03:16:01",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -35,7 +35,7 @@
     {
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 3305,
+      "volume": 2100,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -100,20 +100,6 @@
       "source": "Betfair",
       "event_id": "35619968",
       "market_id": "1.258350565",
-      "_is_inplay": false
-    },
-    {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 1007,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
       "_is_inplay": false
     },
     {
@@ -201,20 +187,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Cusco FC v Ind Medellin",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 153,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
-      "_is_inplay": false
-    },
-    {
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
       "volume": 138,
@@ -227,20 +199,6 @@
       "event_id": "35630455",
       "market_id": "1.258404542",
       "_is_inplay": false
-    },
-    {
-      "match": "LDU v Lanus",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 124,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579877",
-      "market_id": "1.258364959",
-      "_is_inplay": true
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -271,10 +229,24 @@
       "_is_inplay": false
     },
     {
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 112,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
+      "_is_inplay": false
+    },
+    {
       "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 113,
-      "quota": 1.37,
+      "volume": 111,
+      "quota": 1.39,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -296,6 +268,34 @@
       "source": "Betfair",
       "event_id": "35580140",
       "market_id": "1.258212874",
+      "_is_inplay": true
+    },
+    {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 79,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
+      "_is_inplay": false
+    },
+    {
+      "match": "LDU v Lanus",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 64,
+      "quota": 1.32,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579877",
+      "market_id": "1.258364959",
       "_is_inplay": true
     }
   ],
@@ -386,7 +386,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3305,
+      "volume": 2100,
       "whale_max": 0,
       "entered": false
     },
