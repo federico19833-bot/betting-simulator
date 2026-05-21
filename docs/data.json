@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 19:57:23",
+  "last_update": "21/05/2026 19:58:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
-      "volume": 5973,
+      "volume": 3664,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -77,21 +77,6 @@
       "market_id": "1.258315414",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:30:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 1494,
-      "quota": 1.72,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Yellow-Red Mechelen v Club Brugge",
@@ -231,7 +216,7 @@
     {
       "match": "Al Nassr v Dhamk",
       "campionato": "Saudi Professional League",
-      "volume": 612,
+      "volume": 613,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -246,7 +231,7 @@
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
       "campionato": "Colombian Cup",
-      "volume": 215,
+      "volume": 230,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -289,21 +274,6 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
-      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
-      "campionato": "Saudi Professional League",
-      "volume": 18,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35613629",
-      "market_id": "1.258358271",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
       "match": "Al-Ittihad v Al-Quadisiya (KSA)",
       "campionato": "Saudi Professional League",
       "volume": 15,
@@ -330,6 +300,21 @@
       "source": "Betfair",
       "event_id": "35617317",
       "market_id": "1.258358187",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T18:00:00.000Z"
+    },
+    {
+      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
+      "campionato": "Saudi Professional League",
+      "volume": 15,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35613629",
+      "market_id": "1.258358271",
       "_is_inplay": false,
       "open_date": "2026-05-21T18:00:00.000Z"
     },
@@ -491,16 +476,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258447234",
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 48,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258358187",
       "match": "Al-Kholood Club v Al-Fateh (KSA)",
       "campionato": "Saudi Professional League",
@@ -526,7 +501,7 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 18,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -566,7 +541,7 @@
       "campionato": "Belgian Pro League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 5973,
+      "volume": 3664,
       "whale_max": 0,
       "entered": false
     },
@@ -586,17 +561,27 @@
       "campionato": "Saudi Professional League",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 612,
+      "volume": 613,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258383922",
-      "match": "Deportes Recoleta v Cobreloa Calama",
-      "campionato": "Chilean Primera B",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 27282,
+      "event_id": "bf_1.258336208",
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 7431,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258447318",
+      "match": "Aguilas Doradas v Deportivo Pereira",
+      "campionato": "Colombian Cup",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 230,
       "whale_max": 0,
       "entered": false
     }
