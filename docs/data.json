@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 09:59:26",
+  "last_update": "21/05/2026 10:00:09",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -100,6 +100,20 @@
       "source": "Betfair",
       "event_id": "35616713",
       "market_id": "1.258341964",
+      "_is_inplay": false
+    },
+    {
+      "match": "Inter Kashi v Quess East Bengal",
+      "campionato": "Indian Super League",
+      "volume": 1188,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619970",
+      "market_id": "1.258350437",
       "_is_inplay": false
     },
     {
@@ -257,20 +271,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Inter Kashi v Quess East Bengal",
-      "campionato": "Indian Super League",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619970",
-      "market_id": "1.258350437",
-      "_is_inplay": false
-    },
-    {
       "match": "Bouhajla v Sportive De Tunis",
       "campionato": "Tunisian Cup",
       "volume": 15,
@@ -362,9 +362,9 @@
       "event_id": "bf_1.258350437",
       "match": "Inter Kashi v Quess East Bengal",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 15,
+      "volume": 1188,
       "whale_max": 0,
       "entered": false
     },
