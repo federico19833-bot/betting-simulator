@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 01:52:15",
+  "last_update": "22/05/2026 01:52:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
+      "match": "Macara v Alianza Atletico",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1614,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582817",
+      "market_id": "1.258406330",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T02:00:00.000Z"
+    },
+    {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 1367,
@@ -92,21 +107,6 @@
       "market_id": "1.258404394",
       "_is_inplay": false,
       "open_date": "2026-05-22T13:00:00.000Z"
-    },
-    {
-      "match": "Macara v Alianza Atletico",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 794,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582817",
-      "market_id": "1.258406330",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
       "match": "Zeleznicar Pancevo v Cukaricki",
@@ -141,7 +141,7 @@
     {
       "match": "Real Cartagena v Barranquilla",
       "campionato": "Colombian Primera B",
-      "volume": 476,
+      "volume": 437,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -311,7 +311,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 476,
+      "volume": 437,
       "whale_max": 0,
       "entered": false
     },
@@ -349,9 +349,9 @@
       "event_id": "bf_1.258406330",
       "match": "Macara v Alianza Atletico",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 794,
+      "volume": 1614,
       "whale_max": 0,
       "entered": false
     },
