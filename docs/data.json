@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 01:06:54",
+  "last_update": "22/05/2026 01:07:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-22T13:00:00.000Z"
     },
     {
-      "match": "Real Cartagena v Barranquilla",
-      "campionato": "Colombian Primera B",
-      "volume": 748,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633315",
-      "market_id": "1.258440989",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Zeleznicar Pancevo v Cukaricki",
       "campionato": "Serbian Super League",
       "volume": 706,
@@ -107,6 +92,21 @@
       "market_id": "1.258388923",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 520,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Septemvri v Dobrudzha",
@@ -306,7 +306,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 748,
+      "volume": 520,
       "whale_max": 0,
       "entered": false
     },
