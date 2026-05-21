@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 23:55:26",
+  "last_update": "21/05/2026 23:56:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Atletico MG v Cienciano",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 4846,
+      "volume": 4847,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -32,6 +32,21 @@
       "market_id": "1.258405392",
       "_is_inplay": false,
       "open_date": "2026-05-21T22:00:00.000Z"
+    },
+    {
+      "match": "Penarol v Corinthians",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 4189,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35583980",
+      "market_id": "1.258251313",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "PFK Turan Tovuz v FC Sabah",
@@ -51,7 +66,7 @@
     {
       "match": "Deportivo La Guaira v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1678,
+      "volume": 1783,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -107,21 +122,6 @@
       "market_id": "1.258359452",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "Penarol v Corinthians",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 630,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35583980",
-      "market_id": "1.258251313",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Union Magdalena v Bogota",
@@ -244,21 +244,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Real Cartagena v Barranquilla",
-      "campionato": "Colombian Primera B",
-      "volume": 94,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633315",
-      "market_id": "1.258440989",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Puerto Cabello v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 46,
@@ -272,6 +257,21 @@
       "market_id": "1.258212832",
       "_is_inplay": false,
       "open_date": "2026-05-21T22:00:00.000Z"
+    },
+    {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 20,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Racing Club v Caracas",
@@ -331,7 +331,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 4846,
+      "volume": 4847,
       "whale_max": 0,
       "entered": false
     },
@@ -429,9 +429,9 @@
       "event_id": "bf_1.258251313",
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 630,
+      "volume": 4189,
       "whale_max": 0,
       "entered": false
     },
@@ -472,6 +472,16 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 336,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258447234",
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 154,
       "whale_max": 0,
       "entered": false
     }
