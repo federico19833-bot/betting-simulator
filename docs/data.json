@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:17:22",
+  "last_update": "21/05/2026 13:18:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,8 +34,8 @@
       "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
-      "match": "Rigas Futbola Skola v FK Jelgava",
-      "campionato": "Latvian Virsliga",
+      "match": "Elfsborg v Mjallby",
+      "campionato": "Swedish Allsvenskan",
       "volume": 32973,
       "quota": 1.03,
       "in_range": false,
@@ -43,8 +43,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35628704",
-      "market_id": "1.258392342",
+      "event_id": "35620005",
+      "market_id": "1.258310519",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
     },
@@ -79,8 +79,8 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
-      "match": "Wadi Degla v ZED FC",
-      "campionato": "Egyptian Premier",
+      "match": "Rigas Futbola Skola v FK Jelgava",
+      "campionato": "Latvian Virsliga",
       "volume": 1800,
       "quota": 1.14,
       "in_range": false,
@@ -88,8 +88,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625597",
-      "market_id": "1.258386255",
+      "event_id": "35628704",
+      "market_id": "1.258392342",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
     },
@@ -347,21 +347,6 @@
       "market_id": "1.258434735",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:00:00.000Z"
-    },
-    {
-      "match": "IK Tord v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630523",
-      "market_id": "1.258405413",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T17:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -566,22 +551,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258405413",
-      "match": "IK Tord v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258390442",
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 34295,
+      "event_id": "bf_1.258310519",
+      "match": "Elfsborg v Mjallby",
+      "campionato": "Swedish Allsvenskan",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 32973,
       "whale_max": 0,
       "entered": false
     }
