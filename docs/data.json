@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:59:17",
+  "last_update": "21/05/2026 14:00:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,8 +81,8 @@
     {
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
-      "volume": 1374,
-      "quota": 1.08,
+      "volume": 1211,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
+      "match": "Al Budaiya v Manama Club",
+      "campionato": "Bahraini Premier",
+      "volume": 1091,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633189",
+      "market_id": "1.258438130",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:00:00.000Z"
+    },
+    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 1018,
@@ -137,21 +152,6 @@
       "market_id": "1.258432701",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:30:00.000Z"
-    },
-    {
-      "match": "Al Budaiya v Manama Club",
-      "campionato": "Bahraini Premier",
-      "volume": 754,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633189",
-      "market_id": "1.258438130",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
@@ -516,7 +516,7 @@
       "campionato": "Bahraini Premier",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 754,
+      "volume": 1091,
       "whale_max": 0,
       "entered": false
     },
@@ -594,9 +594,19 @@
       "event_id": "bf_1.258354980",
       "match": "Atromitos v Panserraikos",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 1374,
+      "volume": 1211,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
