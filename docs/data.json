@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 04:18:42",
+  "last_update": "21/05/2026 04:19:25",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -19,20 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 4240,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": true
-    },
-    {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
       "volume": 2020,
@@ -45,6 +31,20 @@
       "event_id": "35628704",
       "market_id": "1.258392342",
       "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 1699,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": true
     },
     {
       "match": "Progres Sakiet Eddaier v JS Omrane",
@@ -282,9 +282,9 @@
       "event_id": "bf_1.258327129",
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 4240,
+      "volume": 1699,
       "whale_max": 0,
       "entered": false
     },
