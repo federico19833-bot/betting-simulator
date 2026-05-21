@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:22:33",
+  "last_update": "21/05/2026 02:23:14",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -44,6 +44,20 @@
       "source": "Betfair",
       "event_id": "35587027",
       "market_id": "1.258364980",
+      "_is_inplay": false
+    },
+    {
+      "match": "Cusco FC v Ind Medellin",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 2368,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580128",
+      "market_id": "1.258212853",
       "_is_inplay": false
     },
     {
@@ -131,17 +145,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Cusco FC v Ind Medellin",
+      "match": "Junior FC Barranquilla v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 894,
-      "quota": 1.08,
+      "volume": 737,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35580128",
-      "market_id": "1.258212853",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
       "_is_inplay": false
     },
     {
@@ -157,20 +171,6 @@
       "event_id": "35582821",
       "market_id": "1.258432749",
       "_is_inplay": true
-    },
-    {
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 467,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35585859",
-      "market_id": "1.258365653",
-      "_is_inplay": false
     },
     {
       "match": "Atromitos v Panserraikos",
@@ -231,8 +231,8 @@
     {
       "match": "Atletico Bucaramanga v Boca Juniors de Cali",
       "campionato": "Colombian Cup",
-      "volume": 59,
-      "quota": 1.27,
+      "volume": 32,
+      "quota": 1.28,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -418,7 +418,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 894,
+      "volume": 2368,
       "whale_max": 0,
       "entered": false
     },
@@ -448,7 +448,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 467,
+      "volume": 737,
       "whale_max": 0,
       "entered": false
     }
