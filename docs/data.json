@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 12:26:19",
+  "last_update": "21/05/2026 12:27:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "volume": 34244,
+      "volume": 34228,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Rigas Futbola Skola v FK Jelgava",
       "campionato": "Latvian Virsliga",
-      "volume": 30268,
+      "volume": 31478,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
+      "match": "Jamshedpur FC v Odisha",
+      "campionato": "Indian Super League",
+      "volume": 1276,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623020",
+      "market_id": "1.258342006",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
       "match": "Bouhajla v Sportive De Tunis",
       "campionato": "Tunisian Cup",
       "volume": 1210,
@@ -141,7 +156,7 @@
     {
       "match": "Inter Kashi v Quess East Bengal",
       "campionato": "Indian Super League",
-      "volume": 1187,
+      "volume": 1188,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -304,21 +319,6 @@
       "open_date": "2026-05-21T13:00:00.000Z"
     },
     {
-      "match": "Jamshedpur FC v Odisha",
-      "campionato": "Indian Super League",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623020",
-      "market_id": "1.258342006",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Progres Sakiet Eddaier v JS Omrane",
       "campionato": "Tunisian Cup",
       "volume": 15,
@@ -401,7 +401,7 @@
       "campionato": "Indian Super League",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 1187,
+      "volume": 1188,
       "whale_max": 0,
       "entered": false
     },
@@ -419,9 +419,9 @@
       "event_id": "bf_1.258342006",
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 15,
+      "volume": 1276,
       "whale_max": 0,
       "entered": false
     },
@@ -451,7 +451,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 30268,
+      "volume": 31478,
       "whale_max": 0,
       "entered": true
     },
@@ -572,6 +572,16 @@
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 1210,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258390442",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 34228,
       "whale_max": 0,
       "entered": false
     }
