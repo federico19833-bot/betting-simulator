@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 21:33:47",
+  "last_update": "21/05/2026 21:34:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
-      "volume": 17087,
+      "volume": 15022,
       "quota": 1.27,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Wolfsburg v Paderborn",
       "campionato": "German Playoff",
-      "volume": 5252,
+      "volume": 5238,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-21T21:00:00.000Z"
     },
     {
+      "match": "Deportivo La Guaira v Independiente Rivadavia",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 2850,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35580146",
+      "market_id": "1.258212811",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T22:00:00.000Z"
+    },
+    {
       "match": "Puerto Cabello v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 2261,
@@ -79,24 +94,9 @@
       "open_date": "2026-05-21T22:00:00.000Z"
     },
     {
-      "match": "Deportivo La Guaira v Independiente Rivadavia",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1392,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35580146",
-      "market_id": "1.258212811",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T22:00:00.000Z"
-    },
-    {
       "match": "Atletico MG v Cienciano",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1255,
+      "volume": 1256,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258405392",
       "_is_inplay": false,
       "open_date": "2026-05-21T22:00:00.000Z"
+    },
+    {
+      "match": "Aguilas Doradas v Deportivo Pereira",
+      "campionato": "Colombian Cup",
+      "volume": 1211,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634352",
+      "market_id": "1.258447318",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T20:30:00.000Z"
     },
     {
       "match": "Racing Club v Caracas",
@@ -276,8 +291,8 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 47,
-      "quota": 1.51,
+      "volume": 109,
+      "quota": 1.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -319,21 +334,6 @@
       "open_date": "2026-05-21T19:00:00.000Z"
     },
     {
-      "match": "Aguilas Doradas v Deportivo Pereira",
-      "campionato": "Colombian Cup",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634352",
-      "market_id": "1.258447318",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T20:30:00.000Z"
-    },
-    {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 15,
@@ -371,7 +371,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1255,
+      "volume": 1256,
       "whale_max": 0,
       "entered": false
     },
@@ -431,7 +431,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1392,
+      "volume": 2850,
       "whale_max": 0,
       "entered": false
     },
@@ -491,7 +491,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 1211,
       "whale_max": 0,
       "entered": false
     },
@@ -562,6 +562,16 @@
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 1129,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258334261",
+      "match": "Wolfsburg v Paderborn",
+      "campionato": "German Playoff",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 5238,
       "whale_max": 0,
       "entered": false
     }
