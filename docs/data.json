@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 16:30:25",
+  "last_update": "21/05/2026 16:31:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,8 +66,8 @@
     {
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "volume": 1584,
-      "quota": 1.06,
+      "volume": 3581,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -94,10 +94,25 @@
       "open_date": "2026-05-21T16:15:00.000Z"
     },
     {
-      "match": "Bouhajla v Sportive De Tunis",
-      "campionato": "Tunisian Cup",
+      "match": "FK Qabala v Shamakhi FK",
+      "campionato": "Azerbaijan Premier League",
       "volume": 1374,
       "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630455",
+      "market_id": "1.258404542",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:30:00.000Z"
+    },
+    {
+      "match": "Bouhajla v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 1362,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,49 +124,19 @@
       "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 1362,
-      "quota": 1.05,
+      "match": "Kifisia v Athlitiki Enosi Larissa",
+      "campionato": "Greek Super League",
+      "volume": 1226,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630455",
-      "market_id": "1.258404542",
+      "event_id": "35616699",
+      "market_id": "1.258354938",
       "_is_inplay": false,
-      "open_date": "2026-05-21T14:30:00.000Z"
-    },
-    {
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "volume": 929,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628625",
-      "market_id": "1.258390442",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:00:00.000Z"
-    },
-    {
-      "match": "Punjab FC v Mumbai City FC",
-      "campionato": "Indian Super League",
-      "volume": 914,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35616713",
-      "market_id": "1.258341964",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T14:00:00.000Z"
+      "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -182,6 +167,21 @@
       "market_id": "1.258392342",
       "_is_inplay": false,
       "open_date": "2026-05-21T17:00:00.000Z"
+    },
+    {
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "volume": 366,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609917",
+      "market_id": "1.258354980",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
       "match": "Qatar v Sudan",
@@ -229,10 +229,25 @@
       "open_date": "2026-05-21T18:00:00.000Z"
     },
     {
+      "match": "Punjab FC v Mumbai City FC",
+      "campionato": "Indian Super League",
+      "volume": 71,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35616713",
+      "market_id": "1.258341964",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
-      "volume": 38,
-      "quota": 1.03,
+      "volume": 69,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -259,19 +274,19 @@
       "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
-      "match": "Kifisia v Athlitiki Enosi Larissa",
-      "campionato": "Greek Super League",
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
       "volume": 15,
-      "quota": 1.04,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35616699",
-      "market_id": "1.258354938",
+      "event_id": "35628625",
+      "market_id": "1.258390442",
       "_is_inplay": false,
-      "open_date": "2026-05-21T16:00:00.000Z"
+      "open_date": "2026-05-21T15:00:00.000Z"
     },
     {
       "match": "Panaitolikos v Asteras Tripolis",
@@ -441,7 +456,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 929,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -509,9 +524,9 @@
       "event_id": "bf_1.258404542",
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1362,
+      "volume": 1374,
       "whale_max": 0,
       "entered": false
     },
@@ -519,9 +534,9 @@
       "event_id": "bf_1.258432678",
       "match": "Bouhajla v Sportive De Tunis",
       "campionato": "Tunisian Cup",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1374,
+      "volume": 1362,
       "whale_max": 0,
       "entered": false
     },
@@ -599,9 +614,9 @@
       "event_id": "bf_1.258350565",
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1584,
+      "volume": 3581,
       "whale_max": 0,
       "entered": false
     },
@@ -611,7 +626,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 1226,
       "whale_max": 0,
       "entered": false
     },
@@ -619,9 +634,29 @@
       "event_id": "bf_1.258342006",
       "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 38,
+      "volume": 69,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258354980",
+      "match": "Atromitos v Panserraikos",
+      "campionato": "Greek Super League",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 366,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258447234",
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 245,
       "whale_max": 0,
       "entered": false
     }
