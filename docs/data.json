@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 00:44:06",
+  "last_update": "22/05/2026 00:44:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 4963,
+      "volume": 4851,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -92,21 +92,6 @@
       "market_id": "1.258388923",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "Blooming Santa Cruz v Carabobo FC",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 662,
-      "quota": 3.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35587335",
-      "market_id": "1.258405648",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Real Cartagena v Barranquilla",
@@ -259,6 +244,21 @@
       "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
+      "match": "Blooming Santa Cruz v Carabobo FC",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 75,
+      "quota": 2.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35587335",
+      "market_id": "1.258405648",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 15,
@@ -381,7 +381,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 4963,
+      "volume": 4851,
       "whale_max": 0,
       "entered": false
     },
