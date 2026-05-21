@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 21:22:12",
+  "last_update": "21/05/2026 21:23:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Gent v Union St Gilloise",
       "campionato": "Belgian Pro League",
-      "volume": 10857,
+      "volume": 10887,
       "quota": 1.27,
       "in_range": false,
       "monitored": false,
@@ -30,6 +30,21 @@
       "source": "Betfair",
       "event_id": "35620487",
       "market_id": "1.258315414",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:30:00.000Z"
+    },
+    {
+      "match": "Wolfsburg v Paderborn",
+      "campionato": "German Playoff",
+      "volume": 6778,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622937",
+      "market_id": "1.258334261",
       "_is_inplay": true,
       "open_date": "2026-05-21T18:30:00.000Z"
     },
@@ -47,21 +62,6 @@
       "market_id": "1.258440729",
       "_is_inplay": false,
       "open_date": "2026-05-21T21:00:00.000Z"
-    },
-    {
-      "match": "Wolfsburg v Paderborn",
-      "campionato": "German Playoff",
-      "volume": 2517,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622937",
-      "market_id": "1.258334261",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:30:00.000Z"
     },
     {
       "match": "Aguilas Doradas v Deportivo Pereira",
@@ -229,21 +229,6 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
-      "campionato": "Saudi Professional League",
-      "volume": 205,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35613629",
-      "market_id": "1.258358271",
-      "_is_inplay": true,
-      "open_date": "2026-05-21T18:00:00.000Z"
-    },
-    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 140,
@@ -289,6 +274,21 @@
       "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
+      "match": "Al-Hazm (KSA) v Al-Taawoun Buraidah",
+      "campionato": "Saudi Professional League",
+      "volume": 60,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35613629",
+      "market_id": "1.258358271",
+      "_is_inplay": true,
+      "open_date": "2026-05-21T18:00:00.000Z"
+    },
+    {
       "match": "Deportivo La Guaira v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 52,
@@ -307,7 +307,7 @@
       "match": "FC Utrecht v Heerenveen",
       "campionato": "Dutch Eredivisie",
       "volume": 15,
-      "quota": 1.39,
+      "quota": 1.35,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -461,7 +461,7 @@
       "campionato": "German Playoff",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 2517,
+      "volume": 6778,
       "whale_max": 0,
       "entered": true
     },
