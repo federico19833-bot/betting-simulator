@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 11:25:03",
+  "last_update": "21/05/2026 11:25:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -62,6 +62,21 @@
       "market_id": "1.258409650",
       "_is_inplay": false,
       "open_date": "2026-05-21T13:00:00.000Z"
+    },
+    {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 1624,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Brondby v FC Copenhagen",
@@ -139,21 +154,6 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 366,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Ajax v FC Groningen",
       "campionato": "Dutch Eredivisie",
       "volume": 194,
@@ -167,6 +167,21 @@
       "market_id": "1.258325413",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:45:00.000Z"
+    },
+    {
+      "match": "FK Qabala v Shamakhi FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 177,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630455",
+      "market_id": "1.258404542",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
       "match": "Shakhtar v Kolos Kovalyovka",
@@ -212,21 +227,6 @@
       "market_id": "1.258409992",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:15:00.000Z"
-    },
-    {
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 39,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630455",
-      "market_id": "1.258404542",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
       "match": "Cebrayil FK v Simal FK",
@@ -401,7 +401,7 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 39,
+      "volume": 177,
       "whale_max": 0,
       "entered": false
     },
@@ -439,9 +439,9 @@
       "event_id": "bf_1.258350565",
       "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
       "campionato": "Indian Super League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 366,
+      "volume": 1624,
       "whale_max": 0,
       "entered": false
     },
