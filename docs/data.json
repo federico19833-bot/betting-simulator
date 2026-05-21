@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 13:04:07",
+  "last_update": "21/05/2026 13:04:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-21T17:00:00.000Z"
     },
     {
+      "match": "Ajax v FC Groningen",
+      "campionato": "Dutch Eredivisie",
+      "volume": 15503,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622058",
+      "market_id": "1.258325413",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T16:45:00.000Z"
+    },
+    {
       "match": "Moik Baku v Agsu",
       "campionato": "Azerbaijan 1st Division",
       "volume": 3166,
@@ -62,21 +77,6 @@
       "market_id": "1.258409650",
       "_is_inplay": false,
       "open_date": "2026-05-21T13:00:00.000Z"
-    },
-    {
-      "match": "Ajax v FC Groningen",
-      "campionato": "Dutch Eredivisie",
-      "volume": 2419,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622058",
-      "market_id": "1.258325413",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T16:45:00.000Z"
     },
     {
       "match": "Wadi Degla v ZED FC",
@@ -141,7 +141,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 807,
+      "volume": 822,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -461,7 +461,7 @@
       "campionato": "Dutch Eredivisie",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2419,
+      "volume": 15503,
       "whale_max": 0,
       "entered": false
     },
@@ -491,7 +491,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 807,
+      "volume": 822,
       "whale_max": 0,
       "entered": false
     },
@@ -572,16 +572,6 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258390442",
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 34295,
       "whale_max": 0,
       "entered": false
     }
