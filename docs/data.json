@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 15:20:38",
+  "last_update": "21/05/2026 15:21:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "Elfsborg v Mjallby",
       "campionato": "Swedish Allsvenskan",
-      "volume": 13624,
+      "volume": 14213,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 1135,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630455",
-      "market_id": "1.258404542",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:30:00.000Z"
-    },
-    {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
       "volume": 688,
@@ -154,21 +139,6 @@
       "open_date": "2026-05-21T16:00:00.000Z"
     },
     {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "volume": 604,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:00:00.000Z"
-    },
-    {
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 516,
@@ -182,6 +152,36 @@
       "market_id": "1.258409992",
       "_is_inplay": false,
       "open_date": "2026-05-21T16:15:00.000Z"
+    },
+    {
+      "match": "FK Qabala v Shamakhi FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 430,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630455",
+      "market_id": "1.258404542",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:30:00.000Z"
+    },
+    {
+      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "campionato": "Indian Super League",
+      "volume": 48,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619968",
+      "market_id": "1.258350565",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:00:00.000Z"
     },
     {
       "match": "Progres Sakiet Eddaier v JS Omrane",
@@ -214,21 +214,6 @@
       "open_date": "2026-05-21T12:30:00.000Z"
     },
     {
-      "match": "Bouhajla v Sportive De Tunis",
-      "campionato": "Tunisian Cup",
-      "volume": 20,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631640",
-      "market_id": "1.258432678",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T14:30:00.000Z"
-    },
-    {
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
       "volume": 15,
@@ -257,6 +242,21 @@
       "market_id": "1.258350437",
       "_is_inplay": false,
       "open_date": "2026-05-21T14:00:00.000Z"
+    },
+    {
+      "match": "Bouhajla v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631640",
+      "market_id": "1.258432678",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T14:30:00.000Z"
     },
     {
       "match": "Al Budaiya v Manama Club",
@@ -506,7 +506,7 @@
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 20,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -591,12 +591,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258404542",
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 1135,
+      "event_id": "bf_1.258310519",
+      "match": "Elfsborg v Mjallby",
+      "campionato": "Swedish Allsvenskan",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 14213,
       "whale_max": 0,
       "entered": false
     }
