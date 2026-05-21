@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 03:59:02",
+  "last_update": "21/05/2026 03:59:45",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -33,38 +33,10 @@
       "_is_inplay": true
     },
     {
-      "match": "Moik Baku v Agsu",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 2649,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630694",
-      "market_id": "1.258409650",
-      "_is_inplay": false
-    },
-    {
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 2005,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633192",
-      "market_id": "1.258438109",
-      "_is_inplay": false
-    },
-    {
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "volume": 1659,
-      "quota": 1.05,
+      "volume": 2005,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -75,8 +47,36 @@
       "_is_inplay": false
     },
     {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
+      "match": "Al Arabi Kuwait v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 1659,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630923",
+      "market_id": "1.258409992",
+      "_is_inplay": false
+    },
+    {
+      "match": "Inter Kashi v Quess East Bengal",
+      "campionato": "Indian Super League",
+      "volume": 1439,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619970",
+      "market_id": "1.258350437",
+      "_is_inplay": false
+    },
+    {
+      "match": "Cebrayil FK v Simal FK",
+      "campionato": "Azerbaijan 1st Division",
       "volume": 1350,
       "quota": 1.06,
       "in_range": false,
@@ -84,8 +84,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
+      "event_id": "35630420",
+      "market_id": "1.258404457",
       "_is_inplay": false
     },
     {
@@ -103,7 +103,7 @@
       "_is_inplay": false
     },
     {
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
+      "match": "Jamshedpur FC v Odisha",
       "campionato": "Indian Super League",
       "volume": 987,
       "quota": 1.04,
@@ -112,13 +112,13 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35619968",
-      "market_id": "1.258350565",
+      "event_id": "35623020",
+      "market_id": "1.258342006",
       "_is_inplay": false
     },
     {
-      "match": "Al Arabi Kuwait v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
       "volume": 784,
       "quota": 1.07,
       "in_range": false,
@@ -126,8 +126,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630923",
-      "market_id": "1.258409992",
+      "event_id": "35623148",
+      "market_id": "1.258336208",
       "_is_inplay": false
     },
     {
@@ -229,20 +229,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Cebrayil FK v Simal FK",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 113,
-      "quota": 2.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630420",
-      "market_id": "1.258404457",
-      "_is_inplay": false
-    },
-    {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 44,
@@ -254,6 +240,20 @@
       "source": "Betfair",
       "event_id": "35580128",
       "market_id": "1.258212853",
+      "_is_inplay": false
+    },
+    {
+      "match": "Moik Baku v Agsu",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 37,
+      "quota": 2.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630694",
+      "market_id": "1.258409650",
       "_is_inplay": false
     }
   ],
@@ -269,32 +269,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258438109",
-      "match": "Al Najma (BRN) v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.05,
-      "volume": 2005,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258432678",
       "match": "Bouhajla v Sportive De Tunis",
       "campionato": "Tunisian Cup",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
       "volume": 388,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258350565",
-      "match": "Mohun Bagan Super Giants v Sporting Club Delhi",
-      "campionato": "Indian Super League",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 987,
       "whale_max": 0,
       "entered": false
     },
@@ -342,9 +322,9 @@
       "event_id": "bf_1.258404457",
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2662,
+      "volume": 1350,
       "whale_max": 0,
       "entered": false
     },
@@ -352,9 +332,9 @@
       "event_id": "bf_1.258354959",
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 1659,
+      "volume": 2005,
       "whale_max": 0,
       "entered": false
     },
@@ -375,16 +355,6 @@
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 1345,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258359431",
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 1350,
       "whale_max": 0,
       "entered": false
     },
@@ -412,6 +382,36 @@
       "event_id": "bf_1.258409992",
       "match": "Al Arabi Kuwait v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.07,
+      "volume": 1659,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258350437",
+      "match": "Inter Kashi v Quess East Bengal",
+      "campionato": "Indian Super League",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 1439,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258342006",
+      "match": "Jamshedpur FC v Odisha",
+      "campionato": "Indian Super League",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 987,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258336208",
+      "match": "Brondby v FC Copenhagen",
+      "campionato": "Danish Superliga",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
       "volume": 784,
