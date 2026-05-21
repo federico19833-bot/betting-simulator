@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 02:52:42",
+  "last_update": "21/05/2026 02:53:22",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Deportivo Cali v Alianza FC Valledupar",
       "campionato": "Colombian Cup",
-      "volume": 4439,
+      "volume": 4433,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -103,34 +103,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Shakhtar v Kolos Kovalyovka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 1331,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625500",
-      "market_id": "1.258359431",
-      "_is_inplay": false
-    },
-    {
-      "match": "SE Palmeiras v Cerro Porteno",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1022,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579862",
-      "market_id": "1.258364926",
-      "_is_inplay": true
-    },
-    {
       "match": "Colorado v San Jose Earthquakes",
       "campionato": "US Lamar Hunt U.S Open Cup",
       "volume": 1001,
@@ -159,6 +131,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Junior FC Barranquilla v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 938,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35585859",
+      "market_id": "1.258365653",
+      "_is_inplay": false
+    },
+    {
       "match": "Roma U20 v Bologna U20",
       "campionato": "Italian Campionato Primavera",
       "volume": 784,
@@ -173,17 +159,17 @@
       "_is_inplay": false
     },
     {
-      "match": "BFC Daugavpils v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "volume": 664,
-      "quota": 1.08,
+      "match": "Shakhtar v Kolos Kovalyovka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 501,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35628625",
-      "market_id": "1.258390442",
+      "event_id": "35625500",
+      "market_id": "1.258359431",
       "_is_inplay": false
     },
     {
@@ -198,6 +184,20 @@
       "source": "Betfair",
       "event_id": "35633189",
       "market_id": "1.258438130",
+      "_is_inplay": false
+    },
+    {
+      "match": "BFC Daugavpils v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "volume": 257,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628625",
+      "market_id": "1.258390442",
       "_is_inplay": false
     },
     {
@@ -229,9 +229,23 @@
       "_is_inplay": false
     },
     {
+      "match": "SE Palmeiras v Cerro Porteno",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 151,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579862",
+      "market_id": "1.258364926",
+      "_is_inplay": true
+    },
+    {
       "match": "Cusco FC v Ind Medellin",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 196,
+      "volume": 145,
       "quota": 1.21,
       "in_range": false,
       "monitored": false,
@@ -301,8 +315,8 @@
     {
       "match": "LDU v Lanus",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 32,
-      "quota": 1.47,
+      "volume": 25,
+      "quota": 1.52,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -311,20 +325,6 @@
       "event_id": "35579877",
       "market_id": "1.258364959",
       "_is_inplay": true
-    },
-    {
-      "match": "Junior FC Barranquilla v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 23,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35585859",
-      "market_id": "1.258365653",
-      "_is_inplay": false
     }
   ],
   "tracked_matches": [
@@ -404,7 +404,7 @@
       "campionato": "Colombian Cup",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 4439,
+      "volume": 4433,
       "whale_max": 0,
       "entered": false
     },
@@ -412,9 +412,9 @@
       "event_id": "bf_1.258390442",
       "match": "BFC Daugavpils v Ogre United",
       "campionato": "Latvian Virsliga",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 664,
+      "volume": 257,
       "whale_max": 0,
       "entered": false
     },
