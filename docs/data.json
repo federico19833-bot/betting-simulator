@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 07:01:35",
+  "last_update": "21/05/2026 07:02:16",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -103,23 +103,9 @@
       "_is_inplay": false
     },
     {
-      "match": "Wadi Degla v ZED FC",
-      "campionato": "Egyptian Premier",
-      "volume": 511,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625597",
-      "market_id": "1.258386255",
-      "_is_inplay": false
-    },
-    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
-      "volume": 506,
+      "volume": 521,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -131,17 +117,17 @@
       "_is_inplay": false
     },
     {
-      "match": "Panaitolikos v Asteras Tripolis",
-      "campionato": "Greek Super League",
-      "volume": 385,
-      "quota": 1.03,
+      "match": "Wadi Degla v ZED FC",
+      "campionato": "Egyptian Premier",
+      "volume": 511,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35609901",
-      "market_id": "1.258354959",
+      "event_id": "35625597",
+      "market_id": "1.258386255",
       "_is_inplay": false
     },
     {
@@ -285,6 +271,20 @@
       "_is_inplay": false
     },
     {
+      "match": "Panaitolikos v Asteras Tripolis",
+      "campionato": "Greek Super League",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35609901",
+      "market_id": "1.258354959",
+      "_is_inplay": false
+    },
+    {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
       "volume": 15,
@@ -396,7 +396,7 @@
       "campionato": "Greek Super League",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 506,
+      "volume": 521,
       "whale_max": 0,
       "entered": false
     },
@@ -474,9 +474,9 @@
       "event_id": "bf_1.258354959",
       "match": "Panaitolikos v Asteras Tripolis",
       "campionato": "Greek Super League",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 385,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     }
