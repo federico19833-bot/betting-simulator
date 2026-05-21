@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 23:33:09",
+  "last_update": "21/05/2026 23:33:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 5015,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
       "match": "Atletico MG v Cienciano",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 4846,
@@ -34,19 +49,19 @@
       "open_date": "2026-05-21T22:00:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 4159,
-      "quota": 1.09,
+      "match": "Penarol v Corinthians",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 4189,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
+      "event_id": "35583980",
+      "market_id": "1.258251313",
       "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "Deportivo La Guaira v Independiente Rivadavia",
@@ -96,7 +111,7 @@
     {
       "match": "Real Cartagena v Barranquilla",
       "campionato": "Colombian Primera B",
-      "volume": 1964,
+      "volume": 1988,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -274,21 +289,6 @@
       "open_date": "2026-05-22T00:00:00.000Z"
     },
     {
-      "match": "Penarol v Corinthians",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 15,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35583980",
-      "market_id": "1.258251313",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Energetik Mingechevir v Sabail",
       "campionato": "Azerbaijan 1st Division",
       "volume": 15,
@@ -351,7 +351,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 4159,
+      "volume": 5015,
       "whale_max": 0,
       "entered": false
     },
@@ -439,9 +439,9 @@
       "event_id": "bf_1.258251313",
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 4189,
       "whale_max": 0,
       "entered": false
     },
@@ -491,7 +491,7 @@
       "campionato": "Colombian Primera B",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1964,
+      "volume": 1988,
       "whale_max": 0,
       "entered": false
     }
