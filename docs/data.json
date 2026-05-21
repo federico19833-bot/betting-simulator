@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 06:22:58",
+  "last_update": "21/05/2026 06:23:40",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -119,8 +119,8 @@
     {
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "volume": 289,
-      "quota": 1.08,
+      "volume": 330,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -215,20 +215,6 @@
       "_is_inplay": false
     },
     {
-      "match": "FK Qabala v Shamakhi FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 26,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630455",
-      "market_id": "1.258404542",
-      "_is_inplay": false
-    },
-    {
       "match": "Cebrayil FK v Simal FK",
       "campionato": "Azerbaijan 1st Division",
       "volume": 15,
@@ -268,6 +254,20 @@
       "source": "Betfair",
       "event_id": "35616713",
       "market_id": "1.258341964",
+      "_is_inplay": false
+    },
+    {
+      "match": "FK Qabala v Shamakhi FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 15,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630455",
+      "market_id": "1.258404542",
       "_is_inplay": false
     },
     {
@@ -420,9 +420,9 @@
       "event_id": "bf_1.258404542",
       "match": "FK Qabala v Shamakhi FK",
       "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 26,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -440,9 +440,9 @@
       "event_id": "bf_1.258336208",
       "match": "Brondby v FC Copenhagen",
       "campionato": "Danish Superliga",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 289,
+      "volume": 330,
       "whale_max": 0,
       "entered": false
     },
