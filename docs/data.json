@@ -1,5 +1,5 @@
 {
-  "last_update": "21/05/2026 04:23:37",
+  "last_update": "21/05/2026 04:24:19",
   "config": {
     "min_odds": 1.01,
     "max_odds": 1.1,
@@ -173,20 +173,6 @@
       "_is_inplay": false
     },
     {
-      "match": "Colorado v San Jose Earthquakes",
-      "campionato": "US Lamar Hunt U.S Open Cup",
-      "volume": 167,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622211",
-      "market_id": "1.258327129",
-      "_is_inplay": true
-    },
-    {
       "match": "Kifisia v Athlitiki Enosi Larissa",
       "campionato": "Greek Super League",
       "volume": 138,
@@ -227,6 +213,20 @@
       "event_id": "35625500",
       "market_id": "1.258359431",
       "_is_inplay": false
+    },
+    {
+      "match": "Colorado v San Jose Earthquakes",
+      "campionato": "US Lamar Hunt U.S Open Cup",
+      "volume": 43,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622211",
+      "market_id": "1.258327129",
+      "_is_inplay": true
     },
     {
       "match": "Cebrayil FK v Simal FK",
@@ -284,7 +284,7 @@
       "campionato": "US Lamar Hunt U.S Open Cup",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 167,
+      "volume": 43,
       "whale_max": 0,
       "entered": false
     },
