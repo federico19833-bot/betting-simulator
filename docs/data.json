@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 03:55:57",
+  "last_update": "22/05/2026 03:56:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,19 +34,19 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 728,
-      "quota": 1.47,
+      "match": "CD Marathon v CD Motagua",
+      "campionato": "Honduras Liga Nacional",
+      "volume": 1463,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35581502",
-      "market_id": "1.258251357",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T00:30:00.000Z"
+      "event_id": "35631728",
+      "market_id": "1.258432315",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
       "match": "FK Auda v Liepajas Metalurgs",
@@ -184,10 +184,25 @@
       "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
+      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 104,
+      "quota": 1.5,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581502",
+      "market_id": "1.258251357",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Zaqatala v Shafa Baku FC",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 83,
-      "quota": 1.64,
+      "volume": 40,
+      "quota": 1.73,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -217,7 +232,7 @@
       "match": "Macara v Alianza Atletico",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 15,
-      "quota": 1.12,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -257,21 +272,6 @@
       "market_id": "1.258359452",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "CD Marathon v CD Motagua",
-      "campionato": "Honduras Liga Nacional",
-      "volume": 14,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631728",
-      "market_id": "1.258432315",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T02:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -289,9 +289,9 @@
       "event_id": "bf_1.258432315",
       "match": "CD Marathon v CD Motagua",
       "campionato": "Honduras Liga Nacional",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 14,
+      "volume": 1463,
       "whale_max": 0,
       "entered": false
     },
