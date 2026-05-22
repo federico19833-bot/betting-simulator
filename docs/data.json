@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 17:39:07",
+  "last_update": "22/05/2026 17:39:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Kristianstads v Hassleholms IF",
       "campionato": "Swedish Division 1",
-      "volume": 847,
+      "volume": 912,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -79,19 +79,19 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "Skovde v IFK Kumla",
-      "campionato": "Swedish Division 2",
-      "volume": 712,
-      "quota": 1.07,
+      "match": "Tampere Utd v JJK",
+      "campionato": "Finnish Ykkonen",
+      "volume": 864,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630508",
-      "market_id": "1.258404821",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:30:00.000Z"
+      "event_id": "35634685",
+      "market_id": "1.258451630",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Pharco FC v National Bank",
@@ -169,36 +169,6 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "AB v HIK Hellerup",
-      "campionato": "Danish 2nd Division",
-      "volume": 297,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627730",
-      "market_id": "1.258393480",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "Tampere Utd v JJK",
-      "campionato": "Finnish Ykkonen",
-      "volume": 284,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634685",
-      "market_id": "1.258451630",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T15:30:00.000Z"
-    },
-    {
       "match": "Hajduk Split v Vukovar",
       "campionato": "Croatian HNL",
       "volume": 264,
@@ -259,9 +229,39 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
+      "match": "AB v HIK Hellerup",
+      "campionato": "Danish 2nd Division",
+      "volume": 182,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627730",
+      "market_id": "1.258393480",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Skovde v IFK Kumla",
+      "campionato": "Swedish Division 2",
+      "volume": 178,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630508",
+      "market_id": "1.258404821",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:30:00.000Z"
+    },
+    {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
-      "volume": 119,
+      "volume": 104,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -272,36 +272,6 @@
       "market_id": "1.258483636",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "FK Panevezio Ekranas v FK Transinvest II",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 86,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633579",
-      "market_id": "1.258445017",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 57,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "IFK Karlshamn v Vaxjo Norra IF",
@@ -332,6 +302,36 @@
       "market_id": "1.258356270",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 27,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
+      "match": "FK Panevezio Ekranas v FK Transinvest II",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 15,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633579",
+      "market_id": "1.258445017",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
       "match": "VPS v HJK Helsinki",
@@ -391,7 +391,7 @@
       "campionato": "Algerian Ligue 1",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 119,
+      "volume": 104,
       "whale_max": 0,
       "entered": false
     },
@@ -489,9 +489,9 @@
       "event_id": "bf_1.258404821",
       "match": "Skovde v IFK Kumla",
       "campionato": "Swedish Division 2",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 712,
+      "volume": 178,
       "whale_max": 0,
       "entered": false
     },
@@ -521,7 +521,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 57,
+      "volume": 27,
       "whale_max": 0,
       "entered": false
     },
@@ -529,9 +529,9 @@
       "event_id": "bf_1.258445017",
       "match": "FK Panevezio Ekranas v FK Transinvest II",
       "campionato": "Lithuanian 1 Lyga",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 86,
+      "volume": 15,
       "whale_max": 0,
       "entered": false
     },
@@ -556,32 +556,22 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258388857",
-      "match": "Hajduk Split v Vukovar",
-      "campionato": "Croatian HNL",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 264,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258432405",
-      "match": "Kristianstads v Hassleholms IF",
-      "campionato": "Swedish Division 1",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 847,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258393480",
       "match": "AB v HIK Hellerup",
       "campionato": "Danish 2nd Division",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 297,
+      "volume": 182,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258388923",
+      "match": "Zeleznicar Pancevo v Cukaricki",
+      "campionato": "Serbian Super League",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 8194,
       "whale_max": 0,
       "entered": false
     }
