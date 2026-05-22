@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 04:18:27",
+  "last_update": "22/05/2026 04:19:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,6 +34,21 @@
       "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
+      "match": "FK Panevezio Ekranas v FK Transinvest II",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 1683,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633579",
+      "market_id": "1.258445017",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T16:00:00.000Z"
+    },
+    {
       "match": "Botev Vratsa v Beroe Stara Za",
       "campionato": "Bulgarian A League",
       "volume": 1589,
@@ -49,6 +64,21 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 1359,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635503",
+      "market_id": "1.258455635",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:30:00.000Z"
+    },
+    {
       "match": "FK Auda v Liepajas Metalurgs",
       "campionato": "Latvian Virsliga",
       "volume": 911,
@@ -62,21 +92,6 @@
       "market_id": "1.258390573",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "Zaqatala v Shafa Baku FC",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 797,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635503",
-      "market_id": "1.258455635",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "Spartak Varna v Lokomotiv Sofia",
@@ -156,7 +171,7 @@
     {
       "match": "NK Sesvete v BSK Bijelo Brdo",
       "campionato": "Croatian Prva NL",
-      "volume": 256,
+      "volume": 241,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -212,21 +227,6 @@
       "market_id": "1.258404415",
       "_is_inplay": false,
       "open_date": "2026-05-22T13:00:00.000Z"
-    },
-    {
-      "match": "FK Panevezio Ekranas v FK Transinvest II",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 54,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633579",
-      "market_id": "1.258445017",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
       "match": "Macara v Alianza Atletico",
@@ -361,7 +361,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 797,
+      "volume": 1359,
       "whale_max": 0,
       "entered": false
     },
@@ -409,9 +409,9 @@
       "event_id": "bf_1.258445017",
       "match": "FK Panevezio Ekranas v FK Transinvest II",
       "campionato": "Lithuanian 1 Lyga",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 54,
+      "volume": 1683,
       "whale_max": 0,
       "entered": false
     },
