@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 14:39:05",
+  "last_update": "22/05/2026 14:39:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "Slavia Sofia v Montana",
       "campionato": "Bulgarian A League",
-      "volume": 965,
+      "volume": 808,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -122,6 +122,21 @@
       "market_id": "1.258386369",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Septemvri v Dobrudzha",
+      "campionato": "Bulgarian A League",
+      "volume": 490,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625546",
+      "market_id": "1.258359539",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "FK Dainava Alytus v Be1 NFA",
@@ -199,24 +214,9 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
-      "match": "Septemvri v Dobrudzha",
-      "campionato": "Bulgarian A League",
-      "volume": 64,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625546",
-      "market_id": "1.258359539",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
       "match": "Energetik Mingechevir v Sabail",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 15,
+      "volume": 96,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -436,7 +436,7 @@
       "campionato": "Bulgarian A League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 965,
+      "volume": 808,
       "whale_max": 0,
       "entered": false
     },
@@ -524,9 +524,9 @@
       "event_id": "bf_1.258359539",
       "match": "Septemvri v Dobrudzha",
       "campionato": "Bulgarian A League",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 64,
+      "volume": 490,
       "whale_max": 0,
       "entered": false
     },
@@ -557,6 +557,16 @@
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258404800",
+      "match": "FK Dainava Alytus v Be1 NFA",
+      "campionato": "Lithuanian 1 Lyga",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
