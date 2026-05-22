@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 15:51:26",
+  "last_update": "22/05/2026 15:52:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,8 +51,8 @@
     {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
-      "volume": 1722,
-      "quota": 1.06,
+      "volume": 1448,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,7 +66,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 1494,
+      "volume": 1346,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -217,7 +217,7 @@
       "match": "El Gounah v El Geish",
       "campionato": "Egyptian Premier",
       "volume": 15,
-      "quota": 1.12,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -341,7 +341,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1494,
+      "volume": 1346,
       "whale_max": 0,
       "entered": false
     },
@@ -379,9 +379,9 @@
       "event_id": "bf_1.258388879",
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 1722,
+      "volume": 1448,
       "whale_max": 0,
       "entered": false
     },
@@ -472,6 +472,16 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 40,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258386369",
+      "match": "Pharco FC v National Bank",
+      "campionato": "Egyptian Premier",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
