@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 18:38:03",
+  "last_update": "22/05/2026 18:38:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -122,21 +122,6 @@
       "market_id": "1.258410242",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "CFR Cluj v Arges Pitesti",
-      "campionato": "Romanian Liga I",
-      "volume": 807,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618893",
-      "market_id": "1.258309595",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:30:00.000Z"
     },
     {
       "match": "Staffanstorp United FC v Nosaby IF",
@@ -306,8 +291,8 @@
     {
       "match": "Tampere Utd v JJK",
       "campionato": "Finnish Ykkonen",
-      "volume": 12,
-      "quota": 2.16,
+      "volume": 23,
+      "quota": 2.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -317,6 +302,36 @@
       "market_id": "1.258451630",
       "_is_inplay": true,
       "open_date": "2026-05-22T15:30:00.000Z"
+    },
+    {
+      "match": "MC Alger v ASO Chlef",
+      "campionato": "Algerian Ligue 1",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638223",
+      "market_id": "1.258483636",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "match": "CFR Cluj v Arges Pitesti",
+      "campionato": "Romanian Liga I",
+      "volume": 15,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618893",
+      "market_id": "1.258309595",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:30:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -457,9 +472,9 @@
       "match": "CFR Cluj v Arges Pitesti",
       "campionato": "Romanian Liga I",
       "open_date": "2026-05-22T17:30:00.000Z",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 807,
+      "volume": 15,
       "best_volume": 807,
       "whale_max": 0,
       "entered": false
@@ -521,6 +536,30 @@
       "quota_iniziale": 1.08,
       "volume": 438,
       "best_volume": 438,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258483636",
+      "match": "MC Alger v ASO Chlef",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-05-22T15:00:00.000Z",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 15,
+      "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258432384",
+      "match": "USM Alger v Paradou",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-05-22T17:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 847,
+      "best_volume": 847,
       "whale_max": 0,
       "entered": false
     }
