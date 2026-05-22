@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 18:56:49",
+  "last_update": "22/05/2026 18:57:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,21 +34,6 @@
       "open_date": "2026-05-22T17:30:00.000Z"
     },
     {
-      "match": "Staffanstorp United FC v Nosaby IF",
-      "campionato": "Swedish Division 2",
-      "volume": 3476,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634673",
-      "market_id": "1.258450849",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
       "match": "SV Ried v Rapid Vienna",
       "campionato": "Austrian Bundesliga",
       "volume": 3351,
@@ -62,6 +47,21 @@
       "market_id": "1.258432294",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:30:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 2497,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Crvena Zvezda v OFK Beograd",
@@ -124,6 +124,36 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
+      "match": "Staffanstorp United FC v Nosaby IF",
+      "campionato": "Swedish Division 2",
+      "volume": 562,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634673",
+      "market_id": "1.258450849",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Kristianstads v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "volume": 560,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631629",
+      "market_id": "1.258432405",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
       "match": "Vanersborgs IF v Husqvarna",
       "campionato": "Swedish Division 2",
       "volume": 532,
@@ -184,21 +214,6 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "Kristianstads v Hassleholms IF",
-      "campionato": "Swedish Division 1",
-      "volume": 396,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35631629",
-      "market_id": "1.258432405",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
       "match": "Skovde v IFK Kumla",
       "campionato": "Swedish Division 2",
       "volume": 380,
@@ -227,21 +242,6 @@
       "market_id": "1.258393480",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 83,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Pharco FC v National Bank",
@@ -330,8 +330,8 @@
       "open_date": "2026-05-22T17:00:00.000Z",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 396,
-      "best_volume": 396,
+      "volume": 560,
+      "best_volume": 560,
       "whale_max": 0,
       "entered": false
     },
@@ -424,9 +424,9 @@
       "match": "Staffanstorp United FC v Nosaby IF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-22T17:00:00.000Z",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.1,
-      "volume": 3476,
+      "volume": 562,
       "best_volume": 3476,
       "whale_max": 0,
       "entered": false
@@ -452,18 +452,6 @@
       "quota_iniziale": 1.07,
       "volume": 2053,
       "best_volume": 2053,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258356270",
-      "match": "Djurgardens v Brommapojkarna",
-      "campionato": "Swedish Allsvenskan",
-      "open_date": "2026-05-22T17:00:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 436,
-      "best_volume": 436,
       "whale_max": 0,
       "entered": false
     }
