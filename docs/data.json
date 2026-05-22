@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 19:48:11",
+  "last_update": "22/05/2026 19:48:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-22T18:45:00.000Z"
     },
     {
+      "match": "Sudtirol v SSD Bari",
+      "campionato": "Italian Serie B",
+      "volume": 9508,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35613799",
+      "market_id": "1.258386298",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T18:00:00.000Z"
+    },
+    {
       "match": "Finn Harps v Longford",
       "campionato": "Irish Division 1",
       "volume": 7556,
@@ -79,39 +94,9 @@
       "open_date": "2026-05-22T18:00:00.000Z"
     },
     {
-      "match": "Sudtirol v SSD Bari",
-      "campionato": "Italian Serie B",
-      "volume": 2883,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35613799",
-      "market_id": "1.258386298",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T18:00:00.000Z"
-    },
-    {
-      "match": "Skovde v IFK Kumla",
-      "campionato": "Swedish Division 2",
-      "volume": 2280,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630508",
-      "market_id": "1.258404821",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:30:00.000Z"
-    },
-    {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 1976,
+      "volume": 1458,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -171,7 +156,7 @@
     {
       "match": "Galway Utd v Bohemians",
       "campionato": "Irish Premier Division",
-      "volume": 706,
+      "volume": 767,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -216,7 +201,7 @@
     {
       "match": "Pharco FC v National Bank",
       "campionato": "Egyptian Premier",
-      "volume": 137,
+      "volume": 210,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -244,6 +229,36 @@
       "open_date": "2026-05-22T18:45:00.000Z"
     },
     {
+      "match": "Skovde v IFK Kumla",
+      "campionato": "Swedish Division 2",
+      "volume": 100,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630508",
+      "market_id": "1.258404821",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:30:00.000Z"
+    },
+    {
+      "match": "CFR Cluj v Arges Pitesti",
+      "campionato": "Romanian Liga I",
+      "volume": 57,
+      "quota": 1.38,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618893",
+      "market_id": "1.258309595",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:30:00.000Z"
+    },
+    {
       "match": "Shelbourne v Waterford",
       "campionato": "Irish Premier Division",
       "volume": 17,
@@ -257,21 +272,6 @@
       "market_id": "1.258397170",
       "_is_inplay": false,
       "open_date": "2026-05-22T18:45:00.000Z"
-    },
-    {
-      "match": "CFR Cluj v Arges Pitesti",
-      "campionato": "Romanian Liga I",
-      "volume": 15,
-      "quota": 1.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618893",
-      "market_id": "1.258309595",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:30:00.000Z"
     },
     {
       "match": "FOC Farsta v IFK Haninge",
@@ -321,18 +321,6 @@
   ],
   "tracked_matches": [
     {
-      "event_id": "bf_1.258386298",
-      "match": "Sudtirol v SSD Bari",
-      "campionato": "Italian Serie B",
-      "open_date": "2026-05-22T18:00:00.000Z",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.09,
-      "volume": 2883,
-      "best_volume": 3554,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258332335",
       "match": "Fiorentina v Atalanta",
       "campionato": "Italian Serie A",
@@ -363,7 +351,7 @@
       "open_date": "2026-05-22T18:45:00.000Z",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 706,
+      "volume": 767,
       "best_volume": 7556,
       "whale_max": 0,
       "entered": false
@@ -387,7 +375,7 @@
       "open_date": "2026-05-21T15:30:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 1976,
+      "volume": 1458,
       "best_volume": 1976,
       "whale_max": 0,
       "entered": false
@@ -517,9 +505,9 @@
       "match": "Skovde v IFK Kumla",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-22T17:30:00.000Z",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2280,
+      "volume": 100,
       "best_volume": 5807,
       "whale_max": 0,
       "entered": false
@@ -533,18 +521,6 @@
       "quota_iniziale": 1.04,
       "volume": 15,
       "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258435861",
-      "match": "Wexford F.C v UCD",
-      "campionato": "Irish Division 1",
-      "open_date": "2026-05-22T18:45:00.000Z",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 10527,
-      "best_volume": 10527,
       "whale_max": 0,
       "entered": false
     }
