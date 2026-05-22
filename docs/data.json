@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 19:45:01",
+  "last_update": "22/05/2026 19:45:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "Finn Harps v Longford",
       "campionato": "Irish Division 1",
-      "volume": 7556,
+      "volume": 7472,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -62,6 +62,21 @@
       "market_id": "1.258436107",
       "_is_inplay": false,
       "open_date": "2026-05-22T18:45:00.000Z"
+    },
+    {
+      "match": "Skovde v IFK Kumla",
+      "campionato": "Swedish Division 2",
+      "volume": 5818,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630508",
+      "market_id": "1.258404821",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:30:00.000Z"
     },
     {
       "match": "NK Radomlje v Mura",
@@ -111,7 +126,7 @@
     {
       "match": "Pharco FC v National Bank",
       "campionato": "Egyptian Premier",
-      "volume": 943,
+      "volume": 1066,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -139,19 +154,19 @@
       "open_date": "2026-05-22T18:00:00.000Z"
     },
     {
-      "match": "CFR Cluj v Arges Pitesti",
-      "campionato": "Romanian Liga I",
-      "volume": 803,
-      "quota": 1.33,
+      "match": "MC Alger v ASO Chlef",
+      "campionato": "Algerian Ligue 1",
+      "volume": 812,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35618893",
-      "market_id": "1.258309595",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:30:00.000Z"
+      "event_id": "35638223",
+      "market_id": "1.258483636",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "Galway Utd v Bohemians",
@@ -214,19 +229,34 @@
       "open_date": "2026-05-22T19:00:00.000Z"
     },
     {
-      "match": "Skovde v IFK Kumla",
+      "match": "IFK Karlshamn v Vaxjo Norra IF",
       "campionato": "Swedish Division 2",
-      "volume": 124,
-      "quota": 1.07,
+      "volume": 326,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630508",
-      "market_id": "1.258404821",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:30:00.000Z"
+      "event_id": "35630527",
+      "market_id": "1.258404521",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 234,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
+      "_is_inplay": false,
+      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Kerry FC v Bray Wanderers",
@@ -244,36 +274,6 @@
       "open_date": "2026-05-22T18:45:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 75,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
-      "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
-      "match": "MC Alger v ASO Chlef",
-      "campionato": "Algerian Ligue 1",
-      "volume": 39,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638223",
-      "market_id": "1.258483636",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
       "match": "Shelbourne v Waterford",
       "campionato": "Irish Premier Division",
       "volume": 17,
@@ -287,6 +287,21 @@
       "market_id": "1.258397170",
       "_is_inplay": false,
       "open_date": "2026-05-22T18:45:00.000Z"
+    },
+    {
+      "match": "CFR Cluj v Arges Pitesti",
+      "campionato": "Romanian Liga I",
+      "volume": 15,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618893",
+      "market_id": "1.258309595",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:30:00.000Z"
     },
     {
       "match": "FOC Farsta v IFK Haninge",
@@ -366,7 +381,7 @@
       "open_date": "2026-05-22T18:45:00.000Z",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 7556,
+      "volume": 7472,
       "best_volume": 7556,
       "whale_max": 0,
       "entered": false
@@ -402,7 +417,7 @@
       "open_date": "2026-05-21T15:30:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 75,
+      "volume": 234,
       "best_volume": 1250,
       "whale_max": 0,
       "entered": false
@@ -424,10 +439,10 @@
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-05-22T15:00:00.000Z",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 39,
-      "best_volume": 70,
+      "volume": 812,
+      "best_volume": 812,
       "whale_max": 0,
       "entered": false
     },
@@ -546,7 +561,7 @@
       "open_date": "2026-05-22T17:30:00.000Z",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 124,
+      "volume": 5818,
       "best_volume": 5818,
       "whale_max": 0,
       "entered": false
@@ -560,18 +575,6 @@
       "quota_iniziale": 1.1,
       "volume": 70,
       "best_volume": 70,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258435861",
-      "match": "Wexford F.C v UCD",
-      "campionato": "Irish Division 1",
-      "open_date": "2026-05-22T18:45:00.000Z",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 10546,
-      "best_volume": 10546,
       "whale_max": 0,
       "entered": false
     }
