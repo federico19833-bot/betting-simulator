@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 02:55:42",
+  "last_update": "22/05/2026 02:56:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 9428,
+      "quota": 1.08,
+      "in_range": true,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581502",
+      "market_id": "1.258251357",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
       "match": "Cruz Azul v Pumas UNAM",
       "campionato": "Mexican Liga MX",
-      "volume": 2256,
+      "volume": 2722,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -32,6 +47,21 @@
       "market_id": "1.258436312",
       "_is_inplay": false,
       "open_date": "2026-05-22T02:00:00.000Z"
+    },
+    {
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 1626,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635503",
+      "market_id": "1.258455635",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "CD Marathon v CD Motagua",
@@ -154,21 +184,6 @@
       "open_date": "2026-05-22T13:00:00.000Z"
     },
     {
-      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 147,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581502",
-      "market_id": "1.258251357",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Real Cartagena v Barranquilla",
       "campionato": "Colombian Primera B",
       "volume": 132,
@@ -197,21 +212,6 @@
       "market_id": "1.258359504",
       "_is_inplay": false,
       "open_date": "2026-05-22T12:30:00.000Z"
-    },
-    {
-      "match": "Zaqatala v Shafa Baku FC",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 85,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635503",
-      "market_id": "1.258455635",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "Macara v Alianza Atletico",
@@ -311,7 +311,7 @@
       "campionato": "Mexican Liga MX",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2256,
+      "volume": 2722,
       "whale_max": 0,
       "entered": false
     },
@@ -372,16 +372,6 @@
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
       "volume": 649,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258251357",
-      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 147,
       "whale_max": 0,
       "entered": false
     },
