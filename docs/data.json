@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 18:16:54",
+  "last_update": "22/05/2026 18:17:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
+      "match": "Hajduk Split v Vukovar",
+      "campionato": "Croatian HNL",
+      "volume": 713,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35617353",
+      "market_id": "1.258388857",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T16:15:00.000Z"
+    },
+    {
       "match": "IFK Karlshamn v Vaxjo Norra IF",
       "campionato": "Swedish Division 2",
       "volume": 692,
@@ -186,7 +201,7 @@
     {
       "match": "Tampere Utd v JJK",
       "campionato": "Finnish Ykkonen",
-      "volume": 539,
+      "volume": 536,
       "quota": 1.42,
       "in_range": false,
       "monitored": false,
@@ -214,24 +229,24 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "Hajduk Split v Vukovar",
-      "campionato": "Croatian HNL",
-      "volume": 443,
-      "quota": 1.05,
+      "match": "NK Primorje v NK Celje",
+      "campionato": "Slovenian Premier League",
+      "volume": 510,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35617353",
-      "market_id": "1.258388857",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T16:15:00.000Z"
+      "event_id": "35617385",
+      "market_id": "1.258434872",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T18:00:00.000Z"
     },
     {
       "match": "Aarhus Fremad v AaB",
       "campionato": "Danish 1st Division",
-      "volume": 322,
+      "volume": 362,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -272,21 +287,6 @@
       "market_id": "1.258450849",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "NK Primorje v NK Celje",
-      "campionato": "Slovenian Premier League",
-      "volume": 166,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35617385",
-      "market_id": "1.258434872",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T18:00:00.000Z"
     },
     {
       "match": "AB v HIK Hellerup",
@@ -334,19 +334,19 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
-      "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 75,
-      "quota": 1.05,
+      "match": "Zeleznicar Pancevo v Cukaricki",
+      "campionato": "Serbian Super League",
+      "volume": 91,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35633581",
-      "market_id": "1.258444996",
+      "event_id": "35627661",
+      "market_id": "1.258388923",
       "_is_inplay": true,
-      "open_date": "2026-05-22T16:00:00.000Z"
+      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "MC Alger v ASO Chlef",
@@ -364,19 +364,19 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
-      "match": "Zeleznicar Pancevo v Cukaricki",
-      "campionato": "Serbian Super League",
-      "volume": 15,
-      "quota": 1.03,
+      "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 23,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627661",
-      "market_id": "1.258388923",
+      "event_id": "35633581",
+      "market_id": "1.258444996",
       "_is_inplay": true,
-      "open_date": "2026-05-22T15:00:00.000Z"
+      "open_date": "2026-05-22T16:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -409,9 +409,9 @@
       "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.1,
-      "volume": 75,
+      "volume": 23,
       "best_volume": 8488,
       "whale_max": 0,
       "entered": false
@@ -555,8 +555,8 @@
       "open_date": "2026-05-22T15:00:00.000Z",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 91,
+      "best_volume": 91,
       "whale_max": 0,
       "entered": false
     },
@@ -567,8 +567,8 @@
       "open_date": "2026-05-22T16:00:00.000Z",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 322,
-      "best_volume": 322,
+      "volume": 362,
+      "best_volume": 362,
       "whale_max": 0,
       "entered": false
     },
@@ -579,8 +579,8 @@
       "open_date": "2026-05-22T16:15:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 443,
-      "best_volume": 443,
+      "volume": 713,
+      "best_volume": 713,
       "whale_max": 0,
       "entered": false
     },
@@ -615,8 +615,32 @@
       "open_date": "2026-05-22T18:00:00.000Z",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 166,
-      "best_volume": 166,
+      "volume": 510,
+      "best_volume": 510,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258386369",
+      "match": "Pharco FC v National Bank",
+      "campionato": "Egyptian Premier",
+      "open_date": "2026-05-22T17:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
+      "best_volume": 264,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258451564",
+      "match": "Hestrafors v Jonsereds IF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-22T17:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 847,
+      "best_volume": 847,
       "whale_max": 0,
       "entered": false
     }
