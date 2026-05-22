@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 04:19:02",
+  "last_update": "22/05/2026 04:19:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,36 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Slavia Sofia v Montana",
-      "campionato": "Bulgarian A League",
-      "volume": 3579,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625554",
-      "market_id": "1.258359504",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T12:30:00.000Z"
-    },
-    {
-      "match": "FK Panevezio Ekranas v FK Transinvest II",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 1683,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633579",
-      "market_id": "1.258445017",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
       "match": "Botev Vratsa v Beroe Stara Za",
       "campionato": "Bulgarian A League",
       "volume": 1589,
@@ -66,7 +36,7 @@
     {
       "match": "Zaqatala v Shafa Baku FC",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 1359,
+      "volume": 1400,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -139,6 +109,21 @@
       "open_date": "2026-05-22T16:15:00.000Z"
     },
     {
+      "match": "NK Sesvete v BSK Bijelo Brdo",
+      "campionato": "Croatian Prva NL",
+      "volume": 414,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634919",
+      "market_id": "1.258453179",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:45:00.000Z"
+    },
+    {
       "match": "Septemvri v Dobrudzha",
       "campionato": "Bulgarian A League",
       "volume": 363,
@@ -169,19 +154,19 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
-      "match": "NK Sesvete v BSK Bijelo Brdo",
-      "campionato": "Croatian Prva NL",
-      "volume": 241,
-      "quota": 1.18,
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "volume": 214,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35634919",
-      "market_id": "1.258453179",
+      "event_id": "35625554",
+      "market_id": "1.258359504",
       "_is_inplay": false,
-      "open_date": "2026-05-22T11:45:00.000Z"
+      "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
       "match": "Osijek v Slaven Belupo",
@@ -227,6 +212,21 @@
       "market_id": "1.258404415",
       "_is_inplay": false,
       "open_date": "2026-05-22T13:00:00.000Z"
+    },
+    {
+      "match": "FK Panevezio Ekranas v FK Transinvest II",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 54,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633579",
+      "market_id": "1.258445017",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
       "match": "Macara v Alianza Atletico",
@@ -361,7 +361,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1359,
+      "volume": 1400,
       "whale_max": 0,
       "entered": false
     },
@@ -371,7 +371,7 @@
       "campionato": "Bulgarian A League",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 3579,
+      "volume": 214,
       "whale_max": 0,
       "entered": true
     },
@@ -409,9 +409,9 @@
       "event_id": "bf_1.258445017",
       "match": "FK Panevezio Ekranas v FK Transinvest II",
       "campionato": "Lithuanian 1 Lyga",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 1683,
+      "volume": 54,
       "whale_max": 0,
       "entered": false
     },
