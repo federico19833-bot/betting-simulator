@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 03:04:19",
+  "last_update": "22/05/2026 03:04:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,25 +49,10 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Zaqatala v Shafa Baku FC",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 1754,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635503",
-      "market_id": "1.258455635",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:30:00.000Z"
-    },
-    {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 973,
-      "quota": 1.11,
+      "volume": 1720,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -212,6 +197,21 @@
       "market_id": "1.258359504",
       "_is_inplay": false,
       "open_date": "2026-05-22T12:30:00.000Z"
+    },
+    {
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 102,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635503",
+      "market_id": "1.258455635",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "Macara v Alianza Atletico",
@@ -391,7 +391,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1791,
+      "volume": 1720,
       "whale_max": 0,
       "entered": false
     }
