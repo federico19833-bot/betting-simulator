@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 17:51:21",
+  "last_update": "22/05/2026 17:52:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 8488,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633581",
-      "market_id": "1.258444996",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
       "match": "Zeleznicar Pancevo v Cukaricki",
       "campionato": "Serbian Super League",
       "volume": 8231,
@@ -49,19 +34,19 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
-      "match": "Staffanstorp United FC v Nosaby IF",
-      "campionato": "Swedish Division 2",
-      "volume": 1650,
-      "quota": 1.08,
+      "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 3585,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35634673",
-      "market_id": "1.258450849",
+      "event_id": "35633581",
+      "market_id": "1.258444996",
       "_is_inplay": false,
-      "open_date": "2026-05-22T17:00:00.000Z"
+      "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
       "match": "Lunds BK v Eskilsminne",
@@ -124,21 +109,6 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "Tampere Utd v JJK",
-      "campionato": "Finnish Ykkonen",
-      "volume": 632,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634685",
-      "market_id": "1.258451630",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T15:30:00.000Z"
-    },
-    {
       "match": "CFR Cluj v Arges Pitesti",
       "campionato": "Romanian Liga I",
       "volume": 594,
@@ -165,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35631942",
       "market_id": "1.258432384",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Staffanstorp United FC v Nosaby IF",
+      "campionato": "Swedish Division 2",
+      "volume": 458,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634673",
+      "market_id": "1.258450849",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
     },
@@ -214,21 +199,6 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "Skovde v IFK Kumla",
-      "campionato": "Swedish Division 2",
-      "volume": 178,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630508",
-      "market_id": "1.258404821",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:30:00.000Z"
-    },
-    {
       "match": "MFD Zalgiris Vilnius (Res) v BFA Vilnius",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 170,
@@ -274,6 +244,21 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
+      "match": "Skovde v IFK Kumla",
+      "campionato": "Swedish Division 2",
+      "volume": 60,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630508",
+      "market_id": "1.258404821",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:30:00.000Z"
+    },
+    {
       "match": "IFK Karlshamn v Vaxjo Norra IF",
       "campionato": "Swedish Division 2",
       "volume": 48,
@@ -302,6 +287,21 @@
       "market_id": "1.258356270",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Tampere Utd v JJK",
+      "campionato": "Finnish Ykkonen",
+      "volume": 25,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634685",
+      "market_id": "1.258451630",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Qatar v Sudan",
@@ -514,9 +514,9 @@
       "match": "Skovde v IFK Kumla",
       "campionato": "Swedish Division 2",
       "open_date": "",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 178,
+      "volume": 60,
       "best_volume": 836,
       "whale_max": 0,
       "entered": false
@@ -526,9 +526,9 @@
       "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.1,
-      "volume": 8488,
+      "volume": 3585,
       "best_volume": 8488,
       "whale_max": 0,
       "entered": false
@@ -540,7 +540,7 @@
       "open_date": "",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 1650,
+      "volume": 458,
       "best_volume": 1650,
       "whale_max": 0,
       "entered": false
@@ -606,14 +606,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258388923",
-      "match": "Zeleznicar Pancevo v Cukaricki",
-      "campionato": "Serbian Super League",
-      "open_date": "2026-05-22T15:00:00.000Z",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 8231,
-      "best_volume": 8231,
+      "event_id": "bf_1.258388857",
+      "match": "Hajduk Split v Vukovar",
+      "campionato": "Croatian HNL",
+      "open_date": "2026-05-22T16:15:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
+      "best_volume": 264,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258432405",
+      "match": "Kristianstads v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-05-22T17:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 847,
+      "best_volume": 847,
       "whale_max": 0,
       "entered": false
     }
