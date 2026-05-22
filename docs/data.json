@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 17:59:43",
+  "last_update": "22/05/2026 18:00:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Zeleznicar Pancevo v Cukaricki",
       "campionato": "Serbian Super League",
-      "volume": 8580,
+      "volume": 7778,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
       "campionato": "Lithuanian 1 Lyga",
-      "volume": 2904,
+      "volume": 2903,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "CFR Cluj v Arges Pitesti",
       "campionato": "Romanian Liga I",
-      "volume": 594,
+      "volume": 593,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -195,21 +195,6 @@
       "source": "Betfair",
       "event_id": "35630524",
       "market_id": "1.258404500",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "IFK Karlshamn v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 124,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630527",
-      "market_id": "1.258404521",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
     },
@@ -347,6 +332,21 @@
       "market_id": "1.258410242",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "IFK Karlshamn v Vaxjo Norra IF",
+      "campionato": "Swedish Division 2",
+      "volume": 15,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630527",
+      "market_id": "1.258404521",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T17:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -415,9 +415,9 @@
       "match": "IFK Karlshamn v Vaxjo Norra IF",
       "campionato": "Swedish Division 2",
       "open_date": "",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 124,
+      "volume": 15,
       "best_volume": 513,
       "whale_max": 0,
       "entered": false
@@ -489,7 +489,7 @@
       "open_date": "",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 594,
+      "volume": 593,
       "best_volume": 836,
       "whale_max": 0,
       "entered": false
@@ -513,7 +513,7 @@
       "open_date": "",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 2904,
+      "volume": 2903,
       "best_volume": 8488,
       "whale_max": 0,
       "entered": false
@@ -579,26 +579,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258388857",
-      "match": "Hajduk Split v Vukovar",
-      "campionato": "Croatian HNL",
-      "open_date": "2026-05-22T16:15:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 264,
-      "best_volume": 264,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258432405",
-      "match": "Kristianstads v Hassleholms IF",
-      "campionato": "Swedish Division 1",
-      "open_date": "2026-05-22T17:00:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 847,
-      "best_volume": 847,
+      "event_id": "bf_1.258388923",
+      "match": "Zeleznicar Pancevo v Cukaricki",
+      "campionato": "Serbian Super League",
+      "open_date": "2026-05-22T15:00:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 7778,
+      "best_volume": 7778,
       "whale_max": 0,
       "entered": false
     }
