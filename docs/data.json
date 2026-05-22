@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 15:25:33",
+  "last_update": "22/05/2026 15:26:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
+      "match": "El Gounah v El Geish",
+      "campionato": "Egyptian Premier",
+      "volume": 128,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624790",
+      "market_id": "1.258386323",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T14:00:00.000Z"
+    },
+    {
       "match": "VPS v HJK Helsinki",
       "campionato": "Finnish Veikkausliiga",
       "volume": 119,
@@ -212,21 +227,6 @@
       "market_id": "1.258360405",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "El Gounah v El Geish",
-      "campionato": "Egyptian Premier",
-      "volume": 29,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624790",
-      "market_id": "1.258386323",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
       "match": "FK Sahdag Qusar v Baku Sporting",
@@ -462,6 +462,16 @@
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 690,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258432405",
+      "match": "Kristianstads v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
