@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 15:45:32",
+  "last_update": "22/05/2026 15:46:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,21 +49,6 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
-      "match": "Osijek v Slaven Belupo",
-      "campionato": "Croatian HNL",
-      "volume": 1453,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619969",
-      "market_id": "1.258388879",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T14:00:00.000Z"
-    },
-    {
       "match": "IFK Karlshamn v Vaxjo Norra IF",
       "campionato": "Swedish Division 2",
       "volume": 690,
@@ -81,7 +66,7 @@
     {
       "match": "FK Auda v Liepajas Metalurgs",
       "campionato": "Latvian Virsliga",
-      "volume": 618,
+      "volume": 564,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -107,6 +92,21 @@
       "market_id": "1.258388857",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:15:00.000Z"
+    },
+    {
+      "match": "Osijek v Slaven Belupo",
+      "campionato": "Croatian HNL",
+      "volume": 509,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619969",
+      "market_id": "1.258388879",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
       "match": "El Gounah v El Geish",
@@ -379,9 +379,9 @@
       "event_id": "bf_1.258388879",
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.1,
-      "volume": 1453,
+      "volume": 509,
       "whale_max": 0,
       "entered": false
     },
@@ -401,7 +401,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 618,
+      "volume": 564,
       "whale_max": 0,
       "entered": false
     },
@@ -472,6 +472,16 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 40,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258386369",
+      "match": "Pharco FC v National Bank",
+      "campionato": "Egyptian Premier",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
