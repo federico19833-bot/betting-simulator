@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 14:55:33",
+  "last_update": "22/05/2026 14:56:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Botev Vratsa v Beroe Stara Za",
       "campionato": "Bulgarian A League",
-      "volume": 2362,
+      "volume": 2543,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,21 @@
       "market_id": "1.258404415",
       "_is_inplay": false,
       "open_date": "2026-05-22T13:00:00.000Z"
+    },
+    {
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "volume": 1641,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625554",
+      "market_id": "1.258359504",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
       "match": "FK Sahdag Qusar v Baku Sporting",
@@ -167,21 +182,6 @@
       "market_id": "1.258405059",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "match": "Slavia Sofia v Montana",
-      "campionato": "Bulgarian A League",
-      "volume": 53,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625554",
-      "market_id": "1.258359504",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
       "match": "El Gounah v El Geish",
@@ -451,7 +451,7 @@
       "campionato": "Bulgarian A League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.1,
-      "volume": 2362,
+      "volume": 2543,
       "whale_max": 0,
       "entered": false
     },
@@ -532,6 +532,16 @@
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
       "volume": 1263,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258404800",
+      "match": "FK Dainava Alytus v Be1 NFA",
+      "campionato": "Lithuanian 1 Lyga",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
