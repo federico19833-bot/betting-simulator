@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 16:50:42",
+  "last_update": "22/05/2026 16:51:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -229,6 +229,21 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
+      "match": "FK Sumqayit v Qarabag FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 40,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630426",
+      "market_id": "1.258404478",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:30:00.000Z"
+    },
+    {
       "match": "Septemvri v Dobrudzha",
       "campionato": "Bulgarian A League",
       "volume": 15,
@@ -317,21 +332,6 @@
       "market_id": "1.258386369",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "FK Sumqayit v Qarabag FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 14,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630426",
-      "market_id": "1.258404478",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:30:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -509,9 +509,19 @@
       "event_id": "bf_1.258404478",
       "match": "FK Sumqayit v Qarabag FK",
       "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 14,
+      "volume": 40,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258445017",
+      "match": "FK Panevezio Ekranas v FK Transinvest II",
+      "campionato": "Lithuanian 1 Lyga",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
