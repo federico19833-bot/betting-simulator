@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 17:55:15",
+  "last_update": "22/05/2026 17:55:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,8 +36,8 @@
     {
       "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
       "campionato": "Lithuanian 1 Lyga",
-      "volume": 6931,
-      "quota": 1.07,
+      "volume": 2468,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -291,7 +291,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 15,
+      "volume": 23,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -511,9 +511,9 @@
       "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 6931,
+      "volume": 2468,
       "best_volume": 8488,
       "whale_max": 0,
       "entered": false
@@ -537,7 +537,7 @@
       "open_date": "",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 23,
       "best_volume": 58,
       "whale_max": 0,
       "entered": false
@@ -579,14 +579,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258388923",
-      "match": "Zeleznicar Pancevo v Cukaricki",
-      "campionato": "Serbian Super League",
-      "open_date": "2026-05-22T15:00:00.000Z",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 8231,
-      "best_volume": 8231,
+      "event_id": "bf_1.258388857",
+      "match": "Hajduk Split v Vukovar",
+      "campionato": "Croatian HNL",
+      "open_date": "2026-05-22T16:15:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
+      "best_volume": 264,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258432405",
+      "match": "Kristianstads v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-05-22T17:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 847,
+      "best_volume": 847,
       "whale_max": 0,
       "entered": false
     }
