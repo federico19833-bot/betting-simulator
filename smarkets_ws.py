@@ -117,7 +117,7 @@ class SmarketsWS:
                     if 1.01 <= price <= 1.09:
                         prev_qty = prev_book.get(price, 0)
                         diff = qty - prev_qty
-                        if diff >= 15000:
+                        if diff >= 7000:
                             whale = {
                                 "market_id": market_id,
                                 "contract_id": contract_id,

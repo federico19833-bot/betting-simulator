@@ -9,13 +9,15 @@ LAST_HASH_FILE = os.path.join(os.path.dirname(__file__), "last_data_hash.txt")
 def data_hash(data):
     return str(hash(json.dumps(data, ensure_ascii=False)))
 
+GIT = r"C:\Program Files\Git\bin\git.exe"
+
 def deploy_github():
     def _deploy():
         try:
             repo = os.path.dirname(__file__)
-            subprocess.run(["git", "add", "docs/data.json"], cwd=repo, capture_output=True, text=True, timeout=15)
-            subprocess.run(["git", "commit", "-m", "update dashboard data", "--allow-empty"], cwd=repo, capture_output=True, text=True, timeout=15)
-            subprocess.run(["git", "push", "origin", "main"], cwd=repo, capture_output=True, text=True, timeout=30)
+            subprocess.run([GIT, "add", "docs/data.json"], cwd=repo, capture_output=True, text=True, timeout=15)
+            subprocess.run([GIT, "commit", "-m", "update dashboard data", "--allow-empty"], cwd=repo, capture_output=True, text=True, timeout=15)
+            subprocess.run([GIT, "push", "origin", "main"], cwd=repo, capture_output=True, text=True, timeout=30)
             print("[DASHBOARD] GitHub Pages aggiornato")
         except Exception as e:
             print(f"[DASHBOARD] Errore push: {e}")
@@ -55,6 +57,23 @@ def generate(deploy=False):
         with open(scan_file, "r", encoding="utf-8") as f:
             live_events = json.load(f)
     
+    tracked_matches = []
+    track_file = os.path.join(os.path.dirname(__file__), "tracked_matches.json")
+    if os.path.exists(track_file):
+        with open(track_file, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+        for eid, t in raw.items():
+            tracked_matches.append({
+                "event_id": eid,
+                "match": t.get("match", "?"),
+                "campionato": t.get("campionato", "?"),
+                "quota_attuale": t.get("last_price", 0),
+                "quota_iniziale": t.get("first_price", 0),
+                "volume": round(t.get("volume", 0)),
+                "whale_max": round(t.get("whale_max", 0)),
+                "entered": t.get("entered", False),
+            })
+    
     data = {
         "last_update": datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
         "config": {
@@ -66,6 +85,7 @@ def generate(deploy=False):
         },
         "stats": stats,
         "live_events": live_events,
+        "tracked_matches": tracked_matches,
         "giocate": giocate_list,
         "max_whale": max([e.get("whale_max", 0) or 0 for e in live_events], default=0)
     }

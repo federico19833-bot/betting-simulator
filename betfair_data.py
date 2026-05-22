@@ -164,6 +164,11 @@ def scan_over05_inplay():
                         over_liquidity = back_prices[0].get("size", 0)
                 break
             
+            if status != "OPEN":
+                if status == "SUSPENDED":
+                    print(f"[BETFAIR] SKIP sospeso (gol?): {match_name} [{status}]")
+                continue
+
             if over_price > 0:
                 results.append({
                     "match": match_name,

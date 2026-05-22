@@ -1,9 +1,35 @@
 import json
 import os
 import time
+import requests
 from datetime import datetime
 from config import VOLUME_THRESHOLD, MIN_ODDS, MAX_ODDS
 from betfair_data import scan_over05_inplay
+from selenium_query import get_realtime_over05 as selenium_check_quota
+
+THESPORTSDB = "https://www.thesportsdb.com/api/v1/json/3"
+
+def check_no_goal_yet(match_name):
+    try:
+        search = match_name.replace(" v ", "_").replace(" vs ", "_").replace(" ", "_")
+        r = requests.get(f"{THESPORTSDB}/searchevents.php?e={search}", timeout=10)
+        if r.status_code != 200:
+            return True
+        data = r.json()
+        if not data or not data.get("event"):
+            return True
+        for ev in data["event"]:
+            home = ev.get("intHomeScore")
+            away = ev.get("intAwayScore")
+            if home is not None and away is not None:
+                total = int(home) + int(away)
+                if total >= 1:
+                    print(f"[PRE-ENTRY] GOL GIA SEGNATO: {match_name} {home}-{away} → SKIP")
+                    return False
+        return True
+    except Exception as e:
+        print(f"[PRE-ENTRY] Errore TheSportsDB per {match_name}: {e}")
+        return True
 
 TRACK_FILE = os.path.join(os.path.dirname(__file__), "tracked_matches.json")
 WATCH_MIN = 1.01
@@ -65,27 +91,49 @@ def scan_markets():
                     prev = t.get("last_price", 0)
                     t["last_price"] = quota
                     t["volume"] = volume
-                    # Remember best volume ever seen
                     if volume > t.get("best_volume", 0):
                         t["best_volume"] = volume
 
-                    # Entry: current volume >= threshold OR best volume ever seen >= threshold
-                    has_volume = volume >= VOLUME_THRESHOLD or t.get("best_volume", 0) >= VOLUME_THRESHOLD
-                    if not t.get("entered") and quota >= MIN_ODDS and quota <= MAX_ODDS and has_volume:
-                            risultati.append({
-                                "match": match, "campionato": campionato,
-                                "volume": volume, "quota": quota,
-                                "event_id": market_id,
-                                "whale_max": 0, "whale_tot": 0,
-                                "source": "Betfair",
-                            })
-                            t["entered"] = True
-                            tipo = "PRE-MATCH" if not bf.get("_is_inplay") else "IN-PLAY"
-                            print(f"[ENTRY {tipo}] a {quota}: {match} | Vol: {volume:.0f} EUR")
+                    if not t.get("entered") and volume >= VOLUME_THRESHOLD:
+                        realtime_quota = selenium_check_quota(market_id)
+                        is_inplay = bf.get("_is_inplay", False)
 
-                    if quota > MAX_ODDS:
+                        if realtime_quota == -1:
+                            print(f"[ENTRY SKIP] {match}: mercato sospeso (gol?), non entro")
+                        elif realtime_quota is None:
+                            print(f"[ENTRY SKIP] {match}: Selenium errore, SKIP per sicurezza")
+                        elif realtime_quota == "NO_BACK_PRICES":
+                            if is_inplay:
+                                print(f"[ENTRY SKIP] {match}: IN-PLAY senza prezzi back, probabilmente gol")
+                            else:
+                                print(f"[WATCH] {match}: PRE-MATCH senza prezzi back, aspetto DevKey {quota}")
+                        else:
+                            t["last_price"] = realtime_quota
+                            if realtime_quota < MIN_ODDS:
+                                print(f"[WATCH] {match}: Selenium {realtime_quota} < {MIN_ODDS}, aspetto")
+                            elif realtime_quota >= MAX_ODDS:
+                                print(f"[RIMOSSO] {match}: Selenium {realtime_quota} >= {MAX_ODDS}")
+                                tracked.pop(track_key, None)
+                            elif MIN_ODDS <= realtime_quota < MAX_ODDS:
+                                no_goal = check_no_goal_yet(match) if is_inplay else True
+                                if not no_goal:
+                                    print(f"[ENTRY SKIP] {match}: gol gia segnato, non entro")
+                                else:
+                                    risultati.append({
+                                        "match": match, "campionato": campionato,
+                                        "volume": t.get("best_volume", volume), "quota": realtime_quota,
+                                        "event_id": market_id,
+                                        "whale_max": 0, "whale_tot": 0,
+                                        "source": "Betfair+Selenium",
+                                        "open_date": bf.get("open_date", ""),
+                                    })
+                                    t["entered"] = True
+                                    tipo = "PRE-MATCH" if not is_inplay else "IN-PLAY"
+                                    print(f"[ENTRY {tipo}] a {realtime_quota} (DevKey: {quota}): {match} | Vol: {volume:.0f} EUR")
+
+                    if quota >= MAX_ODDS and track_key in tracked:
                         tracked.pop(track_key, None)
-                        print(f"[RIMOSSO] {match}: quota salita a {quota}")
+                        print(f"[RIMOSSO] {match}: quota DevKey salita a {quota}")
                 else:
                     is_inplay = bf.get("_is_inplay", False)
                     tracked[track_key] = {

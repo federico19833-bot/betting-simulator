@@ -24,9 +24,9 @@ async def poll_markets():
     if matches:
         matches.sort(key=lambda x: x["volume"], reverse=True)
         m = matches[0]
-        giocata_id = execute_entry(m["match"], m["campionato"], m["volume"], m["quota"], m.get("event_id", ""), m.get("whale_max", 0), m.get("whale_tot", 0))
+        giocata_id = execute_entry(m["match"], m["campionato"], m["volume"], m["quota"], m.get("event_id", ""), m.get("whale_max", 0), m.get("whale_tot", 0), m.get("open_date", ""))
         if bot_ready and giocata_id:
-            await invia_notifica_entrata(giocata_id, m["match"], m["campionato"], m["quota"], m["volume"])
+            await invia_notifica_entrata(giocata_id, m["match"], m["campionato"], m["quota"], m["volume"], m.get("open_date", ""))
             if len(matches) > 1:
                 print(f"[MAIN] Altri {len(matches)-1} segnali ignorati (entro solo il primo)")
     risolti = check_and_resolve_pending()

@@ -36,15 +36,19 @@ def init_db():
         conn.execute("ALTER TABLE giocate ADD COLUMN whale_tot REAL DEFAULT 0")
     except:
         pass
+    try:
+        conn.execute("ALTER TABLE giocate ADD COLUMN open_date TEXT DEFAULT ''")
+    except:
+        pass
     conn.commit()
     conn.close()
 
-def inserisci_giocata(match, campionato, volume, quota, event_id="", whale_max=0, whale_tot=0):
+def inserisci_giocata(match, campionato, volume, quota, event_id="", whale_max=0, whale_tot=0, open_date=""):
     conn = get_connection()
     now = datetime.now().isoformat()
     conn.execute(
-        "INSERT INTO giocate (orario, match, campionato, volume_rilevato, quota_reale, esito, event_id, whale_max, whale_tot) VALUES (?, ?, ?, ?, ?, 'IN_CORSO', ?, ?, ?)",
-        (now, match, campionato, volume, quota, event_id, whale_max, whale_tot)
+        "INSERT INTO giocate (orario, match, campionato, volume_rilevato, quota_reale, esito, event_id, whale_max, whale_tot, open_date) VALUES (?, ?, ?, ?, ?, 'IN_CORSO', ?, ?, ?, ?)",
+        (now, match, campionato, volume, quota, event_id, whale_max, whale_tot, open_date)
     )
     conn.commit()
     giocata_id = conn.execute("SELECT last_insert_rowid()").fetchone()[0]
