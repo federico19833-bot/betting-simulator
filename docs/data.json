@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 04:20:13",
+  "last_update": "22/05/2026 04:20:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 3162,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635503",
+      "market_id": "1.258455635",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:30:00.000Z"
+    },
+    {
       "match": "FK Panevezio Ekranas v FK Transinvest II",
       "campionato": "Lithuanian 1 Lyga",
-      "volume": 1706,
+      "volume": 1683,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -47,21 +62,6 @@
       "market_id": "1.258360405",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "Zaqatala v Shafa Baku FC",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 1549,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635503",
-      "market_id": "1.258455635",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "FK Auda v Liepajas Metalurgs",
@@ -94,6 +94,21 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
+      "match": "NK Sesvete v BSK Bijelo Brdo",
+      "campionato": "Croatian Prva NL",
+      "volume": 546,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634919",
+      "market_id": "1.258453179",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:45:00.000Z"
+    },
+    {
       "match": "Cruz Azul v Pumas UNAM",
       "campionato": "Mexican Liga MX",
       "volume": 507,
@@ -122,21 +137,6 @@
       "market_id": "1.258388857",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:15:00.000Z"
-    },
-    {
-      "match": "NK Sesvete v BSK Bijelo Brdo",
-      "campionato": "Croatian Prva NL",
-      "volume": 414,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634919",
-      "market_id": "1.258453179",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:45:00.000Z"
     },
     {
       "match": "Septemvri v Dobrudzha",
@@ -401,7 +401,7 @@
       "campionato": "Lithuanian 1 Lyga",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 1706,
+      "volume": 1683,
       "whale_max": 0,
       "entered": false
     },
@@ -412,6 +412,16 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 453,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258455635",
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 3162,
       "whale_max": 0,
       "entered": false
     }
