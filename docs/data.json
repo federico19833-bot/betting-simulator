@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 16:34:16",
+  "last_update": "22/05/2026 16:34:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
-      "volume": 1445,
+      "volume": 1274,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
+      "match": "Septemvri v Dobrudzha",
+      "campionato": "Bulgarian A League",
+      "volume": 189,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625546",
+      "market_id": "1.258359539",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
       "match": "Linero IF v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "volume": 163,
@@ -197,21 +212,6 @@
       "market_id": "1.258404500",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "FK Auda v Liepajas Metalurgs",
-      "campionato": "Latvian Virsliga",
-      "volume": 119,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628644",
-      "market_id": "1.258390573",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "Aarhus Fremad v AaB",
@@ -229,6 +229,21 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
+      "match": "FK Auda v Liepajas Metalurgs",
+      "campionato": "Latvian Virsliga",
+      "volume": 71,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628644",
+      "market_id": "1.258390573",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
       "match": "FK Panevezio Ekranas v FK Transinvest II",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 44,
@@ -242,36 +257,6 @@
       "market_id": "1.258445017",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "match": "Tampere Utd v JJK",
-      "campionato": "Finnish Ykkonen",
-      "volume": 40,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634685",
-      "market_id": "1.258451630",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:30:00.000Z"
-    },
-    {
-      "match": "Septemvri v Dobrudzha",
-      "campionato": "Bulgarian A League",
-      "volume": 18,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625546",
-      "market_id": "1.258359539",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "Qatar v Sudan",
@@ -347,6 +332,21 @@
       "market_id": "1.258432405",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Tampere Utd v JJK",
+      "campionato": "Finnish Ykkonen",
+      "volume": 14,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634685",
+      "market_id": "1.258451630",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:30:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -466,7 +466,7 @@
       "campionato": "Croatian HNL",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1445,
+      "volume": 1274,
       "whale_max": 0,
       "entered": false
     },
@@ -534,19 +534,9 @@
       "event_id": "bf_1.258451630",
       "match": "Tampere Utd v JJK",
       "campionato": "Finnish Ykkonen",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 40,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258386369",
-      "match": "Pharco FC v National Bank",
-      "campionato": "Egyptian Premier",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 264,
+      "volume": 14,
       "whale_max": 0,
       "entered": false
     }
