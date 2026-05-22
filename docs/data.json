@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 03:33:09",
+  "last_update": "22/05/2026 03:33:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Cruz Azul v Pumas UNAM",
       "campionato": "Mexican Liga MX",
-      "volume": 6182,
+      "volume": 4458,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -32,6 +32,21 @@
       "market_id": "1.258436312",
       "_is_inplay": false,
       "open_date": "2026-05-22T02:00:00.000Z"
+    },
+    {
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 763,
+      "quota": 1.31,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635503",
+      "market_id": "1.258455635",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "FK Auda v Liepajas Metalurgs",
@@ -184,21 +199,6 @@
       "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
-      "match": "Zaqatala v Shafa Baku FC",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 33,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635503",
-      "market_id": "1.258455635",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:30:00.000Z"
-    },
-    {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
       "volume": 15,
@@ -341,7 +341,7 @@
       "campionato": "Mexican Liga MX",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 6182,
+      "volume": 4458,
       "whale_max": 0,
       "entered": false
     },
