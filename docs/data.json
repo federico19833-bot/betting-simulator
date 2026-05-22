@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 15:58:28",
+  "last_update": "22/05/2026 15:59:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,9 +64,24 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
+      "match": "Septemvri v Dobrudzha",
+      "campionato": "Bulgarian A League",
+      "volume": 672,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625546",
+      "market_id": "1.258359539",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
       "match": "FK Auda v Liepajas Metalurgs",
       "campionato": "Latvian Virsliga",
-      "volume": 591,
+      "volume": 576,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -107,6 +122,21 @@
       "market_id": "1.258360405",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "match": "Osijek v Slaven Belupo",
+      "campionato": "Croatian HNL",
+      "volume": 294,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619969",
+      "market_id": "1.258388879",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
       "match": "Pharco FC v National Bank",
@@ -169,21 +199,6 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
-      "match": "Osijek v Slaven Belupo",
-      "campionato": "Croatian HNL",
-      "volume": 66,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619969",
-      "market_id": "1.258388879",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T14:00:00.000Z"
-    },
-    {
       "match": "Tampere Utd v JJK",
       "campionato": "Finnish Ykkonen",
       "volume": 40,
@@ -227,21 +242,6 @@
       "market_id": "1.258386323",
       "_is_inplay": false,
       "open_date": "2026-05-22T14:00:00.000Z"
-    },
-    {
-      "match": "Septemvri v Dobrudzha",
-      "campionato": "Bulgarian A League",
-      "volume": 15,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625546",
-      "market_id": "1.258359539",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "MC Alger v ASO Chlef",
@@ -381,7 +381,7 @@
       "campionato": "Croatian HNL",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 66,
+      "volume": 294,
       "whale_max": 0,
       "entered": false
     },
@@ -401,7 +401,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 591,
+      "volume": 576,
       "whale_max": 0,
       "entered": false
     },
@@ -472,6 +472,16 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 40,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258386369",
+      "match": "Pharco FC v National Bank",
+      "campionato": "Egyptian Premier",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
