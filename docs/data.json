@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 19:49:42",
+  "last_update": "22/05/2026 19:50:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "FOC Farsta v IFK Haninge",
       "campionato": "Swedish Division 2",
-      "volume": 3837,
+      "volume": 3821,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -92,6 +92,21 @@
       "market_id": "1.258404262",
       "_is_inplay": false,
       "open_date": "2026-05-22T18:00:00.000Z"
+    },
+    {
+      "match": "Trabzonspor v Konyaspor",
+      "campionato": "Turkish Cup",
+      "volume": 2280,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625120",
+      "market_id": "1.258395296",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:45:00.000Z"
     },
     {
       "match": "IFK Karlshamn v Vaxjo Norra IF",
@@ -154,21 +169,6 @@
       "open_date": "2026-05-22T18:45:00.000Z"
     },
     {
-      "match": "Shelbourne v Waterford",
-      "campionato": "Irish Premier Division",
-      "volume": 767,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35621363",
-      "market_id": "1.258397170",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T18:45:00.000Z"
-    },
-    {
       "match": "Wexford F.C v UCD",
       "campionato": "Irish Division 1",
       "volume": 646,
@@ -180,6 +180,21 @@
       "source": "Betfair",
       "event_id": "35613865",
       "market_id": "1.258435861",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T18:45:00.000Z"
+    },
+    {
+      "match": "Shelbourne v Waterford",
+      "campionato": "Irish Premier Division",
+      "volume": 638,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35621363",
+      "market_id": "1.258397170",
       "_is_inplay": false,
       "open_date": "2026-05-22T18:45:00.000Z"
     },
@@ -212,21 +227,6 @@
       "market_id": "1.258386369",
       "_is_inplay": true,
       "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "Trabzonspor v Konyaspor",
-      "campionato": "Turkish Cup",
-      "volume": 184,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625120",
-      "market_id": "1.258395296",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:45:00.000Z"
     },
     {
       "match": "Treaty United v Cobh Ramblers",
@@ -411,7 +411,7 @@
       "open_date": "2026-05-22T18:45:00.000Z",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 767,
+      "volume": 638,
       "best_volume": 888,
       "whale_max": 0,
       "entered": false
@@ -495,8 +495,8 @@
       "open_date": "2026-05-22T17:45:00.000Z",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 184,
-      "best_volume": 184,
+      "volume": 2280,
+      "best_volume": 2280,
       "whale_max": 0,
       "entered": false
     },
@@ -513,18 +513,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258450570",
-      "match": "MAS Maghrib A Fes v IRT Tanger",
-      "campionato": "Moroccan Botola Pro 1",
-      "open_date": "2026-05-22T18:00:00.000Z",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 9508,
-      "best_volume": 9508,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258435861",
       "match": "Wexford F.C v UCD",
       "campionato": "Irish Division 1",
@@ -533,6 +521,18 @@
       "quota_iniziale": 1.07,
       "volume": 646,
       "best_volume": 646,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258434851",
+      "match": "NK Radomlje v Mura",
+      "campionato": "Slovenian Premier League",
+      "open_date": "2026-05-22T18:00:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 33470,
+      "best_volume": 33470,
       "whale_max": 0,
       "entered": false
     }
