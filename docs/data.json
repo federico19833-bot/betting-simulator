@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 03:53:37",
+  "last_update": "22/05/2026 03:54:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -62,21 +62,6 @@
       "market_id": "1.258388923",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
-      "match": "FK Sumqayit v Qarabag FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 430,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630426",
-      "market_id": "1.258404478",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Septemvri v Dobrudzha",
@@ -152,6 +137,21 @@
       "market_id": "1.258404415",
       "_is_inplay": false,
       "open_date": "2026-05-22T13:00:00.000Z"
+    },
+    {
+      "match": "FK Sumqayit v Qarabag FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 149,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630426",
+      "market_id": "1.258404478",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Real Cartagena v Barranquilla",
@@ -399,9 +399,9 @@
       "event_id": "bf_1.258404478",
       "match": "FK Sumqayit v Qarabag FK",
       "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 430,
+      "volume": 149,
       "whale_max": 0,
       "entered": false
     },
