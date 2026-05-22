@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 15:08:30",
+  "last_update": "22/05/2026 15:09:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Botev Vratsa v Beroe Stara Za",
       "campionato": "Bulgarian A League",
-      "volume": 2544,
+      "volume": 2543,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
-      "match": "Septemvri v Dobrudzha",
-      "campionato": "Bulgarian A League",
-      "volume": 758,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625546",
-      "market_id": "1.258359539",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
       "match": "Kristianstads v Hassleholms IF",
       "campionato": "Swedish Division 1",
       "volume": 690,
@@ -154,6 +139,36 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "volume": 331,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625554",
+      "market_id": "1.258359504",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T12:30:00.000Z"
+    },
+    {
+      "match": "Septemvri v Dobrudzha",
+      "campionato": "Bulgarian A League",
+      "volume": 270,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625546",
+      "market_id": "1.258359539",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
       "match": "FK Dainava Alytus v Be1 NFA",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 264,
@@ -167,21 +182,6 @@
       "market_id": "1.258404800",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "match": "El Gounah v El Geish",
-      "campionato": "Egyptian Premier",
-      "volume": 171,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624790",
-      "market_id": "1.258386323",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
       "match": "FK Panevezio Ekranas v FK Transinvest II",
@@ -214,6 +214,21 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
+      "match": "El Gounah v El Geish",
+      "campionato": "Egyptian Premier",
+      "volume": 105,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624790",
+      "market_id": "1.258386323",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T14:00:00.000Z"
+    },
+    {
       "match": "FK Sumqayit v Qarabag FK",
       "campionato": "Azerbaijan Premier League",
       "volume": 53,
@@ -227,21 +242,6 @@
       "market_id": "1.258404478",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:30:00.000Z"
-    },
-    {
-      "match": "Slavia Sofia v Montana",
-      "campionato": "Bulgarian A League",
-      "volume": 36,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625554",
-      "market_id": "1.258359504",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
       "match": "PFK Turan Tovuz v FC Sabah",
@@ -456,7 +456,7 @@
       "campionato": "Bulgarian A League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 2544,
+      "volume": 2543,
       "whale_max": 0,
       "entered": false
     },
@@ -496,7 +496,7 @@
       "campionato": "Egyptian Premier",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 171,
+      "volume": 105,
       "whale_max": 0,
       "entered": false
     },
@@ -544,9 +544,9 @@
       "event_id": "bf_1.258359539",
       "match": "Septemvri v Dobrudzha",
       "campionato": "Bulgarian A League",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 758,
+      "volume": 270,
       "whale_max": 0,
       "entered": false
     },
@@ -557,6 +557,16 @@
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
       "volume": 148,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258404800",
+      "match": "FK Dainava Alytus v Be1 NFA",
+      "campionato": "Lithuanian 1 Lyga",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
