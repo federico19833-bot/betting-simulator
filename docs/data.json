@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 15:49:40",
+  "last_update": "22/05/2026 15:50:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "FK Sumqayit v Qarabag FK",
       "campionato": "Azerbaijan Premier League",
-      "volume": 2543,
+      "volume": 3755,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -62,6 +62,21 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
+      "match": "Septemvri v Dobrudzha",
+      "campionato": "Bulgarian A League",
+      "volume": 746,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625546",
+      "market_id": "1.258359539",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "IFK Karlshamn v Vaxjo Norra IF",
@@ -120,21 +135,6 @@
       "source": "Betfair",
       "event_id": "35619969",
       "market_id": "1.258388879",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T14:00:00.000Z"
-    },
-    {
-      "match": "El Gounah v El Geish",
-      "campionato": "Egyptian Premier",
-      "volume": 291,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624790",
-      "market_id": "1.258386323",
       "_is_inplay": false,
       "open_date": "2026-05-22T14:00:00.000Z"
     },
@@ -199,19 +199,19 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
-      "match": "Septemvri v Dobrudzha",
-      "campionato": "Bulgarian A League",
-      "volume": 42,
-      "quota": 1.18,
+      "match": "El Gounah v El Geish",
+      "campionato": "Egyptian Premier",
+      "volume": 44,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625546",
-      "market_id": "1.258359539",
+      "event_id": "35624790",
+      "market_id": "1.258386323",
       "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
+      "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
       "match": "Tampere Utd v JJK",
@@ -331,7 +331,7 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 2543,
+      "volume": 3755,
       "whale_max": 0,
       "entered": false
     },
@@ -472,16 +472,6 @@
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
       "volume": 40,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258386369",
-      "match": "Pharco FC v National Bank",
-      "campionato": "Egyptian Premier",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
