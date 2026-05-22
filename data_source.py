@@ -145,6 +145,7 @@ def scan_markets():
                         "first_seen": datetime.now().isoformat(),
                         "source": "Betfair",
                         "is_inplay": is_inplay,
+                        "open_date": bf.get("open_date", ""),
                     }
                     tipo = "PRE-MATCH" if not is_inplay else "IN-PLAY"
 

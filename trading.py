@@ -56,8 +56,9 @@ def check_sportsdb(match_name):
                 away = ev.get("intAwayScore")
                 if home is not None and away is not None:
                     total = int(home) + int(away)
-                    print(f"[TRADING] TheSportsDB: {match_name} -> {home}-{away} (tot: {total})")
-                    return total >= 1
+                    score = f"{home}-{away}"
+                    print(f"[TRADING] TheSportsDB: {match_name} -> {score} (tot: {total})")
+                    return total >= 1, score
     
     for team in [clean_home, clean_away]:
         if not team:
@@ -84,11 +85,12 @@ def check_sportsdb(match_name):
                 aws = ev.get("intAwayScore")
                 if hs is not None and aws is not None:
                     total = int(hs) + int(aws)
-                    print(f"[TRADING] TheSportsDB (last): {match_name} -> {hs}-{aws} (tot: {total})")
-                    return total >= 1
+                    score = f"{hs}-{aws}"
+                    print(f"[TRADING] TheSportsDB (last): {match_name} -> {score} (tot: {total})")
+                    return total >= 1, score
     
     print(f"[TRADING] TheSportsDB: nessun risultato per {match_name}")
-    return None
+    return None, ""
 
 def execute_entry(match, campionato, volume, quota, event_id="", whale_max=0, whale_tot=0, open_date=""):
     existing = get_giocata_by_match(match, "IN_CORSO")
@@ -174,11 +176,12 @@ def resolve_match(giocata):
     quota_entry = giocata["quota_reale"]
     match = giocata["match"]
     is_win = None
+    score = ""
     
-    result = check_sportsdb(match)
+    result, score = check_sportsdb(match)
     if result is not None:
         is_win = result
-        print(f"[TRADING] TheSportsDB: {match} -> {'GOAL' if is_win else '0-0'}")
+        print(f"[TRADING] TheSportsDB: {match} -> {'GOAL' if is_win else '0-0'} {score}")
     
     if is_win is None:
         market_id = giocata.get("event_id", "")
@@ -186,7 +189,8 @@ def resolve_match(giocata):
             bf_result = check_betfair_result(market_id)
             if bf_result is not None:
                 is_win = bf_result
-                print(f"[TRADING] Betfair: {match} -> {'GOAL' if is_win else '0-0'}")
+                score = "1-0" if bf_result else "0-0"
+                print(f"[TRADING] Betfair: {match} -> {'GOAL' if is_win else '0-0'} {score}")
     
     if is_win is None:
         print(f"[TRADING] Nessuna fonte per {match}, riprovo al prossimo scan")
@@ -199,15 +203,16 @@ def resolve_match(giocata):
     else:
         net_profit = -STAKE
         esito = "PERSA"
-    aggiorna_esito(giocata["id"], esito, net_profit)
-    print(f"[TRADING] GIOCATA #{giocata['id']}: {esito} | Profitto netto: {net_profit:.2f}EUR")
+    aggiorna_esito(giocata["id"], esito, net_profit, score)
+    print(f"[TRADING] GIOCATA #{giocata['id']}: {esito} | {score} | Profitto netto: {net_profit:.2f}EUR")
     return {
         "id": giocata["id"],
         "match": giocata["match"],
         "campionato": giocata["campionato"],
         "quota": quota_entry,
         "esito": esito,
-        "profitto": net_profit
+        "profitto": net_profit,
+        "risultato": score,
     }
 
 def check_and_resolve_pending():

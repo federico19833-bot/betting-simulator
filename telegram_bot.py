@@ -219,10 +219,11 @@ def init_bot():
         return True
     return False
 
-async def invia_notifica_esito(giocata_id, match, campionato, quota, esito, profitto):
+async def invia_notifica_esito(giocata_id, match, campionato, quota, esito, profitto, risultato=""):
     if not bot:
         return
     icon = "✅" if esito == "VINTA" else "❌"
+    score_line = f"\nRisultato: {risultato}" if risultato else ""
     msg = (
         f"{icon} GIOCATA RISOLTA\n"
         f"━━━━━━━━━━━━━━━━\n"
@@ -230,7 +231,7 @@ async def invia_notifica_esito(giocata_id, match, campionato, quota, esito, prof
         f"Match: {match}\n"
         f"Campionato: {campionato}\n"
         f"Quota: {quota}\n"
-        f"Esito: {esito}\n"
+        f"Esito: {esito}{score_line}\n"
         f"Profitto: {profitto:+.2f}€"
     )
     try:

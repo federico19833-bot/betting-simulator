@@ -35,7 +35,7 @@ async def poll_markets():
             if r.get("discrepancy"):
                 await invia_notifica_errore(r["id"], r["match"], r["smarkets"], r["sportsdb"])
             else:
-                await invia_notifica_esito(r["id"], r["match"], r["campionato"], r["quota"], r["esito"], r["profitto"])
+                await invia_notifica_esito(r["id"], r["match"], r["campionato"], r["quota"], r["esito"], r["profitto"], r.get("risultato", ""))
     update_dashboard(deploy=True)
 
 async def daily_report():

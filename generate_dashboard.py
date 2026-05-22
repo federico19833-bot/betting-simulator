@@ -47,6 +47,7 @@ def generate(deploy=False):
             "volume": round(g["volume_rilevato"]),
             "esito": g["esito"],
             "profitto": g["profitto_netto"],
+            "risultato": g.get("risultato", ""),
             "whale_max": g.get("whale_max", 0),
             "whale_tot": g.get("whale_tot", 0)
         })
@@ -67,9 +68,11 @@ def generate(deploy=False):
                 "event_id": eid,
                 "match": t.get("match", "?"),
                 "campionato": t.get("campionato", "?"),
+                "open_date": t.get("open_date", ""),
                 "quota_attuale": t.get("last_price", 0),
                 "quota_iniziale": t.get("first_price", 0),
                 "volume": round(t.get("volume", 0)),
+                "best_volume": round(t.get("best_volume", 0)),
                 "whale_max": round(t.get("whale_max", 0)),
                 "entered": t.get("entered", False),
             })

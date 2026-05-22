@@ -42,7 +42,7 @@ tr:hover { background:#1a2744; }
 <h2>Storico Giocate</h2>
 <div style="overflow-x:auto">
 <table>
-<thead><tr><th>ID</th><th>Data</th><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Esito</th><th>Profitto</th></tr></thead>
+<thead><tr><th>ID</th><th>Data</th><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Risultato</th><th>Esito</th><th>Profitto</th></tr></thead>
 <tbody id="tableBody"></tbody>
 </table>
 </div>
@@ -52,7 +52,7 @@ tr:hover { background:#1a2744; }
 <h2><span class="live-dot"></span>Eventi Live Monitorati</h2>
 <div style="overflow-x:auto">
 <table>
-<thead><tr><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Stato</th><th>Idonea</th></tr></thead>
+<thead><tr><th>Match</th><th>Campionato</th><th>Kick-off</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Stato</th><th>Idonea</th></tr></thead>
 <tbody id="liveBody"></tbody>
 </table>
 </div>
@@ -62,7 +62,7 @@ tr:hover { background:#1a2744; }
 <h2><span class="live-dot"></span>Monitoraggio Balene</h2>
 <div style="overflow-x:auto">
 <table>
-<thead><tr><th>Match</th><th>Campionato</th><th>Quota iniziale</th><th>Quota attuale</th><th>Volume</th><th>Balena max</th><th>Stato</th></tr></thead>
+<thead><tr><th>Match</th><th>Campionato</th><th>Kick-off</th><th>Quota iniziale</th><th>Quota attuale</th><th>Volume</th><th>Balena max</th><th>Stato</th></tr></thead>
 <tbody id="trackedBody"></tbody>
 </table>
 </div>
@@ -128,8 +128,9 @@ function render(data) {
                 ? '<span class="tag" style="background:#451a03;color:#fdba74">📅 PRE-MATCH</span>'
                 : '<span class="tag" style="background:#166534;color:#86efac">⚽ LIVE</span>';
             return `<tr${e.in_range ? ' class="eligible"' : ''}>
-                <td>${e.match}<br><span style="font-size:11px;color:#94a3b8">${formatDate(e.open_date)}</span></td>
+                <td>${e.match}</td>
                 <td>${e.campionato}</td>
+                <td>${formatDate(e.open_date)}</td>
                 <td>${e.quota.toFixed(3)}</td>
                 <td>${e.volume.toLocaleString()}€</td>
                 <td>${e.whale_max > 0 ? `<span class="tag" style="background:#a855f7;color:#e9d5ff">🐋 ${e.whale_max.toLocaleString()}€</span>` : '-'}</td>
@@ -155,7 +156,7 @@ function render(data) {
                 <td>${g.campionato}</td>
                 <td>${g.quota}</td>
                 <td>${g.volume.toLocaleString()}€</td>
-                <td>${whaleDisplay}</td>
+                <td>${g.risultato || '-'}</td>
                 <td>${esitoIcon} ${g.esito}</td>
                 <td style="color:${profitColor}">${g.profitto >= 0 ? '+' : ''}${g.profitto.toFixed(2)}€</td>
             </tr>`;
@@ -175,6 +176,7 @@ function render(data) {
             return `<tr>
                 <td>${t.match}</td>
                 <td>${t.campionato}</td>
+                <td>${formatDate(t.open_date)}</td>
                 <td>${t.quota_iniziale.toFixed(3)}</td>
                 <td>${t.quota_attuale.toFixed(3)}</td>
                 <td>${t.volume.toLocaleString()}€</td>
