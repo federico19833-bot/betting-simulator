@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 17:42:37",
+  "last_update": "22/05/2026 17:43:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,8 +36,8 @@
     {
       "match": "Lunds BK v Eskilsminne",
       "campionato": "Swedish Division 1",
-      "volume": 1826,
-      "quota": 1.06,
+      "volume": 960,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -81,7 +81,7 @@
     {
       "match": "Hestrafors v Jonsereds IF",
       "campionato": "Swedish Division 2",
-      "volume": 675,
+      "volume": 690,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258309595",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:30:00.000Z"
+    },
+    {
+      "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 530,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633581",
+      "market_id": "1.258444996",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
       "match": "USM Alger v Paradou",
@@ -137,6 +152,21 @@
       "market_id": "1.258450849",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Tampere Utd v JJK",
+      "campionato": "Finnish Ykkonen",
+      "volume": 334,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634685",
+      "market_id": "1.258451630",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Hajduk Split v Vukovar",
@@ -229,6 +259,21 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
+      "match": "FK Panevezio Ekranas v FK Transinvest II",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 86,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633579",
+      "market_id": "1.258445017",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T16:00:00.000Z"
+    },
+    {
       "match": "Lindome v Torslanda",
       "campionato": "Swedish Division 2",
       "volume": 58,
@@ -259,21 +304,6 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "Tampere Utd v JJK",
-      "campionato": "Finnish Ykkonen",
-      "volume": 34,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634685",
-      "market_id": "1.258451630",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T15:30:00.000Z"
-    },
-    {
       "match": "Djurgardens v Brommapojkarna",
       "campionato": "Swedish Allsvenskan",
       "volume": 29,
@@ -291,7 +321,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 27,
+      "volume": 23,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -302,21 +332,6 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
-    },
-    {
-      "match": "FK Panevezio Ekranas v FK Transinvest II",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633579",
-      "market_id": "1.258445017",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
       "match": "VPS v HJK Helsinki",
@@ -332,21 +347,6 @@
       "market_id": "1.258346619",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633581",
-      "market_id": "1.258444996",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T16:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -354,11 +354,9 @@
       "event_id": "bf_1.258410242",
       "match": "Lindome v Torslanda",
       "campionato": "Swedish Division 2",
-      "open_date": "",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
       "volume": 58,
-      "best_volume": 970,
       "whale_max": 0,
       "entered": false
     },
@@ -366,11 +364,9 @@
       "event_id": "bf_1.258386369",
       "match": "Pharco FC v National Bank",
       "campionato": "Egyptian Premier",
-      "open_date": "",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 692,
-      "best_volume": 692,
       "whale_max": 0,
       "entered": false
     },
@@ -378,11 +374,9 @@
       "event_id": "bf_1.258483636",
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
-      "open_date": "",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
       "volume": 104,
-      "best_volume": 209,
       "whale_max": 0,
       "entered": false
     },
@@ -390,11 +384,9 @@
       "event_id": "bf_1.258451630",
       "match": "Tampere Utd v JJK",
       "campionato": "Finnish Ykkonen",
-      "open_date": "",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
       "volume": 206,
-      "best_volume": 209,
       "whale_max": 0,
       "entered": false
     },
@@ -402,11 +394,9 @@
       "event_id": "bf_1.258451564",
       "match": "Hestrafors v Jonsereds IF",
       "campionato": "Swedish Division 2",
-      "open_date": "",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.01,
-      "volume": 675,
-      "best_volume": 690,
+      "volume": 690,
       "whale_max": 0,
       "entered": false
     },
@@ -414,11 +404,9 @@
       "event_id": "bf_1.258404521",
       "match": "IFK Karlshamn v Vaxjo Norra IF",
       "campionato": "Swedish Division 2",
-      "open_date": "",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.01,
       "volume": 48,
-      "best_volume": 513,
       "whale_max": 0,
       "entered": false
     },
@@ -426,11 +414,9 @@
       "event_id": "bf_1.258432384",
       "match": "USM Alger v Paradou",
       "campionato": "Algerian Ligue 1",
-      "open_date": "",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
       "volume": 513,
-      "best_volume": 912,
       "whale_max": 0,
       "entered": false
     },
@@ -438,11 +424,9 @@
       "event_id": "bf_1.258405059",
       "match": "FK Jonava v FK Babrungas",
       "campionato": "Lithuanian 1 Lyga",
-      "open_date": "",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
       "volume": 206,
-      "best_volume": 206,
       "whale_max": 0,
       "entered": false
     },
@@ -450,11 +434,9 @@
       "event_id": "bf_1.258346619",
       "match": "VPS v HJK Helsinki",
       "campionato": "Finnish Veikkausliiga",
-      "open_date": "",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 15,
-      "best_volume": 47,
       "whale_max": 0,
       "entered": false
     },
@@ -462,11 +444,9 @@
       "event_id": "bf_1.258404500",
       "match": "Linero IF v IFK Trelleborg",
       "campionato": "Swedish Division 2",
-      "open_date": "",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
       "volume": 207,
-      "best_volume": 207,
       "whale_max": 0,
       "entered": false
     },
@@ -474,11 +454,9 @@
       "event_id": "bf_1.258453165",
       "match": "Karlovac v NK Jarun",
       "campionato": "Croatian Prva NL",
-      "open_date": "",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
       "volume": 211,
-      "best_volume": 211,
       "whale_max": 0,
       "entered": false
     },
@@ -486,11 +464,9 @@
       "event_id": "bf_1.258309595",
       "match": "CFR Cluj v Arges Pitesti",
       "campionato": "Romanian Liga I",
-      "open_date": "",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
       "volume": 594,
-      "best_volume": 836,
       "whale_max": 0,
       "entered": false
     },
@@ -498,11 +474,9 @@
       "event_id": "bf_1.258404821",
       "match": "Skovde v IFK Kumla",
       "campionato": "Swedish Division 2",
-      "open_date": "",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
       "volume": 178,
-      "best_volume": 836,
       "whale_max": 0,
       "entered": false
     },
@@ -510,11 +484,9 @@
       "event_id": "bf_1.258444996",
       "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
       "campionato": "Lithuanian 1 Lyga",
-      "open_date": "",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 265,
+      "volume": 530,
       "whale_max": 0,
       "entered": false
     },
@@ -522,11 +494,9 @@
       "event_id": "bf_1.258450849",
       "match": "Staffanstorp United FC v Nosaby IF",
       "campionato": "Swedish Division 2",
-      "open_date": "",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
       "volume": 458,
-      "best_volume": 912,
       "whale_max": 0,
       "entered": false
     },
@@ -534,11 +504,9 @@
       "event_id": "bf_1.258447234",
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "open_date": "",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 27,
-      "best_volume": 58,
+      "volume": 23,
       "whale_max": 0,
       "entered": false
     },
@@ -546,11 +514,9 @@
       "event_id": "bf_1.258445017",
       "match": "FK Panevezio Ekranas v FK Transinvest II",
       "campionato": "Lithuanian 1 Lyga",
-      "open_date": "",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 15,
-      "best_volume": 86,
+      "volume": 86,
       "whale_max": 0,
       "entered": false
     },
@@ -558,11 +524,9 @@
       "event_id": "bf_1.258404563",
       "match": "Lunds BK v Eskilsminne",
       "campionato": "Swedish Division 1",
-      "open_date": "",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1826,
-      "best_volume": 2104,
+      "volume": 960,
       "whale_max": 0,
       "entered": false
     },
@@ -570,23 +534,29 @@
       "event_id": "bf_1.258356270",
       "match": "Djurgardens v Brommapojkarna",
       "campionato": "Swedish Allsvenskan",
-      "open_date": "",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 29,
-      "best_volume": 29,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258388923",
-      "match": "Zeleznicar Pancevo v Cukaricki",
-      "campionato": "Serbian Super League",
-      "open_date": "",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 8113,
-      "best_volume": 8113,
+      "event_id": "bf_1.258388857",
+      "match": "Hajduk Split v Vukovar",
+      "campionato": "Croatian HNL",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258432405",
+      "match": "Kristianstads v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 847,
       "whale_max": 0,
       "entered": false
     }
@@ -601,7 +571,6 @@
       "volume": 9847,
       "esito": "VINTA",
       "profitto": 7.6,
-      "risultato": "2-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -614,7 +583,6 @@
       "volume": 9100,
       "esito": "VINTA",
       "profitto": 7.600000000000007,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -627,7 +595,6 @@
       "volume": 8724,
       "esito": "VINTA",
       "profitto": 7.6,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -640,7 +607,6 @@
       "volume": 7883,
       "esito": "PERSA",
       "profitto": -100.0,
-      "risultato": "0-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -653,7 +619,6 @@
       "volume": 38337,
       "esito": "PERSA",
       "profitto": -100.0,
-      "risultato": "0-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -666,7 +631,6 @@
       "volume": 37985,
       "esito": "VINTA",
       "profitto": 7.6,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -679,7 +643,6 @@
       "volume": 27282,
       "esito": "VINTA",
       "profitto": 8.55,
-      "risultato": "3-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -692,7 +655,6 @@
       "volume": 52571,
       "esito": "VINTA",
       "profitto": 7.6,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -705,7 +667,6 @@
       "volume": 27986,
       "esito": "VINTA",
       "profitto": 7.6,
-      "risultato": "6-1",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -718,7 +679,6 @@
       "volume": 13098,
       "esito": "VINTA",
       "profitto": 8.55,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -731,7 +691,6 @@
       "volume": 38992,
       "esito": "VINTA",
       "profitto": 8.55,
-      "risultato": "2-1",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -744,7 +703,6 @@
       "volume": 30984,
       "esito": "VINTA",
       "profitto": 7.6,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -757,7 +715,6 @@
       "volume": 30906,
       "esito": "VINTA",
       "profitto": 8.55,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -770,7 +727,6 @@
       "volume": 14206,
       "esito": "VINTA",
       "profitto": 8.55,
-      "risultato": "1-3",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -783,7 +739,6 @@
       "volume": 14963,
       "esito": "VINTA",
       "profitto": 7.6,
-      "risultato": "6-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -796,7 +751,6 @@
       "volume": 31079,
       "esito": "VINTA",
       "profitto": 2.85,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -809,7 +763,6 @@
       "volume": 7594,
       "esito": "VINTA",
       "profitto": 5.7,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -822,7 +775,6 @@
       "volume": 7796,
       "esito": "PERSA",
       "profitto": -100.0,
-      "risultato": "0-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -835,7 +787,6 @@
       "volume": 12266,
       "esito": "VINTA",
       "profitto": 4.75,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -848,7 +799,6 @@
       "volume": 12266,
       "esito": "VINTA",
       "profitto": 4.75,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -861,7 +811,6 @@
       "volume": 12509,
       "esito": "VINTA",
       "profitto": 2.85,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -874,7 +823,6 @@
       "volume": 8582,
       "esito": "VINTA",
       "profitto": 4.75,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -887,7 +835,6 @@
       "volume": 7624,
       "esito": "VINTA",
       "profitto": 9.5,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -900,7 +847,6 @@
       "volume": 18349,
       "esito": "VINTA",
       "profitto": 8.55,
-      "risultato": "0-3",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -913,7 +859,6 @@
       "volume": 13860,
       "esito": "PERSA",
       "profitto": -100.0,
-      "risultato": "0-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -926,7 +871,6 @@
       "volume": 81008,
       "esito": "VINTA",
       "profitto": 10.54,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -939,7 +883,6 @@
       "volume": 45316,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -952,7 +895,6 @@
       "volume": 129172,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -965,7 +907,6 @@
       "volume": 86372,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -978,7 +919,6 @@
       "volume": 86372,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -991,7 +931,6 @@
       "volume": 55125,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1004,7 +943,6 @@
       "volume": 21833,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1017,7 +955,6 @@
       "volume": 28585,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1030,7 +967,6 @@
       "volume": 34318,
       "esito": "PERSA",
       "profitto": -100.0,
-      "risultato": "0-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1043,7 +979,6 @@
       "volume": 17332,
       "esito": "VINTA",
       "profitto": 8.26,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1056,7 +991,6 @@
       "volume": 21867,
       "esito": "VINTA",
       "profitto": 6.08,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1069,7 +1003,6 @@
       "volume": 31744,
       "esito": "VINTA",
       "profitto": 6.08,
-      "risultato": "2-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1082,7 +1015,6 @@
       "volume": 34476,
       "esito": "VINTA",
       "profitto": 6.08,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1095,7 +1027,6 @@
       "volume": 86372,
       "esito": "VINTA",
       "profitto": 3.99,
-      "risultato": "1-0",
       "whale_max": 0.0,
       "whale_tot": 0.0
     },
@@ -1108,7 +1039,6 @@
       "volume": 23380,
       "esito": "VINTA",
       "profitto": 6.08,
-      "risultato": "0-1",
       "whale_max": 0.0,
       "whale_tot": 0.0
     }
