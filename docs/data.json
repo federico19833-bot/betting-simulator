@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 16:51:53",
+  "last_update": "22/05/2026 16:52:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -141,8 +141,8 @@
     {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
-      "volume": 213,
-      "quota": 1.05,
+      "volume": 248,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -201,7 +201,7 @@
     {
       "match": "FK Auda v Liepajas Metalurgs",
       "campionato": "Latvian Virsliga",
-      "volume": 62,
+      "volume": 66,
       "quota": 1.25,
       "in_range": false,
       "monitored": false,
@@ -212,6 +212,21 @@
       "market_id": "1.258390573",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "match": "FK Sumqayit v Qarabag FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 56,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630426",
+      "market_id": "1.258404478",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Aarhus Fremad v AaB",
@@ -227,21 +242,6 @@
       "market_id": "1.258392679",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "match": "FK Sumqayit v Qarabag FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 40,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630426",
-      "market_id": "1.258404478",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Septemvri v Dobrudzha",
@@ -419,9 +419,9 @@
       "event_id": "bf_1.258388879",
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 213,
+      "volume": 248,
       "whale_max": 0,
       "entered": false
     },
@@ -511,7 +511,17 @@
       "campionato": "Azerbaijan Premier League",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 40,
+      "volume": 56,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258445017",
+      "match": "FK Panevezio Ekranas v FK Transinvest II",
+      "campionato": "Lithuanian 1 Lyga",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
