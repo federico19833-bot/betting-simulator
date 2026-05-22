@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 04:36:36",
+  "last_update": "22/05/2026 04:37:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,6 +18,21 @@
     "balance": 506.14
   },
   "live_events": [
+    {
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "volume": 7267,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625554",
+      "market_id": "1.258359504",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T12:30:00.000Z"
+    },
     {
       "match": "Botev Vratsa v Beroe Stara Za",
       "campionato": "Bulgarian A League",
@@ -139,21 +154,6 @@
       "open_date": "2026-05-22T14:00:00.000Z"
     },
     {
-      "match": "Zaqatala v Shafa Baku FC",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 205,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635503",
-      "market_id": "1.258455635",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:30:00.000Z"
-    },
-    {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
       "volume": 192,
@@ -199,10 +199,25 @@
       "open_date": "2026-05-22T13:00:00.000Z"
     },
     {
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 78,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635503",
+      "market_id": "1.258455635",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T11:30:00.000Z"
+    },
+    {
       "match": "NK Sesvete v BSK Bijelo Brdo",
       "campionato": "Croatian Prva NL",
-      "volume": 29,
-      "quota": 1.29,
+      "volume": 64,
+      "quota": 1.31,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
