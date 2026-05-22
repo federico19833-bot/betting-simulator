@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 16:58:19",
+  "last_update": "22/05/2026 16:58:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,21 +34,6 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
-      "match": "MC Alger v ASO Chlef",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1561,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638223",
-      "market_id": "1.258483636",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
       "match": "Lunds BK v Eskilsminne",
       "campionato": "Swedish Division 1",
       "volume": 1470,
@@ -81,7 +66,7 @@
     {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
-      "volume": 666,
+      "volume": 638,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -92,6 +77,21 @@
       "market_id": "1.258447234",
       "_is_inplay": false,
       "open_date": "2026-05-21T15:30:00.000Z"
+    },
+    {
+      "match": "MC Alger v ASO Chlef",
+      "campionato": "Algerian Ligue 1",
+      "volume": 624,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638223",
+      "market_id": "1.258483636",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "Lindome v Torslanda",
@@ -214,21 +214,6 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
-      "match": "FK Auda v Liepajas Metalurgs",
-      "campionato": "Latvian Virsliga",
-      "volume": 62,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628644",
-      "market_id": "1.258390573",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
-    },
-    {
       "match": "Aarhus Fremad v AaB",
       "campionato": "Danish 1st Division",
       "volume": 44,
@@ -242,6 +227,21 @@
       "market_id": "1.258392679",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:00:00.000Z"
+    },
+    {
+      "match": "FK Auda v Liepajas Metalurgs",
+      "campionato": "Latvian Virsliga",
+      "volume": 28,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628644",
+      "market_id": "1.258390573",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "Septemvri v Dobrudzha",
@@ -366,7 +366,7 @@
       "campionato": "Friendlies International",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 666,
+      "volume": 638,
       "whale_max": 0,
       "entered": false
     },
@@ -386,7 +386,7 @@
       "campionato": "Algerian Ligue 1",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1561,
+      "volume": 624,
       "whale_max": 0,
       "entered": false
     },
@@ -527,16 +527,6 @@
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
       "volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258445017",
-      "match": "FK Panevezio Ekranas v FK Transinvest II",
-      "campionato": "Lithuanian 1 Lyga",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 264,
       "whale_max": 0,
       "entered": false
     },
