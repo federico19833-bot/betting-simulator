@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 02:51:58",
+  "last_update": "22/05/2026 02:52:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,8 +51,8 @@
     {
       "match": "Zaqatala v Shafa Baku FC",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 1447,
-      "quota": 1.09,
+      "volume": 818,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
-      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 386,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35581502",
-      "market_id": "1.258251357",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Osijek v Slaven Belupo",
       "campionato": "Croatian HNL",
       "volume": 363,
@@ -152,6 +137,21 @@
       "market_id": "1.258388879",
       "_is_inplay": false,
       "open_date": "2026-05-22T14:00:00.000Z"
+    },
+    {
+      "match": "Univ Catolica (Chile) v Barcelona (ECU)",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 344,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35581502",
+      "market_id": "1.258251357",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T00:30:00.000Z"
     },
     {
       "match": "FK Sahdag Qusar v Baku Sporting",
@@ -341,7 +341,7 @@
       "campionato": "CONMEBOL Copa Libertadores",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 386,
+      "volume": 344,
       "whale_max": 0,
       "entered": false
     },
@@ -349,9 +349,9 @@
       "event_id": "bf_1.258455635",
       "match": "Zaqatala v Shafa Baku FC",
       "campionato": "Azerbaijan 1st Division",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1447,
+      "volume": 818,
       "whale_max": 0,
       "entered": false
     },
