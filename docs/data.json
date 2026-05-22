@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 17:31:12",
+  "last_update": "22/05/2026 17:31:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -111,8 +111,8 @@
     {
       "match": "Zeleznicar Pancevo v Cukaricki",
       "campionato": "Serbian Super League",
-      "volume": 264,
-      "quota": 1.19,
+      "volume": 321,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -199,6 +199,21 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
+      "match": "Tampere Utd v JJK",
+      "campionato": "Finnish Ykkonen",
+      "volume": 113,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634685",
+      "market_id": "1.258451630",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:30:00.000Z"
+    },
+    {
       "match": "Qatar v Sudan",
       "campionato": "Friendlies International",
       "volume": 61,
@@ -257,21 +272,6 @@
       "market_id": "1.258432384",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "Tampere Utd v JJK",
-      "campionato": "Finnish Ykkonen",
-      "volume": 23,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634685",
-      "market_id": "1.258451630",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "FK Jonava v FK Babrungas",
@@ -446,7 +446,7 @@
       "campionato": "Finnish Ykkonen",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 23,
+      "volume": 113,
       "whale_max": 0,
       "entered": false
     },
@@ -541,12 +541,12 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258444996",
-      "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
-      "campionato": "Lithuanian 1 Lyga",
+      "event_id": "bf_1.258393459",
+      "match": "Brabrand v Skive",
+      "campionato": "Danish 2nd Division",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 264,
+      "volume": 912,
       "whale_max": 0,
       "entered": false
     }
