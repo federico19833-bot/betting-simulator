@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 16:16:05",
+  "last_update": "22/05/2026 16:16:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
+      "match": "Septemvri v Dobrudzha",
+      "campionato": "Bulgarian A League",
+      "volume": 158,
+      "quota": 1.26,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625546",
+      "market_id": "1.258359539",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
       "match": "Hegelmann Litauen B v FC Neptunas Klaipeda",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 149,
@@ -152,21 +167,6 @@
       "market_id": "1.258444996",
       "_is_inplay": false,
       "open_date": "2026-05-22T16:00:00.000Z"
-    },
-    {
-      "match": "FK Auda v Liepajas Metalurgs",
-      "campionato": "Latvian Virsliga",
-      "volume": 130,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628644",
-      "market_id": "1.258390573",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "Aarhus Fremad v AaB",
@@ -184,17 +184,17 @@
       "open_date": "2026-05-22T16:00:00.000Z"
     },
     {
-      "match": "Septemvri v Dobrudzha",
-      "campionato": "Bulgarian A League",
-      "volume": 90,
-      "quota": 1.25,
+      "match": "FK Auda v Liepajas Metalurgs",
+      "campionato": "Latvian Virsliga",
+      "volume": 116,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625546",
-      "market_id": "1.258359539",
+      "event_id": "35628644",
+      "market_id": "1.258390573",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
     },
@@ -406,7 +406,7 @@
       "campionato": "Latvian Virsliga",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 130,
+      "volume": 116,
       "whale_max": 0,
       "entered": false
     },
@@ -547,6 +547,16 @@
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
       "volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258386369",
+      "match": "Pharco FC v National Bank",
+      "campionato": "Egyptian Premier",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
       "whale_max": 0,
       "entered": false
     }
