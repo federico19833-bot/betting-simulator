@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 19:54:53",
+  "last_update": "22/05/2026 19:55:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "NK Radomlje v Mura",
       "campionato": "Slovenian Premier League",
-      "volume": 33470,
+      "volume": 32710,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -94,24 +94,9 @@
       "open_date": "2026-05-22T18:00:00.000Z"
     },
     {
-      "match": "IFK Karlshamn v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 1564,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630527",
-      "market_id": "1.258404521",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
       "match": "Athlone Town v Cork City",
       "campionato": "Irish Division 1",
-      "volume": 1470,
+      "volume": 1456,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -122,21 +107,6 @@
       "market_id": "1.258435996",
       "_is_inplay": false,
       "open_date": "2026-05-22T18:45:00.000Z"
-    },
-    {
-      "match": "Trabzonspor v Konyaspor",
-      "campionato": "Turkish Cup",
-      "volume": 1395,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625120",
-      "market_id": "1.258395296",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:45:00.000Z"
     },
     {
       "match": "Lens v Nice",
@@ -152,6 +122,36 @@
       "market_id": "1.258251336",
       "_is_inplay": false,
       "open_date": "2026-05-22T19:00:00.000Z"
+    },
+    {
+      "match": "Trabzonspor v Konyaspor",
+      "campionato": "Turkish Cup",
+      "volume": 1290,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625120",
+      "market_id": "1.258395296",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:45:00.000Z"
+    },
+    {
+      "match": "Vanersborgs IF v Husqvarna",
+      "campionato": "Swedish Division 2",
+      "volume": 869,
+      "quota": 1.38,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630521",
+      "market_id": "1.258405080",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:30:00.000Z"
     },
     {
       "match": "Shelbourne v Waterford",
@@ -214,9 +214,24 @@
       "open_date": "2026-05-22T19:00:00.000Z"
     },
     {
+      "match": "Pharco FC v National Bank",
+      "campionato": "Egyptian Premier",
+      "volume": 249,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624780",
+      "market_id": "1.258386369",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
       "match": "CFR Cluj v Arges Pitesti",
       "campionato": "Romanian Liga I",
-      "volume": 180,
+      "volume": 154,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -244,36 +259,6 @@
       "open_date": "2026-05-22T18:45:00.000Z"
     },
     {
-      "match": "Pharco FC v National Bank",
-      "campionato": "Egyptian Premier",
-      "volume": 56,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624780",
-      "market_id": "1.258386369",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:00:00.000Z"
-    },
-    {
-      "match": "Kerry FC v Bray Wanderers",
-      "campionato": "Irish Division 1",
-      "volume": 38,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35613864",
-      "market_id": "1.258435885",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T18:45:00.000Z"
-    },
-    {
       "match": "Drogheda v Dundalk",
       "campionato": "Irish Premier Division",
       "volume": 16,
@@ -289,19 +274,19 @@
       "open_date": "2026-05-22T19:00:00.000Z"
     },
     {
-      "match": "Vanersborgs IF v Husqvarna",
-      "campionato": "Swedish Division 2",
+      "match": "Kerry FC v Bray Wanderers",
+      "campionato": "Irish Division 1",
       "volume": 15,
-      "quota": 1.39,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35630521",
-      "market_id": "1.258405080",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T17:30:00.000Z"
+      "event_id": "35613864",
+      "market_id": "1.258435885",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T18:45:00.000Z"
     },
     {
       "match": "Derry City v St Patricks",
@@ -363,7 +348,7 @@
       "open_date": "2026-05-22T18:45:00.000Z",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 38,
+      "volume": 15,
       "best_volume": 38552,
       "whale_max": 0,
       "entered": false
@@ -375,7 +360,7 @@
       "open_date": "2026-05-22T18:45:00.000Z",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1470,
+      "volume": 1456,
       "best_volume": 38457,
       "whale_max": 0,
       "entered": false
@@ -495,20 +480,8 @@
       "open_date": "2026-05-22T17:45:00.000Z",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 1395,
+      "volume": 1290,
       "best_volume": 7581,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258404521",
-      "match": "IFK Karlshamn v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-05-22T17:00:00.000Z",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.05,
-      "volume": 1564,
-      "best_volume": 1564,
       "whale_max": 0,
       "entered": false
     },
@@ -531,10 +504,22 @@
       "open_date": "2026-05-22T18:00:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 33470,
+      "volume": 32710,
       "best_volume": 33505,
       "whale_max": 0,
       "entered": true
+    },
+    {
+      "event_id": "bf_1.258450570",
+      "match": "MAS Maghrib A Fes v IRT Tanger",
+      "campionato": "Moroccan Botola Pro 1",
+      "open_date": "2026-05-22T18:00:00.000Z",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 9508,
+      "best_volume": 9508,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
