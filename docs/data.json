@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 03:51:52",
+  "last_update": "22/05/2026 03:52:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Cruz Azul v Pumas UNAM",
       "campionato": "Mexican Liga MX",
-      "volume": 4458,
+      "volume": 5115,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -62,6 +62,21 @@
       "market_id": "1.258388923",
       "_is_inplay": false,
       "open_date": "2026-05-22T15:00:00.000Z"
+    },
+    {
+      "match": "FK Sumqayit v Qarabag FK",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 430,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630426",
+      "market_id": "1.258404478",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T15:30:00.000Z"
     },
     {
       "match": "Septemvri v Dobrudzha",
@@ -124,21 +139,6 @@
       "open_date": "2026-05-22T13:00:00.000Z"
     },
     {
-      "match": "FK Sumqayit v Qarabag FK",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 170,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630426",
-      "market_id": "1.258404478",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:30:00.000Z"
-    },
-    {
       "match": "Real Cartagena v Barranquilla",
       "campionato": "Colombian Primera B",
       "volume": 132,
@@ -171,8 +171,8 @@
     {
       "match": "Univ Catolica (Chile) v Barcelona (ECU)",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 53,
-      "quota": 1.46,
+      "volume": 113,
+      "quota": 1.42,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -186,8 +186,8 @@
     {
       "match": "Zaqatala v Shafa Baku FC",
       "campionato": "Azerbaijan 1st Division",
-      "volume": 25,
-      "quota": 1.53,
+      "volume": 26,
+      "quota": 1.58,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -341,7 +341,7 @@
       "campionato": "Mexican Liga MX",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 4458,
+      "volume": 5115,
       "whale_max": 0,
       "entered": false
     },
@@ -399,9 +399,9 @@
       "event_id": "bf_1.258404478",
       "match": "FK Sumqayit v Qarabag FK",
       "campionato": "Azerbaijan Premier League",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 170,
+      "volume": 430,
       "whale_max": 0,
       "entered": false
     },
