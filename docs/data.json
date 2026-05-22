@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 04:14:42",
+  "last_update": "22/05/2026 04:15:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -8,16 +8,31 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 40,
+    "total": 41,
     "wins": 33,
     "losses": 7,
-    "in_corso": 0,
+    "in_corso": 1,
     "winrate": 82.5,
     "profit": -493.86,
-    "roi": -12.35,
+    "roi": -12.05,
     "balance": 506.14
   },
   "live_events": [
+    {
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "volume": 9847,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625554",
+      "market_id": "1.258359504",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T12:30:00.000Z"
+    },
     {
       "match": "Botev Vratsa v Beroe Stara Za",
       "campionato": "Bulgarian A League",
@@ -34,34 +49,19 @@
       "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
-      "match": "Slavia Sofia v Montana",
-      "campionato": "Bulgarian A League",
-      "volume": 1451,
-      "quota": 1.07,
+      "match": "Zaqatala v Shafa Baku FC",
+      "campionato": "Azerbaijan 1st Division",
+      "volume": 1294,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625554",
-      "market_id": "1.258359504",
+      "event_id": "35635503",
+      "market_id": "1.258455635",
       "_is_inplay": false,
-      "open_date": "2026-05-22T12:30:00.000Z"
-    },
-    {
-      "match": "FK Auda v Liepajas Metalurgs",
-      "campionato": "Latvian Virsliga",
-      "volume": 911,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628644",
-      "market_id": "1.258390573",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T15:00:00.000Z"
+      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "Spartak Varna v Lokomotiv Sofia",
@@ -81,7 +81,7 @@
     {
       "match": "NK Sesvete v BSK Bijelo Brdo",
       "campionato": "Croatian Prva NL",
-      "volume": 531,
+      "volume": 527,
       "quota": 1.16,
       "in_range": false,
       "monitored": false,
@@ -167,21 +167,6 @@
       "market_id": "1.258386323",
       "_is_inplay": false,
       "open_date": "2026-05-22T14:00:00.000Z"
-    },
-    {
-      "match": "Zaqatala v Shafa Baku FC",
-      "campionato": "Azerbaijan 1st Division",
-      "volume": 280,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635503",
-      "market_id": "1.258455635",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T11:30:00.000Z"
     },
     {
       "match": "Osijek v Slaven Belupo",
@@ -361,7 +346,7 @@
       "campionato": "Azerbaijan 1st Division",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 280,
+      "volume": 1294,
       "whale_max": 0,
       "entered": false
     },
@@ -369,11 +354,11 @@
       "event_id": "bf_1.258359504",
       "match": "Slavia Sofia v Montana",
       "campionato": "Bulgarian A League",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 1451,
+      "volume": 9847,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258359539",
@@ -427,6 +412,18 @@
     }
   ],
   "giocate": [
+    {
+      "id": 49,
+      "orario": "2026-05-22 04:15:31",
+      "match": "Slavia Sofia v Montana",
+      "campionato": "Bulgarian A League",
+      "quota": 1.08,
+      "volume": 9847,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 48,
       "orario": "2026-05-21 20:24:20",
