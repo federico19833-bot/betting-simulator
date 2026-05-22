@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 02:37:55",
+  "last_update": "22/05/2026 02:38:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,6 +18,21 @@
     "balance": 506.14
   },
   "live_events": [
+    {
+      "match": "Macara v Alianza Atletico",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 3087,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35582817",
+      "market_id": "1.258406330",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T02:00:00.000Z"
+    },
     {
       "match": "Blooming Santa Cruz v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -49,25 +64,10 @@
       "open_date": "2026-05-22T02:00:00.000Z"
     },
     {
-      "match": "Macara v Alianza Atletico",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1973,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35582817",
-      "market_id": "1.258406330",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T02:00:00.000Z"
-    },
-    {
       "match": "Penarol v Corinthians",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1231,
-      "quota": 1.09,
+      "volume": 1152,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -184,21 +184,6 @@
       "open_date": "2026-05-22T12:30:00.000Z"
     },
     {
-      "match": "Real Cartagena v Barranquilla",
-      "campionato": "Colombian Primera B",
-      "volume": 190,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633315",
-      "market_id": "1.258440989",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T00:30:00.000Z"
-    },
-    {
       "match": "Zaqatala v Shafa Baku FC",
       "campionato": "Azerbaijan 1st Division",
       "volume": 132,
@@ -240,6 +225,21 @@
       "source": "Betfair",
       "event_id": "35581502",
       "market_id": "1.258251357",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T00:30:00.000Z"
+    },
+    {
+      "match": "Real Cartagena v Barranquilla",
+      "campionato": "Colombian Primera B",
+      "volume": 15,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633315",
+      "market_id": "1.258440989",
       "_is_inplay": true,
       "open_date": "2026-05-22T00:30:00.000Z"
     },
@@ -346,16 +346,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258251313",
-      "match": "Penarol v Corinthians",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.08,
-      "volume": 1231,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258455635",
       "match": "Zaqatala v Shafa Baku FC",
       "campionato": "Azerbaijan 1st Division",
@@ -381,7 +371,7 @@
       "campionato": "CONMEBOL Copa Sudamericana",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1973,
+      "volume": 3087,
       "whale_max": 0,
       "entered": false
     },
