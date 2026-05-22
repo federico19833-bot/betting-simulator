@@ -42,7 +42,7 @@ tr:hover { background:#1a2744; }
 <h2>Storico Giocate</h2>
 <div style="overflow-x:auto">
 <table>
-<thead><tr><th>ID</th><th>Data</th><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Risultato</th><th>Esito</th><th>Profitto</th></tr></thead>
+<thead><tr><th>ID</th><th>Data</th><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Risultato</th><th>Ris. HT</th><th>Esito</th><th>Profitto</th></tr></thead>
 <tbody id="tableBody"></tbody>
 </table>
 </div>
@@ -157,12 +157,13 @@ function render(data) {
                 <td>${g.quota}</td>
                 <td>${g.volume.toLocaleString()}€</td>
                 <td>${g.risultato || '-'}</td>
+                <td>${g.risultato_ht || '-'}</td>
                 <td>${esitoIcon} ${g.esito}</td>
                 <td style="color:${profitColor}">${g.profitto >= 0 ? '+' : ''}${g.profitto.toFixed(2)}€</td>
             </tr>`;
         }).join('');
     } else {
-        tbody.innerHTML = '<tr><td colspan="9" style="text-align:center;color:#64748b">Nessuna giocata</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="10" style="text-align:center;color:#64748b">Nessuna giocata</td></tr>';
     }
     
     // Tracked matches (monitoraggio balene)
