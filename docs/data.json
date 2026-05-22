@@ -1,5 +1,5 @@
 {
-  "last_update": "22/05/2026 18:52:07",
+  "last_update": "22/05/2026 18:52:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Brabrand v Skive",
       "campionato": "Danish 2nd Division",
-      "volume": 3476,
+      "volume": 3502,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Skovde v IFK Kumla",
       "campionato": "Swedish Division 2",
-      "volume": 3439,
+      "volume": 3424,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -77,6 +77,21 @@
       "market_id": "1.258453165",
       "_is_inplay": false,
       "open_date": "2026-05-22T17:00:00.000Z"
+    },
+    {
+      "match": "Zeleznicar Pancevo v Cukaricki",
+      "campionato": "Serbian Super League",
+      "volume": 2837,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627661",
+      "market_id": "1.258388923",
+      "_is_inplay": true,
+      "open_date": "2026-05-22T15:00:00.000Z"
     },
     {
       "match": "Vanersborgs IF v Husqvarna",
@@ -169,21 +184,6 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "CFR Cluj v Arges Pitesti",
-      "campionato": "Romanian Liga I",
-      "volume": 380,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618893",
-      "market_id": "1.258309595",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T17:30:00.000Z"
-    },
-    {
       "match": "MFD Zalgiris Vilnius (Res) v BFA Vilnius",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 342,
@@ -199,34 +199,19 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "SV Ried v Rapid Vienna",
-      "campionato": "Austrian Bundesliga",
-      "volume": 198,
-      "quota": 1.07,
+      "match": "Qatar v Sudan",
+      "campionato": "Friendlies International",
+      "volume": 54,
+      "quota": 3.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35631709",
-      "market_id": "1.258432294",
+      "event_id": "35634345",
+      "market_id": "1.258447234",
       "_is_inplay": false,
-      "open_date": "2026-05-22T17:30:00.000Z"
-    },
-    {
-      "match": "Zeleznicar Pancevo v Cukaricki",
-      "campionato": "Serbian Super League",
-      "volume": 83,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627661",
-      "market_id": "1.258388923",
-      "_is_inplay": true,
-      "open_date": "2026-05-22T15:00:00.000Z"
+      "open_date": "2026-05-21T15:30:00.000Z"
     },
     {
       "match": "Kristianstads v Hassleholms IF",
@@ -274,19 +259,19 @@
       "open_date": "2026-05-22T17:00:00.000Z"
     },
     {
-      "match": "Qatar v Sudan",
-      "campionato": "Friendlies International",
-      "volume": 1,
-      "quota": 2.12,
+      "match": "SV Ried v Rapid Vienna",
+      "campionato": "Austrian Bundesliga",
+      "volume": 15,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35634345",
-      "market_id": "1.258447234",
+      "event_id": "35631709",
+      "market_id": "1.258432294",
       "_is_inplay": false,
-      "open_date": "2026-05-21T15:30:00.000Z"
+      "open_date": "2026-05-22T17:30:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -309,7 +294,7 @@
       "open_date": "2026-05-22T17:30:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 3439,
+      "volume": 3424,
       "best_volume": 3439,
       "whale_max": 0,
       "entered": false
@@ -343,9 +328,9 @@
       "match": "SV Ried v Rapid Vienna",
       "campionato": "Austrian Bundesliga",
       "open_date": "2026-05-22T17:30:00.000Z",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 198,
+      "volume": 15,
       "best_volume": 1141,
       "whale_max": 0,
       "entered": false
@@ -405,8 +390,8 @@
       "open_date": "2026-05-22T17:00:00.000Z",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.1,
-      "volume": 3476,
-      "best_volume": 3476,
+      "volume": 3502,
+      "best_volume": 3502,
       "whale_max": 0,
       "entered": false
     },
@@ -471,14 +456,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258309595",
-      "match": "CFR Cluj v Arges Pitesti",
-      "campionato": "Romanian Liga I",
-      "open_date": "2026-05-22T17:30:00.000Z",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 380,
-      "best_volume": 380,
+      "event_id": "bf_1.258450849",
+      "match": "Staffanstorp United FC v Nosaby IF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-22T17:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 410,
+      "best_volume": 410,
       "whale_max": 0,
       "entered": false
     }
