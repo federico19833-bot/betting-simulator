@@ -1,5 +1,5 @@
 {
-  "last_update": "23/05/2026 23:14:33",
+  "last_update": "23/05/2026 23:15:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Charlotte FC v New England Revolution",
       "campionato": "US MLS",
-      "volume": 4149,
+      "volume": 4264,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Cusco FC v Atletico Grau",
       "campionato": "Peruvian Primera Division",
-      "volume": 1208,
+      "volume": 1193,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -274,6 +274,21 @@
       "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
+      "match": "Always Ready v Universitario de Vinto",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 34,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T19:00:00.000Z"
+    },
+    {
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 29,
@@ -287,21 +302,6 @@
       "market_id": "1.258472472",
       "_is_inplay": false,
       "open_date": "2026-05-23T21:15:00.000Z"
-    },
-    {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 15,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T19:00:00.000Z"
     },
     {
       "match": "Deportivo Cuenca v LDU",
@@ -399,7 +399,7 @@
       "open_date": "2026-05-23T19:00:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 15,
+      "volume": 34,
       "best_volume": 840,
       "whale_max": 0,
       "entered": false
@@ -471,7 +471,7 @@
       "open_date": "2026-05-23T23:30:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 4149,
+      "volume": 4264,
       "best_volume": 4264,
       "whale_max": 0,
       "entered": false
@@ -533,30 +533,6 @@
       "quota_iniziale": 1.01,
       "volume": 826,
       "best_volume": 826,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258499319",
-      "match": "Deportes Iquique v Curico Unido",
-      "campionato": "Chilean Primera B",
-      "open_date": "2026-05-23T21:30:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 393,
-      "best_volume": 393,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258322359",
-      "match": "Juventude v Sport Recife",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-23T23:30:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1085,
-      "best_volume": 1085,
       "whale_max": 0,
       "entered": false
     }
