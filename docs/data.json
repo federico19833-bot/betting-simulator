@@ -1,5 +1,5 @@
 {
-  "last_update": "23/05/2026 23:12:14",
+  "last_update": "23/05/2026 23:13:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
-      "match": "Cusco FC v Atletico Grau",
-      "campionato": "Peruvian Primera Division",
-      "volume": 1382,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618032",
-      "market_id": "1.258288022",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T22:15:00.000Z"
-    },
-    {
       "match": "DC Utd v CF Montreal",
       "campionato": "US MLS",
       "volume": 1228,
@@ -107,6 +92,21 @@
       "market_id": "1.258287543",
       "_is_inplay": false,
       "open_date": "2026-05-23T23:30:00.000Z"
+    },
+    {
+      "match": "Cusco FC v Atletico Grau",
+      "campionato": "Peruvian Primera Division",
+      "volume": 1193,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618032",
+      "market_id": "1.258288022",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T22:15:00.000Z"
     },
     {
       "match": "Mirassol v Fluminense",
@@ -533,6 +533,30 @@
       "quota_iniziale": 1.01,
       "volume": 826,
       "best_volume": 826,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258499319",
+      "match": "Deportes Iquique v Curico Unido",
+      "campionato": "Chilean Primera B",
+      "open_date": "2026-05-23T21:30:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 393,
+      "best_volume": 393,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258322359",
+      "match": "Juventude v Sport Recife",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-23T23:30:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1085,
+      "best_volume": 1085,
       "whale_max": 0,
       "entered": false
     }
