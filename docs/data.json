@@ -1,5 +1,5 @@
 {
-  "last_update": "23/05/2026 23:58:25",
+  "last_update": "23/05/2026 23:59:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -154,6 +154,21 @@
       "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
+      "match": "Gremio v Santos",
+      "campionato": "Brazilian Serie A",
+      "volume": 952,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35597330",
+      "market_id": "1.258375590",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T22:00:00.000Z"
+    },
+    {
       "match": "Junior FC Barranquilla v Santa Fe",
       "campionato": "Colombian Primera A",
       "volume": 889,
@@ -199,21 +214,6 @@
       "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
-      "match": "Gremio v Santos",
-      "campionato": "Brazilian Serie A",
-      "volume": 550,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35597330",
-      "market_id": "1.258375590",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T22:00:00.000Z"
-    },
-    {
       "match": "Charlotte FC v New England Revolution",
       "campionato": "US MLS",
       "volume": 541,
@@ -244,21 +244,6 @@
       "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
-      "match": "Nacional (Uru) v Albion FC",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 118,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622056",
-      "market_id": "1.258325781",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T21:30:00.000Z"
-    },
-    {
       "match": "Flamengo v SE Palmeiras",
       "campionato": "Brazilian Serie A",
       "volume": 108,
@@ -274,19 +259,19 @@
       "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
-      "match": "Mirassol v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 80,
-      "quota": 1.17,
+      "match": "Nacional (Uru) v Albion FC",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 57,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35597006",
-      "market_id": "1.258375632",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T22:00:00.000Z"
+      "event_id": "35622056",
+      "market_id": "1.258325781",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T21:30:00.000Z"
     },
     {
       "match": "Deportivo Cuenca v LDU",
@@ -304,9 +289,24 @@
       "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
+      "match": "Mirassol v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 36,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35597006",
+      "market_id": "1.258375632",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T22:00:00.000Z"
+    },
+    {
       "match": "Fortaleza EC v Londrina",
       "campionato": "Brazilian Serie B",
-      "volume": 24,
+      "volume": 18,
       "quota": 1.16,
       "in_range": false,
       "monitored": false,
@@ -417,7 +417,7 @@
       "open_date": "2026-05-23T22:00:00.000Z",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 550,
+      "volume": 952,
       "best_volume": 4139,
       "whale_max": 0,
       "entered": false
@@ -551,6 +551,30 @@
       "quota_iniziale": 1.09,
       "volume": 1756,
       "best_volume": 1756,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258288022",
+      "match": "Cusco FC v Atletico Grau",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-23T22:15:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 8264,
+      "best_volume": 8264,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258287543",
+      "match": "DC Utd v CF Montreal",
+      "campionato": "US MLS",
+      "open_date": "2026-05-23T23:30:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1075,
+      "best_volume": 1075,
       "whale_max": 0,
       "entered": false
     }
