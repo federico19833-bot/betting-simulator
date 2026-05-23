@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 01:30:42",
+  "last_update": "24/05/2026 01:31:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Charlotte FC v New England Revolution",
       "campionato": "US MLS",
-      "volume": 10346,
+      "volume": 9132,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -77,21 +77,6 @@
       "market_id": "1.258450870",
       "_is_inplay": false,
       "open_date": "2026-05-24T09:00:00.000Z"
-    },
-    {
-      "match": "Atletico Nacional Medellin v Tolima",
-      "campionato": "Colombian Primera A",
-      "volume": 1324,
-      "quota": 1.34,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618046",
-      "market_id": "1.258405477",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
       "match": "Nashville SC v New York City",
@@ -169,6 +154,21 @@
       "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
+      "match": "Always Ready v Universitario de Vinto",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 177,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T19:00:00.000Z"
+    },
+    {
       "match": "Kansas City v New York Red Bulls",
       "campionato": "US MLS",
       "volume": 39,
@@ -184,19 +184,19 @@
       "open_date": "2026-05-24T00:30:00.000Z"
     },
     {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 38,
-      "quota": 1.14,
+      "match": "Atletico Nacional Medellin v Tolima",
+      "campionato": "Colombian Primera A",
+      "volume": 24,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T19:00:00.000Z"
+      "event_id": "35618046",
+      "market_id": "1.258405477",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
       "match": "Deportes Temuco v Union San Felipe",
@@ -450,10 +450,22 @@
       "open_date": "2026-05-23T23:40:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 10346,
+      "volume": 9132,
       "best_volume": 10346,
       "whale_max": 0,
       "entered": true
+    },
+    {
+      "event_id": "bf_1.258288022",
+      "match": "Cusco FC v Atletico Grau",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-23T22:15:00.000Z",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 8795,
+      "best_volume": 8795,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
