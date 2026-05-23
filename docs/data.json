@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 01:06:53",
+  "last_update": "24/05/2026 01:07:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Juventude v Sport Recife",
+      "campionato": "Brazilian Serie B",
+      "volume": 10341,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622054",
+      "market_id": "1.258322359",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T23:30:00.000Z"
+    },
+    {
       "match": "DC Utd v CF Montreal",
       "campionato": "US MLS",
       "volume": 8769,
@@ -36,8 +51,8 @@
     {
       "match": "Puerto Cabello v Universidad de Venezuela",
       "campionato": "Venezuelan Primera Division",
-      "volume": 8371,
-      "quota": 1.07,
+      "volume": 4781,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,21 +62,6 @@
       "market_id": "1.258497870",
       "_is_inplay": true,
       "open_date": "2026-05-23T22:00:00.000Z"
-    },
-    {
-      "match": "Juventude v Sport Recife",
-      "campionato": "Brazilian Serie B",
-      "volume": 4134,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622054",
-      "market_id": "1.258322359",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
       "match": "Nashville SC v New York City",
@@ -182,21 +182,6 @@
       "market_id": "1.258499319",
       "_is_inplay": true,
       "open_date": "2026-05-23T21:30:00.000Z"
-    },
-    {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 15,
-      "quota": 1.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T19:00:00.000Z"
     },
     {
       "match": "Charlotte FC v New England Revolution",
@@ -447,26 +432,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258322359",
-      "match": "Juventude v Sport Recife",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-23T23:30:00.000Z",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 4134,
-      "best_volume": 4134,
+      "event_id": "bf_1.258497870",
+      "match": "Puerto Cabello v Universidad de Venezuela",
+      "campionato": "Venezuelan Primera Division",
+      "open_date": "2026-05-23T22:00:00.000Z",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 4781,
+      "best_volume": 4781,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258287543",
-      "match": "DC Utd v CF Montreal",
-      "campionato": "US MLS",
-      "open_date": "2026-05-23T23:40:00.000Z",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 8769,
-      "best_volume": 8769,
+      "event_id": "bf_1.258453593",
+      "match": "Deportes Temuco v Union San Felipe",
+      "campionato": "Chilean Primera B",
+      "open_date": "2026-05-24T00:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
