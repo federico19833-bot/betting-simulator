@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 01:04:20",
+  "last_update": "24/05/2026 01:05:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Deportes Temuco v Union San Felipe",
-      "campionato": "Chilean Primera B",
-      "volume": 10650,
-      "quota": 1.09,
-      "in_range": true,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634797",
-      "market_id": "1.258453593",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T00:00:00.000Z"
-    },
-    {
       "match": "DC Utd v CF Montreal",
       "campionato": "US MLS",
       "volume": 8769,
@@ -51,7 +36,7 @@
     {
       "match": "Puerto Cabello v Universidad de Venezuela",
       "campionato": "Venezuelan Primera Division",
-      "volume": 8371,
+      "volume": 8070,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -186,8 +171,8 @@
     {
       "match": "Deportes Iquique v Curico Unido",
       "campionato": "Chilean Primera B",
-      "volume": 113,
-      "quota": 1.3,
+      "volume": 52,
+      "quota": 1.27,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -201,8 +186,8 @@
     {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 58,
-      "quota": 1.36,
+      "volume": 34,
+      "quota": 1.35,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -212,6 +197,21 @@
       "market_id": "1.258472067",
       "_is_inplay": false,
       "open_date": "2026-05-23T19:00:00.000Z"
+    },
+    {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 18,
+      "quota": 1.8,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T21:15:00.000Z"
     },
     {
       "match": "Charlotte FC v New England Revolution",
@@ -227,6 +227,21 @@
       "market_id": "1.258287522",
       "_is_inplay": false,
       "open_date": "2026-05-23T23:40:00.000Z"
+    },
+    {
+      "match": "Deportes Temuco v Union San Felipe",
+      "campionato": "Chilean Primera B",
+      "volume": 15,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634797",
+      "market_id": "1.258453593",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
       "match": "Kansas City v New York Red Bulls",
@@ -272,21 +287,6 @@
       "market_id": "1.258325697",
       "_is_inplay": false,
       "open_date": "2026-05-24T01:30:00.000Z"
-    },
-    {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 14,
-      "quota": 1.99,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T21:15:00.000Z"
     },
     {
       "match": "San Diego FC v Vancouver Whitecaps",
@@ -486,14 +486,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258453593",
-      "match": "Deportes Temuco v Union San Felipe",
-      "campionato": "Chilean Primera B",
-      "open_date": "2026-05-24T00:00:00.000Z",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 10650,
-      "best_volume": 10650,
+      "event_id": "bf_1.258497870",
+      "match": "Puerto Cabello v Universidad de Venezuela",
+      "campionato": "Venezuelan Primera Division",
+      "open_date": "2026-05-23T22:00:00.000Z",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 8070,
+      "best_volume": 8070,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258287543",
+      "match": "DC Utd v CF Montreal",
+      "campionato": "US MLS",
+      "open_date": "2026-05-23T23:40:00.000Z",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 8769,
+      "best_volume": 8769,
       "whale_max": 0,
       "entered": false
     }
