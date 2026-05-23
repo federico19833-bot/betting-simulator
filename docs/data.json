@@ -1,5 +1,5 @@
 {
-  "last_update": "23/05/2026 22:53:54",
+  "last_update": "23/05/2026 22:54:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "UTC Cajamarca v Sport Boys (Per)",
       "campionato": "Peruvian Primera Division",
-      "volume": 8896,
-      "quota": 1.06,
+      "volume": 11960,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +36,7 @@
     {
       "match": "Deportes Iquique v Curico Unido",
       "campionato": "Chilean Primera B",
-      "volume": 6372,
+      "volume": 7253,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -154,6 +154,21 @@
       "open_date": "2026-05-23T22:00:00.000Z"
     },
     {
+      "match": "Orense Sporting Club v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 754,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35626022",
+      "market_id": "1.258440157",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T21:30:00.000Z"
+    },
+    {
       "match": "Portuguesa FC v Deportivo La Guaira",
       "campionato": "Venezuelan Primera Division",
       "volume": 730,
@@ -167,6 +182,21 @@
       "market_id": "1.258497095",
       "_is_inplay": false,
       "open_date": "2026-05-23T22:00:00.000Z"
+    },
+    {
+      "match": "Atletico Nacional Medellin v Tolima",
+      "campionato": "Colombian Primera A",
+      "volume": 673,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618046",
+      "market_id": "1.258405477",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
       "match": "Cusco FC v Atletico Grau",
@@ -214,9 +244,24 @@
       "open_date": "2026-05-23T22:00:00.000Z"
     },
     {
+      "match": "DC Utd v CF Montreal",
+      "campionato": "US MLS",
+      "volume": 300,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618024",
+      "market_id": "1.258287543",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T23:30:00.000Z"
+    },
+    {
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 287,
+      "volume": 285,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -244,21 +289,6 @@
       "open_date": "2026-05-22T19:00:00.000Z"
     },
     {
-      "match": "DC Utd v CF Montreal",
-      "campionato": "US MLS",
-      "volume": 140,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618024",
-      "market_id": "1.258287543",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T23:30:00.000Z"
-    },
-    {
       "match": "FC Cincinnati v Orlando City",
       "campionato": "US MLS",
       "volume": 110,
@@ -276,8 +306,8 @@
     {
       "match": "Minnesota Utd v Real Salt Lake",
       "campionato": "US MLS",
-      "volume": 36,
-      "quota": 1.38,
+      "volume": 84,
+      "quota": 1.37,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -287,36 +317,6 @@
       "market_id": "1.258287564",
       "_is_inplay": true,
       "open_date": "2026-05-23T20:30:00.000Z"
-    },
-    {
-      "match": "Orense Sporting Club v Univ Catolica (Ecu)",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35626022",
-      "market_id": "1.258440157",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T21:30:00.000Z"
-    },
-    {
-      "match": "Atletico Nacional Medellin v Tolima",
-      "campionato": "Colombian Primera A",
-      "volume": 15,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618046",
-      "market_id": "1.258405477",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
       "match": "Deportes Temuco v Union San Felipe",
@@ -378,8 +378,8 @@
       "open_date": "2026-05-23T21:30:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 6372,
-      "best_volume": 7236,
+      "volume": 7253,
+      "best_volume": 7253,
       "whale_max": 0,
       "entered": false
     },
@@ -408,18 +408,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258405477",
-      "match": "Atletico Nacional Medellin v Tolima",
-      "campionato": "Colombian Primera A",
-      "open_date": "2026-05-23T23:00:00.000Z",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.09,
-      "volume": 1228,
-      "best_volume": 1228,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258529018",
       "match": "Plaza Amador v Alianza FC (Pan)",
       "campionato": "Panamanian Premier League",
@@ -436,10 +424,10 @@
       "match": "DC Utd v CF Montreal",
       "campionato": "US MLS",
       "open_date": "2026-05-23T23:30:00.000Z",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 140,
-      "best_volume": 140,
+      "volume": 300,
+      "best_volume": 300,
       "whale_max": 0,
       "entered": false
     },
@@ -510,7 +498,7 @@
       "open_date": "2026-05-23T21:15:00.000Z",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 287,
+      "volume": 285,
       "best_volume": 287,
       "whale_max": 0,
       "entered": false
@@ -522,7 +510,7 @@
       "open_date": "2026-05-23T21:30:00.000Z",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 754,
       "best_volume": 754,
       "whale_max": 0,
       "entered": false
@@ -560,30 +548,6 @@
       "quota_iniziale": 1.05,
       "volume": 4149,
       "best_volume": 4149,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258322055",
-      "match": "UTC Cajamarca v Sport Boys (Per)",
-      "campionato": "Peruvian Primera Division",
-      "open_date": "2026-05-23T20:00:00.000Z",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 8896,
-      "best_volume": 8896,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258287522",
-      "match": "Charlotte FC v New England Revolution",
-      "campionato": "US MLS",
-      "open_date": "2026-05-23T23:30:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1085,
-      "best_volume": 1085,
       "whale_max": 0,
       "entered": false
     }
