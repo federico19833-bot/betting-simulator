@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 00:03:59",
+  "last_update": "24/05/2026 00:04:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Puerto Cabello v Universidad de Venezuela",
       "campionato": "Venezuelan Primera Division",
-      "volume": 2620,
+      "volume": 3480,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "Fortaleza EC v Londrina",
       "campionato": "Brazilian Serie B",
-      "volume": 714,
+      "volume": 763,
       "quota": 1.19,
       "in_range": false,
       "monitored": false,
@@ -229,21 +229,6 @@
       "open_date": "2026-05-24T01:30:00.000Z"
     },
     {
-      "match": "Deportes Iquique v Curico Unido",
-      "campionato": "Chilean Primera B",
-      "volume": 263,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638760",
-      "market_id": "1.258499319",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T21:30:00.000Z"
-    },
-    {
       "match": "Flamengo v SE Palmeiras",
       "campionato": "Brazilian Serie A",
       "volume": 204,
@@ -259,25 +244,10 @@
       "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 175,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T19:00:00.000Z"
-    },
-    {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 106,
-      "quota": 1.19,
+      "volume": 172,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -291,8 +261,8 @@
     {
       "match": "Nacional (Uru) v Albion FC",
       "campionato": "Uruguayan Primera Division",
-      "volume": 60,
-      "quota": 1.14,
+      "volume": 86,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -300,6 +270,21 @@
       "source": "Betfair",
       "event_id": "35622056",
       "market_id": "1.258325781",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T21:30:00.000Z"
+    },
+    {
+      "match": "Deportes Iquique v Curico Unido",
+      "campionato": "Chilean Primera B",
+      "volume": 72,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638760",
+      "market_id": "1.258499319",
       "_is_inplay": true,
       "open_date": "2026-05-23T21:30:00.000Z"
     },
@@ -317,21 +302,6 @@
       "market_id": "1.258324338",
       "_is_inplay": false,
       "open_date": "2026-05-24T00:00:00.000Z"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 24,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T00:00:00.000Z"
     },
     {
       "match": "Chicago Fire v Toronto FC",
@@ -362,6 +332,21 @@
       "market_id": "1.258325697",
       "_is_inplay": false,
       "open_date": "2026-05-24T01:30:00.000Z"
+    },
+    {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 12,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T00:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -430,9 +415,9 @@
       "match": "Deportes Iquique v Curico Unido",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-23T21:30:00.000Z",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 263,
+      "volume": 72,
       "best_volume": 3124,
       "whale_max": 0,
       "entered": false
@@ -514,9 +499,9 @@
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-23T00:00:00.000Z",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 24,
+      "volume": 12,
       "best_volume": 314,
       "whale_max": 0,
       "entered": false
@@ -582,14 +567,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258287543",
-      "match": "DC Utd v CF Montreal",
-      "campionato": "US MLS",
-      "open_date": "2026-05-23T23:30:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1075,
-      "best_volume": 1075,
+      "event_id": "bf_1.258288022",
+      "match": "Cusco FC v Atletico Grau",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-23T22:15:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 8264,
+      "best_volume": 8264,
       "whale_max": 0,
       "entered": false
     }
