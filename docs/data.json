@@ -1,5 +1,5 @@
 {
-  "last_update": "23/05/2026 23:42:32",
+  "last_update": "23/05/2026 23:43:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Plaza Amador v Alianza FC (Pan)",
       "campionato": "Panamanian Premier League",
-      "volume": 4745,
+      "volume": 4641,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Atletico Nacional Medellin v Tolima",
       "campionato": "Colombian Primera A",
-      "volume": 2854,
+      "volume": 2634,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -122,36 +122,6 @@
       "market_id": "1.258497095",
       "_is_inplay": false,
       "open_date": "2026-05-23T22:00:00.000Z"
-    },
-    {
-      "match": "Orense Sporting Club v Univ Catolica (Ecu)",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1235,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35626022",
-      "market_id": "1.258440157",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T21:30:00.000Z"
-    },
-    {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1228,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T21:15:00.000Z"
     },
     {
       "match": "Cusco FC v Atletico Grau",
@@ -229,10 +199,25 @@
       "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
+      "match": "Nacional (Uru) v Albion FC",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 222,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622056",
+      "market_id": "1.258325781",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T21:30:00.000Z"
+    },
+    {
       "match": "Fortaleza EC v Londrina",
       "campionato": "Brazilian Serie B",
-      "volume": 467,
-      "quota": 1.1,
+      "volume": 189,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -240,6 +225,21 @@
       "source": "Betfair",
       "event_id": "35625960",
       "market_id": "1.258367428",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T21:30:00.000Z"
+    },
+    {
+      "match": "Orense Sporting Club v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 159,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35626022",
+      "market_id": "1.258440157",
       "_is_inplay": true,
       "open_date": "2026-05-23T21:30:00.000Z"
     },
@@ -259,25 +259,10 @@
       "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
-      "match": "Nacional (Uru) v Albion FC",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 70,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622056",
-      "market_id": "1.258325781",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T21:30:00.000Z"
-    },
-    {
       "match": "UTC Cajamarca v Sport Boys (Per)",
       "campionato": "Peruvian Primera Division",
-      "volume": 66,
-      "quota": 2.62,
+      "volume": 73,
+      "quota": 2.36,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -287,6 +272,21 @@
       "market_id": "1.258322055",
       "_is_inplay": true,
       "open_date": "2026-05-23T20:00:00.000Z"
+    },
+    {
+      "match": "Puerto Cabello v Universidad de Venezuela",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 64,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639818",
+      "market_id": "1.258497870",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T22:00:00.000Z"
     },
     {
       "match": "Juventude v Sport Recife",
@@ -304,21 +304,6 @@
       "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
-      "match": "Puerto Cabello v Universidad de Venezuela",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 54,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639818",
-      "market_id": "1.258497870",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T22:00:00.000Z"
-    },
-    {
       "match": "Flamengo v SE Palmeiras",
       "campionato": "Brazilian Serie A",
       "volume": 50,
@@ -332,6 +317,21 @@
       "market_id": "1.258375674",
       "_is_inplay": false,
       "open_date": "2026-05-24T00:00:00.000Z"
+    },
+    {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 34,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T21:15:00.000Z"
     },
     {
       "match": "FC Cincinnati v Orlando City",
@@ -423,7 +423,7 @@
       "open_date": "2026-05-23T23:00:00.000Z",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 2854,
+      "volume": 2634,
       "best_volume": 2854,
       "whale_max": 0,
       "entered": false
@@ -541,9 +541,9 @@
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-23T21:15:00.000Z",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1228,
+      "volume": 34,
       "best_volume": 1228,
       "whale_max": 0,
       "entered": false
@@ -601,22 +601,34 @@
       "match": "Fortaleza EC v Londrina",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-05-23T21:30:00.000Z",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
-      "volume": 467,
+      "volume": 189,
       "best_volume": 467,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258321971",
-      "match": "Kansas City v New York Red Bulls",
-      "campionato": "US MLS",
-      "open_date": "2026-05-24T00:30:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1075,
-      "best_volume": 1075,
+      "event_id": "bf_1.258440157",
+      "match": "Orense Sporting Club v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "open_date": "2026-05-23T21:30:00.000Z",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 159,
+      "best_volume": 159,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258375632",
+      "match": "Mirassol v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "open_date": "2026-05-23T22:00:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 8351,
+      "best_volume": 8351,
       "whale_max": 0,
       "entered": false
     }
