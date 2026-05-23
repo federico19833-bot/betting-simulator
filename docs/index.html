@@ -195,16 +195,14 @@ function render(data) {
         let balance = 1000;
         const labels = [];
         const equity = [];
-        const wins = [];
-        const losses = [];
+        let lastDate = '';
         giocate.forEach((g, i) => {
             balance += g.profitto;
-            labels.push('#' + g.id);
+            const dateStr = g.orario ? g.orario.substring(0, 10) : '';
+            const displayLabel = dateStr !== lastDate ? dateStr : '';
+            lastDate = dateStr;
+            labels.push(displayLabel);
             equity.push(balance);
-            if (g.esito === 'VINTA') wins.push({x: i, y: balance});
-            else wins.push({x: i, y: null});
-            if (g.esito === 'PERSA') losses.push({x: i, y: balance});
-            else losses.push({x: i, y: null});
         });
         
         if (chart) chart.destroy();
@@ -230,11 +228,19 @@ function render(data) {
                 maintainAspectRatio: false,
                 plugins: {
                     legend: { labels: { color: '#94a3b8' } },
-                    title: { display: true, text: 'Andamento Capitale (1000€ iniziali)', color: '#e2e8f0', font: { size: 16 } }
+                    title: { display: true, text: 'Andamento Capitale (1000\u20ac iniziali)', color: '#e2e8f0', font: { size: 16 } }
                 },
                 scales: {
-                    x: { ticks: { color: '#94a3b8', maxTicksLimit: 20 }, grid: { color: '#334155' } },
-                    y: { ticks: { color: '#94a3b8', callback: v => v + '€' }, grid: { color: '#334155' } }
+                    x: { 
+                        ticks: { 
+                            color: '#94a3b8', 
+                            maxRotation: 45,
+                            autoSkip: true,
+                            maxTicksLimit: 30
+                        }, 
+                        grid: { color: '#334155' } 
+                    },
+                    y: { ticks: { color: '#94a3b8', callback: v => v + '\u20ac' }, grid: { color: '#334155' } }
                 }
             }
         });
