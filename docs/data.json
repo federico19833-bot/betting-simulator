@@ -1,5 +1,5 @@
 {
-  "last_update": "23/05/2026 23:36:03",
+  "last_update": "23/05/2026 23:36:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Mirassol v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 8160,
+      "volume": 8332,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -94,6 +94,36 @@
       "open_date": "2026-05-24T01:30:00.000Z"
     },
     {
+      "match": "Junior FC Barranquilla v Santa Fe",
+      "campionato": "Colombian Primera A",
+      "volume": 1760,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618146",
+      "market_id": "1.258322076",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T01:30:00.000Z"
+    },
+    {
+      "match": "Orense Sporting Club v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 1123,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35626022",
+      "market_id": "1.258440157",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T21:30:00.000Z"
+    },
+    {
       "match": "Cusco FC v Atletico Grau",
       "campionato": "Peruvian Primera Division",
       "volume": 1099,
@@ -137,6 +167,21 @@
       "market_id": "1.258321971",
       "_is_inplay": false,
       "open_date": "2026-05-24T00:30:00.000Z"
+    },
+    {
+      "match": "Puerto Cabello v Universidad de Venezuela",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 1065,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639818",
+      "market_id": "1.258497870",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T22:00:00.000Z"
     },
     {
       "match": "Chicago Fire v Toronto FC",
@@ -184,34 +229,19 @@
       "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
-      "match": "Puerto Cabello v Universidad de Venezuela",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 560,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639818",
-      "market_id": "1.258497870",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T22:00:00.000Z"
-    },
-    {
-      "match": "Junior FC Barranquilla v Santa Fe",
-      "campionato": "Colombian Primera A",
-      "volume": 548,
+      "match": "Nacional (Uru) v Albion FC",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 556,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35618146",
-      "market_id": "1.258322076",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T01:30:00.000Z"
+      "event_id": "35622056",
+      "market_id": "1.258325781",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T21:30:00.000Z"
     },
     {
       "match": "Portuguesa FC v Deportivo La Guaira",
@@ -244,21 +274,6 @@
       "open_date": "2026-05-23T21:30:00.000Z"
     },
     {
-      "match": "Nacional (Uru) v Albion FC",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 254,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622056",
-      "market_id": "1.258325781",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T21:30:00.000Z"
-    },
-    {
       "match": "Charlotte FC v New England Revolution",
       "campionato": "US MLS",
       "volume": 108,
@@ -272,21 +287,6 @@
       "market_id": "1.258287522",
       "_is_inplay": false,
       "open_date": "2026-05-23T23:30:00.000Z"
-    },
-    {
-      "match": "Orense Sporting Club v Univ Catolica (Ecu)",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 74,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35626022",
-      "market_id": "1.258440157",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T21:30:00.000Z"
     },
     {
       "match": "Juventude v Sport Recife",
@@ -382,7 +382,7 @@
       "match": "UTC Cajamarca v Sport Boys (Per)",
       "campionato": "Peruvian Primera Division",
       "volume": 12,
-      "quota": 2.26,
+      "quota": 2.3,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -510,7 +510,7 @@
       "open_date": "2026-05-24T01:30:00.000Z",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 548,
+      "volume": 1760,
       "best_volume": 1760,
       "whale_max": 0,
       "entered": false
@@ -520,9 +520,9 @@
       "match": "Nacional (Uru) v Albion FC",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-23T21:30:00.000Z",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 254,
+      "volume": 556,
       "best_volume": 1172,
       "whale_max": 0,
       "entered": false
@@ -534,7 +534,7 @@
       "open_date": "2026-05-23T21:30:00.000Z",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 74,
+      "volume": 1123,
       "best_volume": 1165,
       "whale_max": 0,
       "entered": false
@@ -660,14 +660,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258321971",
-      "match": "Kansas City v New York Red Bulls",
-      "campionato": "US MLS",
-      "open_date": "2026-05-24T00:30:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1085,
-      "best_volume": 1085,
+      "event_id": "bf_1.258375632",
+      "match": "Mirassol v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "open_date": "2026-05-23T22:00:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 8332,
+      "best_volume": 8332,
       "whale_max": 0,
       "entered": false
     }
