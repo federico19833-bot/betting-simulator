@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 01:43:29",
+  "last_update": "24/05/2026 01:44:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,6 +18,36 @@
     "balance": 937.94
   },
   "live_events": [
+    {
+      "match": "Kansas City v New York Red Bulls",
+      "campionato": "US MLS",
+      "volume": 9930,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618036",
+      "market_id": "1.258321971",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T00:30:00.000Z"
+    },
+    {
+      "match": "Cusco FC v Atletico Grau",
+      "campionato": "Peruvian Primera Division",
+      "volume": 6497,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618032",
+      "market_id": "1.258288022",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T22:15:00.000Z"
+    },
     {
       "match": "LA Galaxy v Houston Dynamo",
       "campionato": "US MLS",
@@ -79,21 +109,6 @@
       "open_date": "2026-05-23T23:40:00.000Z"
     },
     {
-      "match": "Chicago Fire v Toronto FC",
-      "campionato": "US MLS",
-      "volume": 1396,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618030",
-      "market_id": "1.258321887",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T00:30:00.000Z"
-    },
-    {
       "match": "San Diego FC v Vancouver Whitecaps",
       "campionato": "US MLS",
       "volume": 1228,
@@ -120,21 +135,6 @@
       "source": "Betfair",
       "event_id": "35618039",
       "market_id": "1.258324338",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T00:00:00.000Z"
-    },
-    {
-      "match": "Flamengo v SE Palmeiras",
-      "campionato": "Brazilian Serie A",
-      "volume": 985,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35597211",
-      "market_id": "1.258375674",
       "_is_inplay": false,
       "open_date": "2026-05-24T00:00:00.000Z"
     },
@@ -246,8 +246,8 @@
     {
       "match": "Charlotte FC v New England Revolution",
       "campionato": "US MLS",
-      "volume": 147,
-      "quota": 1.22,
+      "volume": 69,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -274,21 +274,6 @@
       "open_date": "2026-05-24T00:30:00.000Z"
     },
     {
-      "match": "Kansas City v New York Red Bulls",
-      "campionato": "US MLS",
-      "volume": 34,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618036",
-      "market_id": "1.258321971",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T00:30:00.000Z"
-    },
-    {
       "match": "Juventude v Sport Recife",
       "campionato": "Brazilian Serie B",
       "volume": 32,
@@ -304,19 +289,34 @@
       "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
-      "match": "Cusco FC v Atletico Grau",
-      "campionato": "Peruvian Primera Division",
+      "match": "Flamengo v SE Palmeiras",
+      "campionato": "Brazilian Serie A",
       "volume": 15,
-      "quota": 1.05,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35618032",
-      "market_id": "1.258288022",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T22:15:00.000Z"
+      "event_id": "35597211",
+      "market_id": "1.258375674",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T00:00:00.000Z"
+    },
+    {
+      "match": "Chicago Fire v Toronto FC",
+      "campionato": "US MLS",
+      "volume": 15,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618030",
+      "market_id": "1.258321887",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T00:30:00.000Z"
     },
     {
       "match": "Junior FC Barranquilla v Santa Fe",
@@ -426,18 +426,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258321887",
-      "match": "Chicago Fire v Toronto FC",
-      "campionato": "US MLS",
-      "open_date": "2026-05-24T00:30:00.000Z",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.03,
-      "volume": 1396,
-      "best_volume": 1770,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258322076",
       "match": "Junior FC Barranquilla v Santa Fe",
       "campionato": "Colombian Primera A",
@@ -492,7 +480,7 @@
       "open_date": "2026-05-23T22:15:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 6497,
       "best_volume": 8795,
       "whale_max": 0,
       "entered": false
@@ -588,20 +576,8 @@
       "open_date": "2026-05-24T00:00:00.000Z",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 985,
+      "volume": 15,
       "best_volume": 985,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258321971",
-      "match": "Kansas City v New York Red Bulls",
-      "campionato": "US MLS",
-      "open_date": "2026-05-24T00:30:00.000Z",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 34,
-      "best_volume": 34,
       "whale_max": 0,
       "entered": false
     },
