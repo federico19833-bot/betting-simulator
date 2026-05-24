@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:46:11",
+  "last_update": "24/05/2026 13:46:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "KuPS Akatemia v RoPS",
       "campionato": "Finnish Ykkonen",
-      "volume": 14817,
+      "volume": 22680,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-24 15:00"
     },
     {
-      "match": "Imisli FK v Karvan Evlakh",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 630,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639482",
-      "market_id": "1.258498721",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "Slavia Prague v Plzen",
       "campionato": "Czech 1 Liga",
       "volume": 488,
@@ -169,6 +154,21 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "Imisli FK v Karvan Evlakh",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 348,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639482",
+      "market_id": "1.258498721",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Varbergs BoIS v Sundsvall",
       "campionato": "Swedish Superettan",
       "volume": 294,
@@ -182,21 +182,6 @@
       "market_id": "1.258384619",
       "_is_inplay": false,
       "open_date": "2026-05-24 15:00"
-    },
-    {
-      "match": "Umea FC v IF Karlstad",
-      "campionato": "Swedish Division 1",
-      "volume": 246,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628207",
-      "market_id": "1.258453684",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 13:00"
     },
     {
       "match": "FC Elva v Tallinna Kalev",
@@ -216,8 +201,8 @@
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 166,
-      "quota": 1.71,
+      "volume": 78,
+      "quota": 1.64,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -229,19 +214,19 @@
       "open_date": "2026-05-24 01:30"
     },
     {
-      "match": "Zhejiang Greentown v Liaoning Tieren FC",
-      "campionato": "Chinese Super League",
-      "volume": 151,
-      "quota": 1.04,
+      "match": "Umea FC v IF Karlstad",
+      "campionato": "Swedish Division 1",
+      "volume": 62,
+      "quota": 1.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35632383",
-      "market_id": "1.258454386",
+      "event_id": "35628207",
+      "market_id": "1.258453684",
       "_is_inplay": true,
-      "open_date": "2026-05-24 13:35"
+      "open_date": "2026-05-24 13:00"
     },
     {
       "match": "Bolton v Stockport",
@@ -360,7 +345,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 630,
+      "volume": 348,
       "best_volume": 1213,
       "whale_max": 0,
       "entered": false
@@ -384,7 +369,7 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 14817,
+      "volume": 22680,
       "best_volume": 22680,
       "whale_max": 0,
       "entered": false
@@ -506,30 +491,6 @@
       "quota_iniziale": 1.03,
       "volume": 2946,
       "best_volume": 2946,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258454386",
-      "match": "Zhejiang Greentown v Liaoning Tieren FC",
-      "campionato": "Chinese Super League",
-      "open_date": "2026-05-24 13:35",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.03,
-      "volume": 151,
-      "best_volume": 458,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258356422",
-      "match": "Sirius v GAIS",
-      "campionato": "Swedish Allsvenskan",
-      "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 9090,
-      "best_volume": 9090,
       "whale_max": 0,
       "entered": false
     }
