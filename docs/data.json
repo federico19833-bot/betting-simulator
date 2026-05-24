@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 15:09:39",
+  "last_update": "24/05/2026 15:10:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,6 +34,21 @@
       "open_date": "2026-05-24 16:15"
     },
     {
+      "match": "KuPS Akatemia v RoPS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2658,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634751",
+      "market_id": "1.258524524",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 15:00"
+    },
+    {
       "match": "KF Drita v KF Gjilani",
       "campionato": "Kosovan Superliga",
       "volume": 2586,
@@ -51,7 +66,7 @@
     {
       "match": "Parma v Sassuolo",
       "campionato": "Italian Serie A",
-      "volume": 1745,
+      "volume": 1420,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -96,7 +111,7 @@
     {
       "match": "HB Koge v Hobro",
       "campionato": "Danish 1st Division",
-      "volume": 918,
+      "volume": 934,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -199,21 +214,6 @@
       "open_date": "2026-05-23 21:00"
     },
     {
-      "match": "FC Maardu v JK Welco Elekter",
-      "campionato": "Estonian Esiliiga",
-      "volume": 122,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639727",
-      "market_id": "1.258496493",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "Malmo FF v Vasteras SK",
       "campionato": "Swedish Allsvenskan",
       "volume": 114,
@@ -229,21 +229,6 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "KuPS Akatemia v RoPS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 106,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634751",
-      "market_id": "1.258524524",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 15:00"
-    },
-    {
       "match": "Club Sportif Sfaxien v Esperance Sportive Zarzis",
       "campionato": "Tunisian Cup",
       "volume": 86,
@@ -257,6 +242,21 @@
       "market_id": "1.258535936",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:30"
+    },
+    {
+      "match": "KF Ballkani v Prishtina",
+      "campionato": "Kosovan Superliga",
+      "volume": 82,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641563",
+      "market_id": "1.258524566",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 16:00"
     },
     {
       "match": "Miedz Legnica v Puszcza Niepolomice",
@@ -287,6 +287,21 @@
       "market_id": "1.258472121",
       "_is_inplay": false,
       "open_date": "2026-05-23 02:00"
+    },
+    {
+      "match": "FC Maardu v JK Welco Elekter",
+      "campionato": "Estonian Esiliiga",
+      "volume": 55,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639727",
+      "market_id": "1.258496493",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "Odra Opole v Polonia Warszawa",
@@ -345,21 +360,6 @@
       "source": "Betfair",
       "event_id": "35646776",
       "market_id": "1.258559554",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 16:00"
-    },
-    {
-      "match": "KF Ballkani v Prishtina",
-      "campionato": "Kosovan Superliga",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641563",
-      "market_id": "1.258524566",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
     },
@@ -570,8 +570,8 @@
       "open_date": "2026-05-24 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 918,
-      "best_volume": 918,
+      "volume": 934,
+      "best_volume": 934,
       "whale_max": 0,
       "entered": false
     },
@@ -664,9 +664,9 @@
       "match": "KuPS Akatemia v RoPS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-24 15:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 106,
+      "volume": 2658,
       "best_volume": 2704,
       "whale_max": 0,
       "entered": false
@@ -702,7 +702,7 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1745,
+      "volume": 1420,
       "best_volume": 1745,
       "whale_max": 0,
       "entered": false
@@ -738,8 +738,8 @@
       "open_date": "2026-05-24 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 82,
+      "best_volume": 82,
       "whale_max": 0,
       "entered": false
     },
@@ -752,6 +752,18 @@
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258530298",
+      "match": "Stal Mielec v Polonia Bytom",
+      "campionato": "Polish I Liga",
+      "open_date": "2026-05-24 16:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 246,
+      "best_volume": 246,
       "whale_max": 0,
       "entered": false
     }
