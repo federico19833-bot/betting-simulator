@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 02:09:29",
+  "last_update": "24/05/2026 02:10:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "San Diego FC v Vancouver Whitecaps",
       "campionato": "US MLS",
-      "volume": 11228,
+      "volume": 11079,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-24T01:30:00.000Z"
     },
     {
+      "match": "Atletico Nacional Medellin v Tolima",
+      "campionato": "Colombian Primera A",
+      "volume": 1575,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618046",
+      "market_id": "1.258405477",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T23:00:00.000Z"
+    },
+    {
       "match": "Juventude v Sport Recife",
       "campionato": "Brazilian Serie B",
       "volume": 1465,
@@ -122,21 +137,6 @@
       "market_id": "1.258323273",
       "_is_inplay": false,
       "open_date": "2026-05-24T00:40:00.000Z"
-    },
-    {
-      "match": "Atletico Nacional Medellin v Tolima",
-      "campionato": "Colombian Primera A",
-      "volume": 909,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618046",
-      "market_id": "1.258405477",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
       "match": "Dynamo Kiev v FK Kudrivka",
@@ -201,7 +201,7 @@
     {
       "match": "Deportes Temuco v Union San Felipe",
       "campionato": "Chilean Primera B",
-      "volume": 74,
+      "volume": 148,
       "quota": 1.27,
       "in_range": false,
       "monitored": false,
@@ -227,6 +227,21 @@
       "market_id": "1.258513731",
       "_is_inplay": false,
       "open_date": "2026-05-23T23:30:00.000Z"
+    },
+    {
+      "match": "Cusco FC v Atletico Grau",
+      "campionato": "Peruvian Primera Division",
+      "volume": 18,
+      "quota": 6.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618032",
+      "market_id": "1.258288022",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T22:15:00.000Z"
     },
     {
       "match": "Junior FC Barranquilla v Santa Fe",
@@ -302,21 +317,6 @@
       "market_id": "1.258321992",
       "_is_inplay": false,
       "open_date": "2026-05-24T02:30:00.000Z"
-    },
-    {
-      "match": "Cusco FC v Atletico Grau",
-      "campionato": "Peruvian Primera Division",
-      "volume": 12,
-      "quota": 5.8,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618032",
-      "market_id": "1.258288022",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T22:15:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -533,6 +533,18 @@
       "quota_iniziale": 1.1,
       "volume": 185,
       "best_volume": 185,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258321866",
+      "match": "San Diego FC v Vancouver Whitecaps",
+      "campionato": "US MLS",
+      "open_date": "2026-05-24T01:30:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 11079,
+      "best_volume": 11079,
       "whale_max": 0,
       "entered": false
     }
