@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 23:47:52",
+  "last_update": "24/05/2026 23:48:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-25 09:30"
     },
     {
+      "match": "Carabobo FC v Deportivo Tachira",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 1614,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639734",
+      "market_id": "1.258497138",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 23:00"
+    },
+    {
       "match": "America MG v Vila Nova",
       "campionato": "Brazilian Serie B",
       "volume": 1505,
@@ -139,21 +154,6 @@
       "open_date": "2026-05-25 01:00"
     },
     {
-      "match": "Carabobo FC v Deportivo Tachira",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 1060,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639734",
-      "market_id": "1.258497138",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 23:00"
-    },
-    {
       "match": "Notts Co v Salford City",
       "campionato": "English Sky Bet League 2",
       "volume": 725,
@@ -182,6 +182,21 @@
       "market_id": "1.258486278",
       "_is_inplay": false,
       "open_date": "2026-05-25 03:00"
+    },
+    {
+      "match": "Always Ready v Universitario de Vinto",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 360,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "Cherno More v Arda",
@@ -229,21 +244,6 @@
       "open_date": "2026-05-25 03:15"
     },
     {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 201,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
-    },
-    {
       "match": "Vasco Da Gama v Red Bull Bragantino",
       "campionato": "Brazilian Serie A",
       "volume": 192,
@@ -257,21 +257,6 @@
       "market_id": "1.258375127",
       "_is_inplay": false,
       "open_date": "2026-05-25 01:30"
-    },
-    {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 185,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "Hvidovre v Esbjerg",
@@ -289,6 +274,21 @@
       "open_date": "2026-05-25 15:00"
     },
     {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 121,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
+    },
+    {
       "match": "Operario PR v Criciuma",
       "campionato": "Brazilian Serie B",
       "volume": 62,
@@ -304,19 +304,19 @@
       "open_date": "2026-05-25 01:30"
     },
     {
-      "match": "CD Gualberto Villarroel v The Strongest",
+      "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 58,
-      "quota": 1.18,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
       "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
+      "open_date": "2026-05-23 23:15"
     },
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
@@ -641,42 +641,6 @@
       "quota_iniziale": 1.05,
       "volume": 1219,
       "best_volume": 1219,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258494055",
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 13:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 2099,
-      "best_volume": 2099,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258473452",
-      "match": "Cherno More v Arda",
-      "campionato": "Bulgarian A League",
-      "open_date": "2026-05-25 16:45",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 304,
-      "best_volume": 304,
       "whale_max": 0,
       "entered": false
     }
