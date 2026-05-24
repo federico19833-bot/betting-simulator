@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 00:53:11",
+  "last_update": "25/05/2026 00:53:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -229,9 +229,24 @@
       "open_date": "2026-05-25 03:00"
     },
     {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 121,
+      "quota": 1.7,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
+    },
+    {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 58,
+      "volume": 60,
       "quota": 1.48,
       "in_range": false,
       "monitored": false,
@@ -246,7 +261,7 @@
     {
       "match": "Vasco Da Gama v Red Bull Bragantino",
       "campionato": "Brazilian Serie A",
-      "volume": 34,
+      "volume": 33,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -259,25 +274,10 @@
       "open_date": "2026-05-25 01:30"
     },
     {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 30,
-      "quota": 1.9,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
-    },
-    {
       "match": "Corinthians v Atletico MG",
       "campionato": "Brazilian Serie A",
-      "volume": 17,
-      "quota": 1.72,
+      "volume": 19,
+      "quota": 1.71,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -302,21 +302,6 @@
       "market_id": "1.258365180",
       "_is_inplay": false,
       "open_date": "2026-05-25 03:15"
-    },
-    {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 13,
-      "quota": 1.69,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
     }
   ],
   "tracked_matches": [
@@ -471,7 +456,7 @@
       "open_date": "2026-05-25 01:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 34,
+      "volume": 33,
       "best_volume": 4649,
       "whale_max": 0,
       "entered": false
@@ -557,6 +542,30 @@
       "quota_iniziale": 1.05,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258489211",
+      "match": "Suwon Bluewings v Cheonan City",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-05-25 09:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 304,
+      "best_volume": 304,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258364861",
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "open_date": "2026-05-25 16:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 2100,
+      "best_volume": 2100,
       "whale_max": 0,
       "entered": false
     }
