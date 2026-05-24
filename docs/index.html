@@ -119,13 +119,20 @@ let chart = null;
 let fetchInterval = null;
 const API = 'http://localhost:5555';
 let currentId = null;
+let useLocalApi = true;
 
-function showToast(msg, isError) {
-    const t = document.getElementById('toast');
-    t.textContent = msg;
-    t.className = isError ? 'toast error' : 'toast';
-    t.style.display = 'block';
-    setTimeout(() => { t.style.display = 'none'; }, 3000);
+async function loadData() {
+    try {
+        const resp = await fetch('data.json?' + Date.now());
+        const data = await resp.json();
+        data._localApi = useLocalApi;
+        render(data);
+        if (useLocalApi) {
+            try { await fetch(API + '/api/giocate'); useLocalApi = true; } catch(e) { useLocalApi = false; }
+        }
+    } catch(e) {
+        document.getElementById('sub').textContent = 'Errore caricamento dati: ' + e.message;
+    }
 }
 
 function openModal(id, match, esito, risultato) {
@@ -160,7 +167,7 @@ async function saveCorrection() {
             showToast('Errore: ' + (data.error || 'unknown'), true);
         }
     } catch(e) {
-        showToast('Errore API: ' + e.message, true);
+        showToast('API non raggiungibile - apri http://localhost:5555', true);
     }
 }
 
@@ -182,7 +189,7 @@ async function deleteGiocata() {
             showToast('Errore: ' + (data.error || 'unknown'), true);
         }
     } catch(e) {
-        showToast('Errore API: ' + e.message, true);
+        showToast('API non raggiungibile - apri http://localhost:5555', true);
     }
 }
 
