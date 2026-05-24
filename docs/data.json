@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 03:42:59",
+  "last_update": "24/05/2026 03:43:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,9 +34,24 @@
       "open_date": "2026-05-24T11:00:00.000Z"
     },
     {
+      "match": "San Diego FC v Vancouver Whitecaps",
+      "campionato": "US MLS",
+      "volume": 3644,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618147",
+      "market_id": "1.258321866",
+      "_is_inplay": true,
+      "open_date": "2026-05-24T01:40:00.000Z"
+    },
+    {
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 4115,
+      "volume": 2598,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -94,19 +109,19 @@
       "open_date": "2026-05-24T02:00:00.000Z"
     },
     {
-      "match": "San Diego FC v Vancouver Whitecaps",
-      "campionato": "US MLS",
-      "volume": 456,
-      "quota": 1.04,
+      "match": "Junior FC Barranquilla v Santa Fe",
+      "campionato": "Colombian Primera A",
+      "volume": 702,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35618147",
-      "market_id": "1.258321866",
+      "event_id": "35618146",
+      "market_id": "1.258322076",
       "_is_inplay": true,
-      "open_date": "2026-05-24T01:40:00.000Z"
+      "open_date": "2026-05-24T01:30:00.000Z"
     },
     {
       "match": "Seoul E-Land FC v Seongnam FC",
@@ -122,21 +137,6 @@
       "market_id": "1.258452922",
       "_is_inplay": false,
       "open_date": "2026-05-24T10:00:00.000Z"
-    },
-    {
-      "match": "Junior FC Barranquilla v Santa Fe",
-      "campionato": "Colombian Primera A",
-      "volume": 310,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618146",
-      "market_id": "1.258322076",
-      "_is_inplay": true,
-      "open_date": "2026-05-24T01:30:00.000Z"
     },
     {
       "match": "Dynamo Kiev v FK Kudrivka",
@@ -216,8 +216,8 @@
     {
       "match": "Alianza Lima v CD Los Chankas",
       "campionato": "Peruvian Primera Division",
-      "volume": 70,
-      "quota": 1.12,
+      "volume": 15,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -429,7 +429,7 @@
       "open_date": "2026-05-24T01:30:00.000Z",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 310,
+      "volume": 702,
       "best_volume": 1228,
       "whale_max": 0,
       "entered": false
@@ -451,10 +451,10 @@
       "match": "San Diego FC v Vancouver Whitecaps",
       "campionato": "US MLS",
       "open_date": "2026-05-24T01:40:00.000Z",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 456,
-      "best_volume": 456,
+      "volume": 3644,
+      "best_volume": 3644,
       "whale_max": 0,
       "entered": false
     },
@@ -465,7 +465,7 @@
       "open_date": "2026-05-23T21:15:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 4115,
+      "volume": 2598,
       "best_volume": 4115,
       "whale_max": 0,
       "entered": false
@@ -503,6 +503,18 @@
       "quota_iniziale": 1.04,
       "volume": 4228,
       "best_volume": 4228,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452880",
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "open_date": "2026-05-24T10:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 249,
+      "best_volume": 249,
       "whale_max": 0,
       "entered": false
     }
