@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 11:39:38",
+  "last_update": "24/05/2026 11:40:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -32,6 +32,21 @@
       "market_id": "1.258453708",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Zhejiang Greentown v Liaoning Tieren FC",
+      "campionato": "Chinese Super League",
+      "volume": 2103,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632383",
+      "market_id": "1.258454386",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 13:35"
     },
     {
       "match": "Dynamo Kiev v FK Kudrivka",
@@ -199,21 +214,6 @@
       "open_date": "2026-05-24 12:15"
     },
     {
-      "match": "Zhejiang Greentown v Liaoning Tieren FC",
-      "campionato": "Chinese Super League",
-      "volume": 60,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632383",
-      "market_id": "1.258454386",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 13:35"
-    },
-    {
       "match": "Polissya Zhytomyr v Rukh Vynnyky",
       "campionato": "Ukrainian Premier League",
       "volume": 46,
@@ -231,7 +231,7 @@
     {
       "match": "Qingdao Hainiu v Chongqing Tonglianglong",
       "campionato": "Chinese Super League",
-      "volume": 18,
+      "volume": 33,
       "quota": 1.32,
       "in_range": false,
       "monitored": false,
@@ -349,9 +349,9 @@
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-24 13:35",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 60,
+      "volume": 2103,
       "best_volume": 2113,
       "whale_max": 0,
       "entered": false
@@ -557,6 +557,18 @@
       "quota_iniziale": 1.03,
       "volume": 968,
       "best_volume": 968,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258472472",
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23 23:15",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1151,
+      "best_volume": 1151,
       "whale_max": 0,
       "entered": false
     }
