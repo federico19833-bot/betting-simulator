@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:15:12",
+  "last_update": "24/05/2026 12:15:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
-      "volume": 1373,
+      "volume": 1362,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
       "campionato": "Chinese Super League",
-      "volume": 1145,
+      "volume": 1160,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -184,24 +184,9 @@
       "open_date": "2026-05-24 12:00"
     },
     {
-      "match": "Polissya Zhytomyr v Rukh Vynnyky",
-      "campionato": "Ukrainian Premier League",
-      "volume": 452,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627404",
-      "market_id": "1.258452812",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "Veres Rivne v Metalist 1925",
       "campionato": "Ukrainian Premier League",
-      "volume": 429,
+      "volume": 444,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -276,8 +261,8 @@
     {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 76,
-      "quota": 1.03,
+      "volume": 78,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -289,10 +274,25 @@
       "open_date": "2026-05-24 12:00"
     },
     {
+      "match": "Polissya Zhytomyr v Rukh Vynnyky",
+      "campionato": "Ukrainian Premier League",
+      "volume": 72,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627404",
+      "market_id": "1.258452812",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
       "match": "Qingdao Hainiu v Chongqing Tonglianglong",
       "campionato": "Chinese Super League",
-      "volume": 26,
-      "quota": 1.67,
+      "volume": 27,
+      "quota": 1.68,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -362,6 +362,21 @@
       "market_id": "1.258453708",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 13,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627402",
+      "market_id": "1.258452880",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
     }
   ],
   "tracked_matches": [
@@ -396,7 +411,7 @@
       "open_date": "2026-05-24 13:35",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 1145,
+      "volume": 1160,
       "best_volume": 2137,
       "whale_max": 0,
       "entered": false
@@ -528,7 +543,7 @@
       "open_date": "2026-05-24 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1373,
+      "volume": 1362,
       "best_volume": 2122,
       "whale_max": 0,
       "entered": false
@@ -562,9 +577,9 @@
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
       "open_date": "2026-05-24 12:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
-      "volume": 76,
+      "volume": 78,
       "best_volume": 241,
       "whale_max": 0,
       "entered": false
@@ -660,8 +675,20 @@
       "open_date": "2026-05-24 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 429,
+      "volume": 444,
       "best_volume": 3014,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452880",
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "open_date": "2026-05-24 12:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 13,
+      "best_volume": 13,
       "whale_max": 0,
       "entered": false
     }
