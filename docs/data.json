@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:49:12",
+  "last_update": "24/05/2026 13:49:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-24 15:00"
     },
     {
+      "match": "KuPS Akatemia v RoPS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1164,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634751",
+      "market_id": "1.258524524",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 15:00"
+    },
+    {
       "match": "Parnu JK Vaprus v FCI Tallinn",
       "campionato": "Estonian Premier League",
       "volume": 857,
@@ -111,7 +126,7 @@
     {
       "match": "Imisli FK v Karvan Evlakh",
       "campionato": "Azerbaijan Premier League",
-      "volume": 488,
+      "volume": 486,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -169,25 +184,10 @@
       "open_date": "2026-05-24 15:00"
     },
     {
-      "match": "KuPS Akatemia v RoPS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 194,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634751",
-      "market_id": "1.258524524",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 15:00"
-    },
-    {
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
-      "volume": 145,
-      "quota": 1.8,
+      "volume": 63,
+      "quota": 1.77,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -330,7 +330,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 488,
+      "volume": 486,
       "best_volume": 1213,
       "whale_max": 0,
       "entered": false
@@ -354,7 +354,7 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 194,
+      "volume": 1164,
       "best_volume": 22680,
       "whale_max": 0,
       "entered": false
@@ -488,6 +488,18 @@
       "quota_iniziale": 1.03,
       "volume": 857,
       "best_volume": 857,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258487008",
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "open_date": "2026-05-24 12:15",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 9090,
+      "best_volume": 9090,
       "whale_max": 0,
       "entered": false
     }
