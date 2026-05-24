@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:45:13",
+  "last_update": "24/05/2026 12:45:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 10075,
-      "quota": 1.08,
+      "volume": 10146,
+      "quota": 1.09,
       "in_range": true,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +36,7 @@
     {
       "match": "Sirius v GAIS",
       "campionato": "Swedish Allsvenskan",
-      "volume": 2380,
+      "volume": 2386,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -154,9 +154,24 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 823,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
       "match": "Shandong Taishan v Wuhan Three Towns",
       "campionato": "Chinese Super League",
-      "volume": 541,
+      "volume": 729,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -182,6 +197,21 @@
       "market_id": "1.258453708",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Stade Lausanne-Ouchy v St Gallen",
+      "campionato": "Swiss Cup",
+      "volume": 474,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35642681",
+      "market_id": "1.258535663",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "FK Riga v SK Super Nova",
@@ -244,6 +274,21 @@
       "open_date": "2026-05-24 12:15"
     },
     {
+      "match": "Daegu Fc v Ansan Greeners FC",
+      "campionato": "South Korean K2 League",
+      "volume": 136,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
       "volume": 101,
@@ -259,32 +304,17 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
-      "volume": 60,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
-      "match": "Veres Rivne v Metalist 1925",
+      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 51,
-      "quota": 1.16,
+      "volume": 73,
+      "quota": 1.42,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
+      "event_id": "35627409",
+      "market_id": "1.258452901",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -302,36 +332,6 @@
       "market_id": "1.258453729",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
-    },
-    {
-      "match": "Stade Lausanne-Ouchy v St Gallen",
-      "campionato": "Swiss Cup",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35642681",
-      "market_id": "1.258535663",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
-      "campionato": "Ukrainian Premier League",
-      "volume": 12,
-      "quota": 1.38,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627409",
-      "market_id": "1.258452901",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
     }
   ],
   "tracked_matches": [
@@ -402,7 +402,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2380,
+      "volume": 2386,
       "best_volume": 2386,
       "whale_max": 0,
       "entered": false
@@ -498,8 +498,8 @@
       "open_date": "2026-05-24 13:35",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 541,
-      "best_volume": 541,
+      "volume": 729,
+      "best_volume": 729,
       "whale_max": 0,
       "entered": false
     },
@@ -544,10 +544,10 @@
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
       "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 474,
+      "best_volume": 474,
       "whale_max": 0,
       "entered": false
     },
@@ -568,9 +568,9 @@
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 10075,
+      "volume": 10146,
       "best_volume": 10146,
       "whale_max": 0,
       "entered": false
