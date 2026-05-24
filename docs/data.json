@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 03:38:26",
+  "last_update": "24/05/2026 03:39:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-24T02:00:00.000Z"
     },
     {
+      "match": "Colorado v FC Dallas",
+      "campionato": "US MLS",
+      "volume": 678,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618137",
+      "market_id": "1.258322097",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T01:40:00.000Z"
+    },
+    {
       "match": "Seoul E-Land FC v Seongnam FC",
       "campionato": "South Korean K2 League",
       "volume": 320,
@@ -152,21 +167,6 @@
       "market_id": "1.258487008",
       "_is_inplay": false,
       "open_date": "2026-05-24T10:15:00.000Z"
-    },
-    {
-      "match": "Colorado v FC Dallas",
-      "campionato": "US MLS",
-      "volume": 190,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618137",
-      "market_id": "1.258322097",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T01:40:00.000Z"
     },
     {
       "match": "LA Galaxy v Houston Dynamo",
@@ -373,10 +373,10 @@
       "match": "Colorado v FC Dallas",
       "campionato": "US MLS",
       "open_date": "2026-05-24T01:40:00.000Z",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 190,
-      "best_volume": 190,
+      "volume": 678,
+      "best_volume": 678,
       "whale_max": 0,
       "entered": false
     },
@@ -449,6 +449,18 @@
       "quota_iniziale": 1.04,
       "volume": 4228,
       "best_volume": 4228,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452880",
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "open_date": "2026-05-24T10:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 249,
+      "best_volume": 249,
       "whale_max": 0,
       "entered": false
     }
