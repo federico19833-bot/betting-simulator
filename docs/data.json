@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 08:45:41",
+  "last_update": "24/05/2026 08:46:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
-      "volume": 11744,
+      "volume": 9991,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1643,
+      "volume": 1628,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-23 21:00"
     },
     {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 285,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
+    },
+    {
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
       "volume": 265,
@@ -124,21 +139,6 @@
       "open_date": "2026-05-24 12:15"
     },
     {
-      "match": "Dynamo Kiev v FK Kudrivka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 240,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627402",
-      "market_id": "1.258452880",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "Angby IF v Bollstanas SK",
       "campionato": "Swedish Division 2",
       "volume": 206,
@@ -152,21 +152,6 @@
       "market_id": "1.258453729",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 15,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
     },
     {
       "match": "Club Independiente Petrolero v Real Potosi",
@@ -210,6 +195,21 @@
       "source": "Betfair",
       "event_id": "35627409",
       "market_id": "1.258452901",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 15,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627402",
+      "market_id": "1.258452880",
       "_is_inplay": false,
       "open_date": "2026-05-24 12:00"
     },
@@ -300,7 +300,7 @@
       "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1643,
+      "volume": 1628,
       "best_volume": 1883,
       "whale_max": 0,
       "entered": false
@@ -396,7 +396,7 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 11744,
+      "volume": 9991,
       "best_volume": 12004,
       "whale_max": 0,
       "entered": false
@@ -432,18 +432,6 @@
       "open_date": "2026-05-24 01:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258472121",
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-23 02:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
       "whale_max": 0,
