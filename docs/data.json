@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:50:57",
+  "last_update": "24/05/2026 12:51:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2386,
+      "volume": 5200,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -47,21 +47,6 @@
       "market_id": "1.258356422",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "Veres Rivne v Metalist 1925",
-      "campionato": "Ukrainian Premier League",
-      "volume": 2002,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Slavia Prague v Plzen",
@@ -92,6 +77,21 @@
       "market_id": "1.258496493",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 1639,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Sparta Prague v Hradec Kralove",
@@ -184,9 +184,39 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "Daegu Fc v Ansan Greeners FC",
+      "campionato": "South Korean K2 League",
+      "volume": 923,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "FC Elva v Tallinna Kalev",
+      "campionato": "Estonian Esiliiga",
+      "volume": 814,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639826",
+      "market_id": "1.258498500",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Shandong Taishan v Wuhan Three Towns",
       "campionato": "Chinese Super League",
-      "volume": 680,
+      "volume": 729,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -259,21 +289,6 @@
       "open_date": "2026-05-24 13:15"
     },
     {
-      "match": "FC Elva v Tallinna Kalev",
-      "campionato": "Estonian Esiliiga",
-      "volume": 369,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639826",
-      "market_id": "1.258498500",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
       "volume": 281,
@@ -304,21 +319,6 @@
       "open_date": "2026-05-24 12:15"
     },
     {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
-      "volume": 143,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
       "volume": 101,
@@ -332,6 +332,21 @@
       "market_id": "1.258496541",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
+      "campionato": "Ukrainian Premier League",
+      "volume": 15,
+      "quota": 1.48,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627409",
+      "market_id": "1.258452901",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Angby IF v Bollstanas SK",
@@ -513,7 +528,7 @@
       "open_date": "2026-05-24 13:35",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 680,
+      "volume": 729,
       "best_volume": 729,
       "whale_max": 0,
       "entered": false
@@ -597,7 +612,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 369,
+      "volume": 814,
       "best_volume": 814,
       "whale_max": 0,
       "entered": false
