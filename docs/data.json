@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 08:16:23",
+  "last_update": "24/05/2026 08:17:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -32,21 +32,6 @@
       "market_id": "1.258496541",
       "_is_inplay": false,
       "open_date": "2026-05-24T11:00:00.000Z"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2121,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T00:00:00.000Z"
     },
     {
       "match": "Polissya Zhytomyr v Rukh Vynnyky",
@@ -184,6 +169,21 @@
       "open_date": "2026-05-22T19:00:00.000Z"
     },
     {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 15,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T00:00:00.000Z"
+    },
+    {
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 15,
@@ -275,18 +275,6 @@
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 320,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258472121",
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-23T00:00:00.000Z",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.06,
-      "volume": 2121,
-      "best_volume": 2121,
       "whale_max": 0,
       "entered": false
     },
@@ -407,6 +395,18 @@
       "quota_iniziale": 1.03,
       "volume": 1213,
       "best_volume": 1213,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513731",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23T23:30:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
+      "best_volume": 264,
       "whale_max": 0,
       "entered": false
     }
