@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:59:39",
+  "last_update": "24/05/2026 14:00:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Sparta Prague v Hradec Kralove",
       "campionato": "Czech 1 Liga",
-      "volume": 10734,
+      "volume": 13190,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
-      "volume": 9232,
+      "volume": 8231,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258322118",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 3261,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "FC Inter 2 v PKK-U",
@@ -186,7 +171,7 @@
     {
       "match": "Sirius v GAIS",
       "campionato": "Swedish Allsvenskan",
-      "volume": 419,
+      "volume": 241,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -201,8 +186,8 @@
     {
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
-      "volume": 227,
-      "quota": 2.56,
+      "volume": 88,
+      "quota": 2.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -247,7 +232,7 @@
       "match": "FK Riga v SK Super Nova",
       "campionato": "Latvian Virsliga",
       "volume": 15,
-      "quota": 1.03,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -272,6 +257,21 @@
       "market_id": "1.258382841",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 14,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     }
   ],
   "tracked_matches": [
@@ -426,8 +426,8 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 10734,
-      "best_volume": 12930,
+      "volume": 13190,
+      "best_volume": 13190,
       "whale_max": 0,
       "entered": false
     },
@@ -448,9 +448,9 @@
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-22 21:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 3261,
+      "volume": 14,
       "best_volume": 3261,
       "whale_max": 0,
       "entered": false
@@ -462,7 +462,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 419,
+      "volume": 241,
       "best_volume": 466,
       "whale_max": 0,
       "entered": false
@@ -472,7 +472,7 @@
       "match": "FK Riga v SK Super Nova",
       "campionato": "Latvian Virsliga",
       "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
@@ -488,6 +488,18 @@
       "quota_iniziale": 1.03,
       "volume": 857,
       "best_volume": 857,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258487008",
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "open_date": "2026-05-24 12:15",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 8231,
+      "best_volume": 8231,
       "whale_max": 0,
       "entered": false
     }
