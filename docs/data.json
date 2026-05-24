@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 23:26:29",
+  "last_update": "24/05/2026 23:27:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Avai v Goias",
       "campionato": "Brazilian Serie B",
-      "volume": 8385,
+      "volume": 9531,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Alianza FC Valledupar v Atletico Bucaramanga",
       "campionato": "Colombian Cup",
-      "volume": 7589,
+      "volume": 6649,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-25 09:30"
     },
     {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 406,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
+    },
+    {
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
       "volume": 304,
@@ -184,34 +199,19 @@
       "open_date": "2026-05-25 13:00"
     },
     {
-      "match": "Delfin v Barcelona (Ecu)",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 292,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622090",
-      "market_id": "1.258324233",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 01:10"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 227,
-      "quota": 1.18,
+      "volume": 259,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
       "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
+      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Inter Miami CF v Philadelphia",
@@ -332,6 +332,21 @@
       "market_id": "1.258503912",
       "_is_inplay": false,
       "open_date": "2026-05-25 01:00"
+    },
+    {
+      "match": "Delfin v Barcelona (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622090",
+      "market_id": "1.258324233",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 01:10"
     },
     {
       "match": "Vasco Da Gama v Red Bull Bragantino",
@@ -585,7 +600,7 @@
       "open_date": "2026-05-24 22:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 7589,
+      "volume": 6649,
       "best_volume": 7589,
       "whale_max": 0,
       "entered": false
@@ -607,22 +622,34 @@
       "match": "Delfin v Barcelona (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-05-25 01:10",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 292,
+      "volume": 15,
       "best_volume": 292,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258325544",
-      "match": "Defensor Sporting v Penarol",
-      "campionato": "Uruguayan Primera Division",
-      "open_date": "2026-05-24 23:30",
+      "event_id": "bf_1.258554906",
+      "match": "Cavalier v Portmore Utd",
+      "campionato": "Jamaican Premier League",
+      "open_date": "2026-05-25 03:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 2099,
+      "best_volume": 2099,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258494055",
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 13:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 304,
+      "best_volume": 304,
       "whale_max": 0,
       "entered": false
     }
