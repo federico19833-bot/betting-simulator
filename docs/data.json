@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 03:25:08",
+  "last_update": "24/05/2026 03:25:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -199,21 +199,6 @@
       "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 27,
-      "quota": 1.75,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T19:00:00.000Z"
-    },
-    {
       "match": "Alianza Lima v CD Los Chankas",
       "campionato": "Peruvian Primera Division",
       "volume": 15,
@@ -272,6 +257,21 @@
       "market_id": "1.258452880",
       "_is_inplay": false,
       "open_date": "2026-05-24T10:00:00.000Z"
+    },
+    {
+      "match": "Always Ready v Universitario de Vinto",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 14,
+      "quota": 1.71,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T19:00:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -464,6 +464,18 @@
       "quota_iniziale": 1.04,
       "volume": 4228,
       "best_volume": 4228,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452812",
+      "match": "Polissya Zhytomyr v Rukh Vynnyky",
+      "campionato": "Ukrainian Premier League",
+      "open_date": "2026-05-24T10:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 249,
+      "best_volume": 249,
       "whale_max": 0,
       "entered": false
     }
