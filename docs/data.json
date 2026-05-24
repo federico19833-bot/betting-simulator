@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 02:46:58",
+  "last_update": "24/05/2026 02:47:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Chicago Fire v Toronto FC",
       "campionato": "US MLS",
-      "volume": 3047,
+      "volume": 2969,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-24T10:15:00.000Z"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 187,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22T19:00:00.000Z"
-    },
-    {
       "match": "Xelaju v CSD Municipal",
       "campionato": "Guatemalan Liga Nacional",
       "volume": 158,
@@ -184,36 +169,6 @@
       "open_date": "2026-05-24T02:00:00.000Z"
     },
     {
-      "match": "Juventude v Sport Recife",
-      "campionato": "Brazilian Serie B",
-      "volume": 111,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622054",
-      "market_id": "1.258322359",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T23:30:00.000Z"
-    },
-    {
-      "match": "Nashville SC v New York City",
-      "campionato": "US MLS",
-      "volume": 80,
-      "quota": 1.47,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618884",
-      "market_id": "1.258323273",
-      "_is_inplay": true,
-      "open_date": "2026-05-24T00:40:00.000Z"
-    },
-    {
       "match": "San Diego FC v Vancouver Whitecaps",
       "campionato": "US MLS",
       "volume": 58,
@@ -227,6 +182,36 @@
       "market_id": "1.258321866",
       "_is_inplay": false,
       "open_date": "2026-05-24T01:30:00.000Z"
+    },
+    {
+      "match": "Nashville SC v New York City",
+      "campionato": "US MLS",
+      "volume": 48,
+      "quota": 1.48,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618884",
+      "market_id": "1.258323273",
+      "_is_inplay": true,
+      "open_date": "2026-05-24T00:40:00.000Z"
+    },
+    {
+      "match": "Juventude v Sport Recife",
+      "campionato": "Brazilian Serie B",
+      "volume": 41,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622054",
+      "market_id": "1.258322359",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T23:30:00.000Z"
     },
     {
       "match": "Deportivo Cuenca v LDU",
@@ -302,6 +287,21 @@
       "market_id": "1.258452812",
       "_is_inplay": false,
       "open_date": "2026-05-24T10:00:00.000Z"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 14,
+      "quota": 1.35,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T19:00:00.000Z"
     },
     {
       "match": "Colorado v FC Dallas",
@@ -459,7 +459,7 @@
       "open_date": "2026-05-24T00:40:00.000Z",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 3047,
+      "volume": 2969,
       "best_volume": 3047,
       "whale_max": 0,
       "entered": false
@@ -481,9 +481,9 @@
       "match": "Juventude v Sport Recife",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-05-23T23:30:00.000Z",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 111,
+      "volume": 41,
       "best_volume": 111,
       "whale_max": 0,
       "entered": false
@@ -533,6 +533,18 @@
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452858",
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "open_date": "2026-05-24T10:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 249,
+      "best_volume": 249,
       "whale_max": 0,
       "entered": false
     }
