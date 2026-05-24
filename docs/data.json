@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 15:08:09",
+  "last_update": "24/05/2026 15:08:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,8 +21,8 @@
     {
       "match": "FC Maardu v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 26488,
-      "quota": 1.06,
+      "volume": 18294,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-24 16:15"
     },
     {
+      "match": "Hammarby v AIK",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 2717,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625107",
+      "market_id": "1.258356443",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Panevezys v FK Banga Gargzdu",
       "campionato": "Lithuanian A Lyga",
       "volume": 2586,
@@ -62,21 +77,6 @@
       "market_id": "1.258472761",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
-    },
-    {
-      "match": "Hammarby v AIK",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 2282,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625107",
-      "market_id": "1.258356443",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "Malmo FF v Vasteras SK",
@@ -141,7 +141,7 @@
     {
       "match": "HB Koge v Hobro",
       "campionato": "Danish 1st Division",
-      "volume": 659,
+      "volume": 673,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -152,21 +152,6 @@
       "market_id": "1.258472782",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
-    },
-    {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 479,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "LKS Lodz v Gornik Leczna",
@@ -214,6 +199,36 @@
       "open_date": "2026-05-24 16:30"
     },
     {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 237,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
+    },
+    {
+      "match": "KuPS Akatemia v RoPS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 115,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634751",
+      "market_id": "1.258524524",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 15:00"
+    },
+    {
       "match": "FC Andorra v AD Ceuta FC",
       "campionato": "Spanish Segunda Division",
       "volume": 114,
@@ -259,21 +274,6 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "KuPS Akatemia v RoPS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 57,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634751",
-      "market_id": "1.258524524",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 15:00"
-    },
-    {
       "match": "Odra Opole v Polonia Warszawa",
       "campionato": "Polish I Liga",
       "volume": 52,
@@ -289,19 +289,19 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "CD Gualberto Villarroel v The Strongest",
+      "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 28,
-      "quota": 1.01,
+      "volume": 38,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
       "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
+      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
@@ -553,9 +553,9 @@
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-23 21:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.01,
-      "volume": 479,
+      "volume": 38,
       "best_volume": 594,
       "whale_max": 0,
       "entered": false
@@ -567,8 +567,8 @@
       "open_date": "2026-05-24 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 659,
-      "best_volume": 669,
+      "volume": 673,
+      "best_volume": 673,
       "whale_max": 0,
       "entered": false
     },
@@ -625,10 +625,10 @@
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-23 02:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 28,
-      "best_volume": 28,
+      "volume": 237,
+      "best_volume": 237,
       "whale_max": 0,
       "entered": false
     },
@@ -687,32 +687,8 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 57,
+      "volume": 115,
       "best_volume": 153,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258496493",
-      "match": "FC Maardu v JK Welco Elekter",
-      "campionato": "Estonian Esiliiga",
-      "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 26488,
-      "best_volume": 26488,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258530235",
-      "match": "Slask Wroclaw v Pogon Grodzisk Mazowiecki",
-      "campionato": "Polish I Liga",
-      "open_date": "2026-05-24 16:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 246,
-      "best_volume": 246,
       "whale_max": 0,
       "entered": false
     }
