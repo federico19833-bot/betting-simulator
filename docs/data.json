@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:40:55",
+  "last_update": "24/05/2026 12:41:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 4211,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
-    },
-    {
       "match": "Sirius v GAIS",
       "campionato": "Swedish Allsvenskan",
       "volume": 2386,
@@ -47,6 +32,21 @@
       "market_id": "1.258356422",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 2104,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Slavia Prague v Plzen",
@@ -109,21 +109,6 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Hammarby v AIK",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 1218,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625107",
-      "market_id": "1.258356443",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "OLS v FC Jazz",
       "campionato": "Finnish Ykkonen",
       "volume": 980,
@@ -154,21 +139,6 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Shandong Taishan v Wuhan Three Towns",
-      "campionato": "Chinese Super League",
-      "volume": 541,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632384",
-      "market_id": "1.258454517",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 13:35"
-    },
-    {
       "match": "Yunnan Yukun v Qingdao Youth Island",
       "campionato": "Chinese Super League",
       "volume": 510,
@@ -182,6 +152,21 @@
       "market_id": "1.258453708",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Shandong Taishan v Wuhan Three Towns",
+      "campionato": "Chinese Super League",
+      "volume": 492,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632384",
+      "market_id": "1.258454517",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 13:35"
     },
     {
       "match": "FK Riga v SK Super Nova",
@@ -244,21 +229,6 @@
       "open_date": "2026-05-24 12:15"
     },
     {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
-      "volume": 162,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
       "volume": 101,
@@ -274,25 +244,25 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Veres Rivne v Metalist 1925",
-      "campionato": "Ukrainian Premier League",
-      "volume": 19,
-      "quota": 1.16,
+      "match": "Daegu Fc v Ansan Greeners FC",
+      "campionato": "South Korean K2 League",
+      "volume": 65,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 15,
-      "quota": 1.37,
+      "volume": 20,
+      "quota": 1.36,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -498,7 +468,7 @@
       "open_date": "2026-05-24 13:35",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 541,
+      "volume": 492,
       "best_volume": 541,
       "whale_max": 0,
       "entered": false
@@ -540,18 +510,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.07,
-      "volume": 4211,
-      "best_volume": 10714,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258535663",
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
@@ -572,18 +530,6 @@
       "quota_iniziale": 1.02,
       "volume": 425,
       "best_volume": 425,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258356443",
-      "match": "Hammarby v AIK",
-      "campionato": "Swedish Allsvenskan",
-      "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 1218,
-      "best_volume": 1218,
       "whale_max": 0,
       "entered": false
     }
