@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 10:48:35",
+  "last_update": "24/05/2026 10:49:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
-      "volume": 8668,
+      "volume": 8332,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -92,21 +92,6 @@
       "market_id": "1.258535663",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "Zhejiang Greentown v Liaoning Tieren FC",
-      "campionato": "Chinese Super League",
-      "volume": 968,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632383",
-      "market_id": "1.258454386",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 13:35"
     },
     {
       "match": "Yunnan Yukun v Qingdao Youth Island",
@@ -272,6 +257,21 @@
       "market_id": "1.258453684",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Zhejiang Greentown v Liaoning Tieren FC",
+      "campionato": "Chinese Super League",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632383",
+      "market_id": "1.258454386",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 13:35"
     }
   ],
   "tracked_matches": [
@@ -342,7 +342,7 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 8668,
+      "volume": 8332,
       "best_volume": 17325,
       "whale_max": 0,
       "entered": false
@@ -352,9 +352,9 @@
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-24 13:35",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 968,
+      "volume": 15,
       "best_volume": 1213,
       "whale_max": 0,
       "entered": false
