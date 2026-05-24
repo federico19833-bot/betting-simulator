@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 03:01:55",
+  "last_update": "24/05/2026 03:02:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Deportivo Cuenca v LDU",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 8352,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618039",
+      "market_id": "1.258324338",
+      "_is_inplay": true,
+      "open_date": "2026-05-24T00:00:00.000Z"
+    },
+    {
       "match": "OLS v FC Jazz",
       "campionato": "Finnish Ykkonen",
       "volume": 4228,
@@ -32,21 +47,6 @@
       "market_id": "1.258524545",
       "_is_inplay": false,
       "open_date": "2026-05-24T11:00:00.000Z"
-    },
-    {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
-      "volume": 1924,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T10:00:00.000Z"
     },
     {
       "match": "LA Galaxy v Houston Dynamo",
@@ -169,6 +169,21 @@
       "open_date": "2026-05-24T02:00:00.000Z"
     },
     {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 64,
+      "quota": 1.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23T00:00:00.000Z"
+    },
+    {
       "match": "Juventude v Sport Recife",
       "campionato": "Brazilian Serie B",
       "volume": 58,
@@ -182,21 +197,6 @@
       "market_id": "1.258322359",
       "_is_inplay": true,
       "open_date": "2026-05-23T23:30:00.000Z"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 25,
-      "quota": 1.41,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23T00:00:00.000Z"
     },
     {
       "match": "Portland Timbers v San Jose Earthquakes",
@@ -227,6 +227,21 @@
       "market_id": "1.258449680",
       "_is_inplay": false,
       "open_date": "2026-05-24T07:30:00.000Z"
+    },
+    {
+      "match": "Daegu Fc v Ansan Greeners FC",
+      "campionato": "South Korean K2 League",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T10:00:00.000Z"
     },
     {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
@@ -354,7 +369,7 @@
       "open_date": "2026-05-24T10:00:00.000Z",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 1924,
+      "volume": 15,
       "best_volume": 1924,
       "whale_max": 0,
       "entered": false
@@ -464,6 +479,30 @@
       "quota_iniziale": 1.07,
       "volume": 1452,
       "best_volume": 1452,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258324338",
+      "match": "Deportivo Cuenca v LDU",
+      "campionato": "Ecuadorian Serie A",
+      "open_date": "2026-05-24T00:00:00.000Z",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 8352,
+      "best_volume": 8352,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452922",
+      "match": "Seoul E-Land FC v Seongnam FC",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-05-24T10:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 249,
+      "best_volume": 249,
       "whale_max": 0,
       "entered": false
     }
