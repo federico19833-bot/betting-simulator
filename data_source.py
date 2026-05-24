@@ -149,10 +149,27 @@ def scan_markets():
                     }
                     tipo = "PRE-MATCH" if not is_inplay else "IN-PLAY"
 
-    to_remove = [k for k in tracked if k.startswith("bf_") and k not in {f"bf_{m.get('market_id','')}" for m in betfair_matches.values()}]
+    now = datetime.now()
+    to_remove = []
+    for k in list(tracked.keys()):
+        t = tracked[k]
+        if t.get("entered"):
+            continue
+        gone_from_scan = k.startswith("bf_") and k not in {f"bf_{m.get('market_id','')}" for m in betfair_matches.values()}
+        if gone_from_scan:
+            print(f"[TRACK] RIMOSSO: {t.get('match')} - non piu in live")
+            to_remove.append(k)
+        else:
+            first_seen = t.get("first_seen", "")
+            if first_seen:
+                try:
+                    elapsed = (now - datetime.fromisoformat(first_seen)).total_seconds() / 3600
+                    if elapsed > 6:
+                        print(f"[TRACK] SCADUTO: {t.get('match')} - tracciato da {elapsed:.1f}h senza entrare")
+                        to_remove.append(k)
+                except:
+                    pass
     for k in to_remove:
-        if not tracked[k].get("entered"):
-            print(f"[BETFAIR] PERSO: {tracked[k].get('match')} - non piu in live")
         tracked.pop(k, None)
 
     save_tracking(tracked)

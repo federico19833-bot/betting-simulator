@@ -3,11 +3,14 @@ from database import inserisci_giocata, aggiorna_esito, get_giocate_in_corso, ge
 import time
 import re
 import json
+from datetime import datetime
 
-SIMULATED_DELAY_MINUTES = 60
+SIMULATED_DELAY_MINUTES = 180
 
 SMARKETS = "https://api.smarkets.com/v3"
 THESPORTSDB = "https://www.thesportsdb.com/api/v1/json/3"
+BF_API = "https://api.betfair.it/exchange/betting/rest/v1.0"
+BF_LOGIN = "https://identitysso.betfair.it/api/login"
 
 def fetch_json(url):
     import requests
@@ -125,9 +128,9 @@ def check_over_05_result(event_id):
     return None
 
 def check_betfair_result(market_id):
-    import requests as _requests
-    _session = requests.Session()
-    r = _session.post(BF_LOGIN,
+    import requests
+    _sess = requests.Session()
+    r = _sess.post(BF_LOGIN,
         data={"username": BETFAIR_USERNAME, "password": BETFAIR_PASSWORD},
         headers={"Accept": "application/json", "X-Application": BETFAIR_APP_KEY})
     data = r.json()
@@ -142,7 +145,7 @@ def check_betfair_result(market_id):
         "Content-Type": "application/json",
     }
     try:
-        r2 = _requests.post(f"{BF_API}/listMarketBook/", headers=headers,
+        r2 = _sess.post(f"{BF_API}/listMarketBook/", headers=headers,
             data=json.dumps({
                 "marketIds": [market_id],
                 "priceProjection": {"priceData": ["EX_BEST_OFFERS"]}
@@ -219,11 +222,35 @@ def check_and_resolve_pending():
     risolti = []
     in_corso = get_giocate_in_corso()
     for g in in_corso:
-        from datetime import datetime
         orario = datetime.fromisoformat(g["orario"])
         elapsed = (datetime.now() - orario).total_seconds() / 60
         if elapsed >= SIMULATED_DELAY_MINUTES:
             res = resolve_match(g)
             if res:
                 risolti.append(res)
+    return risolti
+
+def force_resolve_all():
+    print(f"[RESOLVE] Controllo orario risultati {datetime.now().strftime('%H:%M:%S')}")
+    risolti = []
+    in_corso = get_giocate_in_corso()
+    if not in_corso:
+        print("[RESOLVE] Nessuna giocata IN_CORSO")
+        return risolti
+    print(f"[RESOLVE] {len(in_corso)} giocate IN_CORSO da verificare")
+    for g in in_corso:
+        match = g["match"]
+        market_id = g.get("event_id", "")
+        res = resolve_match(g)
+        if res:
+            risolti.append(res)
+            print(f"[RESOLVE] #{g['id']} {match} -> {res['esito']} {res.get('risultato','')}")
+        else:
+            orario = datetime.fromisoformat(g["orario"])
+            ore_fa = (datetime.now() - orario).total_seconds() / 3600
+            print(f"[RESOLVE] #{g['id']} {match}: nessun risultato ancora (entrato {ore_fa:.1f}h fa)")
+    if risolti:
+        print(f"[RESOLVE] Risolti {len(risolti)}/{len(in_corso)} giocate")
+    else:
+        print(f"[RESOLVE] Nessuna giocata risolta in questo controllo")
     return risolti

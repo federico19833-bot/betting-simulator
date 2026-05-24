@@ -44,6 +44,10 @@ def init_db():
         conn.execute("ALTER TABLE giocate ADD COLUMN risultato TEXT DEFAULT ''")
     except:
         pass
+    try:
+        conn.execute("ALTER TABLE giocate ADD COLUMN risultato_ht TEXT DEFAULT ''")
+    except:
+        pass
     conn.commit()
     conn.close()
 
@@ -59,11 +63,11 @@ def inserisci_giocata(match, campionato, volume, quota, event_id="", whale_max=0
     conn.close()
     return giocata_id
 
-def aggiorna_esito(giocata_id, esito, profitto, risultato=""):
+def aggiorna_esito(giocata_id, esito, profitto, risultato="", risultato_ht=""):
     conn = get_connection()
     conn.execute(
-        "UPDATE giocate SET esito = ?, profitto_netto = ?, risultato = ? WHERE id = ?",
-        (esito, round(profitto, 2), risultato, giocata_id)
+        "UPDATE giocate SET esito = ?, profitto_netto = ?, risultato = ?, risultato_ht = ? WHERE id = ?",
+        (esito, round(profitto, 2), risultato, risultato_ht, giocata_id)
     )
     conn.commit()
     conn.close()

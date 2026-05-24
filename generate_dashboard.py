@@ -1,7 +1,25 @@
 import json, os, sys, subprocess, threading
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from database import get_tutte_giocate, get_giocate_in_corso
 from config import DB_PATH, MIN_ODDS, MAX_ODDS, VOLUME_THRESHOLD, STAKE, POLL_INTERVAL_SECONDS, INITIAL_BALANCE
+
+CET = timezone(timedelta(hours=1))
+CEST = timezone(timedelta(hours=2))
+
+def to_italian(utc_str):
+    if not utc_str:
+        return ""
+    try:
+        if "Z" in utc_str:
+            dt = datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
+        elif "+" in utc_str[10:]:
+            dt = datetime.fromisoformat(utc_str)
+        else:
+            return utc_str
+        dt_it = dt.astimezone(CEST if dt.month >= 4 and dt.month <= 10 else CET)
+        return dt_it.strftime("%Y-%m-%d %H:%M")
+    except:
+        return utc_str
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "docs", "data.json")
 LAST_HASH_FILE = os.path.join(os.path.dirname(__file__), "last_data_hash.txt")
@@ -48,6 +66,7 @@ def generate(deploy=False):
             "esito": g["esito"],
             "profitto": g["profitto_netto"],
             "risultato": g.get("risultato", ""),
+            "risultato_ht": g.get("risultato_ht", ""),
             "whale_max": g.get("whale_max", 0),
             "whale_tot": g.get("whale_tot", 0)
         })
@@ -57,6 +76,8 @@ def generate(deploy=False):
     if os.path.exists(scan_file):
         with open(scan_file, "r", encoding="utf-8") as f:
             live_events = json.load(f)
+        for ev in live_events:
+            ev["open_date"] = to_italian(ev.get("open_date", ""))
     
     tracked_matches = []
     track_file = os.path.join(os.path.dirname(__file__), "tracked_matches.json")
@@ -68,7 +89,7 @@ def generate(deploy=False):
                 "event_id": eid,
                 "match": t.get("match", "?"),
                 "campionato": t.get("campionato", "?"),
-                "open_date": t.get("open_date", ""),
+                "open_date": to_italian(t.get("open_date", "")),
                 "quota_attuale": t.get("last_price", 0),
                 "quota_iniziale": t.get("first_price", 0),
                 "volume": round(t.get("volume", 0)),

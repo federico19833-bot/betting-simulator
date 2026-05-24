@@ -10,7 +10,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 from config import POLL_INTERVAL_SECONDS
 from database import init_db
 from data_source import scan_markets
-from trading import execute_entry, check_and_resolve_pending
+from trading import execute_entry, check_and_resolve_pending, force_resolve_all
 from telegram_bot import init_bot, invia_notifica_entrata, invia_notifica_esito, invia_notifica_errore, invia_report_giornaliero, invia_heartbeat
 from analysis import generate_equity_chart
 from generate_dashboard import generate as update_dashboard
@@ -47,6 +47,26 @@ async def heartbeat():
     if bot_ready:
         await invia_heartbeat()
 
+async def hourly_resolve():
+    global bot_ready
+    print(f"\n[MAIN] === Controllo orario risultati ===")
+    risolti = force_resolve_all()
+    if risolti and bot_ready:
+        for r in risolti:
+            await invia_notifica_esito(r["id"], r["match"], r["campionato"], r["quota"], r["esito"], r["profitto"], r.get("risultato", ""))
+    update_dashboard(deploy=True)
+    print(f"[MAIN] === Controllo orario completato: {len(risolti)} risolti ===\n")
+
+def run_hourly():
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    try:
+        loop.run_until_complete(hourly_resolve())
+    except Exception as e:
+        print(f"[MAIN] Errore controllo orario: {e}")
+    finally:
+        loop.close()
+
 def run_scheduled():
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
@@ -82,7 +102,8 @@ def main():
     schedule.every(POLL_INTERVAL_SECONDS).seconds.do(run_scheduled)
     schedule.every().day.at("23:00").do(run_daily)
     schedule.every().day.at("18:00").do(lambda: asyncio.run(heartbeat()))
-    print(f"[MAIN] Scan ogni {POLL_INTERVAL_SECONDS}s | Report ore 23:00 | Heartbeat 18:00")
+    schedule.every(1).hours.do(run_hourly)
+    print(f"[MAIN] Scan ogni {POLL_INTERVAL_SECONDS}s | Report ore 23:00 | Heartbeat 18:00 | Risolvi ogni 1h")
     print("[MAIN] In esecuzione... (CTRL+C per fermare)\n")
     if bot_ready:
         loop = asyncio.new_event_loop()

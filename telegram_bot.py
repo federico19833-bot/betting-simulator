@@ -5,7 +5,7 @@ import os
 from telegram import Bot, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 from telegram.error import TelegramError
-from config import TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, INITIAL_BALANCE, STAKE, MIN_ODDS, MAX_ODDS, VOLUME_THRESHOLD
+from config import TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, INITIAL_BALANCE, STAKE, MIN_ODDS, MAX_ODDS, VOLUME_THRESHOLD, COMMISSION_RATE
 from database import get_statistiche_giornaliere, get_tutte_giocate
 from analysis import generate_equity_chart
 import pandas as pd
@@ -24,7 +24,10 @@ async def start_command(update: Update, context):
         "• `scan` — forza una scansione ora\n"
         "• `storico` — ultime giocate\n"
         "• `config` — configurazione attuale\n"
-        "• `help` — questo messaggio"
+        "• `correggi` — correggi esito di una giocata\n"
+        "• `help` — questo messaggio\n\n"
+        "Esempio correggi:\n"
+        "/correggi 77 VINTA 2-0"
     )
     await update.message.reply_text(msg, parse_mode="Markdown")
 
@@ -145,10 +148,68 @@ async def scan_command(update: Update, context):
         results = scan_markets()
         if results:
             await update.message.reply_text(f"✅ Scansione completata! {len(results)} segnali trovati.")
-        else:
+elif text in ["correggi", "correggere", "fix", "c"]:
+        await correct_command(update, context)
+    else:
             await update.message.reply_text("✅ Scansione completata. Nessun segnale al momento.")
     except Exception as e:
         await update.message.reply_text(f"❌ Errore scansione: {e}")
+
+async def correct_command(update: Update, context):
+    args = context.args if context.args else []
+    if not args:
+        giocate = get_tutte_giocate()
+        in_corso = [g for g in giocate if g["esito"] == "IN_CORSO"]
+        if not in_corso:
+            await update.message.reply_text("Nessuna giocata IN_CORSO da correggere.")
+            return
+        lines = ["*Correggi giocata*", "Usa: `/correggi ID ESITO RISULTATO`", "", "Esempi:", "/correggi 77 VINTA 2-0", "/correggi 77 PERSA 0-0", "/correggi 77 IN\\_CORSO", "", "*Giocate IN\\_CORSO:*"]
+        for g in in_corso:
+            lines.append(f"#{g['id']} {g['match']}")
+        await update.message.reply_text("\n".join(lines), parse_mode="Markdown")
+        return
+    try:
+        gid = int(args[0])
+    except ValueError:
+        await update.message.reply_text("ID non valido. Usa: `/correggi ID ESITO RISULTATO`")
+        return
+    esito = args[1].upper() if len(args) > 1 else "VINTA"
+    if esito not in ("VINTA", "PERSA", "IN_CORSO"):
+        await update.message.reply_text("Esito non valido. Usa: VINTA, PERSA o IN_CORSO")
+        return
+    risultato = args[2] if len(args) > 2 else ""
+    from database import get_connection
+    conn = get_connection()
+    row = conn.execute("SELECT * FROM giocate WHERE id=?", (gid,)).fetchone()
+    if not row:
+        conn.close()
+        await update.message.reply_text(f"Giocata #{gid} non trovata.")
+        return
+    row = dict(row)
+    quota = row["quota_reale"]
+    if esito == "VINTA":
+        gross = STAKE * (quota - 1)
+        net = gross * (1 - COMMISSION_RATE)
+    elif esito == "PERSA":
+        net = -STAKE
+    else:
+        net = 0.0
+    conn.execute("UPDATE giocate SET esito=?, profitto_netto=?, risultato=? WHERE id=?", (esito, round(net, 2), risultato))
+    conn.commit()
+    conn.close()
+    icon = "✅" if esito == "VINTA" else "❌" if esito == "PERSA" else "⏳"
+    msg = (
+        f"{icon} *GIOCATA CORRETTA*\n"
+        f"━━━━━━━━━━━━━━━━\n"
+        f"ID: #{gid}\n"
+        f"Match: {row['match']}\n"
+        f"Esito: {esito}\n"
+        f"Risultato: {risultato or '-'}\n"
+        f"Profitto: {net:+.2f}€"
+    )
+    await update.message.reply_text(msg, parse_mode="Markdown")
+    from generate_dashboard import generate
+    generate(deploy=True)
 
 async def help_command(update: Update, context):
     await start_command(update, context)
@@ -188,8 +249,9 @@ def start_polling():
         app.add_handler(CommandHandler("tracked", tracked_command))
         app.add_handler(CommandHandler("history", history_command))
         app.add_handler(CommandHandler("config", config_command))
-        app.add_handler(CommandHandler("scan", scan_command))
-        app.add_handler(CommandHandler("help", help_command))
+app.add_handler(CommandHandler("scan", scan_command))
+app.add_handler(CommandHandler("correggi", correct_command))
+app.add_handler(CommandHandler("help", help_command))
         app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
         app.run_polling(allowed_updates=["message"])
     except Exception as e:
@@ -202,7 +264,7 @@ def init_bot():
         try:
             loop = asyncio.new_event_loop()
             asyncio.set_event_loop(loop)
-            loop.run_until_complete(bot.set_my_commands([
+loop.run_until_complete(bot.set_my_commands([
                 ("start", "Menu interattivo"),
                 ("status", "Statistiche complete"),
                 ("markets", "Mercati live trovati"),
@@ -210,6 +272,7 @@ def init_bot():
                 ("history", "Storico giocate"),
                 ("config", "Configurazione attuale"),
                 ("scan", "Forza scansione ora"),
+                ("correggi", "Correggi esito giocata"),
             ]))
             loop.close()
         except:
