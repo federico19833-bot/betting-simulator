@@ -92,6 +92,11 @@ tr:hover { background:#1a2744; }
 
 <div class="footer" id="footer"></div>
 
+<div id="apiBanner" style="display:none;background:#1e3a5f;padding:10px 16px;border-radius:8px;margin-bottom:16px;text-align:center">
+    <span style="color:#93c5fd;font-size:14px">Per correggere le giocate, apri </span>
+    <a href="http://localhost:5555" target="_blank" style="color:#60a5fa;font-weight:bold;text-decoration:underline;font-size:14px">http://localhost:5555</a>
+</div>
+
 <div class="modal-overlay" id="modalOverlay">
 <div class="modal-box">
     <h3 id="modalTitle">Correggi giocata</h3>
@@ -117,25 +122,36 @@ tr:hover { background:#1a2744; }
 <script>
 let chart = null;
 let fetchInterval = null;
-const API = 'http://localhost:5555';
+const API = window.location.protocol === 'https:' ? '' : 'http://localhost:5555';
 let currentId = null;
-let useLocalApi = true;
+let useLocalApi = window.location.protocol !== 'https:';
+
+async function checkApi() {
+    try {
+        const r = await fetch('http://localhost:5555/api/giocate', {signal: AbortSignal.timeout(2000)});
+        useLocalApi = r.ok;
+    } catch(e) {
+        useLocalApi = false;
+    }
+    document.getElementById('apiBanner').style.display = useLocalApi ? 'none' : 'block';
+}
 
 async function loadData() {
     try {
         const resp = await fetch('data.json?' + Date.now());
         const data = await resp.json();
-        data._localApi = useLocalApi;
         render(data);
-        if (useLocalApi) {
-            try { await fetch(API + '/api/giocate'); useLocalApi = true; } catch(e) { useLocalApi = false; }
-        }
+        checkApi();
     } catch(e) {
         document.getElementById('sub').textContent = 'Errore caricamento dati: ' + e.message;
     }
 }
 
 function openModal(id, match, esito, risultato) {
+    if (!useLocalApi) {
+        window.open('http://localhost:5555', '_blank');
+        return;
+    }
     currentId = id;
     document.getElementById('modalMatch').textContent = `#${id} ${match}`;
     document.getElementById('modalEsito').value = esito;
