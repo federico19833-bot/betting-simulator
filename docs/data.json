@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 22:24:05",
+  "last_update": "24/05/2026 22:24:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -184,25 +184,10 @@
       "open_date": "2026-05-24 23:00"
     },
     {
-      "match": "Alianza Atletico v FC Cajamarca",
-      "campionato": "Peruvian Primera Division",
-      "volume": 77,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35621796",
-      "market_id": "1.258515195",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 22:30"
-    },
-    {
       "match": "Danubio v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "volume": 51,
-      "quota": 1.92,
+      "quota": 1.91,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -214,10 +199,25 @@
       "open_date": "2026-05-24 17:00"
     },
     {
+      "match": "Alianza Atletico v FC Cajamarca",
+      "campionato": "Peruvian Primera Division",
+      "volume": 38,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35621796",
+      "market_id": "1.258515195",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 22:30"
+    },
+    {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 48,
-      "quota": 1.6,
+      "volume": 22,
+      "quota": 1.66,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -588,38 +588,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258324296",
-      "match": "Emelec v Macara",
-      "campionato": "Ecuadorian Serie A",
+      "event_id": "bf_1.258563622",
+      "match": "Alianza FC Valledupar v Atletico Bucaramanga",
+      "campionato": "Colombian Cup",
       "open_date": "2026-05-24 22:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 145,
-      "best_volume": 145,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258328622",
-      "match": "Columbus v Atlanta Utd",
-      "campionato": "US MLS",
-      "open_date": "2026-05-24 23:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 118,
-      "best_volume": 118,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258375717",
-      "match": "Corinthians v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "open_date": "2026-05-24 23:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258522151",
+      "match": "CA Guemes v Patronato",
+      "campionato": "Argentinian Primera Nacional",
+      "open_date": "2026-05-24 23:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 408,
+      "best_volume": 408,
       "whale_max": 0,
       "entered": false
     }
