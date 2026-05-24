@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 22:07:41",
+  "last_update": "24/05/2026 22:08:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,9 +21,9 @@
     {
       "match": "Verona v Roma",
       "campionato": "Italian Serie A",
-      "volume": 12256,
-      "quota": 1.07,
-      "in_range": false,
+      "volume": 15868,
+      "quota": 1.08,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -34,19 +34,19 @@
       "open_date": "2026-05-24 20:45"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 4036,
+      "match": "Cerro Porteno v Rubio Nu",
+      "campionato": "Paraguayan Primera Division",
+      "volume": 1506,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
+      "event_id": "35633259",
+      "market_id": "1.258543684",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 22:00"
     },
     {
       "match": "CA Guemes v Patronato",
@@ -79,19 +79,19 @@
       "open_date": "2026-05-25 01:00"
     },
     {
-      "match": "Cerro Porteno v Rubio Nu",
-      "campionato": "Paraguayan Primera Division",
-      "volume": 752,
-      "quota": 1.09,
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 834,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35633259",
-      "market_id": "1.258543684",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 22:00"
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
     },
     {
       "match": "Defensor Sporting v Penarol",
@@ -139,21 +139,6 @@
       "open_date": "2026-05-24 22:30"
     },
     {
-      "match": "Columbus v Atlanta Utd",
-      "campionato": "US MLS",
-      "volume": 212,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618891",
-      "market_id": "1.258328622",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 23:00"
-    },
-    {
       "match": "Delfin v Barcelona (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "volume": 182,
@@ -167,21 +152,6 @@
       "market_id": "1.258324233",
       "_is_inplay": false,
       "open_date": "2026-05-25 01:10"
-    },
-    {
-      "match": "America MG v Vila Nova",
-      "campionato": "Brazilian Serie B",
-      "volume": 152,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622055",
-      "market_id": "1.258516153",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 23:30"
     },
     {
       "match": "Estudiantes de Merida v Metropolitanos",
@@ -229,19 +199,34 @@
       "open_date": "2026-05-24 23:00"
     },
     {
-      "match": "Salernitana v Union Brescia",
-      "campionato": "Italian Serie C",
-      "volume": 104,
-      "quota": 1.5,
+      "match": "America MG v Vila Nova",
+      "campionato": "Brazilian Serie B",
+      "volume": 118,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35643192",
-      "market_id": "1.258533835",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 21:00"
+      "event_id": "35622055",
+      "market_id": "1.258516153",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 23:30"
+    },
+    {
+      "match": "Columbus v Atlanta Utd",
+      "campionato": "US MLS",
+      "volume": 104,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618891",
+      "market_id": "1.258328622",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 23:00"
     },
     {
       "match": "Torino v Juventus",
@@ -289,6 +274,21 @@
       "open_date": "2026-05-23 21:00"
     },
     {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 71,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
+    },
+    {
       "match": "Atletico GO v Sao Bernardo",
       "campionato": "Brazilian Serie B",
       "volume": 56,
@@ -300,6 +300,21 @@
       "source": "Betfair",
       "event_id": "35621784",
       "market_id": "1.258513618",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 21:00"
+    },
+    {
+      "match": "Salernitana v Union Brescia",
+      "campionato": "Italian Serie C",
+      "volume": 52,
+      "quota": 1.5,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35643192",
+      "market_id": "1.258533835",
       "_is_inplay": true,
       "open_date": "2026-05-24 21:00"
     },
@@ -321,8 +336,8 @@
     {
       "match": "Club Sportivo Ameliano v Sportivo Trinidense",
       "campionato": "Paraguayan Primera Division",
-      "volume": 22,
-      "quota": 1.59,
+      "volume": 21,
+      "quota": 1.6,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -332,21 +347,6 @@
       "market_id": "1.258543705",
       "_is_inplay": true,
       "open_date": "2026-05-24 22:00"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 15,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
     },
     {
       "match": "Colon v Club Atletico Mitre",
@@ -663,30 +663,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258543684",
-      "match": "Cerro Porteno v Rubio Nu",
-      "campionato": "Paraguayan Primera Division",
-      "open_date": "2026-05-24 22:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.1,
-      "volume": 752,
-      "best_volume": 1506,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258332565",
-      "match": "Verona v Roma",
-      "campionato": "Italian Serie A",
-      "open_date": "2026-05-24 20:45",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 12256,
-      "best_volume": 12256,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258473887",
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
@@ -703,34 +679,22 @@
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-23 02:00",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 834,
+      "best_volume": 834,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258522193",
-      "match": "Colon v Club Atletico Mitre",
-      "campionato": "Argentinian Primera Nacional",
+      "event_id": "bf_1.258497196",
+      "match": "Estudiantes de Merida v Metropolitanos",
+      "campionato": "Venezuelan Primera Division",
       "open_date": "2026-05-24 23:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258516153",
-      "match": "America MG v Vila Nova",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-24 23:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 152,
-      "best_volume": 152,
+      "volume": 145,
+      "best_volume": 145,
       "whale_max": 0,
       "entered": false
     }
