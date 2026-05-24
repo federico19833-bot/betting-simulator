@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 23:27:09",
+  "last_update": "24/05/2026 23:27:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Avai v Goias",
       "campionato": "Brazilian Serie B",
-      "volume": 9531,
+      "volume": 9262,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Alianza FC Valledupar v Atletico Bucaramanga",
       "campionato": "Colombian Cup",
-      "volume": 6649,
+      "volume": 7646,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Pumas UNAM v Cruz Azul",
       "campionato": "Mexican Liga MX",
-      "volume": 4306,
+      "volume": 4303,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -169,9 +169,24 @@
       "open_date": "2026-05-25 09:30"
     },
     {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 350,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
+    },
+    {
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 406,
+      "volume": 306,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -197,21 +212,6 @@
       "market_id": "1.258494055",
       "_is_inplay": false,
       "open_date": "2026-05-25 13:00"
-    },
-    {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 259,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Inter Miami CF v Philadelphia",
@@ -480,7 +480,7 @@
       "open_date": "2026-05-25 03:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 4306,
+      "volume": 4303,
       "best_volume": 4306,
       "whale_max": 0,
       "entered": false
@@ -600,8 +600,8 @@
       "open_date": "2026-05-24 22:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 6649,
-      "best_volume": 7589,
+      "volume": 7646,
+      "best_volume": 7646,
       "whale_max": 0,
       "entered": false
     },
@@ -630,26 +630,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258554906",
-      "match": "Cavalier v Portmore Utd",
-      "campionato": "Jamaican Premier League",
-      "open_date": "2026-05-25 03:00",
+      "event_id": "bf_1.258325544",
+      "match": "Defensor Sporting v Penarol",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-05-24 23:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 2099,
-      "best_volume": 2099,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258494055",
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 13:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 304,
-      "best_volume": 304,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
