@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 15:11:06",
+  "last_update": "24/05/2026 15:11:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Parma v Sassuolo",
+      "campionato": "Italian Serie A",
+      "volume": 25738,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622695",
+      "market_id": "1.258332501",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 15:00"
+    },
+    {
       "match": "FC Andorra v AD Ceuta FC",
       "campionato": "Spanish Segunda Division",
       "volume": 3942,
@@ -36,7 +51,7 @@
     {
       "match": "KuPS Akatemia v RoPS",
       "campionato": "Finnish Ykkonen",
-      "volume": 3777,
+      "volume": 3569,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -64,19 +79,19 @@
       "open_date": "2026-05-24 16:00"
     },
     {
-      "match": "Parma v Sassuolo",
-      "campionato": "Italian Serie A",
-      "volume": 1745,
-      "quota": 1.06,
+      "match": "FC Maardu v JK Welco Elekter",
+      "campionato": "Estonian Esiliiga",
+      "volume": 2038,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622695",
-      "market_id": "1.258332501",
+      "event_id": "35639727",
+      "market_id": "1.258496493",
       "_is_inplay": true,
-      "open_date": "2026-05-24 15:00"
+      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
@@ -302,21 +317,6 @@
       "market_id": "1.258530256",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:30"
-    },
-    {
-      "match": "FC Maardu v JK Welco Elekter",
-      "campionato": "Estonian Esiliiga",
-      "volume": 72,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639727",
-      "market_id": "1.258496493",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "Odra Opole v Polonia Warszawa",
@@ -666,7 +666,7 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 3777,
+      "volume": 3569,
       "best_volume": 3777,
       "whale_max": 0,
       "entered": false
@@ -700,12 +700,12 @@
       "match": "Parma v Sassuolo",
       "campionato": "Italian Serie A",
       "open_date": "2026-05-24 15:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 1745,
-      "best_volume": 1745,
+      "volume": 25738,
+      "best_volume": 25738,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258513731",
@@ -752,6 +752,18 @@
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258530298",
+      "match": "Stal Mielec v Polonia Bytom",
+      "campionato": "Polish I Liga",
+      "open_date": "2026-05-24 16:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 246,
+      "best_volume": 246,
       "whale_max": 0,
       "entered": false
     }
