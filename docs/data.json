@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 22:32:35",
+  "last_update": "24/05/2026 22:33:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,36 @@
   },
   "live_events": [
     {
+      "match": "San Luis v Magallanes",
+      "campionato": "Chilean Primera B",
+      "volume": 3545,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640580",
+      "market_id": "1.258523694",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 02:00"
+    },
+    {
+      "match": "Colon v Club Atletico Mitre",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 2068,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624803",
+      "market_id": "1.258522193",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 23:00"
+    },
+    {
       "match": "Cavalier v Portmore Utd",
       "campionato": "Jamaican Premier League",
       "volume": 1589,
@@ -36,7 +66,7 @@
     {
       "match": "San Martin de Tucuman v CA Atlanta",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 1309,
+      "volume": 1158,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -64,6 +94,21 @@
       "open_date": "2026-05-25 01:00"
     },
     {
+      "match": "Estudiantes de Merida v Metropolitanos",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 709,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639766",
+      "market_id": "1.258497196",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 23:00"
+    },
+    {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 537,
@@ -77,36 +122,6 @@
       "market_id": "1.258473887",
       "_is_inplay": false,
       "open_date": "2026-05-22 21:00"
-    },
-    {
-      "match": "Estudiantes de Merida v Metropolitanos",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 503,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639766",
-      "market_id": "1.258497196",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 23:00"
-    },
-    {
-      "match": "Colon v Club Atletico Mitre",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 369,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624803",
-      "market_id": "1.258522193",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 23:00"
     },
     {
       "match": "Operario PR v Criciuma",
@@ -137,21 +152,6 @@
       "market_id": "1.258375127",
       "_is_inplay": false,
       "open_date": "2026-05-25 01:30"
-    },
-    {
-      "match": "San Luis v Magallanes",
-      "campionato": "Chilean Primera B",
-      "volume": 174,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640580",
-      "market_id": "1.258523694",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 02:00"
     },
     {
       "match": "Club Independiente Petrolero v Real Potosi",
@@ -381,8 +381,8 @@
     {
       "match": "Alianza FC Valledupar v Atletico Bucaramanga",
       "campionato": "Colombian Cup",
-      "volume": 13,
-      "quota": 1.84,
+      "volume": 14,
+      "quota": 1.98,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -570,8 +570,8 @@
       "open_date": "2026-05-24 23:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 369,
-      "best_volume": 503,
+      "volume": 2068,
+      "best_volume": 2068,
       "whale_max": 0,
       "entered": false
     },
@@ -582,7 +582,7 @@
       "open_date": "2026-05-25 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1309,
+      "volume": 1158,
       "best_volume": 1309,
       "whale_max": 0,
       "entered": false
@@ -652,10 +652,10 @@
       "match": "San Luis v Magallanes",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-25 02:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 174,
-      "best_volume": 174,
+      "volume": 3545,
+      "best_volume": 3545,
       "whale_max": 0,
       "entered": false
     },
@@ -672,38 +672,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258472067",
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-23 21:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258497196",
       "match": "Estudiantes de Merida v Metropolitanos",
       "campionato": "Venezuelan Primera Division",
       "open_date": "2026-05-24 23:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 503,
-      "best_volume": 503,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258375717",
-      "match": "Corinthians v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "open_date": "2026-05-24 23:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 709,
+      "best_volume": 709,
       "whale_max": 0,
       "entered": false
     },
@@ -728,6 +704,18 @@
       "quota_iniziale": 1.09,
       "volume": 1589,
       "best_volume": 1589,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258472472",
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23 23:15",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 145,
+      "best_volume": 145,
       "whale_max": 0,
       "entered": false
     }
