@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 01:55:16",
+  "last_update": "25/05/2026 01:55:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -109,21 +109,6 @@
       "open_date": "2026-05-25 16:45"
     },
     {
-      "match": "Vasco Da Gama v Red Bull Bragantino",
-      "campionato": "Brazilian Serie A",
-      "volume": 1066,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35597483",
-      "market_id": "1.258375127",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 01:30"
-    },
-    {
       "match": "Notts Co v Salford City",
       "campionato": "English Sky Bet League 2",
       "volume": 741,
@@ -214,21 +199,6 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 165,
-      "quota": 1.36,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
-    },
-    {
       "match": "Hvidovre v Esbjerg",
       "campionato": "Danish 1st Division",
       "volume": 130,
@@ -246,7 +216,7 @@
     {
       "match": "CD Motagua v CD Marathon",
       "campionato": "Honduras Liga Nacional",
-      "volume": 92,
+      "volume": 100,
       "quota": 1.23,
       "in_range": false,
       "monitored": false,
@@ -257,6 +227,21 @@
       "market_id": "1.258503912",
       "_is_inplay": true,
       "open_date": "2026-05-25 01:00"
+    },
+    {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 57,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Los Angeles FC v Seattle Sounders",
@@ -272,6 +257,21 @@
       "market_id": "1.258365180",
       "_is_inplay": false,
       "open_date": "2026-05-25 03:15"
+    },
+    {
+      "match": "Vasco Da Gama v Red Bull Bragantino",
+      "campionato": "Brazilian Serie A",
+      "volume": 32,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35597483",
+      "market_id": "1.258375127",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 01:30"
     }
   ],
   "tracked_matches": [
@@ -516,14 +516,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258494055",
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 13:00",
+      "event_id": "bf_1.258502647",
+      "match": "Sandnes Ulf v Sogndal",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 2099,
-      "best_volume": 2099,
+      "volume": 304,
+      "best_volume": 304,
       "whale_max": 0,
       "entered": false
     }
