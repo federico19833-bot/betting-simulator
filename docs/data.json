@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 14:49:01",
+  "last_update": "24/05/2026 14:49:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Hammarby v AIK",
       "campionato": "Swedish Allsvenskan",
-      "volume": 38688,
+      "volume": 38640,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -141,7 +141,7 @@
     {
       "match": "FC Maardu v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 316,
+      "volume": 283,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -167,6 +167,21 @@
       "market_id": "1.258530277",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:30"
+    },
+    {
+      "match": "Cerro v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 156,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620134",
+      "market_id": "1.258325565",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 15:00"
     },
     {
       "match": "FC Andorra v AD Ceuta FC",
@@ -197,21 +212,6 @@
       "market_id": "1.258473117",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:30"
-    },
-    {
-      "match": "Cerro v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 84,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620134",
-      "market_id": "1.258325565",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 15:00"
     },
     {
       "match": "Parma v Sassuolo",
@@ -345,7 +345,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 38688,
+      "volume": 38640,
       "best_volume": 38688,
       "whale_max": 0,
       "entered": true
@@ -531,14 +531,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258530277",
-      "match": "LKS Lodz v Gornik Leczna",
-      "campionato": "Polish I Liga",
-      "open_date": "2026-05-24 16:30",
+      "event_id": "bf_1.258332501",
+      "match": "Parma v Sassuolo",
+      "campionato": "Italian Serie A",
+      "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 246,
-      "best_volume": 246,
+      "volume": 71,
+      "best_volume": 71,
       "whale_max": 0,
       "entered": false
     }
