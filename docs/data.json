@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 14:52:15",
+  "last_update": "24/05/2026 14:52:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-24 16:30"
     },
     {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1117,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
+    },
+    {
       "match": "Parnu JK Vaprus v FCI Tallinn",
       "campionato": "Estonian Premier League",
       "volume": 918,
@@ -107,36 +122,6 @@
       "market_id": "1.258511106",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
-    },
-    {
-      "match": "KF Drita v KF Gjilani",
-      "campionato": "Kosovan Superliga",
-      "volume": 857,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646725",
-      "market_id": "1.258559239",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 16:00"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 422,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "LKS Lodz v Gornik Leczna",
@@ -154,24 +139,24 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "FC Maardu v JK Welco Elekter",
-      "campionato": "Estonian Esiliiga",
-      "volume": 231,
-      "quota": 1.18,
+      "match": "Parma v Sassuolo",
+      "campionato": "Italian Serie A",
+      "volume": 156,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35639727",
-      "market_id": "1.258496493",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 14:00"
+      "event_id": "35622695",
+      "market_id": "1.258332501",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 15:00"
     },
     {
       "match": "Cerro v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 156,
+      "volume": 131,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -214,19 +199,19 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "Parma v Sassuolo",
-      "campionato": "Italian Serie A",
-      "volume": 61,
-      "quota": 1.1,
+      "match": "FC Maardu v JK Welco Elekter",
+      "campionato": "Estonian Esiliiga",
+      "volume": 83,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622695",
-      "market_id": "1.258332501",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 15:00"
+      "event_id": "35639727",
+      "market_id": "1.258496493",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "FC Inter 2 v PKK-U",
@@ -255,6 +240,21 @@
       "source": "Betfair",
       "event_id": "35619973",
       "market_id": "1.258472782",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 16:00"
+    },
+    {
+      "match": "KF Drita v KF Gjilani",
+      "campionato": "Kosovan Superliga",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646725",
+      "market_id": "1.258559239",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
     },
@@ -499,10 +499,10 @@
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-22 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 422,
-      "best_volume": 794,
+      "volume": 1117,
+      "best_volume": 1117,
       "whale_max": 0,
       "entered": false
     },
@@ -511,9 +511,9 @@
       "match": "KF Drita v KF Gjilani",
       "campionato": "Kosovan Superliga",
       "open_date": "2026-05-24 16:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 857,
+      "volume": 15,
       "best_volume": 857,
       "whale_max": 0,
       "entered": false
@@ -531,14 +531,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258332501",
-      "match": "Parma v Sassuolo",
-      "campionato": "Italian Serie A",
-      "open_date": "2026-05-24 15:00",
+      "event_id": "bf_1.258530277",
+      "match": "LKS Lodz v Gornik Leczna",
+      "campionato": "Polish I Liga",
+      "open_date": "2026-05-24 16:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 61,
-      "best_volume": 61,
+      "volume": 246,
+      "best_volume": 246,
       "whale_max": 0,
       "entered": false
     }
