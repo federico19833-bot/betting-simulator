@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:47:44",
+  "last_update": "24/05/2026 13:48:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Sparta Prague v Hradec Kralove",
+      "campionato": "Czech 1 Liga",
+      "volume": 12373,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620055",
+      "market_id": "1.258383020",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
       "volume": 9090,
@@ -34,21 +49,6 @@
       "open_date": "2026-05-24 12:15"
     },
     {
-      "match": "Sparta Prague v Hradec Kralove",
-      "campionato": "Czech 1 Liga",
-      "volume": 8656,
-      "quota": 1.08,
-      "in_range": true,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620055",
-      "market_id": "1.258383020",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "Bolton v Stockport",
       "campionato": "English Sky Bet League 1",
       "volume": 3703,
@@ -62,21 +62,6 @@
       "market_id": "1.258322118",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2946,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "FC Inter 2 v PKK-U",
@@ -126,7 +111,7 @@
     {
       "match": "Imisli FK v Karvan Evlakh",
       "campionato": "Azerbaijan Premier League",
-      "volume": 488,
+      "volume": 486,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -150,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35625111",
       "market_id": "1.258356422",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "FK Jablonec v Slovan Liberec",
+      "campionato": "Czech 1 Liga",
+      "volume": 348,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620053",
+      "market_id": "1.258382841",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
     },
@@ -186,8 +186,8 @@
     {
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
-      "volume": 65,
-      "quota": 1.74,
+      "volume": 64,
+      "quota": 1.75,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -197,6 +197,21 @@
       "market_id": "1.258535663",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Shanghai Shenhua v Shenzhen Peng City",
@@ -240,21 +255,6 @@
       "source": "Betfair",
       "event_id": "35641587",
       "market_id": "1.258531733",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "FK Jablonec v Slovan Liberec",
-      "campionato": "Czech 1 Liga",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620053",
-      "market_id": "1.258382841",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
     },
@@ -330,7 +330,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 488,
+      "volume": 486,
       "best_volume": 1213,
       "whale_max": 0,
       "entered": false
@@ -412,9 +412,9 @@
       "match": "FK Jablonec v Slovan Liberec",
       "campionato": "Czech 1 Liga",
       "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 348,
       "best_volume": 22667,
       "whale_max": 0,
       "entered": false
@@ -426,8 +426,8 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 8656,
-      "best_volume": 8656,
+      "volume": 12373,
+      "best_volume": 12373,
       "whale_max": 0,
       "entered": false
     },
@@ -448,9 +448,9 @@
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-22 21:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 2946,
+      "volume": 15,
       "best_volume": 2946,
       "whale_max": 0,
       "entered": false
@@ -488,6 +488,18 @@
       "quota_iniziale": 1.03,
       "volume": 857,
       "best_volume": 857,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258487008",
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "open_date": "2026-05-24 12:15",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 9090,
+      "best_volume": 9090,
       "whale_max": 0,
       "entered": false
     }
