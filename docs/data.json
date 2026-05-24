@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 11:11:58",
+  "last_update": "24/05/2026 11:12:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-23 02:00"
     },
     {
-      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
-      "campionato": "Chinese Super League",
-      "volume": 1568,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632388",
-      "market_id": "1.258450870",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 11:00"
-    },
-    {
       "match": "VMFD Zalgiris v Hegelmann Litauen",
       "campionato": "Lithuanian A Lyga",
       "volume": 1560,
@@ -139,21 +124,6 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Dynamo Kiev v FK Kudrivka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 479,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627402",
-      "market_id": "1.258452880",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "Bolton v Stockport",
       "campionato": "English Sky Bet League 1",
       "volume": 466,
@@ -182,6 +152,21 @@
       "market_id": "1.258356443",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 362,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627402",
+      "market_id": "1.258452880",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
@@ -244,21 +229,6 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Yongin FC v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 126,
-      "quota": 2.36,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618960",
-      "market_id": "1.258449680",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 09:30"
-    },
-    {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
       "volume": 46,
@@ -272,6 +242,21 @@
       "market_id": "1.258452901",
       "_is_inplay": false,
       "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
+      "campionato": "Chinese Super League",
+      "volume": 18,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632388",
+      "market_id": "1.258450870",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 11:00"
     },
     {
       "match": "Polissya Zhytomyr v Rukh Vynnyky",
@@ -545,6 +530,18 @@
       "quota_iniziale": 1.05,
       "volume": 466,
       "best_volume": 1042,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258453684",
+      "match": "Umea FC v IF Karlstad",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-05-24 13:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
