@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:35:32",
+  "last_update": "24/05/2026 13:36:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Shandong Taishan v Wuhan Three Towns",
       "campionato": "Chinese Super League",
-      "volume": 10429,
+      "volume": 10428,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 4075,
+      "volume": 4074,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -154,39 +154,39 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Ajax v FC Utrecht",
-      "campionato": "Dutch Eredivisie",
-      "volume": 308,
-      "quota": 1.16,
+      "match": "Angby IF v Bollstanas SK",
+      "campionato": "Swedish Division 2",
+      "volume": 267,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35638803",
-      "market_id": "1.258487008",
+      "event_id": "35629734",
+      "market_id": "1.258453729",
       "_is_inplay": true,
-      "open_date": "2026-05-24 12:15"
+      "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Always Ready v Universitario de Vinto",
+      "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 185,
+      "volume": 178,
       "quota": 1.36,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
       "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
+      "open_date": "2026-05-23 23:15"
     },
     {
       "match": "Umea FC v IF Karlstad",
       "campionato": "Swedish Division 1",
-      "volume": 171,
+      "volume": 100,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -197,6 +197,21 @@
       "market_id": "1.258453684",
       "_is_inplay": true,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "volume": 66,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638803",
+      "market_id": "1.258487008",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:15"
     },
     {
       "match": "FC Maardu v JK Welco Elekter",
@@ -216,7 +231,7 @@
     {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 19,
+      "volume": 27,
       "quota": 2.62,
       "in_range": false,
       "monitored": false,
@@ -390,18 +405,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258472067",
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-23 21:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.01,
-      "volume": 65,
-      "best_volume": 5855,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258454557",
       "match": "Shanghai Shenhua v Shenzhen Peng City",
       "campionato": "Chinese Super League",
@@ -444,7 +447,7 @@
       "open_date": "2026-05-24 01:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 4075,
+      "volume": 4074,
       "best_volume": 10429,
       "whale_max": 0,
       "entered": false
@@ -528,8 +531,20 @@
       "open_date": "2026-05-24 13:35",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 10429,
+      "volume": 10428,
       "best_volume": 10429,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258453729",
+      "match": "Angby IF v Bollstanas SK",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-24 13:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 267,
+      "best_volume": 267,
       "whale_max": 0,
       "entered": false
     }
