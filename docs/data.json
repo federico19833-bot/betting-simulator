@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 15:15:29",
+  "last_update": "24/05/2026 15:16:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Parma v Sassuolo",
       "campionato": "Italian Serie A",
-      "volume": 26052,
+      "volume": 24727,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-24 16:15"
     },
     {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 2839,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
+    },
+    {
       "match": "KF Drita v KF Gjilani",
       "campionato": "Kosovan Superliga",
       "volume": 2586,
@@ -62,6 +77,21 @@
       "market_id": "1.258559239",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
+    },
+    {
+      "match": "Always Ready v Universitario de Vinto",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1164,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "Wieczysta Krakow v Chrobry Glogow",
@@ -154,36 +184,6 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 448,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 275,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
-    },
-    {
       "match": "Stal Mielec v Polonia Bytom",
       "campionato": "Polish I Liga",
       "volume": 246,
@@ -214,19 +214,19 @@
       "open_date": "2026-05-24 15:00"
     },
     {
-      "match": "Club Independiente Petrolero v Real Potosi",
+      "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 145,
-      "quota": 1.05,
+      "volume": 135,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
       "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
+      "open_date": "2026-05-23 02:00"
     },
     {
       "match": "Malmo FF v Vasteras SK",
@@ -558,8 +558,8 @@
       "open_date": "2026-05-23 21:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 448,
-      "best_volume": 721,
+      "volume": 1164,
+      "best_volume": 1164,
       "whale_max": 0,
       "entered": false
     },
@@ -606,7 +606,7 @@
       "open_date": "2026-05-23 23:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 145,
+      "volume": 2839,
       "best_volume": 14310,
       "whale_max": 0,
       "entered": false
@@ -690,7 +690,7 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 26052,
+      "volume": 24727,
       "best_volume": 26519,
       "whale_max": 0,
       "entered": true
@@ -740,6 +740,30 @@
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258524524",
+      "match": "KuPS Akatemia v RoPS",
+      "campionato": "Finnish Ykkonen",
+      "open_date": "2026-05-24 15:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 190,
+      "best_volume": 190,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258530298",
+      "match": "Stal Mielec v Polonia Bytom",
+      "campionato": "Polish I Liga",
+      "open_date": "2026-05-24 16:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 246,
+      "best_volume": 246,
       "whale_max": 0,
       "entered": false
     }
