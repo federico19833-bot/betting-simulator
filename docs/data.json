@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 10:31:02",
+  "last_update": "24/05/2026 10:31:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,21 +34,6 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 3163,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
-    },
-    {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 1348,
@@ -64,21 +49,6 @@
       "open_date": "2026-05-23 21:00"
     },
     {
-      "match": "Polissya Zhytomyr v Rukh Vynnyky",
-      "campionato": "Ukrainian Premier League",
-      "volume": 1228,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627404",
-      "market_id": "1.258452812",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
       "volume": 1042,
@@ -92,21 +62,6 @@
       "market_id": "1.258535663",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "Dynamo Kiev v FK Kudrivka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 666,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627402",
-      "market_id": "1.258452880",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Yunnan Yukun v Qingdao Youth Island",
@@ -199,6 +154,21 @@
       "open_date": "2026-05-24 09:30"
     },
     {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 15,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
+    },
+    {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
       "volume": 15,
@@ -210,6 +180,36 @@
       "source": "Betfair",
       "event_id": "35627409",
       "market_id": "1.258452901",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Polissya Zhytomyr v Rukh Vynnyky",
+      "campionato": "Ukrainian Premier League",
+      "volume": 15,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627404",
+      "market_id": "1.258452812",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 15,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627402",
+      "market_id": "1.258452880",
       "_is_inplay": false,
       "open_date": "2026-05-24 12:00"
     },
@@ -288,7 +288,7 @@
       "open_date": "2026-05-24 12:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1228,
+      "volume": 15,
       "best_volume": 1228,
       "whale_max": 0,
       "entered": false
