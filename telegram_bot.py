@@ -26,8 +26,8 @@ async def start_command(update: Update, context):
         "• /markets — Mercati live trovati\n"
         "• /tracked — Partite in osservazione\n"
         "• /scan — Forza scansione ora\n\n"
-        "✏️ *CORREZIONI*\n"
-        "• /correggi — Vedi giocate IN_CORSO\n"
+        "✏️ *CORREZIONI MANUALI*\n"
+        "• /correggi — Lista giocate da correggere\n"
         "• /correggi ID ESITO RISULTATO\n"
         "  Esempio: /correggi 77 VINTA 2-0\n\n"
         "❓ *AIUTO*\n"
@@ -164,13 +164,28 @@ async def correct_command(update: Update, context):
     args = context.args if context.args else []
     if not args:
         giocate = get_tutte_giocate()
-        in_corso = [g for g in giocate if g["esito"] == "IN_CORSO"]
-        if not in_corso:
-            await update.message.reply_text("Nessuna giocata IN_CORSO da correggere.")
+        if not giocate:
+            await update.message.reply_text("Nessuna giocata in archivio.")
             return
-        lines = ["*Correggi giocata*", "Usa: `/correggi ID ESITO RISULTATO`", "", "Esempi:", "/correggi 77 VINTA 2-0", "/correggi 77 PERSA 0-0", "/correggi 77 IN\\_CORSO", "", "*Giocate IN\\_CORSO:*"]
-        for g in in_corso:
-            lines.append(f"#{g['id']} {g['match']}")
+        recent = giocate[:15]
+        lines = [
+            "✏️ *CORREGGI ESITO*",
+            "━━━━━━━━━━━━━━━━━━━━━━━",
+            "",
+            "*Formato:* `/correggi ID ESITO RISULTATO`",
+            "",
+            "*Esempi:*",
+            "• /correggi 77 VINTA 2-0",
+            "• /correggi 79 PERSA 0-0",
+            "• /correggi 77 IN_CORSO",
+            "",
+            "*Ultime giocate:*"
+        ]
+        for g in recent:
+            icon = "✅" if g["esito"] == "VINTA" else "❌" if g["esito"] == "PERSA" else "⏳"
+            lines.append(f"{icon} #{g['id']} {g['match']} [{g['esito']}]")
+        lines.append("")
+        lines.append("Scrivi il comando per correggere.")
         await update.message.reply_text("\n".join(lines), parse_mode="Markdown")
         return
     try:
