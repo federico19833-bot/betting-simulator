@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 03:15:06",
+  "last_update": "24/05/2026 03:15:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,8 +19,8 @@
   },
   "live_events": [
     {
-      "match": "Portland Timbers v San Jose Earthquakes",
-      "campionato": "US MLS",
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 9314,
       "quota": 1.04,
       "in_range": false,
@@ -28,10 +28,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35618887",
-      "market_id": "1.258325697",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
       "_is_inplay": false,
-      "open_date": "2026-05-24T01:40:00.000Z"
+      "open_date": "2026-05-23T00:00:00.000Z"
     },
     {
       "match": "OLS v FC Jazz",
@@ -64,10 +64,55 @@
       "open_date": "2026-05-24T07:30:00.000Z"
     },
     {
-      "match": "Seoul E-Land FC v Seongnam FC",
+      "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
       "volume": 1452,
       "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T10:00:00.000Z"
+    },
+    {
+      "match": "Portland Timbers v San Jose Earthquakes",
+      "campionato": "US MLS",
+      "volume": 1228,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618887",
+      "market_id": "1.258325697",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T01:40:00.000Z"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1108,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T19:00:00.000Z"
+    },
+    {
+      "match": "Seoul E-Land FC v Seongnam FC",
+      "campionato": "South Korean K2 League",
+      "volume": 320,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -79,52 +124,7 @@
       "open_date": "2026-05-24T10:00:00.000Z"
     },
     {
-      "match": "Colorado v FC Dallas",
-      "campionato": "US MLS",
-      "volume": 1228,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618137",
-      "market_id": "1.258322097",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T01:40:00.000Z"
-    },
-    {
-      "match": "Deportivo Cuenca v LDU",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1108,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618039",
-      "market_id": "1.258324338",
-      "_is_inplay": true,
-      "open_date": "2026-05-24T00:00:00.000Z"
-    },
-    {
-      "match": "Veres Rivne v Metalist 1925",
-      "campionato": "Ukrainian Premier League",
-      "volume": 320,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T10:00:00.000Z"
-    },
-    {
-      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
+      "match": "Polissya Zhytomyr v Rukh Vynnyky",
       "campionato": "Ukrainian Premier League",
       "volume": 249,
       "quota": 1.1,
@@ -133,14 +133,14 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627409",
-      "market_id": "1.258452901",
+      "event_id": "35627404",
+      "market_id": "1.258452812",
       "_is_inplay": false,
       "open_date": "2026-05-24T10:00:00.000Z"
     },
     {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
+      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
+      "campionato": "Ukrainian Premier League",
       "volume": 240,
       "quota": 1.12,
       "in_range": false,
@@ -148,8 +148,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
+      "event_id": "35627409",
+      "market_id": "1.258452901",
       "_is_inplay": false,
       "open_date": "2026-05-24T10:00:00.000Z"
     },
@@ -184,8 +184,8 @@
       "open_date": "2026-05-24T02:30:00.000Z"
     },
     {
-      "match": "Juventude v Sport Recife",
-      "campionato": "Brazilian Serie B",
+      "match": "Deportivo Cuenca v LDU",
+      "campionato": "Ecuadorian Serie A",
       "volume": 58,
       "quota": 1.02,
       "in_range": false,
@@ -193,13 +193,13 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35622054",
-      "market_id": "1.258322359",
+      "event_id": "35618039",
+      "market_id": "1.258324338",
       "_is_inplay": true,
-      "open_date": "2026-05-23T23:30:00.000Z"
+      "open_date": "2026-05-24T00:00:00.000Z"
     },
     {
-      "match": "CD Gualberto Villarroel v The Strongest",
+      "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 18,
       "quota": 1.49,
@@ -208,14 +208,14 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
       "_is_inplay": false,
-      "open_date": "2026-05-23T00:00:00.000Z"
+      "open_date": "2026-05-23T19:00:00.000Z"
     },
     {
-      "match": "Alianza Lima v CD Los Chankas",
-      "campionato": "Peruvian Primera Division",
+      "match": "San Diego FC v Vancouver Whitecaps",
+      "campionato": "US MLS",
       "volume": 15,
       "quota": 1.04,
       "in_range": false,
@@ -223,10 +223,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35621578",
-      "market_id": "1.258482612",
+      "event_id": "35618147",
+      "market_id": "1.258321866",
       "_is_inplay": false,
-      "open_date": "2026-05-24T01:30:00.000Z"
+      "open_date": "2026-05-24T01:40:00.000Z"
     },
     {
       "match": "Qingdao Hainiu v Chongqing Tonglianglong",
@@ -244,7 +244,7 @@
       "open_date": "2026-05-24T09:00:00.000Z"
     },
     {
-      "match": "Polissya Zhytomyr v Rukh Vynnyky",
+      "match": "Veres Rivne v Metalist 1925",
       "campionato": "Ukrainian Premier League",
       "volume": 15,
       "quota": 1.03,
@@ -253,8 +253,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627404",
-      "market_id": "1.258452812",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
       "_is_inplay": false,
       "open_date": "2026-05-24T10:00:00.000Z"
     },
@@ -360,37 +360,13 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258452812",
-      "match": "Polissya Zhytomyr v Rukh Vynnyky",
-      "campionato": "Ukrainian Premier League",
-      "open_date": "2026-05-24T10:00:00.000Z",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258322359",
-      "match": "Juventude v Sport Recife",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-23T23:30:00.000Z",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 58,
-      "best_volume": 58,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258452858",
       "match": "Veres Rivne v Metalist 1925",
       "campionato": "Ukrainian Premier League",
       "open_date": "2026-05-24T10:00:00.000Z",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 320,
+      "volume": 15,
       "best_volume": 1452,
       "whale_max": 0,
       "entered": false
@@ -400,9 +376,9 @@
       "match": "Deportivo Cuenca v LDU",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-05-24T00:00:00.000Z",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 1108,
+      "volume": 58,
       "best_volume": 1108,
       "whale_max": 0,
       "entered": false
@@ -424,9 +400,9 @@
       "match": "Seoul E-Land FC v Seongnam FC",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-24T10:00:00.000Z",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 1452,
+      "volume": 320,
       "best_volume": 1452,
       "whale_max": 0,
       "entered": false
@@ -436,34 +412,10 @@
       "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-24T10:00:00.000Z",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 249,
-      "best_volume": 249,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258482612",
-      "match": "Alianza Lima v CD Los Chankas",
-      "campionato": "Peruvian Primera Division",
-      "open_date": "2026-05-24T01:30:00.000Z",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258322097",
-      "match": "Colorado v FC Dallas",
-      "campionato": "US MLS",
-      "open_date": "2026-05-24T01:40:00.000Z",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.05,
-      "volume": 1228,
-      "best_volume": 1228,
+      "volume": 1452,
+      "best_volume": 1452,
       "whale_max": 0,
       "entered": false
     },
@@ -476,6 +428,54 @@
       "quota_iniziale": 1.1,
       "volume": 249,
       "best_volume": 249,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258473887",
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-22T19:00:00.000Z",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 1108,
+      "best_volume": 1108,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258472121",
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23T00:00:00.000Z",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 9314,
+      "best_volume": 9314,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258321866",
+      "match": "San Diego FC v Vancouver Whitecaps",
+      "campionato": "US MLS",
+      "open_date": "2026-05-24T01:40:00.000Z",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 15,
+      "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258325697",
+      "match": "Portland Timbers v San Jose Earthquakes",
+      "campionato": "US MLS",
+      "open_date": "2026-05-24T01:40:00.000Z",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1228,
+      "best_volume": 1228,
       "whale_max": 0,
       "entered": false
     }
