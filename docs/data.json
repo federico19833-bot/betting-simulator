@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 08:32:27",
+  "last_update": "24/05/2026 08:32:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-23 21:00"
     },
     {
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "volume": 265,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638803",
+      "market_id": "1.258487008",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 12:15"
+    },
+    {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 264,
@@ -137,21 +152,6 @@
       "market_id": "1.258452880",
       "_is_inplay": false,
       "open_date": "2026-05-24 12:00"
-    },
-    {
-      "match": "Ajax v FC Utrecht",
-      "campionato": "Dutch Eredivisie",
-      "volume": 206,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638803",
-      "market_id": "1.258487008",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 12:15"
     },
     {
       "match": "Angby IF v Bollstanas SK",
@@ -259,9 +259,9 @@
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
       "open_date": "2026-05-24 12:15",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 206,
+      "volume": 265,
       "best_volume": 4228,
       "whale_max": 0,
       "entered": false
@@ -399,14 +399,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "event_id": "bf_1.258472121",
+      "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
+      "open_date": "2026-05-23 02:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 264,
-      "best_volume": 264,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
