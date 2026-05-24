@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 11:28:42",
+  "last_update": "24/05/2026 11:29:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "Qingdao Hainiu v Chongqing Tonglianglong",
       "campionato": "Chinese Super League",
-      "volume": 1679,
+      "volume": 1733,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -92,6 +92,21 @@
       "market_id": "1.258454517",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:35"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1120,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Stade Lausanne-Ouchy v St Gallen",
@@ -137,21 +152,6 @@
       "market_id": "1.258496541",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 940,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Bolton v Stockport",
@@ -345,18 +345,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258496541",
-      "match": "FC Tallinn v Viimsi JK",
-      "campionato": "Estonian Esiliiga",
-      "open_date": "2026-05-24 13:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.04,
-      "volume": 968,
-      "best_volume": 17325,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258454386",
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
       "campionato": "Chinese Super League",
@@ -411,7 +399,7 @@
       "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 940,
+      "volume": 1120,
       "best_volume": 4401,
       "whale_max": 0,
       "entered": false
