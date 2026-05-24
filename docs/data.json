@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:54:29",
+  "last_update": "24/05/2026 12:55:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -139,19 +139,19 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Veres Rivne v Metalist 1925",
-      "campionato": "Ukrainian Premier League",
-      "volume": 836,
-      "quota": 1.24,
+      "match": "FK Riga v SK Super Nova",
+      "campionato": "Latvian Virsliga",
+      "volume": 825,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
+      "event_id": "35641587",
+      "market_id": "1.258531733",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "FC Elva v Tallinna Kalev",
@@ -167,21 +167,6 @@
       "market_id": "1.258498500",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 733,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Shandong Taishan v Wuhan Three Towns",
@@ -229,21 +214,6 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "FK Riga v SK Super Nova",
-      "campionato": "Latvian Virsliga",
-      "volume": 425,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641587",
-      "market_id": "1.258531733",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "VMFD Zalgiris v Hegelmann Litauen",
       "campionato": "Lithuanian A Lyga",
       "volume": 420,
@@ -274,6 +244,36 @@
       "open_date": "2026-05-24 12:15"
     },
     {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 167,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
+    },
+    {
+      "match": "Daegu Fc v Ansan Greeners FC",
+      "campionato": "South Korean K2 League",
+      "volume": 127,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
       "volume": 101,
@@ -289,25 +289,10 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
-      "volume": 57,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 20,
-      "quota": 1.5,
+      "volume": 54,
+      "quota": 1.44,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -315,6 +300,21 @@
       "source": "Betfair",
       "event_id": "35627409",
       "market_id": "1.258452901",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 48,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -549,8 +549,8 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 425,
-      "best_volume": 425,
+      "volume": 825,
+      "best_volume": 825,
       "whale_max": 0,
       "entered": false
     },
