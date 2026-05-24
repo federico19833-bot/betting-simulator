@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 11:48:55",
+  "last_update": "24/05/2026 11:49:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Yunnan Yukun v Qingdao Youth Island",
       "campionato": "Chinese Super League",
-      "volume": 17257,
+      "volume": 17269,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -32,6 +32,21 @@
       "market_id": "1.258453708",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 2122,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
     },
     {
       "match": "Shandong Taishan v Wuhan Three Towns",
@@ -109,21 +124,6 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
-      "campionato": "Chinese Super League",
-      "volume": 761,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632388",
-      "market_id": "1.258450870",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 11:00"
-    },
-    {
       "match": "Bolton v Stockport",
       "campionato": "English Sky Bet League 1",
       "volume": 466,
@@ -199,6 +199,21 @@
       "open_date": "2026-05-24 12:15"
     },
     {
+      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
+      "campionato": "Chinese Super League",
+      "volume": 137,
+      "quota": 1.42,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632388",
+      "market_id": "1.258450870",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 11:00"
+    },
+    {
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
       "campionato": "Chinese Super League",
       "volume": 115,
@@ -216,7 +231,7 @@
     {
       "match": "Polissya Zhytomyr v Rukh Vynnyky",
       "campionato": "Ukrainian Premier League",
-      "volume": 46,
+      "volume": 44,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -227,21 +242,6 @@
       "market_id": "1.258452812",
       "_is_inplay": false,
       "open_date": "2026-05-24 12:00"
-    },
-    {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 15,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
     },
     {
       "match": "Dynamo Kiev v FK Kudrivka",
@@ -363,7 +363,7 @@
       "open_date": "2026-05-23 02:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 15,
+      "volume": 2122,
       "best_volume": 2122,
       "whale_max": 0,
       "entered": false
@@ -375,7 +375,7 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 17257,
+      "volume": 17269,
       "best_volume": 18491,
       "whale_max": 0,
       "entered": false
@@ -447,7 +447,7 @@
       "open_date": "2026-05-24 12:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 46,
+      "volume": 44,
       "best_volume": 46,
       "whale_max": 0,
       "entered": false
@@ -557,6 +557,18 @@
       "quota_iniziale": 1.03,
       "volume": 968,
       "best_volume": 968,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258472472",
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23 23:15",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1192,
+      "best_volume": 1192,
       "whale_max": 0,
       "entered": false
     }
