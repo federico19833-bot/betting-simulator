@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 23:31:01",
+  "last_update": "24/05/2026 23:31:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Columbus v Atlanta Utd",
+      "campionato": "US MLS",
+      "volume": 6729,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618891",
+      "market_id": "1.258328622",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 23:00"
+    },
+    {
       "match": "San Luis v Magallanes",
       "campionato": "Chilean Primera B",
       "volume": 5727,
@@ -32,6 +47,21 @@
       "market_id": "1.258523694",
       "_is_inplay": false,
       "open_date": "2026-05-25 02:00"
+    },
+    {
+      "match": "Montego Bay United v Mount Pleasant FC",
+      "campionato": "Jamaican Premier League",
+      "volume": 4343,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35642168",
+      "market_id": "1.258534331",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 00:00"
     },
     {
       "match": "Pumas UNAM v Cruz Azul",
@@ -64,21 +94,6 @@
       "open_date": "2026-05-25 03:00"
     },
     {
-      "match": "America MG v Vila Nova",
-      "campionato": "Brazilian Serie B",
-      "volume": 1649,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622055",
-      "market_id": "1.258516153",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 23:30"
-    },
-    {
       "match": "Avai v Goias",
       "campionato": "Brazilian Serie B",
       "volume": 1099,
@@ -109,19 +124,19 @@
       "open_date": "2026-05-25 00:00"
     },
     {
-      "match": "Alianza FC Valledupar v Atletico Bucaramanga",
-      "campionato": "Colombian Cup",
-      "volume": 747,
-      "quota": 1.09,
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 736,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647313",
-      "market_id": "1.258563622",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 22:30"
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
     },
     {
       "match": "Suwon Bluewings v Cheonan City",
@@ -169,21 +184,6 @@
       "open_date": "2026-05-25 01:10"
     },
     {
-      "match": "CD Motagua v CD Marathon",
-      "campionato": "Honduras Liga Nacional",
-      "volume": 136,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640242",
-      "market_id": "1.258503912",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 01:00"
-    },
-    {
       "match": "Los Angeles FC v Seattle Sounders",
       "campionato": "US MLS",
       "volume": 130,
@@ -197,21 +197,6 @@
       "market_id": "1.258365180",
       "_is_inplay": false,
       "open_date": "2026-05-25 03:15"
-    },
-    {
-      "match": "Columbus v Atlanta Utd",
-      "campionato": "US MLS",
-      "volume": 72,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618891",
-      "market_id": "1.258328622",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 23:00"
     },
     {
       "match": "Defensor Sporting v Penarol",
@@ -244,19 +229,19 @@
       "open_date": "2026-05-25 09:30"
     },
     {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 45,
-      "quota": 1.2,
+      "match": "Alianza FC Valledupar v Atletico Bucaramanga",
+      "campionato": "Colombian Cup",
+      "volume": 42,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
+      "event_id": "35647313",
+      "market_id": "1.258563622",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 22:30"
     },
     {
       "match": "CA Guemes v Patronato",
@@ -289,32 +274,17 @@
       "open_date": "2026-05-24 23:30"
     },
     {
-      "match": "Montego Bay United v Mount Pleasant FC",
-      "campionato": "Jamaican Premier League",
+      "match": "CD Motagua v CD Marathon",
+      "campionato": "Honduras Liga Nacional",
       "volume": 15,
-      "quota": 1.11,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35642168",
-      "market_id": "1.258534331",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 00:00"
-    },
-    {
-      "match": "Inter Miami CF v Philadelphia",
-      "campionato": "US MLS",
-      "volume": 15,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618921",
-      "market_id": "1.258328643",
+      "event_id": "35640242",
+      "market_id": "1.258503912",
       "_is_inplay": false,
       "open_date": "2026-05-25 01:00"
     },
@@ -543,18 +513,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258328643",
-      "match": "Inter Miami CF v Philadelphia",
-      "campionato": "US MLS",
-      "open_date": "2026-05-25 01:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.07,
-      "volume": 15,
-      "best_volume": 346,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258365180",
       "match": "Los Angeles FC v Seattle Sounders",
       "campionato": "US MLS",
@@ -609,8 +567,8 @@
       "open_date": "2026-05-24 23:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 72,
-      "best_volume": 2457,
+      "volume": 6729,
+      "best_volume": 6729,
       "whale_max": 0,
       "entered": false
     },
@@ -639,26 +597,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258554906",
-      "match": "Cavalier v Portmore Utd",
-      "campionato": "Jamaican Premier League",
-      "open_date": "2026-05-25 03:00",
+      "event_id": "bf_1.258522151",
+      "match": "CA Guemes v Patronato",
+      "campionato": "Argentinian Primera Nacional",
+      "open_date": "2026-05-24 23:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 2099,
-      "best_volume": 2099,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258494055",
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 13:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 304,
-      "best_volume": 304,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
