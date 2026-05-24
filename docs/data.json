@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 11:20:02",
+  "last_update": "24/05/2026 11:20:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
-      "volume": 15085,
+      "volume": 12323,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -49,9 +49,24 @@
       "open_date": "2026-05-24 13:35"
     },
     {
+      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
+      "campionato": "Chinese Super League",
+      "volume": 1986,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632388",
+      "market_id": "1.258450870",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 11:00"
+    },
+    {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1631,
+      "volume": 1510,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -62,6 +77,21 @@
       "market_id": "1.258473887",
       "_is_inplay": false,
       "open_date": "2026-05-22 21:00"
+    },
+    {
+      "match": "VMFD Zalgiris v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 1225,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634800",
+      "market_id": "1.258453767",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 13:15"
     },
     {
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
@@ -169,36 +199,6 @@
       "open_date": "2026-05-24 12:00"
     },
     {
-      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
-      "campionato": "Chinese Super League",
-      "volume": 357,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632388",
-      "market_id": "1.258450870",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 11:00"
-    },
-    {
-      "match": "VMFD Zalgiris v Hegelmann Litauen",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 335,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634800",
-      "market_id": "1.258453767",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 13:15"
-    },
-    {
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
       "volume": 265,
@@ -246,8 +246,8 @@
     {
       "match": "Yongin FC v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 50,
-      "quota": 3.25,
+      "volume": 46,
+      "quota": 3.75,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -351,7 +351,7 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 15085,
+      "volume": 12323,
       "best_volume": 17325,
       "whale_max": 0,
       "entered": false
@@ -423,7 +423,7 @@
       "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 1631,
+      "volume": 1510,
       "best_volume": 4401,
       "whale_max": 0,
       "entered": false
@@ -481,9 +481,9 @@
       "match": "VMFD Zalgiris v Hegelmann Litauen",
       "campionato": "Lithuanian A Lyga",
       "open_date": "2026-05-24 13:15",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 335,
+      "volume": 1225,
       "best_volume": 1560,
       "whale_max": 0,
       "entered": false
