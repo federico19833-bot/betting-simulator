@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:09:56",
+  "last_update": "24/05/2026 13:10:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Yunnan Yukun v Qingdao Youth Island",
       "campionato": "Chinese Super League",
-      "volume": 15519,
+      "volume": 15523,
       "quota": 1.25,
       "in_range": false,
       "monitored": false,
@@ -45,6 +45,21 @@
       "source": "Betfair",
       "event_id": "35632382",
       "market_id": "1.258453708",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "Umea FC v IF Karlstad",
+      "campionato": "Swedish Division 1",
+      "volume": 7473,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628207",
+      "market_id": "1.258453684",
       "_is_inplay": true,
       "open_date": "2026-05-24 13:00"
     },
@@ -124,6 +139,21 @@
       "open_date": "2026-05-24 15:00"
     },
     {
+      "match": "Imisli FK v Karvan Evlakh",
+      "campionato": "Azerbaijan Premier League",
+      "volume": 933,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639482",
+      "market_id": "1.258498721",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Slavia Prague v Plzen",
       "campionato": "Czech 1 Liga",
       "volume": 708,
@@ -135,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35620052",
       "market_id": "1.258382862",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "Imisli FK v Karvan Evlakh",
-      "campionato": "Azerbaijan Premier League",
-      "volume": 556,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639482",
-      "market_id": "1.258498721",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
     },
@@ -199,39 +214,24 @@
       "open_date": "2026-05-24 13:15"
     },
     {
-      "match": "Umea FC v IF Karlstad",
-      "campionato": "Swedish Division 1",
-      "volume": 106,
-      "quota": 1.04,
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 261,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35628207",
-      "market_id": "1.258453684",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 13:00"
-    },
-    {
-      "match": "Ajax v FC Utrecht",
-      "campionato": "Dutch Eredivisie",
-      "volume": 91,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638803",
-      "market_id": "1.258487008",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:15"
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 77,
+      "volume": 113,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -242,21 +242,6 @@
       "market_id": "1.258472121",
       "_is_inplay": false,
       "open_date": "2026-05-23 02:00"
-    },
-    {
-      "match": "Veres Rivne v Metalist 1925",
-      "campionato": "Ukrainian Premier League",
-      "volume": 66,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Shandong Taishan v Wuhan Three Towns",
@@ -274,10 +259,40 @@
       "open_date": "2026-05-24 13:35"
     },
     {
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 57,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "volume": 53,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638803",
+      "market_id": "1.258487008",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:15"
+    },
+    {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 15,
-      "quota": 1.66,
+      "volume": 25,
+      "quota": 1.63,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -332,21 +347,6 @@
       "market_id": "1.258498500",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 13,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "OLS v FC Jazz",
@@ -456,7 +456,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 556,
+      "volume": 933,
       "best_volume": 1213,
       "whale_max": 0,
       "entered": false
@@ -480,7 +480,7 @@
       "open_date": "2026-05-24 12:15",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 91,
+      "volume": 53,
       "best_volume": 2530,
       "whale_max": 0,
       "entered": false
@@ -528,7 +528,7 @@
       "open_date": "2026-05-23 02:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 77,
+      "volume": 113,
       "best_volume": 2635,
       "whale_max": 0,
       "entered": false
@@ -576,8 +576,8 @@
       "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 13,
-      "best_volume": 113,
+      "volume": 261,
+      "best_volume": 261,
       "whale_max": 0,
       "entered": false
     },
@@ -600,8 +600,8 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 106,
-      "best_volume": 106,
+      "volume": 7473,
+      "best_volume": 7473,
       "whale_max": 0,
       "entered": false
     },
