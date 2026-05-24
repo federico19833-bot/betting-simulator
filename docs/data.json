@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 02:12:18",
+  "last_update": "24/05/2026 02:13:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,21 +34,6 @@
       "open_date": "2026-05-24T01:30:00.000Z"
     },
     {
-      "match": "Juventude v Sport Recife",
-      "campionato": "Brazilian Serie B",
-      "volume": 3426,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622054",
-      "market_id": "1.258322359",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T23:30:00.000Z"
-    },
-    {
       "match": "San Diego FC v Vancouver Whitecaps",
       "campionato": "US MLS",
       "volume": 2328,
@@ -62,6 +47,21 @@
       "market_id": "1.258321866",
       "_is_inplay": false,
       "open_date": "2026-05-24T01:30:00.000Z"
+    },
+    {
+      "match": "Atletico Nacional Medellin v Tolima",
+      "campionato": "Colombian Primera A",
+      "volume": 1908,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618046",
+      "market_id": "1.258405477",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
       "match": "Yongin FC v Chungnam Asan",
@@ -109,6 +109,21 @@
       "open_date": "2026-05-24T10:00:00.000Z"
     },
     {
+      "match": "Juventude v Sport Recife",
+      "campionato": "Brazilian Serie B",
+      "volume": 1292,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622054",
+      "market_id": "1.258322359",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T23:30:00.000Z"
+    },
+    {
       "match": "Kansas City v New York Red Bulls",
       "campionato": "US MLS",
       "volume": 985,
@@ -122,21 +137,6 @@
       "market_id": "1.258321971",
       "_is_inplay": false,
       "open_date": "2026-05-24T00:40:00.000Z"
-    },
-    {
-      "match": "Atletico Nacional Medellin v Tolima",
-      "campionato": "Colombian Primera A",
-      "volume": 882,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618046",
-      "market_id": "1.258405477",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T23:00:00.000Z"
     },
     {
       "match": "Dynamo Kiev v FK Kudrivka",
@@ -201,8 +201,8 @@
     {
       "match": "Deportivo Cuenca v LDU",
       "campionato": "Ecuadorian Serie A",
-      "volume": 156,
-      "quota": 1.28,
+      "volume": 73,
+      "quota": 1.29,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -302,6 +302,21 @@
       "market_id": "1.258322076",
       "_is_inplay": false,
       "open_date": "2026-05-24T01:30:00.000Z"
+    },
+    {
+      "match": "Cusco FC v Atletico Grau",
+      "campionato": "Peruvian Primera Division",
+      "volume": 12,
+      "quota": 9.8,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618032",
+      "market_id": "1.258288022",
+      "_is_inplay": true,
+      "open_date": "2026-05-23T22:15:00.000Z"
     }
   ],
   "tracked_matches": [
@@ -506,18 +521,6 @@
       "quota_iniziale": 1.09,
       "volume": 258,
       "best_volume": 258,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258325697",
-      "match": "Portland Timbers v San Jose Earthquakes",
-      "campionato": "US MLS",
-      "open_date": "2026-05-24T01:30:00.000Z",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 11079,
-      "best_volume": 11079,
       "whale_max": 0,
       "entered": false
     }
