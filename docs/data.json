@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 01:19:03",
+  "last_update": "25/05/2026 01:19:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "Corinthians v Atletico MG",
       "campionato": "Brazilian Serie A",
-      "volume": 1381,
+      "volume": 1504,
       "quota": 1.16,
       "in_range": false,
       "monitored": false,
@@ -171,8 +171,8 @@
     {
       "match": "CA Guemes v Patronato",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 502,
-      "quota": 1.46,
+      "volume": 465,
+      "quota": 1.47,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -244,24 +244,9 @@
       "open_date": "2026-05-25 03:00"
     },
     {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 128,
-      "quota": 1.69,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
-    },
-    {
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 49,
+      "volume": 52,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -289,10 +274,25 @@
       "open_date": "2026-05-25 01:30"
     },
     {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 32,
+      "quota": 1.66,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
+    },
+    {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 17,
-      "quota": 4.6,
+      "volume": 26,
+      "quota": 5.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -321,8 +321,8 @@
     {
       "match": "Avai v Goias",
       "campionato": "Brazilian Serie B",
-      "volume": 12,
-      "quota": 4.0,
+      "volume": 13,
+      "quota": 3.65,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -596,6 +596,30 @@
       "quota_iniziale": 1.05,
       "volume": 726,
       "best_volume": 726,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258486278",
+      "match": "Pumas UNAM v Cruz Azul",
+      "campionato": "Mexican Liga MX",
+      "open_date": "2026-05-25 03:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 2099,
+      "best_volume": 2099,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258494055",
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 13:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 304,
+      "best_volume": 304,
       "whale_max": 0,
       "entered": false
     }
