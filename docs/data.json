@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 14:52:56",
+  "last_update": "24/05/2026 14:53:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Hammarby v AIK",
       "campionato": "Swedish Allsvenskan",
-      "volume": 38015,
+      "volume": 38512,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-24 16:00"
     },
     {
-      "match": "Club Sportif Sfaxien v Esperance Sportive Zarzis",
-      "campionato": "Tunisian Cup",
-      "volume": 1213,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35643304",
-      "market_id": "1.258535936",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 16:30"
-    },
-    {
       "match": "Malmo FF v Vasteras SK",
       "campionato": "Swedish Allsvenskan",
       "volume": 1138,
@@ -94,21 +79,6 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1117,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
-    },
-    {
       "match": "Parnu JK Vaprus v FCI Tallinn",
       "campionato": "Estonian Premier League",
       "volume": 918,
@@ -122,6 +92,36 @@
       "market_id": "1.258511106",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
+    },
+    {
+      "match": "KF Drita v KF Gjilani",
+      "campionato": "Kosovan Superliga",
+      "volume": 857,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646725",
+      "market_id": "1.258559239",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 16:00"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 422,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "LKS Lodz v Gornik Leczna",
@@ -156,7 +156,7 @@
     {
       "match": "Cerro v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 131,
+      "volume": 156,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -199,9 +199,24 @@
       "open_date": "2026-05-24 16:30"
     },
     {
+      "match": "Club Sportif Sfaxien v Esperance Sportive Zarzis",
+      "campionato": "Tunisian Cup",
+      "volume": 81,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35643304",
+      "market_id": "1.258535936",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 16:30"
+    },
+    {
       "match": "FC Maardu v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 83,
+      "volume": 60,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -240,21 +255,6 @@
       "source": "Betfair",
       "event_id": "35619973",
       "market_id": "1.258472782",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 16:00"
-    },
-    {
-      "match": "KF Drita v KF Gjilani",
-      "campionato": "Kosovan Superliga",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646725",
-      "market_id": "1.258559239",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
     },
@@ -345,7 +345,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 38015,
+      "volume": 38512,
       "best_volume": 38688,
       "whale_max": 0,
       "entered": true
@@ -475,9 +475,9 @@
       "match": "Club Sportif Sfaxien v Esperance Sportive Zarzis",
       "campionato": "Tunisian Cup",
       "open_date": "2026-05-24 16:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1213,
+      "volume": 81,
       "best_volume": 1213,
       "whale_max": 0,
       "entered": false
@@ -499,9 +499,9 @@
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-22 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1117,
+      "volume": 422,
       "best_volume": 1117,
       "whale_max": 0,
       "entered": false
@@ -511,9 +511,9 @@
       "match": "KF Drita v KF Gjilani",
       "campionato": "Kosovan Superliga",
       "open_date": "2026-05-24 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 857,
       "best_volume": 857,
       "whale_max": 0,
       "entered": false
@@ -531,14 +531,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258530277",
-      "match": "LKS Lodz v Gornik Leczna",
-      "campionato": "Polish I Liga",
-      "open_date": "2026-05-24 16:30",
+      "event_id": "bf_1.258332501",
+      "match": "Parma v Sassuolo",
+      "campionato": "Italian Serie A",
+      "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 246,
-      "best_volume": 246,
+      "volume": 156,
+      "best_volume": 156,
       "whale_max": 0,
       "entered": false
     }
