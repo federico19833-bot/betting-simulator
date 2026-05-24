@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 21:47:18",
+  "last_update": "24/05/2026 21:48:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 19180,
+      "volume": 19202,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Chacarita v Almagro BA",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 6797,
+      "volume": 6315,
       "quota": 1.19,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,21 @@
       "market_id": "1.258522179",
       "_is_inplay": true,
       "open_date": "2026-05-24 20:30"
+    },
+    {
+      "match": "Atletico GO v Sao Bernardo",
+      "campionato": "Brazilian Serie B",
+      "volume": 3480,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35621784",
+      "market_id": "1.258513618",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 21:00"
     },
     {
       "match": "Alianza Atletico v FC Cajamarca",
@@ -229,21 +244,6 @@
       "open_date": "2026-05-24 22:30"
     },
     {
-      "match": "Godoy Cruz v All Boys",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 134,
-      "quota": 1.58,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624772",
-      "market_id": "1.258522938",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 21:30"
-    },
-    {
       "match": "Defensor Sporting v Penarol",
       "campionato": "Uruguayan Primera Division",
       "volume": 100,
@@ -257,6 +257,21 @@
       "market_id": "1.258325544",
       "_is_inplay": false,
       "open_date": "2026-05-24 23:30"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 75,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Columbus v Atlanta Utd",
@@ -274,25 +289,25 @@
       "open_date": "2026-05-24 23:00"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 73,
-      "quota": 1.25,
+      "match": "Godoy Cruz v All Boys",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 49,
+      "quota": 1.6,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
+      "event_id": "35624772",
+      "market_id": "1.258522938",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 21:30"
     },
     {
       "match": "CRB v Ponte Preta",
       "campionato": "Brazilian Serie B",
-      "volume": 62,
-      "quota": 1.22,
+      "volume": 43,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -304,25 +319,10 @@
       "open_date": "2026-05-24 21:30"
     },
     {
-      "match": "Agropecuario v Quilmes",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 37,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624778",
-      "market_id": "1.258522165",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 21:00"
-    },
-    {
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 29,
-      "quota": 1.54,
+      "volume": 25,
+      "quota": 1.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -349,17 +349,17 @@
       "open_date": "2026-05-24 21:00"
     },
     {
-      "match": "Atletico GO v Sao Bernardo",
-      "campionato": "Brazilian Serie B",
+      "match": "Agropecuario v Quilmes",
+      "campionato": "Argentinian Primera Nacional",
       "volume": 15,
-      "quota": 1.1,
+      "quota": 1.32,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35621784",
-      "market_id": "1.258513618",
+      "event_id": "35624778",
+      "market_id": "1.258522165",
       "_is_inplay": true,
       "open_date": "2026-05-24 21:00"
     },
@@ -699,8 +699,8 @@
       "open_date": "2026-05-23 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 19180,
-      "best_volume": 19180,
+      "volume": 19202,
+      "best_volume": 19202,
       "whale_max": 0,
       "entered": false
     },
@@ -741,14 +741,50 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258522207",
-      "match": "Club Gimnasia y Tiro v Gimnasia Jujuy",
-      "campionato": "Argentinian Primera Nacional",
-      "open_date": "2026-05-24 23:30",
+      "event_id": "bf_1.258513618",
+      "match": "Atletico GO v Sao Bernardo",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-24 21:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 3480,
+      "best_volume": 3480,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258563622",
+      "match": "Alianza FC Valledupar v Atletico Bucaramanga",
+      "campionato": "Colombian Cup",
+      "open_date": "2026-05-24 22:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258534924",
+      "match": "Real Santander v Deportivo Cali",
+      "campionato": "Colombian Cup",
+      "open_date": "2026-05-24 22:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 145,
+      "best_volume": 145,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258497196",
+      "match": "Estudiantes de Merida v Metropolitanos",
+      "campionato": "Venezuelan Primera Division",
+      "open_date": "2026-05-24 23:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 152,
+      "best_volume": 152,
       "whale_max": 0,
       "entered": false
     }
