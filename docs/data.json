@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:35:49",
+  "last_update": "24/05/2026 12:36:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2603,
+      "volume": 2633,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -92,6 +92,21 @@
       "market_id": "1.258383020",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 1523,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Bolton v Stockport",
@@ -229,24 +244,9 @@
       "open_date": "2026-05-24 12:15"
     },
     {
-      "match": "Veres Rivne v Metalist 1925",
-      "campionato": "Ukrainian Premier League",
-      "volume": 84,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
-      "volume": 70,
+      "volume": 66,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -531,7 +531,7 @@
       "open_date": "2026-05-24 01:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2603,
+      "volume": 2633,
       "best_volume": 7861,
       "whale_max": 0,
       "entered": false
