@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:51:23",
+  "last_update": "24/05/2026 13:52:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Sparta Prague v Hradec Kralove",
+      "campionato": "Czech 1 Liga",
+      "volume": 9514,
+      "quota": 1.08,
+      "in_range": true,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620055",
+      "market_id": "1.258383020",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
       "volume": 9090,
@@ -32,21 +47,6 @@
       "market_id": "1.258487008",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:15"
-    },
-    {
-      "match": "Sparta Prague v Hradec Kralove",
-      "campionato": "Czech 1 Liga",
-      "volume": 8656,
-      "quota": 1.08,
-      "in_range": true,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620055",
-      "market_id": "1.258383020",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "Bolton v Stockport",
@@ -154,21 +154,6 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "FK Jablonec v Slovan Liberec",
-      "campionato": "Czech 1 Liga",
-      "volume": 348,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620053",
-      "market_id": "1.258382841",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "Cerro v Central Espanol",
       "campionato": "Uruguayan Primera Division",
       "volume": 294,
@@ -186,8 +171,8 @@
     {
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
-      "volume": 128,
-      "quota": 1.87,
+      "volume": 133,
+      "quota": 1.79,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -255,6 +240,21 @@
       "source": "Betfair",
       "event_id": "35641587",
       "market_id": "1.258531733",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "FK Jablonec v Slovan Liberec",
+      "campionato": "Czech 1 Liga",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620053",
+      "market_id": "1.258382841",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
     },
@@ -412,9 +412,9 @@
       "match": "FK Jablonec v Slovan Liberec",
       "campionato": "Czech 1 Liga",
       "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.07,
-      "volume": 348,
+      "volume": 15,
       "best_volume": 22667,
       "whale_max": 0,
       "entered": false
@@ -426,7 +426,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 8656,
+      "volume": 9514,
       "best_volume": 12373,
       "whale_max": 0,
       "entered": false
@@ -488,18 +488,6 @@
       "quota_iniziale": 1.03,
       "volume": 857,
       "best_volume": 857,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258487008",
-      "match": "Ajax v FC Utrecht",
-      "campionato": "Dutch Eredivisie",
-      "open_date": "2026-05-24 12:15",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 9090,
-      "best_volume": 9090,
       "whale_max": 0,
       "entered": false
     }
