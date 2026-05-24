@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 04:07:09",
+  "last_update": "24/05/2026 04:07:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Junior FC Barranquilla v Santa Fe",
       "campionato": "Colombian Primera A",
-      "volume": 3565,
+      "volume": 3725,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -156,8 +156,8 @@
     {
       "match": "Xelaju v CSD Municipal",
       "campionato": "Guatemalan Liga Nacional",
-      "volume": 63,
-      "quota": 1.25,
+      "volume": 143,
+      "quota": 1.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -167,6 +167,21 @@
       "market_id": "1.258443134",
       "_is_inplay": true,
       "open_date": "2026-05-24T02:00:00.000Z"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 122,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22T19:00:00.000Z"
     },
     {
       "match": "San Diego FC v Vancouver Whitecaps",
@@ -387,7 +402,7 @@
       "open_date": "2026-05-24T01:30:00.000Z",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 3565,
+      "volume": 3725,
       "best_volume": 6856,
       "whale_max": 0,
       "entered": false
@@ -401,18 +416,6 @@
       "quota_iniziale": 1.06,
       "volume": 1883,
       "best_volume": 1883,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258452880",
-      "match": "Dynamo Kiev v FK Kudrivka",
-      "campionato": "Ukrainian Premier League",
-      "open_date": "2026-05-24T10:00:00.000Z",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 249,
-      "best_volume": 249,
       "whale_max": 0,
       "entered": false
     },
@@ -449,6 +452,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258473887",
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-22T19:00:00.000Z",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 122,
+      "best_volume": 122,
       "whale_max": 0,
       "entered": false
     }
