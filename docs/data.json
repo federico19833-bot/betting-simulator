@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:52:10",
+  "last_update": "24/05/2026 13:52:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -167,21 +167,6 @@
       "market_id": "1.258325565",
       "_is_inplay": false,
       "open_date": "2026-05-24 15:00"
-    },
-    {
-      "match": "Stade Lausanne-Ouchy v St Gallen",
-      "campionato": "Swiss Cup",
-      "volume": 133,
-      "quota": 1.79,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35642681",
-      "market_id": "1.258535663",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
@@ -488,6 +473,18 @@
       "quota_iniziale": 1.03,
       "volume": 857,
       "best_volume": 857,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258487008",
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "open_date": "2026-05-24 12:15",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 9090,
+      "best_volume": 9090,
       "whale_max": 0,
       "entered": false
     }
