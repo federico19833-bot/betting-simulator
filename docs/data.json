@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 02:14:17",
+  "last_update": "24/05/2026 02:15:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -109,21 +109,6 @@
       "open_date": "2026-05-24T00:40:00.000Z"
     },
     {
-      "match": "Atletico Nacional Medellin v Tolima",
-      "campionato": "Colombian Primera A",
-      "volume": 882,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618046",
-      "market_id": "1.258405477",
-      "_is_inplay": true,
-      "open_date": "2026-05-23T23:00:00.000Z"
-    },
-    {
       "match": "Dynamo Kiev v FK Kudrivka",
       "campionato": "Ukrainian Premier League",
       "volume": 772,
@@ -201,8 +186,8 @@
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 73,
-      "quota": 1.29,
+      "volume": 71,
+      "quota": 1.34,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -494,6 +479,18 @@
       "quota_iniziale": 1.04,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258322359",
+      "match": "Juventude v Sport Recife",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-23T23:30:00.000Z",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 11079,
+      "best_volume": 11079,
       "whale_max": 0,
       "entered": false
     }
