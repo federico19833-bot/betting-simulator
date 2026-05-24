@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 13:17:03",
+  "last_update": "24/05/2026 13:17:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Slavia Prague v Plzen",
       "campionato": "Czech 1 Liga",
-      "volume": 21605,
+      "volume": 20392,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -36,8 +36,8 @@
     {
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 14341,
-      "quota": 1.23,
+      "volume": 14005,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,19 +49,19 @@
       "open_date": "2026-05-23 02:00"
     },
     {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 5213,
+      "match": "OLS v FC Jazz",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2803,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
+      "event_id": "35634750",
+      "market_id": "1.258524545",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 13:00"
     },
     {
       "match": "Shandong Taishan v Wuhan Three Towns",
@@ -77,6 +77,21 @@
       "market_id": "1.258454517",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:35"
+    },
+    {
+      "match": "Ajax v FC Utrecht",
+      "campionato": "Dutch Eredivisie",
+      "volume": 2123,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638803",
+      "market_id": "1.258487008",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:15"
     },
     {
       "match": "Club Independiente Petrolero v Real Potosi",
@@ -109,6 +124,21 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "FC Elva v Tallinna Kalev",
+      "campionato": "Estonian Esiliiga",
+      "volume": 1026,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639826",
+      "market_id": "1.258498500",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Cerro v Central Espanol",
       "campionato": "Uruguayan Primera Division",
       "volume": 1024,
@@ -124,21 +154,6 @@
       "open_date": "2026-05-24 15:00"
     },
     {
-      "match": "Umea FC v IF Karlstad",
-      "campionato": "Swedish Division 1",
-      "volume": 853,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628207",
-      "market_id": "1.258453684",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 13:00"
-    },
-    {
       "match": "Imisli FK v Karvan Evlakh",
       "campionato": "Azerbaijan Premier League",
       "volume": 708,
@@ -150,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35639482",
       "market_id": "1.258498721",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "FC Elva v Tallinna Kalev",
-      "campionato": "Estonian Esiliiga",
-      "volume": 599,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639826",
-      "market_id": "1.258498500",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
     },
@@ -216,7 +216,7 @@
     {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 312,
+      "volume": 380,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -229,40 +229,25 @@
       "open_date": "2026-05-23 21:00"
     },
     {
-      "match": "OLS v FC Jazz",
-      "campionato": "Finnish Ykkonen",
-      "volume": 113,
-      "quota": 1.04,
+      "match": "Umea FC v IF Karlstad",
+      "campionato": "Swedish Division 1",
+      "volume": 200,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35634750",
-      "market_id": "1.258524545",
+      "event_id": "35628207",
+      "market_id": "1.258453684",
       "_is_inplay": true,
       "open_date": "2026-05-24 13:00"
-    },
-    {
-      "match": "Ajax v FC Utrecht",
-      "campionato": "Dutch Eredivisie",
-      "volume": 98,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638803",
-      "market_id": "1.258487008",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:15"
     },
     {
       "match": "Veres Rivne v Metalist 1925",
       "campionato": "Ukrainian Premier League",
       "volume": 66,
-      "quota": 1.35,
+      "quota": 1.36,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -270,21 +255,6 @@
       "source": "Betfair",
       "event_id": "35627395",
       "market_id": "1.258452858",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
-      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
-      "campionato": "Ukrainian Premier League",
-      "volume": 49,
-      "quota": 1.76,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627409",
-      "market_id": "1.258452901",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -304,6 +274,21 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
+      "campionato": "Ukrainian Premier League",
+      "volume": 38,
+      "quota": 1.77,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627409",
+      "market_id": "1.258452901",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
       "match": "Shanghai Shenhua v Shenzhen Peng City",
       "campionato": "Chinese Super League",
       "volume": 19,
@@ -317,6 +302,21 @@
       "market_id": "1.258454557",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
@@ -420,7 +420,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 21605,
+      "volume": 20392,
       "best_volume": 21605,
       "whale_max": 0,
       "entered": true
@@ -456,7 +456,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 599,
+      "volume": 1026,
       "best_volume": 1213,
       "whale_max": 0,
       "entered": false
@@ -468,7 +468,7 @@
       "open_date": "2026-05-24 12:15",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 98,
+      "volume": 2123,
       "best_volume": 2530,
       "whale_max": 0,
       "entered": false
@@ -492,7 +492,7 @@
       "open_date": "2026-05-23 21:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.01,
-      "volume": 312,
+      "volume": 380,
       "best_volume": 5213,
       "whale_max": 0,
       "entered": false
@@ -540,8 +540,8 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 113,
-      "best_volume": 745,
+      "volume": 2803,
+      "best_volume": 2803,
       "whale_max": 0,
       "entered": false
     },
@@ -574,9 +574,9 @@
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 5213,
+      "volume": 15,
       "best_volume": 5213,
       "whale_max": 0,
       "entered": false
@@ -648,7 +648,7 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 853,
+      "volume": 200,
       "best_volume": 853,
       "whale_max": 0,
       "entered": false
