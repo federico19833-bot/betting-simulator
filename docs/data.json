@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 14:09:06",
+  "last_update": "24/05/2026 14:09:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 73,
+    "total": 74,
     "wins": 67,
     "losses": 5,
-    "in_corso": 1,
+    "in_corso": 2,
     "winrate": 93.1,
     "profit": -22.16,
     "roi": -0.3,
@@ -19,24 +19,9 @@
   },
   "live_events": [
     {
-      "match": "Stade Lausanne-Ouchy v St Gallen",
-      "campionato": "Swiss Cup",
-      "volume": 15070,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35642681",
-      "market_id": "1.258535663",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 12704,
+      "volume": 22784,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -49,17 +34,17 @@
       "open_date": "2026-05-23 02:00"
     },
     {
-      "match": "Hammarby v AIK",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 3928,
-      "quota": 1.06,
+      "match": "Stade Lausanne-Ouchy v St Gallen",
+      "campionato": "Swiss Cup",
+      "volume": 15014,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35625107",
-      "market_id": "1.258356443",
+      "event_id": "35642681",
+      "market_id": "1.258535663",
       "_is_inplay": true,
       "open_date": "2026-05-24 14:00"
     },
@@ -111,7 +96,7 @@
     {
       "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1233,
+      "volume": 1072,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -126,7 +111,7 @@
     {
       "match": "HB Koge v Hobro",
       "campionato": "Danish 1st Division",
-      "volume": 995,
+      "volume": 1002,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -141,7 +126,7 @@
     {
       "match": "Imisli FK v Karvan Evlakh",
       "campionato": "Azerbaijan Premier League",
-      "volume": 949,
+      "volume": 981,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -186,7 +171,7 @@
     {
       "match": "Sparta Prague v Hradec Kralove",
       "campionato": "Czech 1 Liga",
-      "volume": 379,
+      "volume": 386,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -212,6 +197,21 @@
       "market_id": "1.258473117",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:30"
+    },
+    {
+      "match": "FK Riga v SK Super Nova",
+      "campionato": "Latvian Virsliga",
+      "volume": 282,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641587",
+      "market_id": "1.258531733",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "KF Drita v KF Gjilani",
@@ -259,21 +259,6 @@
       "open_date": "2026-05-24 16:00"
     },
     {
-      "match": "FC Elva v Tallinna Kalev",
-      "campionato": "Estonian Esiliiga",
-      "volume": 155,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639826",
-      "market_id": "1.258498500",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "FK Jablonec v Slovan Liberec",
       "campionato": "Czech 1 Liga",
       "volume": 112,
@@ -304,6 +289,21 @@
       "open_date": "2026-05-24 16:00"
     },
     {
+      "match": "Hammarby v AIK",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 89,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625107",
+      "market_id": "1.258356443",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
       "match": "Club Sportif Sfaxien v Esperance Sportive Zarzis",
       "campionato": "Tunisian Cup",
       "volume": 81,
@@ -319,25 +319,10 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "FK Riga v SK Super Nova",
-      "campionato": "Latvian Virsliga",
-      "volume": 75,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641587",
-      "market_id": "1.258531733",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "Sirius v GAIS",
       "campionato": "Swedish Allsvenskan",
-      "volume": 69,
-      "quota": 4.5,
+      "volume": 48,
+      "quota": 4.6,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -429,25 +414,13 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258498500",
-      "match": "FC Elva v Tallinna Kalev",
-      "campionato": "Estonian Esiliiga",
-      "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.02,
-      "volume": 155,
-      "best_volume": 22667,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258472782",
       "match": "HB Koge v Hobro",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-24 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 995,
+      "volume": 1002,
       "best_volume": 1706,
       "whale_max": 0,
       "entered": false
@@ -471,7 +444,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 3928,
+      "volume": 89,
       "best_volume": 3928,
       "whale_max": 0,
       "entered": false
@@ -553,12 +526,12 @@
       "match": "Stade Lausanne-Ouchy v St Gallen",
       "campionato": "Swiss Cup",
       "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 15070,
+      "volume": 15014,
       "best_volume": 15070,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258473887",
@@ -591,8 +564,8 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 379,
-      "best_volume": 379,
+      "volume": 386,
+      "best_volume": 386,
       "whale_max": 0,
       "entered": false
     },
@@ -603,8 +576,8 @@
       "open_date": "2026-05-23 02:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 12704,
-      "best_volume": 15770,
+      "volume": 22784,
+      "best_volume": 22784,
       "whale_max": 0,
       "entered": false
     },
@@ -637,10 +610,10 @@
       "match": "FK Riga v SK Super Nova",
       "campionato": "Latvian Virsliga",
       "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 75,
-      "best_volume": 217,
+      "volume": 282,
+      "best_volume": 282,
       "whale_max": 0,
       "entered": false
     },
@@ -651,7 +624,7 @@
       "open_date": "2026-05-23 21:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1233,
+      "volume": 1072,
       "best_volume": 1233,
       "whale_max": 0,
       "entered": false
@@ -679,9 +652,47 @@
       "best_volume": 178,
       "whale_max": 0,
       "entered": false
+    },
+    {
+      "event_id": "bf_1.258498721",
+      "match": "Imisli FK v Karvan Evlakh",
+      "campionato": "Azerbaijan Premier League",
+      "open_date": "2026-05-24 14:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 981,
+      "best_volume": 981,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258530277",
+      "match": "LKS Lodz v Gornik Leczna",
+      "campionato": "Polish I Liga",
+      "open_date": "2026-05-24 16:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 246,
+      "best_volume": 246,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
+    {
+      "id": 83,
+      "orario": "2026-05-24 14:09:53",
+      "match": "Stade Lausanne-Ouchy v St Gallen",
+      "campionato": "Swiss Cup",
+      "quota": 1.09,
+      "volume": 15070,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 82,
       "orario": "2026-05-24 14:03:17",
