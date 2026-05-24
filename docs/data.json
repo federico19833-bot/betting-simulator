@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:11:50",
+  "last_update": "24/05/2026 12:12:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "FC Tallinn v Viimsi JK",
       "campionato": "Estonian Esiliiga",
-      "volume": 15369,
+      "volume": 15350,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -34,24 +34,9 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Dynamo Kiev v FK Kudrivka",
-      "campionato": "Ukrainian Premier League",
-      "volume": 3616,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627402",
-      "market_id": "1.258452880",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
-    },
-    {
       "match": "Veres Rivne v Metalist 1925",
       "campionato": "Ukrainian Premier League",
-      "volume": 2954,
+      "volume": 3014,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -60,6 +45,21 @@
       "source": "Betfair",
       "event_id": "35627395",
       "market_id": "1.258452858",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Seoul E-Land FC v Seongnam FC",
+      "campionato": "South Korean K2 League",
+      "volume": 2582,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35619112",
+      "market_id": "1.258452922",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -79,24 +79,24 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Seoul E-Land FC v Seongnam FC",
+      "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
-      "volume": 1375,
+      "volume": 1382,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35619112",
-      "market_id": "1.258452922",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Zhejiang Greentown v Liaoning Tieren FC",
       "campionato": "Chinese Super League",
-      "volume": 1114,
+      "volume": 1145,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
-      "campionato": "Chinese Super League",
-      "volume": 739,
-      "quota": 1.51,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632388",
-      "market_id": "1.258450870",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 11:00"
-    },
-    {
       "match": "Shandong Taishan v Wuhan Three Towns",
       "campionato": "Chinese Super League",
       "volume": 503,
@@ -197,21 +182,6 @@
       "market_id": "1.258524545",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
-    },
-    {
-      "match": "Polissya Zhytomyr v Rukh Vynnyky",
-      "campionato": "Ukrainian Premier League",
-      "volume": 479,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627404",
-      "market_id": "1.258452812",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "FK Riga v SK Super Nova",
@@ -289,9 +259,24 @@
       "open_date": "2026-05-23 23:15"
     },
     {
+      "match": "Polissya Zhytomyr v Rukh Vynnyky",
+      "campionato": "Ukrainian Premier League",
+      "volume": 253,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627404",
+      "market_id": "1.258452812",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 81,
+      "volume": 76,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -304,17 +289,32 @@
       "open_date": "2026-05-24 12:00"
     },
     {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
-      "volume": 17,
+      "match": "Qingdao Hainiu v Chongqing Tonglianglong",
+      "campionato": "Chinese Super League",
+      "volume": 54,
+      "quota": 1.53,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632388",
+      "market_id": "1.258450870",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 11:00"
+    },
+    {
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "volume": 39,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
+      "event_id": "35627402",
+      "market_id": "1.258452880",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -411,7 +411,7 @@
       "open_date": "2026-05-24 13:35",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 1114,
+      "volume": 1145,
       "best_volume": 2137,
       "whale_max": 0,
       "entered": false
@@ -531,7 +531,7 @@
       "open_date": "2026-05-24 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1375,
+      "volume": 2582,
       "best_volume": 3026,
       "whale_max": 0,
       "entered": false
@@ -541,9 +541,9 @@
       "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-24 12:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 17,
+      "volume": 1382,
       "best_volume": 2122,
       "whale_max": 0,
       "entered": false
@@ -579,7 +579,7 @@
       "open_date": "2026-05-24 12:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 81,
+      "volume": 76,
       "best_volume": 81,
       "whale_max": 0,
       "entered": false
@@ -639,7 +639,7 @@
       "open_date": "2026-05-24 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 15369,
+      "volume": 15350,
       "best_volume": 20625,
       "whale_max": 0,
       "entered": false
@@ -675,7 +675,7 @@
       "open_date": "2026-05-24 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 2954,
+      "volume": 3014,
       "best_volume": 3014,
       "whale_max": 0,
       "entered": false
@@ -685,9 +685,9 @@
       "match": "Dynamo Kiev v FK Kudrivka",
       "campionato": "Ukrainian Premier League",
       "open_date": "2026-05-24 12:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 3616,
+      "volume": 39,
       "best_volume": 3616,
       "whale_max": 0,
       "entered": false
