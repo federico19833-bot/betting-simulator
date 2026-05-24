@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:28:38",
+  "last_update": "24/05/2026 12:29:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,24 +19,9 @@
   },
   "live_events": [
     {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 8900,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
-    },
-    {
       "match": "FC Maardu v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 3300,
+      "volume": 2386,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -75,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35625107",
       "market_id": "1.258356443",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "Bolton v Stockport",
+      "campionato": "English Sky Bet League 1",
+      "volume": 1228,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35611341",
+      "market_id": "1.258322118",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
     },
@@ -124,9 +124,24 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 815,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
       "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
-      "volume": 545,
+      "volume": 788,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -137,6 +152,21 @@
       "market_id": "1.258452833",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 666,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
     },
     {
       "match": "Yunnan Yukun v Qingdao Youth Island",
@@ -246,8 +276,8 @@
     {
       "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
       "campionato": "Ukrainian Premier League",
-      "volume": 170,
-      "quota": 1.1,
+      "volume": 123,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -261,8 +291,8 @@
     {
       "match": "Polissya Zhytomyr v Rukh Vynnyky",
       "campionato": "Ukrainian Premier League",
-      "volume": 18,
-      "quota": 1.22,
+      "volume": 20,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -317,21 +347,6 @@
       "market_id": "1.258454386",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:35"
-    },
-    {
-      "match": "Bolton v Stockport",
-      "campionato": "English Sky Bet League 1",
-      "volume": 15,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35611341",
-      "market_id": "1.258322118",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
     }
   ],
   "tracked_matches": [
@@ -414,7 +429,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 3300,
+      "volume": 2386,
       "best_volume": 3300,
       "whale_max": 0,
       "entered": false
@@ -450,7 +465,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 1228,
       "best_volume": 1764,
       "whale_max": 0,
       "entered": false
@@ -462,7 +477,7 @@
       "open_date": "2026-05-23 23:15",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 8900,
+      "volume": 666,
       "best_volume": 8900,
       "whale_max": 0,
       "entered": false
@@ -572,6 +587,18 @@
       "quota_iniziale": 1.07,
       "volume": 324,
       "best_volume": 324,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452858",
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "open_date": "2026-05-24 12:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 815,
+      "best_volume": 815,
       "whale_max": 0,
       "entered": false
     }
