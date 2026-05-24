@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 21:42:01",
+  "last_update": "24/05/2026 21:42:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Agropecuario v Quilmes",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 5139,
+      "volume": 4646,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Club Gimnasia y Tiro v Gimnasia Jujuy",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 1154,
+      "volume": 1101,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -141,7 +141,7 @@
     {
       "match": "Catanzaro v AC Monza",
       "campionato": "Italian Serie B",
-      "volume": 711,
+      "volume": 809,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -214,21 +214,6 @@
       "open_date": "2026-05-25 00:00"
     },
     {
-      "match": "Ferro Carril Oeste v CA Central Norte",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 201,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624777",
-      "market_id": "1.258522967",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 21:00"
-    },
-    {
       "match": "Montego Bay United v Mount Pleasant FC",
       "campionato": "Jamaican Premier League",
       "volume": 182,
@@ -289,6 +274,21 @@
       "open_date": "2026-05-24 23:00"
     },
     {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 74,
+      "quota": 1.48,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
+    },
+    {
       "match": "Godoy Cruz v All Boys",
       "campionato": "Argentinian Primera Nacional",
       "volume": 67,
@@ -304,34 +304,34 @@
       "open_date": "2026-05-24 21:30"
     },
     {
-      "match": "Chacarita v Almagro BA",
+      "match": "Ferro Carril Oeste v CA Central Norte",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 63,
-      "quota": 2.86,
+      "volume": 62,
+      "quota": 1.27,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624769",
-      "market_id": "1.258522179",
+      "event_id": "35624777",
+      "market_id": "1.258522967",
       "_is_inplay": true,
-      "open_date": "2026-05-24 20:30"
+      "open_date": "2026-05-24 21:00"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
+      "match": "Atletico GO v Sao Bernardo",
+      "campionato": "Brazilian Serie B",
       "volume": 48,
-      "quota": 1.45,
+      "quota": 1.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
+      "event_id": "35621784",
+      "market_id": "1.258513618",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 21:00"
     },
     {
       "match": "CRB v Ponte Preta",
@@ -351,8 +351,8 @@
     {
       "match": "Salernitana v Union Brescia",
       "campionato": "Italian Serie C",
-      "volume": 39,
-      "quota": 1.51,
+      "volume": 38,
+      "quota": 1.52,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -360,21 +360,6 @@
       "source": "Betfair",
       "event_id": "35643192",
       "market_id": "1.258533835",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 21:00"
-    },
-    {
-      "match": "Atletico GO v Sao Bernardo",
-      "campionato": "Brazilian Serie B",
-      "volume": 18,
-      "quota": 1.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35621784",
-      "market_id": "1.258513618",
       "_is_inplay": true,
       "open_date": "2026-05-24 21:00"
     },
@@ -714,7 +699,7 @@
       "open_date": "2026-05-24 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 5139,
+      "volume": 4646,
       "best_volume": 5602,
       "whale_max": 0,
       "entered": false
@@ -756,9 +741,33 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258522151",
-      "match": "CA Guemes v Patronato",
-      "campionato": "Argentinian Primera Nacional",
+      "event_id": "bf_1.258324296",
+      "match": "Emelec v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "open_date": "2026-05-24 22:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 117,
+      "best_volume": 117,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258328622",
+      "match": "Columbus v Atlanta Utd",
+      "campionato": "US MLS",
+      "open_date": "2026-05-24 23:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 152,
+      "best_volume": 152,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258375717",
+      "match": "Corinthians v Atletico MG",
+      "campionato": "Brazilian Serie A",
       "open_date": "2026-05-24 23:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
