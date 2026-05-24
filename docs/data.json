@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:52:07",
+  "last_update": "24/05/2026 12:52:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Sirius v GAIS",
       "campionato": "Swedish Allsvenskan",
-      "volume": 2380,
+      "volume": 2986,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -109,21 +109,6 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1061,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
-    },
-    {
       "match": "Bolton v Stockport",
       "campionato": "English Sky Bet League 1",
       "volume": 990,
@@ -171,7 +156,7 @@
     {
       "match": "Veres Rivne v Metalist 1925",
       "campionato": "Ukrainian Premier League",
-      "volume": 840,
+      "volume": 846,
       "quota": 1.24,
       "in_range": false,
       "monitored": false,
@@ -212,6 +197,21 @@
       "market_id": "1.258454517",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:35"
+    },
+    {
+      "match": "Stade Lausanne-Ouchy v St Gallen",
+      "campionato": "Swiss Cup",
+      "volume": 513,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35642681",
+      "market_id": "1.258535663",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "Yunnan Yukun v Qingdao Youth Island",
@@ -259,21 +259,6 @@
       "open_date": "2026-05-24 13:15"
     },
     {
-      "match": "Stade Lausanne-Ouchy v St Gallen",
-      "campionato": "Swiss Cup",
-      "volume": 281,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35642681",
-      "market_id": "1.258535663",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
-    },
-    {
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
       "volume": 280,
@@ -306,8 +291,8 @@
     {
       "match": "Daegu Fc v Ansan Greeners FC",
       "campionato": "South Korean K2 League",
-      "volume": 61,
-      "quota": 1.22,
+      "volume": 57,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -315,6 +300,21 @@
       "source": "Betfair",
       "event_id": "35619110",
       "market_id": "1.258452833",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 12:00"
+    },
+    {
+      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
+      "campionato": "Ukrainian Premier League",
+      "volume": 15,
+      "quota": 1.48,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35627409",
+      "market_id": "1.258452901",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -347,6 +347,21 @@
       "market_id": "1.258382841",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
+    },
+    {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 14,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
     }
   ],
   "tracked_matches": [
@@ -417,8 +432,8 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2380,
-      "best_volume": 2386,
+      "volume": 2986,
+      "best_volume": 2986,
       "whale_max": 0,
       "entered": false
     },
@@ -549,7 +564,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 281,
+      "volume": 513,
       "best_volume": 513,
       "whale_max": 0,
       "entered": false
