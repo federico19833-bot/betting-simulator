@@ -148,9 +148,7 @@ async def scan_command(update: Update, context):
         results = scan_markets()
         if results:
             await update.message.reply_text(f"✅ Scansione completata! {len(results)} segnali trovati.")
-elif text in ["correggi", "correggere", "fix", "c"]:
-        await correct_command(update, context)
-    else:
+        else:
             await update.message.reply_text("✅ Scansione completata. Nessun segnale al momento.")
     except Exception as e:
         await update.message.reply_text(f"❌ Errore scansione: {e}")
@@ -229,6 +227,8 @@ async def handle_message(update: Update, context):
         await config_command(update, context)
     elif text in ["scan", "scansiona", "refresh"]:
         await scan_command(update, context)
+    elif text in ["correggi", "correggere", "fix", "c"]:
+        await correct_command(update, context)
     elif text in ["help", "aiuto", "comandi", "start"]:
         await help_command(update, context)
     else:
@@ -249,9 +249,9 @@ def start_polling():
         app.add_handler(CommandHandler("tracked", tracked_command))
         app.add_handler(CommandHandler("history", history_command))
         app.add_handler(CommandHandler("config", config_command))
-app.add_handler(CommandHandler("scan", scan_command))
-app.add_handler(CommandHandler("correggi", correct_command))
-app.add_handler(CommandHandler("help", help_command))
+        app.add_handler(CommandHandler("scan", scan_command))
+        app.add_handler(CommandHandler("correggi", correct_command))
+        app.add_handler(CommandHandler("help", help_command))
         app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
         app.run_polling(allowed_updates=["message"])
     except Exception as e:
@@ -264,7 +264,7 @@ def init_bot():
         try:
             loop = asyncio.new_event_loop()
             asyncio.set_event_loop(loop)
-loop.run_until_complete(bot.set_my_commands([
+            loop.run_until_complete(bot.set_my_commands([
                 ("start", "Menu interattivo"),
                 ("status", "Statistiche complete"),
                 ("markets", "Mercati live trovati"),
