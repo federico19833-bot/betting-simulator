@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 03:51:11",
+  "last_update": "24/05/2026 03:51:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -201,8 +201,8 @@
     {
       "match": "Colorado v FC Dallas",
       "campionato": "US MLS",
-      "volume": 68,
-      "quota": 1.15,
+      "volume": 109,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -476,6 +476,18 @@
       "quota_iniziale": 1.09,
       "volume": 158,
       "best_volume": 158,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258452880",
+      "match": "Dynamo Kiev v FK Kudrivka",
+      "campionato": "Ukrainian Premier League",
+      "open_date": "2026-05-24T10:00:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 249,
+      "best_volume": 249,
       "whale_max": 0,
       "entered": false
     }
