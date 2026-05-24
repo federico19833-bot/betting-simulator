@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 07:53:36",
+  "last_update": "24/05/2026 07:54:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-24T10:15:00.000Z"
     },
     {
-      "match": "Angby IF v Bollstanas SK",
-      "campionato": "Swedish Division 2",
-      "volume": 88,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35629734",
-      "market_id": "1.258453729",
-      "_is_inplay": false,
-      "open_date": "2026-05-24T11:00:00.000Z"
-    },
-    {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 15,
@@ -225,6 +210,21 @@
       "source": "Betfair",
       "event_id": "35628207",
       "market_id": "1.258453684",
+      "_is_inplay": false,
+      "open_date": "2026-05-24T11:00:00.000Z"
+    },
+    {
+      "match": "Angby IF v Bollstanas SK",
+      "campionato": "Swedish Division 2",
+      "volume": 15,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35629734",
+      "market_id": "1.258453729",
       "_is_inplay": false,
       "open_date": "2026-05-24T11:00:00.000Z"
     }
@@ -369,7 +369,7 @@
       "open_date": "2026-05-24T11:00:00.000Z",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 88,
+      "volume": 15,
       "best_volume": 11228,
       "whale_max": 0,
       "entered": false
@@ -407,6 +407,18 @@
       "quota_iniziale": 1.02,
       "volume": 1213,
       "best_volume": 1213,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513731",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23T23:30:00.000Z",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 264,
+      "best_volume": 264,
       "whale_max": 0,
       "entered": false
     }
