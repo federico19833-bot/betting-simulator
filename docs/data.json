@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 11:59:44",
+  "last_update": "24/05/2026 12:00:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "Qingdao Hainiu v Chongqing Tonglianglong",
       "campionato": "Chinese Super League",
-      "volume": 823,
+      "volume": 676,
       "quota": 1.42,
       "in_range": false,
       "monitored": false,
@@ -107,21 +107,6 @@
       "market_id": "1.258450870",
       "_is_inplay": true,
       "open_date": "2026-05-24 11:00"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 560,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Shandong Taishan v Wuhan Three Towns",
@@ -184,6 +169,21 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "Always Ready v Universitario de Vinto",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 359,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 21:00"
+    },
+    {
       "match": "Ajax v FC Utrecht",
       "campionato": "Dutch Eredivisie",
       "volume": 280,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-24 13:35"
     },
     {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 138,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
+    },
+    {
       "match": "Polissya Zhytomyr v Rukh Vynnyky",
       "campionato": "Ukrainian Premier League",
       "volume": 46,
@@ -227,21 +242,6 @@
       "market_id": "1.258452812",
       "_is_inplay": false,
       "open_date": "2026-05-24 12:00"
-    },
-    {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 15,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "Dynamo Kiev v FK Kudrivka",
@@ -397,9 +397,9 @@
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-22 21:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.1,
-      "volume": 560,
+      "volume": 138,
       "best_volume": 4401,
       "whale_max": 0,
       "entered": false
@@ -557,6 +557,18 @@
       "quota_iniziale": 1.03,
       "volume": 492,
       "best_volume": 968,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258472472",
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23 23:15",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1790,
+      "best_volume": 1790,
       "whale_max": 0,
       "entered": false
     }
