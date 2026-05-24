@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 14:17:38",
+  "last_update": "24/05/2026 14:18:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Parma v Sassuolo",
       "campionato": "Italian Serie A",
-      "volume": 17668,
+      "volume": 19949,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -36,8 +36,8 @@
     {
       "match": "Hammarby v AIK",
       "campionato": "Swedish Allsvenskan",
-      "volume": 4396,
-      "quota": 1.05,
+      "volume": 13270,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-24 16:15"
     },
     {
-      "match": "KuPS Akatemia v RoPS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1112,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35634751",
-      "market_id": "1.258524524",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 15:00"
-    },
-    {
       "match": "KF Ballkani v Prishtina",
       "campionato": "Kosovan Superliga",
       "volume": 1002,
@@ -122,6 +107,36 @@
       "market_id": "1.258524566",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:00"
+    },
+    {
+      "match": "KuPS Akatemia v RoPS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 965,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35634751",
+      "market_id": "1.258524524",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 15:00"
+    },
+    {
+      "match": "Varbergs BoIS v Sundsvall",
+      "campionato": "Swedish Superettan",
+      "volume": 918,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628059",
+      "market_id": "1.258384619",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 15:00"
     },
     {
       "match": "FC Inter 2 v PKK-U",
@@ -154,24 +169,9 @@
       "open_date": "2026-05-24 01:30"
     },
     {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 470,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
-    },
-    {
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 450,
+      "volume": 535,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -199,34 +199,19 @@
       "open_date": "2026-05-24 16:30"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 291,
-      "quota": 1.01,
+      "volume": 319,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
       "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
-    },
-    {
-      "match": "Varbergs BoIS v Sundsvall",
-      "campionato": "Swedish Superettan",
-      "volume": 276,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35628059",
-      "market_id": "1.258384619",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 15:00"
+      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "Wieczysta Krakow v Chrobry Glogow",
@@ -246,7 +231,7 @@
     {
       "match": "CD Gualberto Villarroel v The Strongest",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 149,
+      "volume": 167,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -287,6 +272,21 @@
       "market_id": "1.258530277",
       "_is_inplay": false,
       "open_date": "2026-05-24 16:30"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 75,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "FC Maardu v JK Welco Elekter",
@@ -403,9 +403,9 @@
       "match": "Hammarby v AIK",
       "campionato": "Swedish Allsvenskan",
       "open_date": "2026-05-24 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 4396,
+      "volume": 13270,
       "best_volume": 13941,
       "whale_max": 0,
       "entered": true
@@ -489,7 +489,7 @@
       "open_date": "2026-05-23 23:15",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 450,
+      "volume": 535,
       "best_volume": 1072,
       "whale_max": 0,
       "entered": false
@@ -501,8 +501,8 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 276,
-      "best_volume": 857,
+      "volume": 918,
+      "best_volume": 918,
       "whale_max": 0,
       "entered": false
     },
@@ -583,9 +583,9 @@
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-22 21:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 291,
+      "volume": 75,
       "best_volume": 291,
       "whale_max": 0,
       "entered": false
@@ -609,8 +609,8 @@
       "open_date": "2026-05-23 02:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 149,
-      "best_volume": 149,
+      "volume": 167,
+      "best_volume": 167,
       "whale_max": 0,
       "entered": false
     },
@@ -621,7 +621,7 @@
       "open_date": "2026-05-24 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1112,
+      "volume": 965,
       "best_volume": 1112,
       "whale_max": 0,
       "entered": false
@@ -651,14 +651,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258332501",
-      "match": "Parma v Sassuolo",
-      "campionato": "Italian Serie A",
-      "open_date": "2026-05-24 15:00",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 17668,
-      "best_volume": 17668,
+      "event_id": "bf_1.258473117",
+      "match": "Wieczysta Krakow v Chrobry Glogow",
+      "campionato": "Polish I Liga",
+      "open_date": "2026-05-24 16:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 246,
+      "best_volume": 246,
       "whale_max": 0,
       "entered": false
     }
