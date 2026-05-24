@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 12:51:32",
+  "last_update": "24/05/2026 12:52:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,21 +18,6 @@
     "balance": 962.64
   },
   "live_events": [
-    {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 5200,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
-    },
     {
       "match": "Sirius v GAIS",
       "campionato": "Swedish Allsvenskan",
@@ -77,21 +62,6 @@
       "market_id": "1.258496493",
       "_is_inplay": false,
       "open_date": "2026-05-24 14:00"
-    },
-    {
-      "match": "Veres Rivne v Metalist 1925",
-      "campionato": "Ukrainian Premier League",
-      "volume": 1639,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35627395",
-      "market_id": "1.258452858",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 12:00"
     },
     {
       "match": "Sparta Prague v Hradec Kralove",
@@ -139,6 +109,21 @@
       "open_date": "2026-05-24 14:00"
     },
     {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1061,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
+    },
+    {
       "match": "Bolton v Stockport",
       "campionato": "English Sky Bet League 1",
       "volume": 990,
@@ -184,17 +169,17 @@
       "open_date": "2026-05-24 14:00"
     },
     {
-      "match": "Daegu Fc v Ansan Greeners FC",
-      "campionato": "South Korean K2 League",
-      "volume": 923,
-      "quota": 1.22,
+      "match": "Veres Rivne v Metalist 1925",
+      "campionato": "Ukrainian Premier League",
+      "volume": 840,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35619110",
-      "market_id": "1.258452833",
+      "event_id": "35627395",
+      "market_id": "1.258452858",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -216,7 +201,7 @@
     {
       "match": "Shandong Taishan v Wuhan Three Towns",
       "campionato": "Chinese Super League",
-      "volume": 729,
+      "volume": 680,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -227,21 +212,6 @@
       "market_id": "1.258454517",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:35"
-    },
-    {
-      "match": "FK Jablonec v Slovan Liberec",
-      "campionato": "Czech 1 Liga",
-      "volume": 546,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35620053",
-      "market_id": "1.258382841",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 14:00"
     },
     {
       "match": "Yunnan Yukun v Qingdao Youth Island",
@@ -334,17 +304,17 @@
       "open_date": "2026-05-24 13:00"
     },
     {
-      "match": "Obolon-Brovar Kiev v LNZ-Lebedyn",
-      "campionato": "Ukrainian Premier League",
-      "volume": 15,
-      "quota": 1.48,
+      "match": "Daegu Fc v Ansan Greeners FC",
+      "campionato": "South Korean K2 League",
+      "volume": 61,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35627409",
-      "market_id": "1.258452901",
+      "event_id": "35619110",
+      "market_id": "1.258452833",
       "_is_inplay": true,
       "open_date": "2026-05-24 12:00"
     },
@@ -362,6 +332,21 @@
       "market_id": "1.258453729",
       "_is_inplay": false,
       "open_date": "2026-05-24 13:00"
+    },
+    {
+      "match": "FK Jablonec v Slovan Liberec",
+      "campionato": "Czech 1 Liga",
+      "volume": 15,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35620053",
+      "market_id": "1.258382841",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 14:00"
     }
   ],
   "tracked_matches": [
@@ -528,7 +513,7 @@
       "open_date": "2026-05-24 13:35",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 729,
+      "volume": 680,
       "best_volume": 729,
       "whale_max": 0,
       "entered": false
@@ -540,7 +525,7 @@
       "open_date": "2026-05-24 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 546,
+      "volume": 15,
       "best_volume": 546,
       "whale_max": 0,
       "entered": false
