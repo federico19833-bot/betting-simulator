@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 22:59:21",
+  "last_update": "24/05/2026 23:00:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Defensor Sporting v Penarol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 2555,
+      "volume": 2726,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258522207",
       "_is_inplay": false,
       "open_date": "2026-05-24 23:30"
-    },
-    {
-      "match": "Alianza FC Valledupar v Atletico Bucaramanga",
-      "campionato": "Colombian Cup",
-      "volume": 1307,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647313",
-      "market_id": "1.258563622",
-      "_is_inplay": true,
-      "open_date": "2026-05-24 22:30"
     },
     {
       "match": "Operario PR v Criciuma",
@@ -122,6 +107,21 @@
       "market_id": "1.258516153",
       "_is_inplay": false,
       "open_date": "2026-05-24 23:30"
+    },
+    {
+      "match": "Alianza FC Valledupar v Atletico Bucaramanga",
+      "campionato": "Colombian Cup",
+      "volume": 417,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647313",
+      "market_id": "1.258563622",
+      "_is_inplay": true,
+      "open_date": "2026-05-24 22:30"
     },
     {
       "match": "CD Motagua v CD Marathon",
@@ -186,7 +186,7 @@
     {
       "match": "San Martin de Tucuman v CA Atlanta",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 182,
+      "volume": 198,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -210,21 +210,6 @@
       "source": "Betfair",
       "event_id": "35621654",
       "market_id": "1.258322380",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 00:00"
-    },
-    {
-      "match": "Montego Bay United v Mount Pleasant FC",
-      "campionato": "Jamaican Premier League",
-      "volume": 84,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35642168",
-      "market_id": "1.258534331",
       "_is_inplay": false,
       "open_date": "2026-05-25 00:00"
     },
@@ -259,6 +244,21 @@
       "open_date": "2026-05-24 23:00"
     },
     {
+      "match": "Estudiantes de Merida v Metropolitanos",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 15,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639766",
+      "market_id": "1.258497196",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 23:00"
+    },
+    {
       "match": "Carabobo FC v Deportivo Tachira",
       "campionato": "Venezuelan Primera Division",
       "volume": 15,
@@ -272,6 +272,21 @@
       "market_id": "1.258497138",
       "_is_inplay": false,
       "open_date": "2026-05-24 23:00"
+    },
+    {
+      "match": "Montego Bay United v Mount Pleasant FC",
+      "campionato": "Jamaican Premier League",
+      "volume": 15,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35642168",
+      "market_id": "1.258534331",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 00:00"
     },
     {
       "match": "Inter Miami CF v Philadelphia",
@@ -528,7 +543,7 @@
       "open_date": "2026-05-24 22:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1307,
+      "volume": 417,
       "best_volume": 1307,
       "whale_max": 0,
       "entered": false
@@ -554,6 +569,30 @@
       "quota_iniziale": 1.07,
       "volume": 346,
       "best_volume": 346,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258497138",
+      "match": "Carabobo FC v Deportivo Tachira",
+      "campionato": "Venezuelan Primera Division",
+      "open_date": "2026-05-24 23:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 15,
+      "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258554906",
+      "match": "Cavalier v Portmore Utd",
+      "campionato": "Jamaican Premier League",
+      "open_date": "2026-05-25 03:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 304,
+      "best_volume": 304,
       "whale_max": 0,
       "entered": false
     }
