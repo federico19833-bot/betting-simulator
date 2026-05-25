@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 20:32:48",
+  "last_update": "25/05/2026 20:32:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "Botafogo SP v Athletic Club",
       "campionato": "Brazilian Serie B",
-      "volume": 1319,
+      "volume": 1318,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-26 17:30"
     },
     {
+      "match": "Aucas v Manta FC",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 588,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35622147",
+      "market_id": "1.258516658",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 02:00"
+    },
+    {
       "match": "FC Honka Akatemia v VJS",
       "campionato": "Finnish Cup",
       "volume": 464,
@@ -152,6 +167,21 @@
       "market_id": "1.258595010",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
+    },
+    {
+      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
+      "campionato": "Bulgarian A League",
+      "volume": 370,
+      "quota": 1.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625118",
+      "market_id": "1.258475963",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
     },
     {
       "match": "IFK Mariehamn v Lahti",
@@ -259,21 +289,6 @@
       "open_date": "2026-05-25 19:25"
     },
     {
-      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
-      "campionato": "Bulgarian A League",
-      "volume": 115,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625118",
-      "market_id": "1.258475963",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
-    },
-    {
       "match": "Ludogorets v CSKA Sofia",
       "campionato": "Bulgarian A League",
       "volume": 112,
@@ -304,6 +319,21 @@
       "open_date": "2026-05-26 19:00"
     },
     {
+      "match": "Rapid Bucharest v Universitatea Craiova",
+      "campionato": "Romanian Liga I",
+      "volume": 45,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624100",
+      "market_id": "1.258346732",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
+    },
+    {
       "match": "Derry City v Shelbourne",
       "campionato": "Irish Premier Division",
       "volume": 45,
@@ -317,36 +347,6 @@
       "market_id": "1.258513183",
       "_is_inplay": false,
       "open_date": "2026-05-25 20:45"
-    },
-    {
-      "match": "Rapid Bucharest v Universitatea Craiova",
-      "campionato": "Romanian Liga I",
-      "volume": 21,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624100",
-      "market_id": "1.258346732",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
-    },
-    {
-      "match": "Aucas v Manta FC",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35622147",
-      "market_id": "1.258516658",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 02:00"
     },
     {
       "match": "Real Cartagena v Envigado",
@@ -663,7 +663,7 @@
       "open_date": "2026-05-26 00:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1319,
+      "volume": 1318,
       "best_volume": 1319,
       "whale_max": 0,
       "entered": false
@@ -705,18 +705,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258516658",
-      "match": "Aucas v Manta FC",
-      "campionato": "Ecuadorian Serie A",
-      "open_date": "2026-05-26 02:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 588,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258582432",
       "match": "BFC Daugavpils v FK Auda",
       "campionato": "Latvian Virsliga",
@@ -753,14 +741,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258556771",
-      "match": "Real Cartagena v Envigado",
-      "campionato": "Colombian Primera B",
-      "open_date": "2026-05-26 03:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "event_id": "bf_1.258543748",
+      "match": "Comerciantes Unidos v Deportivo Garcilaso",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-25 22:30",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 17650,
+      "best_volume": 17650,
       "whale_max": 0,
       "entered": false
     }
