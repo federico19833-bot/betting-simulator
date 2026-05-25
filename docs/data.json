@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 10:51:56",
+  "last_update": "25/05/2026 10:52:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,19 +49,19 @@
       "open_date": "2026-05-25 16:00"
     },
     {
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "volume": 1325,
-      "quota": 1.74,
+      "match": "Paju Citizen v Gimpo Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 1065,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623334",
-      "market_id": "1.258494055",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 13:00"
+      "event_id": "35623188",
+      "market_id": "1.258489190",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 09:30"
     },
     {
       "match": "Rapid Vienna v SV Ried",
@@ -77,21 +77,6 @@
       "market_id": "1.258536227",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Paju Citizen v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 987,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623188",
-      "market_id": "1.258489190",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 09:30"
     },
     {
       "match": "Odds BK v Ranheim IL",
@@ -588,7 +573,7 @@
       "open_date": "2026-05-25 09:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 987,
+      "volume": 1065,
       "best_volume": 1473,
       "whale_max": 0,
       "entered": false
@@ -602,6 +587,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258536227",
+      "match": "Rapid Vienna v SV Ried",
+      "campionato": "Austrian Bundesliga",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
