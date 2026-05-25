@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 13:24:24",
+  "last_update": "25/05/2026 13:25:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2038,
+      "volume": 2039,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Rapid Vienna v SV Ried",
       "campionato": "Austrian Bundesliga",
-      "volume": 1406,
+      "volume": 1445,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258536227",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "volume": 1366,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35614850",
-      "market_id": "1.258364861",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Ogre United v SC Grobina",
@@ -152,6 +137,21 @@
       "market_id": "1.258472472",
       "_is_inplay": false,
       "open_date": "2026-05-23 23:15"
+    },
+    {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 523,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35614850",
+      "market_id": "1.258364861",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Sandnes Ulf v Sogndal",
@@ -495,7 +495,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.1,
-      "volume": 1406,
+      "volume": 1445,
       "best_volume": 3290,
       "whale_max": 0,
       "entered": false
@@ -507,7 +507,7 @@
       "open_date": "2026-05-24 01:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 2038,
+      "volume": 2039,
       "best_volume": 2039,
       "whale_max": 0,
       "entered": false
@@ -597,14 +597,50 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502626",
-      "match": "Hodd v Egersund",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
+      "event_id": "bf_1.258494055",
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 13:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
+      "volume": 101,
+      "best_volume": 101,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502605",
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 185,
+      "best_volume": 185,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502230",
+      "match": "Haugesund v Moss",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 898,
+      "best_volume": 898,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258555476",
+      "match": "Fk Siauliai v Riteriai",
+      "campionato": "Lithuanian A Lyga",
+      "open_date": "2026-05-25 17:30",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 191,
+      "best_volume": 191,
       "whale_max": 0,
       "entered": false
     }
