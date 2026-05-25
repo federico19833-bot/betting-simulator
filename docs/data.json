@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 22:27:02",
+  "last_update": "25/05/2026 22:27:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-26 18:00"
     },
     {
+      "match": "Sevilla FC (W) v SD Eibar (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 386,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649419",
+      "market_id": "1.258595207",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 19:00"
+    },
+    {
       "match": "BFC Daugavpils v FK Auda",
       "campionato": "Latvian Virsliga",
       "volume": 332,
@@ -137,21 +152,6 @@
       "market_id": "1.258582432",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
-    },
-    {
-      "match": "Sevilla FC (W) v SD Eibar (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 332,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649419",
-      "market_id": "1.258595207",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
     },
     {
       "match": "Alashkert v FC Shirak",
@@ -214,21 +214,6 @@
       "open_date": "2026-05-26 17:00"
     },
     {
-      "match": "FC Chernigiv v FK Metal Kharkiv",
-      "campionato": "Ukrainian Persha Liga",
-      "volume": 144,
-      "quota": 1.53,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647413",
-      "market_id": "1.258565935",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 16:00"
-    },
-    {
       "match": "FC Badalona (W) v Real Madrid FC (W)",
       "campionato": "Spanish Liga F",
       "volume": 73,
@@ -246,8 +231,8 @@
     {
       "match": "Ceres Futebol Clube RJ v Campos",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 39,
-      "quota": 3.15,
+      "volume": 44,
+      "quota": 3.7,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -257,6 +242,21 @@
       "market_id": "1.258573507",
       "_is_inplay": true,
       "open_date": "2026-05-25 21:00"
+    },
+    {
+      "match": "FC Chernigiv v FK Metal Kharkiv",
+      "campionato": "Ukrainian Persha Liga",
+      "volume": 39,
+      "quota": 1.75,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647413",
+      "market_id": "1.258565935",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 16:00"
     },
     {
       "match": "Aucas v Manta FC",
@@ -460,9 +460,9 @@
       "match": "Sevilla FC (W) v SD Eibar (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 332,
+      "volume": 386,
       "best_volume": 1163,
       "whale_max": 0,
       "entered": false
@@ -548,6 +548,18 @@
       "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513183",
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-25 20:45",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 14724,
+      "best_volume": 14724,
       "whale_max": 0,
       "entered": false
     }
