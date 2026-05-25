@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 11:10:05",
+  "last_update": "25/05/2026 11:10:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "Odds BK v Ranheim IL",
       "campionato": "Norwegian 1st Division",
-      "volume": 899,
+      "volume": 898,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-23 23:15"
     },
     {
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "volume": 475,
-      "quota": 2.64,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623334",
-      "market_id": "1.258494055",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 13:00"
-    },
-    {
       "match": "Sandnes Ulf v Sogndal",
       "campionato": "Norwegian 1st Division",
       "volume": 238,
@@ -212,6 +197,21 @@
       "market_id": "1.258502626",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "volume": 127,
+      "quota": 2.78,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623334",
+      "market_id": "1.258494055",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 13:00"
     },
     {
       "match": "Cherno More v Arda",
@@ -402,18 +402,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258498869",
-      "match": "Hvidovre v Esbjerg",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 15:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.05,
-      "volume": 678,
-      "best_volume": 1236,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258502272",
       "match": "Stromsgodset v Bryne",
       "campionato": "Norwegian 1st Division",
@@ -456,7 +444,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 899,
+      "volume": 898,
       "best_volume": 899,
       "whale_max": 0,
       "entered": false
@@ -602,6 +590,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258536227",
+      "match": "Rapid Vienna v SV Ried",
+      "campionato": "Austrian Bundesliga",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
