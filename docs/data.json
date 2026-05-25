@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 16:58:26",
+  "last_update": "25/05/2026 16:59:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "Lyn v Strommen",
       "campionato": "Norwegian 1st Division",
-      "volume": 716,
+      "volume": 761,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -154,17 +154,17 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Levadia Tallinn II v FC Nõmme United U21",
-      "campionato": "Estonian Esiliiga",
-      "volume": 390,
-      "quota": 1.03,
+      "match": "SC Kiryat Yam v Maccabi Petach Tikva",
+      "campionato": "Israeli National League",
+      "volume": 335,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35645709",
-      "market_id": "1.258566683",
+      "event_id": "35646823",
+      "market_id": "1.258564257",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
     },
@@ -182,21 +182,6 @@
       "market_id": "1.258555476",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:30"
-    },
-    {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 278,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "Sandnes Ulf v Sogndal",
@@ -242,6 +227,36 @@
       "market_id": "1.258536227",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Levadia Tallinn II v FC Nõmme United U21",
+      "campionato": "Estonian Esiliiga",
+      "volume": 43,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645709",
+      "market_id": "1.258566683",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
+      "match": "Always Ready v Universitario de Vinto",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 41,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "Manama Club v Al-Ittihad (BRN)",
@@ -477,7 +492,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 716,
+      "volume": 761,
       "best_volume": 761,
       "whale_max": 0,
       "entered": false
@@ -567,26 +582,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502230",
-      "match": "Haugesund v Moss",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258566683",
       "match": "Levadia Tallinn II v FC Nõmme United U21",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-25 18:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 390,
+      "volume": 43,
       "best_volume": 390,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258564257",
+      "match": "SC Kiryat Yam v Maccabi Petach Tikva",
+      "campionato": "Israeli National League",
+      "open_date": "2026-05-25 18:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 335,
+      "best_volume": 335,
       "whale_max": 0,
       "entered": false
     }
