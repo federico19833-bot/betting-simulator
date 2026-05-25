@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 20:48:03",
+  "last_update": "25/05/2026 20:48:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,21 +49,6 @@
       "open_date": "2026-05-25 19:30"
     },
     {
-      "match": "Deportes Copiapo v Union Espanola",
-      "campionato": "Chilean Primera B",
-      "volume": 2183,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641197",
-      "market_id": "1.258523715",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 02:00"
-    },
-    {
       "match": "Comerciantes Unidos v Deportivo Garcilaso",
       "campionato": "Peruvian Primera Division",
       "volume": 1344,
@@ -94,7 +79,7 @@
       "open_date": "2026-05-26 01:00"
     },
     {
-      "match": "EDF Logrono (W) v Athletic Bilbao (W)",
+      "match": "FC Badalona (W) v Real Madrid FC (W)",
       "campionato": "Spanish Liga F",
       "volume": 1162,
       "quota": 1.06,
@@ -103,10 +88,25 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35649429",
-      "market_id": "1.258595360",
+      "event_id": "35649427",
+      "market_id": "1.258595249",
       "_is_inplay": false,
       "open_date": "2026-05-26 19:00"
+    },
+    {
+      "match": "Rapid Bucharest v Universitatea Craiova",
+      "campionato": "Romanian Liga I",
+      "volume": 714,
+      "quota": 1.34,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624100",
+      "market_id": "1.258346732",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
     },
     {
       "match": "JaPS v KuPS",
@@ -154,6 +154,21 @@
       "open_date": "2026-05-26 18:00"
     },
     {
+      "match": "Deportes Copiapo v Union Espanola",
+      "campionato": "Chilean Primera B",
+      "volume": 435,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641197",
+      "market_id": "1.258523715",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 02:00"
+    },
+    {
       "match": "FK Jelgava v Liepajas Metalurgs",
       "campionato": "Latvian Virsliga",
       "volume": 332,
@@ -184,8 +199,8 @@
       "open_date": "2026-05-26 17:00"
     },
     {
-      "match": "Orebro v Helsingborgs",
-      "campionato": "Swedish Superettan",
+      "match": "Alhama CF (W) v Levante UD (W)",
+      "campionato": "Spanish Liga F",
       "volume": 203,
       "quota": 1.04,
       "in_range": false,
@@ -193,8 +208,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35628103",
-      "market_id": "1.258405606",
+      "event_id": "35649557",
+      "market_id": "1.258602585",
       "_is_inplay": false,
       "open_date": "2026-05-26 19:00"
     },
@@ -214,21 +229,6 @@
       "open_date": "2026-05-26 02:00"
     },
     {
-      "match": "Derry City v Shelbourne",
-      "campionato": "Irish Premier Division",
-      "volume": 190,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623770",
-      "market_id": "1.258513183",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 20:45"
-    },
-    {
       "match": "Alashkert v FC Shirak",
       "campionato": "Armenian Premier League",
       "volume": 184,
@@ -244,40 +244,10 @@
       "open_date": "2026-05-26 17:00"
     },
     {
-      "match": "Granada (W) v Madrid (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 73,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649428",
-      "market_id": "1.258595228",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
-    },
-    {
-      "match": "Rapid Bucharest v Universitatea Craiova",
-      "campionato": "Romanian Liga I",
-      "volume": 41,
-      "quota": 1.34,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624100",
-      "market_id": "1.258346732",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
-    },
-    {
       "match": "Al Tadhamon v Al-Qadsia",
       "campionato": "Kuwaiti Premier League",
-      "volume": 26,
-      "quota": 1.41,
+      "volume": 100,
+      "quota": 1.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -289,10 +259,40 @@
       "open_date": "2026-05-25 19:25"
     },
     {
+      "match": "Orebro v Helsingborgs",
+      "campionato": "Swedish Superettan",
+      "volume": 73,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35628103",
+      "market_id": "1.258405606",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 19:00"
+    },
+    {
+      "match": "Treaty United v Cork City",
+      "campionato": "Irish Division 1",
+      "volume": 50,
+      "quota": 1.44,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641199",
+      "market_id": "1.258543471",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 20:45"
+    },
+    {
       "match": "CSKA 1948 Sofia v PFC Levski Sofia",
       "campionato": "Bulgarian A League",
-      "volume": 17,
-      "quota": 1.61,
+      "volume": 30,
+      "quota": 1.59,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -304,10 +304,25 @@
       "open_date": "2026-05-25 19:30"
     },
     {
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "volume": 24,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623770",
+      "market_id": "1.258513183",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 20:45"
+    },
+    {
       "match": "Parma U20 v Cesena U20",
       "campionato": "Italian Campionato Primavera",
       "volume": 15,
-      "quota": 1.11,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -317,21 +332,6 @@
       "market_id": "1.258566110",
       "_is_inplay": false,
       "open_date": "2026-05-25 20:30"
-    },
-    {
-      "match": "Treaty United v Cork City",
-      "campionato": "Irish Division 1",
-      "volume": 15,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641199",
-      "market_id": "1.258543471",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 20:45"
     },
     {
       "match": "Ceres Futebol Clube RJ v Campos",
@@ -618,25 +618,13 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258595228",
-      "match": "Granada (W) v Madrid (W)",
-      "campionato": "Spanish Liga F",
-      "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.04,
-      "volume": 73,
-      "best_volume": 203,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258566110",
       "match": "Parma U20 v Cesena U20",
       "campionato": "Italian Campionato Primavera",
       "open_date": "2026-05-25 20:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 2567,
+      "volume": 15,
       "best_volume": 9042,
       "whale_max": 0,
       "entered": true
@@ -658,22 +646,10 @@
       "match": "Orebro v Helsingborgs",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 203,
-      "best_volume": 203,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258595360",
-      "match": "EDF Logrono (W) v Athletic Bilbao (W)",
-      "campionato": "Spanish Liga F",
-      "open_date": "2026-05-26 19:00",
       "quota_attuale": 1.06,
-      "quota_iniziale": 1.07,
-      "volume": 1162,
-      "best_volume": 1162,
+      "quota_iniziale": 1.04,
+      "volume": 73,
+      "best_volume": 203,
       "whale_max": 0,
       "entered": false
     },
@@ -726,14 +702,38 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258556771",
-      "match": "Real Cartagena v Envigado",
-      "campionato": "Colombian Primera B",
-      "open_date": "2026-05-26 03:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "event_id": "bf_1.258546342",
+      "match": "Botafogo SP v Athletic Club",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-26 00:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 17685,
+      "best_volume": 17685,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258602585",
+      "match": "Alhama CF (W) v Levante UD (W)",
+      "campionato": "Spanish Liga F",
+      "open_date": "2026-05-26 19:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 203,
+      "best_volume": 203,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258595249",
+      "match": "FC Badalona (W) v Real Madrid FC (W)",
+      "campionato": "Spanish Liga F",
+      "open_date": "2026-05-26 19:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 1162,
+      "best_volume": 1162,
       "whale_max": 0,
       "entered": false
     }
