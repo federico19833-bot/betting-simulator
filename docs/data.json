@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 14:24:50",
+  "last_update": "25/05/2026 14:25:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Hodd v Egersund",
       "campionato": "Norwegian 1st Division",
-      "volume": 1554,
+      "volume": 1792,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -75,21 +75,6 @@
       "source": "Betfair",
       "event_id": "35632856",
       "market_id": "1.258502626",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Haugesund v Moss",
-      "campionato": "Norwegian 1st Division",
-      "volume": 1456,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632860",
-      "market_id": "1.258502230",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
     },
@@ -165,6 +150,21 @@
       "source": "Betfair",
       "event_id": "35632861",
       "market_id": "1.258502188",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Haugesund v Moss",
+      "campionato": "Norwegian 1st Division",
+      "volume": 448,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632860",
+      "market_id": "1.258502230",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
     },
@@ -526,9 +526,9 @@
       "match": "Haugesund v Moss",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 1456,
+      "volume": 448,
       "best_volume": 1456,
       "whale_max": 0,
       "entered": false
@@ -576,7 +576,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1554,
+      "volume": 1792,
       "best_volume": 1792,
       "whale_max": 0,
       "entered": false
@@ -606,14 +606,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
+      "event_id": "bf_1.258473887",
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
+      "volume": 76,
+      "best_volume": 76,
       "whale_max": 0,
       "entered": false
     }
