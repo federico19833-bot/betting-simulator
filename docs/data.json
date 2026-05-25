@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 15:12:55",
+  "last_update": "25/05/2026 15:13:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Lokomotiv Plovdiv v Botev Plovdiv",
-      "campionato": "Bulgarian A League",
-      "volume": 7069,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624978",
-      "market_id": "1.258473429",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 16:45"
-    },
-    {
       "match": "Hodd v Egersund",
       "campionato": "Norwegian 1st Division",
       "volume": 4091,
@@ -47,6 +32,21 @@
       "market_id": "1.258502626",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Lokomotiv Plovdiv v Botev Plovdiv",
+      "campionato": "Bulgarian A League",
+      "volume": 3188,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624978",
+      "market_id": "1.258473429",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 16:45"
     },
     {
       "match": "Hvidovre v Esbjerg",
@@ -603,7 +603,7 @@
       "open_date": "2026-05-25 16:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 7069,
+      "volume": 3188,
       "best_volume": 7662,
       "whale_max": 0,
       "entered": false
@@ -621,26 +621,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258498869",
-      "match": "Hvidovre v Esbjerg",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 15:00",
+      "event_id": "bf_1.258513731",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-24 01:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 2401,
-      "best_volume": 2401,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
+      "volume": 501,
+      "best_volume": 501,
       "whale_max": 0,
       "entered": false
     }
