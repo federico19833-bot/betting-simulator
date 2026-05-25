@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 07:22:20",
+  "last_update": "25/05/2026 07:23:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -77,21 +77,6 @@
       "market_id": "1.258498869",
       "_is_inplay": false,
       "open_date": "2026-05-25 15:00"
-    },
-    {
-      "match": "Fk Siauliai v Riteriai",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 594,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645892",
-      "market_id": "1.258555476",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:30"
     },
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
@@ -227,51 +212,6 @@
       "market_id": "1.258502251",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Hodd v Egersund",
-      "campionato": "Norwegian 1st Division",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632856",
-      "market_id": "1.258502626",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632865",
-      "market_id": "1.258502605",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Haugesund v Moss",
-      "campionato": "Norwegian 1st Division",
-      "volume": 15,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632860",
-      "market_id": "1.258502230",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
     }
   ],
   "tracked_matches": [
@@ -396,18 +336,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502230",
-      "match": "Haugesund v Moss",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.07,
-      "volume": 15,
-      "best_volume": 1297,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258502188",
       "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
@@ -440,18 +368,6 @@
       "quota_iniziale": 1.04,
       "volume": 238,
       "best_volume": 238,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258555476",
-      "match": "Fk Siauliai v Riteriai",
-      "campionato": "Lithuanian A Lyga",
-      "open_date": "2026-05-25 17:30",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 594,
-      "best_volume": 594,
       "whale_max": 0,
       "entered": false
     },
@@ -504,30 +420,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502626",
-      "match": "Hodd v Egersund",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258546465",
       "match": "USM Khenchela v USM Alger",
       "campionato": "Algerian Ligue 1",
@@ -540,26 +432,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258473887",
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-22 21:00",
+      "event_id": "bf_1.258489211",
+      "match": "Suwon Bluewings v Cheonan City",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-05-25 09:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 402,
-      "best_volume": 402,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502251",
-      "match": "Stabaek v Kongsvinger",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 30,
+      "best_volume": 30,
       "whale_max": 0,
       "entered": false
     }
