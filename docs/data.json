@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 13:25:02",
+  "last_update": "25/05/2026 13:25:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -47,6 +47,21 @@
       "market_id": "1.258473429",
       "_is_inplay": false,
       "open_date": "2026-05-25 16:45"
+    },
+    {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 1493,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35614850",
+      "market_id": "1.258364861",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Rapid Vienna v SV Ried",
@@ -137,21 +152,6 @@
       "market_id": "1.258472472",
       "_is_inplay": false,
       "open_date": "2026-05-23 23:15"
-    },
-    {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "volume": 523,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35614850",
-      "market_id": "1.258364861",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Sandnes Ulf v Sogndal",
@@ -561,18 +561,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258364861",
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "open_date": "2026-05-25 16:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.06,
-      "volume": 1366,
-      "best_volume": 4217,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258472472",
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
@@ -593,18 +581,6 @@
       "quota_iniziale": 1.1,
       "volume": 40,
       "best_volume": 215,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258494055",
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 13:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 101,
-      "best_volume": 101,
       "whale_max": 0,
       "entered": false
     },
@@ -641,6 +617,18 @@
       "quota_iniziale": 1.04,
       "volume": 191,
       "best_volume": 191,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502626",
+      "match": "Hodd v Egersund",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
