@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 22:26:17",
+  "last_update": "25/05/2026 22:26:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Derry City v Shelbourne",
       "campionato": "Irish Premier Division",
-      "volume": 14671,
+      "volume": 14724,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-26 01:00"
     },
     {
-      "match": "Sevilla FC (W) v SD Eibar (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1162,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649419",
-      "market_id": "1.258595207",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
-    },
-    {
       "match": "Orebro v Helsingborgs",
       "campionato": "Swedish Superettan",
       "volume": 624,
@@ -137,6 +122,21 @@
       "market_id": "1.258600840",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
+    },
+    {
+      "match": "Sevilla FC (W) v SD Eibar (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 386,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649419",
+      "market_id": "1.258595207",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 19:00"
     },
     {
       "match": "BFC Daugavpils v FK Auda",
@@ -214,6 +214,21 @@
       "open_date": "2026-05-26 17:00"
     },
     {
+      "match": "Ceres Futebol Clube RJ v Campos",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 111,
+      "quota": 3.5,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648185",
+      "market_id": "1.258573507",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 21:00"
+    },
+    {
       "match": "FC Badalona (W) v Real Madrid FC (W)",
       "campionato": "Spanish Liga F",
       "volume": 73,
@@ -242,21 +257,6 @@
       "market_id": "1.258565935",
       "_is_inplay": false,
       "open_date": "2026-05-26 16:00"
-    },
-    {
-      "match": "Ceres Futebol Clube RJ v Campos",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 44,
-      "quota": 3.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648185",
-      "market_id": "1.258573507",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 21:00"
     },
     {
       "match": "Aucas v Manta FC",
@@ -462,7 +462,7 @@
       "open_date": "2026-05-26 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1162,
+      "volume": 386,
       "best_volume": 1163,
       "whale_max": 0,
       "entered": false
@@ -548,6 +548,18 @@
       "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513183",
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-25 20:45",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 14724,
+      "best_volume": 14724,
       "whale_max": 0,
       "entered": false
     }
