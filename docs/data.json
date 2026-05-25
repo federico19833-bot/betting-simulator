@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 20:47:40",
+  "last_update": "25/05/2026 20:48:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-26 01:00"
     },
     {
+      "match": "EDF Logrono (W) v Athletic Bilbao (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 1162,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649429",
+      "market_id": "1.258595360",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 19:00"
+    },
+    {
       "match": "JaPS v KuPS",
       "campionato": "Finnish Cup",
       "volume": 625,
@@ -152,21 +167,6 @@
       "market_id": "1.258582455",
       "_is_inplay": false,
       "open_date": "2026-05-26 17:00"
-    },
-    {
-      "match": "EDF Logrono (W) v Athletic Bilbao (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 332,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649429",
-      "market_id": "1.258595360",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
     },
     {
       "match": "IFK Mariehamn v Lahti",
@@ -670,9 +670,9 @@
       "match": "EDF Logrono (W) v Athletic Bilbao (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 332,
+      "volume": 1162,
       "best_volume": 1162,
       "whale_max": 0,
       "entered": false
@@ -726,14 +726,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258546342",
-      "match": "Botafogo SP v Athletic Club",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-26 00:00",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 17685,
-      "best_volume": 17685,
+      "event_id": "bf_1.258556771",
+      "match": "Real Cartagena v Envigado",
+      "campionato": "Colombian Primera B",
+      "open_date": "2026-05-26 03:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
