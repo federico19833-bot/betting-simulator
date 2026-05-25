@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 21:13:03",
+  "last_update": "25/05/2026 21:13:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-26 18:00"
     },
     {
+      "match": "Botafogo SP v Athletic Club",
+      "campionato": "Brazilian Serie B",
+      "volume": 610,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624538",
+      "market_id": "1.258546342",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 00:00"
+    },
+    {
       "match": "BK Olympic v Ariana FC",
       "campionato": "Swedish Cup",
       "volume": 609,
@@ -107,21 +122,6 @@
       "market_id": "1.258600803",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
-    },
-    {
-      "match": "Botafogo SP v Athletic Club",
-      "campionato": "Brazilian Serie B",
-      "volume": 565,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624538",
-      "market_id": "1.258546342",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 00:00"
     },
     {
       "match": "Granada (W) v Madrid (W)",
@@ -276,8 +276,8 @@
     {
       "match": "Treaty United v Cork City",
       "campionato": "Irish Division 1",
-      "volume": 28,
-      "quota": 1.19,
+      "volume": 25,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -306,8 +306,8 @@
     {
       "match": "Rapid Bucharest v Universitatea Craiova",
       "campionato": "Romanian Liga I",
-      "volume": 23,
-      "quota": 3.15,
+      "volume": 16,
+      "quota": 3.75,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -644,42 +644,6 @@
       "quota_iniziale": 1.1,
       "volume": 1385,
       "best_volume": 1385,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258546342",
-      "match": "Botafogo SP v Athletic Club",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-26 00:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.1,
-      "volume": 565,
-      "best_volume": 571,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258375653",
-      "match": "Coritiba v Bahia",
-      "campionato": "Brazilian Serie A",
-      "open_date": "2026-05-26 01:00",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 13231,
-      "best_volume": 13231,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258556771",
-      "match": "Real Cartagena v Envigado",
-      "campionato": "Colombian Primera B",
-      "open_date": "2026-05-26 03:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
