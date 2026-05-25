@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 11:38:58",
+  "last_update": "25/05/2026 11:39:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -105,21 +105,6 @@
       "source": "Betfair",
       "event_id": "35646780",
       "market_id": "1.258564235",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "Manama Club v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 704,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646256",
-      "market_id": "1.258552575",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
     },
@@ -287,6 +272,21 @@
       "market_id": "1.258502251",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Manama Club v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 15,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646256",
+      "market_id": "1.258552575",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
     }
   ],
   "tracked_matches": [
@@ -471,18 +471,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258552575",
-      "match": "Manama Club v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "open_date": "2026-05-25 18:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 704,
-      "best_volume": 2321,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258364861",
       "match": "Notts Co v Salford City",
       "campionato": "English Sky Bet League 2",
@@ -587,18 +575,6 @@
       "quota_iniziale": 1.05,
       "volume": 3010,
       "best_volume": 3010,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502626",
-      "match": "Hodd v Egersund",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
