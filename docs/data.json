@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 09:57:55",
+  "last_update": "25/05/2026 09:58:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -111,7 +111,7 @@
     {
       "match": "Hvidovre v Esbjerg",
       "campionato": "Danish 1st Division",
-      "volume": 699,
+      "volume": 704,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -150,6 +150,21 @@
       "source": "Betfair",
       "event_id": "35646780",
       "market_id": "1.258564235",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
+      "match": "Manama Club v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 416,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646256",
+      "market_id": "1.258552575",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
     },
@@ -201,8 +216,8 @@
     {
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
-      "volume": 65,
-      "quota": 1.23,
+      "volume": 22,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -272,21 +287,6 @@
       "market_id": "1.258502230",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Manama Club v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646256",
-      "market_id": "1.258552575",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:00"
     }
   ],
   "tracked_matches": [
@@ -393,7 +393,7 @@
       "open_date": "2026-05-25 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 699,
+      "volume": 704,
       "best_volume": 1236,
       "whale_max": 0,
       "entered": false
@@ -523,10 +523,10 @@
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "open_date": "2026-05-25 18:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 416,
+      "best_volume": 416,
       "whale_max": 0,
       "entered": false
     },
@@ -587,18 +587,6 @@
       "quota_iniziale": 1.07,
       "volume": 3252,
       "best_volume": 3252,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258536227",
-      "match": "Rapid Vienna v SV Ried",
-      "campionato": "Austrian Bundesliga",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
