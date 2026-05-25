@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 09:24:03",
+  "last_update": "25/05/2026 09:24:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
-      "volume": 3071,
+      "volume": 3250,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Suwon Bluewings v Cheonan City",
       "campionato": "South Korean K2 League",
-      "volume": 3064,
+      "volume": 3217,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -167,21 +167,6 @@
       "market_id": "1.258502647",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Paju Citizen v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 205,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623188",
-      "market_id": "1.258489190",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 09:30"
     },
     {
       "match": "Rapid Vienna v SV Ried",
@@ -372,18 +357,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258489190",
-      "match": "Paju Citizen v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "open_date": "2026-05-25 09:30",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.05,
-      "volume": 205,
-      "best_volume": 2169,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258502647",
       "match": "Sandnes Ulf v Sogndal",
       "campionato": "Norwegian 1st Division",
@@ -546,8 +519,20 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3071,
+      "volume": 3250,
       "best_volume": 3251,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502251",
+      "match": "Stabaek v Kongsvinger",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
