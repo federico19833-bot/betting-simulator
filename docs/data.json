@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 03:19:11",
+  "last_update": "25/05/2026 03:19:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-25 16:45"
     },
     {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1167,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
+    },
+    {
       "match": "Odds BK v Ranheim IL",
       "campionato": "Norwegian 1st Division",
       "volume": 1028,
@@ -122,21 +137,6 @@
       "market_id": "1.258502230",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 360,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Hvidovre v Esbjerg",
@@ -455,6 +455,30 @@
       "quota_iniziale": 1.04,
       "volume": 223,
       "best_volume": 223,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258365180",
+      "match": "Los Angeles FC v Seattle Sounders",
+      "campionato": "US MLS",
+      "open_date": "2026-05-25 03:25",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1013,
+      "best_volume": 1013,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258498869",
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 15:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 355,
+      "best_volume": 355,
       "whale_max": 0,
       "entered": false
     }
