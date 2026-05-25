@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 09:51:27",
+  "last_update": "25/05/2026 09:52:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -47,6 +47,21 @@
       "market_id": "1.258489211",
       "_is_inplay": true,
       "open_date": "2026-05-25 09:30"
+    },
+    {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1509,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Cherno More v Arda",
@@ -109,24 +124,9 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 818,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
-    },
-    {
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
-      "volume": 686,
+      "volume": 685,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -212,6 +212,21 @@
       "market_id": "1.258536227",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 67,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
     },
     {
       "match": "Stromsgodset v Bryne",
@@ -573,8 +588,20 @@
       "open_date": "2026-05-25 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 686,
+      "volume": 685,
       "best_volume": 686,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502251",
+      "match": "Stabaek v Kongsvinger",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
