@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 13:00:20",
+  "last_update": "25/05/2026 13:01:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,8 +19,8 @@
   },
   "live_events": [
     {
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 2038,
       "quota": 1.09,
       "in_range": false,
@@ -28,15 +28,15 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623334",
-      "market_id": "1.258494055",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
       "_is_inplay": false,
-      "open_date": "2026-05-25 13:00"
+      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Lokomotiv Plovdiv v Botev Plovdiv",
       "campionato": "Bulgarian A League",
-      "volume": 1797,
+      "volume": 1798,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -49,8 +49,8 @@
       "open_date": "2026-05-25 16:45"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
       "volume": 1375,
       "quota": 1.1,
       "in_range": false,
@@ -58,10 +58,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
+      "event_id": "35623334",
+      "market_id": "1.258494055",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 13:00"
     },
     {
       "match": "Ogre United v SC Grobina",
@@ -139,7 +139,7 @@
       "open_date": "2026-05-25 18:00"
     },
     {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 636,
       "quota": 1.06,
@@ -148,10 +148,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
       "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
+      "open_date": "2026-05-23 23:15"
     },
     {
       "match": "Sandnes Ulf v Sogndal",
@@ -292,7 +292,7 @@
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "volume": 15,
-      "quota": 1.09,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -300,6 +300,21 @@
       "source": "Betfair",
       "event_id": "35646256",
       "market_id": "1.258552575",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
+      "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
+      "campionato": "Israeli National League",
+      "volume": 15,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647246",
+      "market_id": "1.258563489",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
     }
@@ -526,22 +541,10 @@
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 636,
-      "best_volume": 636,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258494055",
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 13:00",
       "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
+      "quota_iniziale": 1.06,
       "volume": 2038,
-      "best_volume": 2040,
+      "best_volume": 2038,
       "whale_max": 0,
       "entered": false
     },
@@ -552,7 +555,7 @@
       "open_date": "2026-05-25 16:45",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1797,
+      "volume": 1798,
       "best_volume": 3010,
       "whale_max": 0,
       "entered": false
@@ -586,7 +589,7 @@
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "open_date": "2026-05-25 18:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.09,
       "volume": 15,
       "best_volume": 15,
@@ -602,6 +605,42 @@
       "quota_iniziale": 1.06,
       "volume": 45,
       "best_volume": 45,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258472472",
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-23 23:15",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 636,
+      "best_volume": 636,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502626",
+      "match": "Hodd v Egersund",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258563489",
+      "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
+      "campionato": "Israeli National League",
+      "open_date": "2026-05-25 18:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
