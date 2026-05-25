@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 12:32:21",
+  "last_update": "25/05/2026 12:33:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,21 +18,6 @@
     "balance": 918.69
   },
   "live_events": [
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2887,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
-    },
     {
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
@@ -62,6 +47,21 @@
       "market_id": "1.258473429",
       "_is_inplay": false,
       "open_date": "2026-05-25 16:45"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1312,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Ogre United v SC Grobina",
@@ -534,18 +534,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258473887",
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-22 21:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 2887,
-      "best_volume": 3023,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258513731",
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
@@ -614,18 +602,6 @@
       "quota_iniziale": 1.09,
       "volume": 219,
       "best_volume": 219,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502626",
-      "match": "Hodd v Egersund",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1033,
-      "best_volume": 1033,
       "whale_max": 0,
       "entered": false
     }
