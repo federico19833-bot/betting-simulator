@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 17:16:08",
+  "last_update": "25/05/2026 17:17:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Hapoel Kfar Saba v Hapoel Ramat Gan",
       "campionato": "Israeli National League",
-      "volume": 26599,
+      "volume": 21014,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Hapoel Rishon Lezion v Hapoel Kfar Shelem",
       "campionato": "Israeli National League",
-      "volume": 15251,
+      "volume": 15250,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
-      "volume": 1153,
+      "volume": 1099,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -90,6 +90,21 @@
       "source": "Betfair",
       "event_id": "35632861",
       "market_id": "1.258502188",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "volume": 865,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632865",
+      "market_id": "1.258502605",
       "_is_inplay": true,
       "open_date": "2026-05-25 17:00"
     },
@@ -171,7 +186,7 @@
     {
       "match": "Hapoel Nof HaGalil v Hapoel Akko",
       "campionato": "Israeli National League",
-      "volume": 309,
+      "volume": 307,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -199,36 +214,6 @@
       "open_date": "2026-05-25 18:00"
     },
     {
-      "match": "CD Gualberto Villarroel v The Strongest",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 240,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
-    },
-    {
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "volume": 221,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632865",
-      "market_id": "1.258502605",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
       "match": "SC Kiryat Yam v Maccabi Petach Tikva",
       "campionato": "Israeli National League",
       "volume": 205,
@@ -244,6 +229,36 @@
       "open_date": "2026-05-25 18:00"
     },
     {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 140,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
+    },
+    {
+      "match": "Rapid Vienna v SV Ried",
+      "campionato": "Austrian Bundesliga",
+      "volume": 132,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35643299",
+      "market_id": "1.258536227",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
       "match": "Rigas Futbola Skola v FK Tukums 2000",
       "campionato": "Latvian Virsliga",
       "volume": 60,
@@ -257,21 +272,6 @@
       "market_id": "1.258554885",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "Rapid Vienna v SV Ried",
-      "campionato": "Austrian Bundesliga",
-      "volume": 59,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35643299",
-      "market_id": "1.258536227",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 17:00"
     },
     {
       "match": "Al Budaiya v Al Najma (BRN)",
@@ -540,7 +540,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 15251,
+      "volume": 15250,
       "best_volume": 26599,
       "whale_max": 0,
       "entered": false
@@ -588,7 +588,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 221,
+      "volume": 865,
       "best_volume": 7024,
       "whale_max": 0,
       "entered": false
@@ -600,7 +600,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 26599,
+      "volume": 21014,
       "best_volume": 26599,
       "whale_max": 0,
       "entered": false
@@ -624,7 +624,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 309,
+      "volume": 307,
       "best_volume": 1298,
       "whale_max": 0,
       "entered": false
@@ -636,7 +636,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1153,
+      "volume": 1099,
       "best_volume": 1153,
       "whale_max": 0,
       "entered": false
@@ -648,7 +648,7 @@
       "open_date": "2026-05-23 02:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 240,
+      "volume": 140,
       "best_volume": 6994,
       "whale_max": 0,
       "entered": false
@@ -684,7 +684,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 59,
+      "volume": 132,
       "best_volume": 3012,
       "whale_max": 0,
       "entered": false
