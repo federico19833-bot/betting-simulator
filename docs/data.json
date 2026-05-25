@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 05:22:45",
+  "last_update": "25/05/2026 05:23:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -156,7 +156,7 @@
     {
       "match": "Rapid Vienna v SV Ried",
       "campionato": "Austrian Bundesliga",
-      "volume": 171,
+      "volume": 186,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -197,6 +197,36 @@
       "market_id": "1.258473429",
       "_is_inplay": false,
       "open_date": "2026-05-25 16:45"
+    },
+    {
+      "match": "Stromsgodset v Bryne",
+      "campionato": "Norwegian 1st Division",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632858",
+      "market_id": "1.258502272",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "volume": 15,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632865",
+      "market_id": "1.258502605",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 17:00"
     },
     {
       "match": "Haugesund v Moss",
@@ -438,20 +468,44 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 171,
-      "best_volume": 171,
+      "volume": 186,
+      "best_volume": 186,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258489211",
-      "match": "Suwon Bluewings v Cheonan City",
-      "campionato": "South Korean K2 League",
-      "open_date": "2026-05-25 09:30",
+      "event_id": "bf_1.258473887",
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 2226,
-      "best_volume": 2226,
+      "volume": 355,
+      "best_volume": 355,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502272",
+      "match": "Stromsgodset v Bryne",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 15,
+      "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502605",
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
