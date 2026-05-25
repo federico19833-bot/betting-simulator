@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 21:56:11",
+  "last_update": "25/05/2026 21:56:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -47,21 +47,6 @@
       "market_id": "1.258566110",
       "_is_inplay": false,
       "open_date": "2026-05-25 20:30"
-    },
-    {
-      "match": "Coritiba v Bahia",
-      "campionato": "Brazilian Serie A",
-      "volume": 1050,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35597322",
-      "market_id": "1.258375653",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 01:00"
     },
     {
       "match": "Botafogo SP v Athletic Club",
@@ -122,6 +107,21 @@
       "market_id": "1.258600840",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
+    },
+    {
+      "match": "Coritiba v Bahia",
+      "campionato": "Brazilian Serie A",
+      "volume": 463,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35597322",
+      "market_id": "1.258375653",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 01:00"
     },
     {
       "match": "BFC Daugavpils v FK Auda",
@@ -216,8 +216,8 @@
     {
       "match": "Ceres Futebol Clube RJ v Campos",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 92,
-      "quota": 1.48,
+      "volume": 154,
+      "quota": 1.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -560,6 +560,18 @@
       "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513183",
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-25 20:45",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 14676,
+      "best_volume": 14676,
       "whale_max": 0,
       "entered": false
     }
