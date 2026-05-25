@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 21:08:50",
+  "last_update": "25/05/2026 21:09:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,9 +34,24 @@
       "open_date": "2026-05-26 01:00"
     },
     {
+      "match": "Ceres Futebol Clube RJ v Campos",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 1868,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648185",
+      "market_id": "1.258573507",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 21:00"
+    },
+    {
       "match": "Derry City v Shelbourne",
       "campionato": "Irish Premier Division",
-      "volume": 2132,
+      "volume": 1536,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -79,6 +94,21 @@
       "open_date": "2026-05-26 19:00"
     },
     {
+      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
+      "campionato": "Bulgarian A League",
+      "volume": 1046,
+      "quota": 2.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625118",
+      "market_id": "1.258475963",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
+    },
+    {
       "match": "Bohemians v Shamrock Rovers",
       "campionato": "Irish Premier Division",
       "volume": 763,
@@ -90,21 +120,6 @@
       "source": "Betfair",
       "event_id": "35624111",
       "market_id": "1.258513162",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 21:00"
-    },
-    {
-      "match": "Ceres Futebol Clube RJ v Campos",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 666,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648185",
-      "market_id": "1.258573507",
       "_is_inplay": true,
       "open_date": "2026-05-25 21:00"
     },
@@ -141,7 +156,7 @@
     {
       "match": "Botafogo SP v Athletic Club",
       "campionato": "Brazilian Serie B",
-      "volume": 608,
+      "volume": 607,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -261,8 +276,8 @@
     {
       "match": "Treaty United v Cork City",
       "campionato": "Irish Division 1",
-      "volume": 159,
-      "quota": 1.18,
+      "volume": 91,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -289,25 +304,10 @@
       "open_date": "2026-05-26 19:00"
     },
     {
-      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
-      "campionato": "Bulgarian A League",
-      "volume": 35,
-      "quota": 2.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625118",
-      "market_id": "1.258475963",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
-    },
-    {
       "match": "Rapid Bucharest v Universitatea Craiova",
       "campionato": "Romanian Liga I",
       "volume": 16,
-      "quota": 3.0,
+      "quota": 2.76,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -571,9 +571,9 @@
       "match": "Ceres Futebol Clube RJ v Campos",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-05-25 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 666,
+      "volume": 1868,
       "best_volume": 2980,
       "whale_max": 0,
       "entered": false
@@ -621,7 +621,7 @@
       "open_date": "2026-05-26 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 608,
+      "volume": 607,
       "best_volume": 646,
       "whale_max": 0,
       "entered": false
@@ -683,30 +683,6 @@
       "quota_iniziale": 1.1,
       "volume": 1385,
       "best_volume": 1385,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258375653",
-      "match": "Coritiba v Bahia",
-      "campionato": "Brazilian Serie A",
-      "open_date": "2026-05-26 01:00",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 17685,
-      "best_volume": 17685,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258556771",
-      "match": "Real Cartagena v Envigado",
-      "campionato": "Colombian Primera B",
-      "open_date": "2026-05-26 03:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
