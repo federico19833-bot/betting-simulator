@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 10:15:31",
+  "last_update": "25/05/2026 10:16:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-25 15:00"
     },
     {
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "volume": 783,
+      "quota": 1.32,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623334",
+      "market_id": "1.258494055",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 13:00"
+    },
+    {
       "match": "Hapoel Afula v MS Kfar Kasem",
       "campionato": "Israeli National League",
       "volume": 781,
@@ -197,21 +212,6 @@
       "market_id": "1.258502626",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "volume": 16,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623334",
-      "market_id": "1.258494055",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 13:00"
     },
     {
       "match": "Cherno More v Arda",
@@ -587,6 +587,18 @@
       "quota_iniziale": 1.09,
       "volume": 1472,
       "best_volume": 1472,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258536227",
+      "match": "Rapid Vienna v SV Ried",
+      "campionato": "Austrian Bundesliga",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
