@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 22:23:55",
+  "last_update": "25/05/2026 22:24:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-26 17:00"
     },
     {
+      "match": "Ceres Futebol Clube RJ v Campos",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 588,
+      "quota": 3.0,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648185",
+      "market_id": "1.258573507",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 21:00"
+    },
+    {
       "match": "Banik Ostrava v MAS Taborsko",
       "campionato": "Czech 1 Liga",
       "volume": 464,
@@ -214,36 +229,6 @@
       "open_date": "2026-05-26 17:00"
     },
     {
-      "match": "Ceres Futebol Clube RJ v Campos",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 78,
-      "quota": 3.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648185",
-      "market_id": "1.258573507",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 21:00"
-    },
-    {
-      "match": "FC Chernigiv v FK Metal Kharkiv",
-      "campionato": "Ukrainian Persha Liga",
-      "volume": 78,
-      "quota": 1.66,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647413",
-      "market_id": "1.258565935",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 16:00"
-    },
-    {
       "match": "FC Badalona (W) v Real Madrid FC (W)",
       "campionato": "Spanish Liga F",
       "volume": 73,
@@ -257,6 +242,21 @@
       "market_id": "1.258595249",
       "_is_inplay": false,
       "open_date": "2026-05-26 19:00"
+    },
+    {
+      "match": "FC Chernigiv v FK Metal Kharkiv",
+      "campionato": "Ukrainian Persha Liga",
+      "volume": 67,
+      "quota": 1.78,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647413",
+      "market_id": "1.258565935",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 16:00"
     },
     {
       "match": "Aucas v Manta FC",
@@ -548,6 +548,18 @@
       "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513183",
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-25 20:45",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 14671,
+      "best_volume": 14671,
       "whale_max": 0,
       "entered": false
     }
