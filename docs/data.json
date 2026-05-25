@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 09:46:17",
+  "last_update": "25/05/2026 09:46:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-25 17:00"
     },
     {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 756,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
+    },
+    {
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
       "volume": 679,
@@ -201,8 +216,8 @@
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 117,
-      "quota": 1.09,
+      "volume": 69,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -287,21 +302,6 @@
       "market_id": "1.258552575",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 13,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
     }
   ],
   "tracked_matches": [
@@ -594,18 +594,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 117,
-      "best_volume": 117,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258494055",
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
@@ -614,6 +602,18 @@
       "quota_iniziale": 1.06,
       "volume": 679,
       "best_volume": 679,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502251",
+      "match": "Stabaek v Kongsvinger",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
