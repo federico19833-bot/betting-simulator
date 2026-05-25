@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 17:55:56",
+  "last_update": "25/05/2026 17:56:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Hapoel Nof HaGalil v Hapoel Akko",
       "campionato": "Israeli National League",
-      "volume": 5021,
+      "volume": 7719,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "Al Budaiya v Al Najma (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 370,
+      "volume": 393,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-25 19:25"
     },
     {
+      "match": "Rigas Futbola Skola v FK Tukums 2000",
+      "campionato": "Latvian Virsliga",
+      "volume": 80,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645881",
+      "market_id": "1.258554885",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
       "match": "Derry City v Shelbourne",
       "campionato": "Irish Premier Division",
       "volume": 80,
@@ -272,21 +287,6 @@
       "market_id": "1.258513183",
       "_is_inplay": false,
       "open_date": "2026-05-25 20:45"
-    },
-    {
-      "match": "Rigas Futbola Skola v FK Tukums 2000",
-      "campionato": "Latvian Virsliga",
-      "volume": 79,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645881",
-      "market_id": "1.258554885",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:00"
     },
     {
       "match": "SC Kiryat Yam v Maccabi Petach Tikva",
@@ -705,7 +705,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 5021,
+      "volume": 7719,
       "best_volume": 7719,
       "whale_max": 0,
       "entered": false
@@ -801,8 +801,20 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 370,
-      "best_volume": 370,
+      "volume": 393,
+      "best_volume": 393,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258566110",
+      "match": "Parma U20 v Cesena U20",
+      "campionato": "Italian Campionato Primavera",
+      "open_date": "2026-05-25 20:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 686,
+      "best_volume": 686,
       "whale_max": 0,
       "entered": false
     }
