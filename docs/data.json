@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 16:14:02",
+  "last_update": "25/05/2026 16:14:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-25 17:00"
     },
     {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 976,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35614850",
+      "market_id": "1.258364861",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 16:00"
+    },
+    {
       "match": "Rapid Vienna v SV Ried",
       "campionato": "Austrian Bundesliga",
       "volume": 916,
@@ -122,21 +137,6 @@
       "market_id": "1.258555476",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:30"
-    },
-    {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "volume": 418,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35614850",
-      "market_id": "1.258364861",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Club Independiente Petrolero v Real Potosi",
@@ -563,6 +563,18 @@
       "quota_iniziale": 1.1,
       "volume": 40,
       "best_volume": 40,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502605",
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
