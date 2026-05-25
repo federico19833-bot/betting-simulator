@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 14:18:21",
+  "last_update": "25/05/2026 14:19:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2812,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
-    },
-    {
       "match": "Hvidovre v Esbjerg",
       "campionato": "Danish 1st Division",
       "volume": 2700,
@@ -47,6 +32,21 @@
       "market_id": "1.258498869",
       "_is_inplay": false,
       "open_date": "2026-05-25 15:00"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 2296,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
@@ -277,7 +277,7 @@
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "volume": 15,
-      "quota": 1.03,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -571,7 +571,7 @@
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
       "open_date": "2026-05-25 18:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
@@ -579,14 +579,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
+      "event_id": "bf_1.258473887",
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
+      "volume": 2296,
+      "best_volume": 2296,
       "whale_max": 0,
       "entered": false
     }
