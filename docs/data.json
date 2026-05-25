@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 03:45:20",
+  "last_update": "25/05/2026 03:45:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -32,21 +32,6 @@
       "market_id": "1.258513731",
       "_is_inplay": false,
       "open_date": "2026-05-24 01:30"
-    },
-    {
-      "match": "Los Angeles FC v Seattle Sounders",
-      "campionato": "US MLS",
-      "volume": 1875,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35618886",
-      "market_id": "1.258365180",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 03:25"
     },
     {
       "match": "Asane v Raufoss",
@@ -212,6 +197,21 @@
       "market_id": "1.258502251",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Los Angeles FC v Seattle Sounders",
+      "campionato": "US MLS",
+      "volume": 163,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35618886",
+      "market_id": "1.258365180",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 03:25"
     },
     {
       "match": "Suwon Bluewings v Cheonan City",
@@ -439,9 +439,9 @@
       "match": "Los Angeles FC v Seattle Sounders",
       "campionato": "US MLS",
       "open_date": "2026-05-25 03:25",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1875,
+      "volume": 163,
       "best_volume": 1875,
       "whale_max": 0,
       "entered": false
@@ -467,6 +467,30 @@
       "quota_iniziale": 1.07,
       "volume": 171,
       "best_volume": 171,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513731",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-24 01:30",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 2226,
+      "best_volume": 2226,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258364861",
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "open_date": "2026-05-25 16:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 355,
+      "best_volume": 355,
       "whale_max": 0,
       "entered": false
     }
