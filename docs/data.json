@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 16:21:18",
+  "last_update": "25/05/2026 16:21:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Hodd v Egersund",
       "campionato": "Norwegian 1st Division",
-      "volume": 4293,
+      "volume": 1790,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Haugesund v Moss",
       "campionato": "Norwegian 1st Division",
-      "volume": 1627,
+      "volume": 1612,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -154,6 +154,21 @@
       "open_date": "2026-05-25 18:00"
     },
     {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 82,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35614850",
+      "market_id": "1.258364861",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 16:00"
+    },
+    {
       "match": "Cherno More v Arda",
       "campionato": "Bulgarian A League",
       "volume": 53,
@@ -169,21 +184,6 @@
       "open_date": "2026-05-25 16:45"
     },
     {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "volume": 50,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35614850",
-      "market_id": "1.258364861",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 16:00"
-    },
-    {
       "match": "Stabaek v Kongsvinger",
       "campionato": "Norwegian 1st Division",
       "volume": 47,
@@ -197,6 +197,21 @@
       "market_id": "1.258502251",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 42,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Sandnes Ulf v Sogndal",
@@ -217,7 +232,7 @@
       "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
       "campionato": "Israeli National League",
       "volume": 40,
-      "quota": 1.1,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -227,21 +242,6 @@
       "market_id": "1.258563489",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 26,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
     },
     {
       "match": "Lyn v Strommen",
@@ -477,7 +477,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 4293,
+      "volume": 1790,
       "best_volume": 6621,
       "whale_max": 0,
       "entered": false
@@ -537,7 +537,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1627,
+      "volume": 1612,
       "best_volume": 1628,
       "whale_max": 0,
       "entered": false
@@ -555,23 +555,11 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258563489",
       "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
       "campionato": "Israeli National League",
       "open_date": "2026-05-25 18:00",
-      "quota_attuale": 1.1,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.1,
       "volume": 40,
       "best_volume": 40,
