@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 11:03:36",
+  "last_update": "25/05/2026 11:04:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -201,8 +201,8 @@
     {
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
-      "volume": 16,
-      "quota": 2.28,
+      "volume": 28,
+      "quota": 2.38,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -602,6 +602,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258536227",
+      "match": "Rapid Vienna v SV Ried",
+      "campionato": "Austrian Bundesliga",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
