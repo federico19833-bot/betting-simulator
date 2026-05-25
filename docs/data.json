@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 09:05:09",
+  "last_update": "25/05/2026 09:05:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
-      "volume": 2811,
+      "volume": 2740,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-25 15:00"
     },
     {
+      "match": "Suwon Bluewings v Cheonan City",
+      "campionato": "South Korean K2 League",
+      "volume": 1166,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623187",
+      "market_id": "1.258489211",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 09:30"
+    },
+    {
       "match": "Stabaek v Kongsvinger",
       "campionato": "Norwegian 1st Division",
       "volume": 1032,
@@ -94,19 +109,19 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Suwon Bluewings v Cheonan City",
-      "campionato": "South Korean K2 League",
-      "volume": 986,
-      "quota": 1.1,
+      "match": "Hodd v Egersund",
+      "campionato": "Norwegian 1st Division",
+      "volume": 898,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623187",
-      "market_id": "1.258489211",
+      "event_id": "35632856",
+      "market_id": "1.258502626",
       "_is_inplay": false,
-      "open_date": "2026-05-25 09:30"
+      "open_date": "2026-05-25 17:00"
     },
     {
       "match": "Kolding IF v Hillerod Fodbold",
@@ -169,21 +184,6 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Paju Citizen v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 97,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623188",
-      "market_id": "1.258489190",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 09:30"
-    },
-    {
       "match": "Lokomotiv Plovdiv v Botev Plovdiv",
       "campionato": "Bulgarian A League",
       "volume": 15,
@@ -229,21 +229,6 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Hodd v Egersund",
-      "campionato": "Norwegian 1st Division",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632856",
-      "market_id": "1.258502626",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
       "match": "Odds BK v Ranheim IL",
       "campionato": "Norwegian 1st Division",
       "volume": 15,
@@ -272,6 +257,21 @@
       "market_id": "1.258502230",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Paju Citizen v Gimpo Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 14,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623188",
+      "market_id": "1.258489190",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 09:30"
     }
   ],
   "tracked_matches": [
@@ -378,7 +378,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 2811,
+      "volume": 2740,
       "best_volume": 2811,
       "whale_max": 0,
       "entered": false
@@ -390,7 +390,7 @@
       "open_date": "2026-05-25 09:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 97,
+      "volume": 14,
       "best_volume": 1974,
       "whale_max": 0,
       "entered": false
@@ -474,7 +474,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 15,
+      "volume": 898,
       "best_volume": 898,
       "whale_max": 0,
       "entered": false
@@ -548,30 +548,6 @@
       "quota_iniziale": 1.09,
       "volume": 2211,
       "best_volume": 2211,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258489211",
-      "match": "Suwon Bluewings v Cheonan City",
-      "campionato": "South Korean K2 League",
-      "open_date": "2026-05-25 09:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 986,
-      "best_volume": 986,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502251",
-      "match": "Stabaek v Kongsvinger",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
