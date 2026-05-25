@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 12:16:03",
+  "last_update": "25/05/2026 12:16:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-25 17:00"
     },
     {
+      "match": "Manama Club v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 94,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646256",
+      "market_id": "1.258552575",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
       "match": "Stromsgodset v Bryne",
       "campionato": "Norwegian 1st Division",
       "volume": 15,
@@ -287,21 +302,6 @@
       "market_id": "1.258502251",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Manama Club v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 15,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646256",
-      "market_id": "1.258552575",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:00"
     }
   ],
   "tracked_matches": [
@@ -612,8 +612,20 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 15,
+      "volume": 94,
       "best_volume": 94,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502626",
+      "match": "Hodd v Egersund",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1033,
+      "best_volume": 1033,
       "whale_max": 0,
       "entered": false
     }
