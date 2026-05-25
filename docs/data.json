@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 15:04:29",
+  "last_update": "25/05/2026 15:05:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,8 +96,8 @@
     {
       "match": "Hapoel Afula v MS Kfar Kasem",
       "campionato": "Israeli National League",
-      "volume": 781,
-      "quota": 1.04,
+      "volume": 498,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -227,21 +227,6 @@
       "market_id": "1.258502272",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Lokomotiv Plovdiv v Botev Plovdiv",
-      "campionato": "Bulgarian A League",
-      "volume": 44,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624978",
-      "market_id": "1.258473429",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 16:45"
     },
     {
       "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
@@ -433,9 +418,9 @@
       "match": "Hapoel Afula v MS Kfar Kasem",
       "campionato": "Israeli National League",
       "open_date": "2026-05-25 18:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 781,
+      "volume": 498,
       "best_volume": 781,
       "whale_max": 0,
       "entered": false
@@ -573,18 +558,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258473429",
-      "match": "Lokomotiv Plovdiv v Botev Plovdiv",
-      "campionato": "Bulgarian A League",
-      "open_date": "2026-05-25 16:45",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.04,
-      "volume": 44,
-      "best_volume": 1237,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258473452",
       "match": "Cherno More v Arda",
       "campionato": "Bulgarian A League",
@@ -621,14 +594,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
+      "event_id": "bf_1.258498869",
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 15:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 459,
-      "best_volume": 459,
+      "volume": 3001,
+      "best_volume": 3001,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502605",
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
