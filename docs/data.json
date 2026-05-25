@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 03:23:21",
+  "last_update": "25/05/2026 03:23:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,8 +19,8 @@
   },
   "live_events": [
     {
-      "match": "Asane v Raufoss",
-      "campionato": "Norwegian 1st Division",
+      "match": "USM Khenchela v USM Alger",
+      "campionato": "Algerian Ligue 1",
       "volume": 1297,
       "quota": 1.09,
       "in_range": false,
@@ -28,16 +28,31 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35632861",
-      "market_id": "1.258502188",
+      "event_id": "35645526",
+      "market_id": "1.258546465",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Cherno More v Arda",
+      "match": "Lokomotiv Plovdiv v Botev Plovdiv",
       "campionato": "Bulgarian A League",
       "volume": 1260,
       "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624978",
+      "market_id": "1.258473429",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 16:45"
+    },
+    {
+      "match": "Cherno More v Arda",
+      "campionato": "Bulgarian A League",
+      "volume": 1221,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,21 +62,6 @@
       "market_id": "1.258473452",
       "_is_inplay": false,
       "open_date": "2026-05-25 16:45"
-    },
-    {
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "volume": 1221,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623334",
-      "market_id": "1.258494055",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 13:00"
     },
     {
       "match": "Odds BK v Ranheim IL",
@@ -124,10 +124,25 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
       "volume": 355,
       "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624568",
+      "market_id": "1.258498869",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 15:00"
+    },
+    {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 291,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -137,21 +152,6 @@
       "market_id": "1.258364861",
       "_is_inplay": false,
       "open_date": "2026-05-25 16:00"
-    },
-    {
-      "match": "Lokomotiv Plovdiv v Botev Plovdiv",
-      "campionato": "Bulgarian A League",
-      "volume": 291,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624978",
-      "market_id": "1.258473429",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 16:45"
     },
     {
       "match": "Sandnes Ulf v Sogndal",
@@ -169,7 +169,7 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Stabaek v Kongsvinger",
+      "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
       "volume": 171,
       "quota": 1.07,
@@ -178,8 +178,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35632849",
-      "market_id": "1.258502251",
+      "event_id": "35632861",
+      "market_id": "1.258502188",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
     },
@@ -199,8 +199,23 @@
       "open_date": "2026-05-25 09:30"
     },
     {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
       "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 48,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640040",
+      "market_id": "1.258513731",
+      "_is_inplay": false,
+      "open_date": "2026-05-24 01:30"
+    },
+    {
+      "match": "Pumas UNAM v Cruz Azul",
+      "campionato": "Mexican Liga MX",
       "volume": 35,
       "quota": 1.04,
       "in_range": false,
@@ -208,10 +223,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
+      "event_id": "35638662",
+      "market_id": "1.258486278",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 03:00"
     }
   ],
   "tracked_matches": [
@@ -316,9 +331,9 @@
       "match": "Lokomotiv Plovdiv v Botev Plovdiv",
       "campionato": "Bulgarian A League",
       "open_date": "2026-05-25 16:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 291,
+      "volume": 1260,
       "best_volume": 1260,
       "whale_max": 0,
       "entered": false
@@ -328,9 +343,9 @@
       "match": "Cherno More v Arda",
       "campionato": "Bulgarian A League",
       "open_date": "2026-05-25 16:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1260,
+      "volume": 1221,
       "best_volume": 1260,
       "whale_max": 0,
       "entered": false
@@ -376,9 +391,9 @@
       "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1297,
+      "volume": 171,
       "best_volume": 1297,
       "whale_max": 0,
       "entered": false
@@ -408,10 +423,10 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258473887",
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-22 21:00",
+      "event_id": "bf_1.258486278",
+      "match": "Pumas UNAM v Cruz Azul",
+      "campionato": "Mexican Liga MX",
+      "open_date": "2026-05-25 03:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
       "volume": 35,
@@ -420,26 +435,50 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258494055",
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 13:00",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 1221,
-      "best_volume": 1221,
+      "event_id": "bf_1.258365180",
+      "match": "Los Angeles FC v Seattle Sounders",
+      "campionato": "US MLS",
+      "open_date": "2026-05-25 03:25",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1013,
+      "best_volume": 1013,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258502251",
-      "match": "Stabaek v Kongsvinger",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
+      "event_id": "bf_1.258498869",
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 15:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 355,
+      "best_volume": 355,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258364861",
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "open_date": "2026-05-25 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 171,
-      "best_volume": 171,
+      "volume": 291,
+      "best_volume": 291,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258546465",
+      "match": "USM Khenchela v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 1297,
+      "best_volume": 1297,
       "whale_max": 0,
       "entered": false
     }
