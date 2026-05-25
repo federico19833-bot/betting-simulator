@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 20:10:17",
+  "last_update": "25/05/2026 20:10:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Ludogorets v CSKA Sofia",
       "campionato": "Bulgarian A League",
-      "volume": 10853,
+      "volume": 9881,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Paderborn v Wolfsburg",
       "campionato": "German Playoff",
-      "volume": 6480,
+      "volume": 6463,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258546342",
       "_is_inplay": false,
       "open_date": "2026-05-26 00:00"
+    },
+    {
+      "match": "Rapid Bucharest v Universitatea Craiova",
+      "campionato": "Romanian Liga I",
+      "volume": 1273,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624100",
+      "market_id": "1.258346732",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
     },
     {
       "match": "Ceres Futebol Clube RJ v Campos",
@@ -184,21 +199,6 @@
       "open_date": "2026-05-25 21:00"
     },
     {
-      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
-      "campionato": "Bulgarian A League",
-      "volume": 464,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625118",
-      "market_id": "1.258475963",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
-    },
-    {
       "match": "FC Honka Akatemia v VJS",
       "campionato": "Finnish Cup",
       "volume": 464,
@@ -212,6 +212,21 @@
       "market_id": "1.258595010",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
+    },
+    {
+      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
+      "campionato": "Bulgarian A League",
+      "volume": 451,
+      "quota": 1.26,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625118",
+      "market_id": "1.258475963",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
     },
     {
       "match": "IFK Mariehamn v Lahti",
@@ -259,19 +274,19 @@
       "open_date": "2026-05-26 19:00"
     },
     {
-      "match": "Derry City v Shelbourne",
-      "campionato": "Irish Premier Division",
-      "volume": 320,
-      "quota": 1.19,
+      "match": "Al Tadhamon v Al-Qadsia",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 308,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623770",
-      "market_id": "1.258513183",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 20:45"
+      "event_id": "35635179",
+      "market_id": "1.258534462",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:25"
     },
     {
       "match": "BFC Daugavpils v FK Auda",
@@ -334,34 +349,19 @@
       "open_date": "2026-05-26 03:00"
     },
     {
-      "match": "Al Tadhamon v Al-Qadsia",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 151,
-      "quota": 1.19,
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "volume": 182,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635179",
-      "market_id": "1.258534462",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:25"
-    },
-    {
-      "match": "Rapid Bucharest v Universitatea Craiova",
-      "campionato": "Romanian Liga I",
-      "volume": 104,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624100",
-      "market_id": "1.258346732",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
+      "event_id": "35623770",
+      "market_id": "1.258513183",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 20:45"
     },
     {
       "match": "Deportes Copiapo v Union Espanola",
@@ -483,7 +483,7 @@
       "open_date": "2026-05-25 19:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 10853,
+      "volume": 9881,
       "best_volume": 32789,
       "whale_max": 0,
       "entered": true
