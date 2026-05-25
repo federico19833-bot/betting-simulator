@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 21:03:26",
+  "last_update": "25/05/2026 21:03:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -34,24 +34,9 @@
       "open_date": "2026-05-26 00:00"
     },
     {
-      "match": "Ludogorets v CSKA Sofia",
-      "campionato": "Bulgarian A League",
-      "volume": 10538,
-      "quota": 1.08,
-      "in_range": true,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625112",
-      "market_id": "1.258476005",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
-    },
-    {
       "match": "Derry City v Shelbourne",
       "campionato": "Irish Premier Division",
-      "volume": 3819,
+      "volume": 2816,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -66,7 +51,7 @@
     {
       "match": "Ceres Futebol Clube RJ v Campos",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 2067,
+      "volume": 2774,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -169,6 +154,21 @@
       "open_date": "2026-05-26 02:00"
     },
     {
+      "match": "Comerciantes Unidos v Deportivo Garcilaso",
+      "campionato": "Peruvian Primera Division",
+      "volume": 388,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35631679",
+      "market_id": "1.258543748",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 22:30"
+    },
+    {
       "match": "FK Jelgava v Liepajas Metalurgs",
       "campionato": "Latvian Virsliga",
       "volume": 332,
@@ -244,6 +244,21 @@
       "open_date": "2026-05-26 17:00"
     },
     {
+      "match": "Ludogorets v CSKA Sofia",
+      "campionato": "Bulgarian A League",
+      "volume": 178,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625112",
+      "market_id": "1.258476005",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
+    },
+    {
       "match": "Orebro v Helsingborgs",
       "campionato": "Swedish Superettan",
       "volume": 73,
@@ -259,25 +274,10 @@
       "open_date": "2026-05-26 19:00"
     },
     {
-      "match": "Treaty United v Cork City",
-      "campionato": "Irish Division 1",
-      "volume": 34,
-      "quota": 1.87,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641199",
-      "market_id": "1.258543471",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 20:45"
-    },
-    {
       "match": "Al Tadhamon v Al-Qadsia",
       "campionato": "Kuwaiti Premier League",
-      "volume": 29,
-      "quota": 1.99,
+      "volume": 63,
+      "quota": 2.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -291,8 +291,8 @@
     {
       "match": "CSKA 1948 Sofia v PFC Levski Sofia",
       "campionato": "Bulgarian A League",
-      "volume": 23,
-      "quota": 2.32,
+      "volume": 31,
+      "quota": 2.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -300,6 +300,21 @@
       "source": "Betfair",
       "event_id": "35625118",
       "market_id": "1.258475963",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
+    },
+    {
+      "match": "Rapid Bucharest v Universitatea Craiova",
+      "campionato": "Romanian Liga I",
+      "volume": 16,
+      "quota": 1.6,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624100",
+      "market_id": "1.258346732",
       "_is_inplay": true,
       "open_date": "2026-05-25 19:30"
     },
@@ -332,21 +347,6 @@
       "market_id": "1.258556771",
       "_is_inplay": false,
       "open_date": "2026-05-26 03:00"
-    },
-    {
-      "match": "Rapid Bucharest v Universitatea Craiova",
-      "campionato": "Romanian Liga I",
-      "volume": 13,
-      "quota": 1.59,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624100",
-      "market_id": "1.258346732",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
     }
   ],
   "tracked_matches": [
@@ -633,8 +633,8 @@
       "open_date": "2026-05-25 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 2067,
-      "best_volume": 2722,
+      "volume": 2774,
+      "best_volume": 2774,
       "whale_max": 0,
       "entered": false
     },
@@ -687,14 +687,38 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258556771",
-      "match": "Real Cartagena v Envigado",
-      "campionato": "Colombian Primera B",
-      "open_date": "2026-05-26 03:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "event_id": "bf_1.258476005",
+      "match": "Ludogorets v CSKA Sofia",
+      "campionato": "Bulgarian A League",
+      "open_date": "2026-05-25 19:30",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 178,
+      "best_volume": 178,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258543748",
+      "match": "Comerciantes Unidos v Deportivo Garcilaso",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-25 22:30",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 388,
+      "best_volume": 388,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258546342",
+      "match": "Botafogo SP v Athletic Club",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-26 00:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 17685,
+      "best_volume": 17685,
       "whale_max": 0,
       "entered": false
     }
