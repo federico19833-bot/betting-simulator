@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 21:56:00",
+  "last_update": "25/05/2026 21:56:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -47,6 +47,21 @@
       "market_id": "1.258566110",
       "_is_inplay": false,
       "open_date": "2026-05-25 20:30"
+    },
+    {
+      "match": "Coritiba v Bahia",
+      "campionato": "Brazilian Serie A",
+      "volume": 1050,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35597322",
+      "market_id": "1.258375653",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 01:00"
     },
     {
       "match": "Botafogo SP v Athletic Club",
@@ -107,21 +122,6 @@
       "market_id": "1.258600840",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
-    },
-    {
-      "match": "Coritiba v Bahia",
-      "campionato": "Brazilian Serie A",
-      "volume": 463,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35597322",
-      "market_id": "1.258375653",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 01:00"
     },
     {
       "match": "BFC Daugavpils v FK Auda",
@@ -214,6 +214,21 @@
       "open_date": "2026-05-26 17:00"
     },
     {
+      "match": "Ceres Futebol Clube RJ v Campos",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 92,
+      "quota": 1.48,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648185",
+      "market_id": "1.258573507",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 21:00"
+    },
+    {
       "match": "FC Badalona (W) v Real Madrid FC (W)",
       "campionato": "Spanish Liga F",
       "volume": 73,
@@ -229,25 +244,10 @@
       "open_date": "2026-05-26 19:00"
     },
     {
-      "match": "Ceres Futebol Clube RJ v Campos",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 21,
-      "quota": 1.5,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648185",
-      "market_id": "1.258573507",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 21:00"
-    },
-    {
       "match": "Aucas v Manta FC",
       "campionato": "Ecuadorian Serie A",
       "volume": 15,
-      "quota": 1.1,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -548,6 +548,18 @@
       "quota_iniziale": 1.05,
       "volume": 624,
       "best_volume": 624,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258516658",
+      "match": "Aucas v Manta FC",
+      "campionato": "Ecuadorian Serie A",
+      "open_date": "2026-05-26 02:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
