@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 10:49:17",
+  "last_update": "25/05/2026 10:49:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-25 16:00"
     },
     {
+      "match": "Paju Citizen v Gimpo Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 1065,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623188",
+      "market_id": "1.258489190",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 09:30"
+    },
+    {
       "match": "Rapid Vienna v SV Ried",
       "campionato": "Austrian Bundesliga",
       "volume": 1032,
@@ -64,24 +79,9 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Paju Citizen v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 987,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623188",
-      "market_id": "1.258489190",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 09:30"
-    },
-    {
       "match": "Odds BK v Ranheim IL",
       "campionato": "Norwegian 1st Division",
-      "volume": 899,
+      "volume": 898,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "Hvidovre v Esbjerg",
       "campionato": "Danish 1st Division",
-      "volume": 694,
+      "volume": 697,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -152,6 +152,21 @@
       "market_id": "1.258472472",
       "_is_inplay": false,
       "open_date": "2026-05-23 23:15"
+    },
+    {
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "volume": 365,
+      "quota": 1.67,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623334",
+      "market_id": "1.258494055",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 13:00"
     },
     {
       "match": "Sandnes Ulf v Sogndal",
@@ -197,21 +212,6 @@
       "market_id": "1.258502626",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Kolding IF v Hillerod Fodbold",
-      "campionato": "Danish 1st Division",
-      "volume": 16,
-      "quota": 1.61,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623334",
-      "market_id": "1.258494055",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 13:00"
     },
     {
       "match": "Cherno More v Arda",
@@ -408,7 +408,7 @@
       "open_date": "2026-05-25 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 694,
+      "volume": 697,
       "best_volume": 1236,
       "whale_max": 0,
       "entered": false
@@ -456,7 +456,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 899,
+      "volume": 898,
       "best_volume": 899,
       "whale_max": 0,
       "entered": false
@@ -588,7 +588,7 @@
       "open_date": "2026-05-25 09:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 987,
+      "volume": 1065,
       "best_volume": 1473,
       "whale_max": 0,
       "entered": false
@@ -602,6 +602,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258536227",
+      "match": "Rapid Vienna v SV Ried",
+      "campionato": "Austrian Bundesliga",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
