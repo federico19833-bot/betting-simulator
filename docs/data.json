@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 22:40:22",
+  "last_update": "25/05/2026 22:40:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Comerciantes Unidos v Deportivo Garcilaso",
       "campionato": "Peruvian Primera Division",
-      "volume": 23577,
+      "volume": 23693,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258516658",
       "_is_inplay": false,
       "open_date": "2026-05-26 02:00"
-    },
-    {
-      "match": "Alhama CF (W) v Levante UD (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1164,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649557",
-      "market_id": "1.258602585",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
     },
     {
       "match": "VPS v Haka",
@@ -154,19 +139,19 @@
       "open_date": "2026-05-26 17:00"
     },
     {
-      "match": "Coritiba v Bahia",
-      "campionato": "Brazilian Serie A",
-      "volume": 320,
-      "quota": 1.15,
+      "match": "Alhama CF (W) v Levante UD (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 332,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35597322",
-      "market_id": "1.258375653",
+      "event_id": "35649557",
+      "market_id": "1.258602585",
       "_is_inplay": false,
-      "open_date": "2026-05-26 01:00"
+      "open_date": "2026-05-26 19:00"
     },
     {
       "match": "JaPS v KuPS",
@@ -242,6 +227,21 @@
       "market_id": "1.258593268",
       "_is_inplay": false,
       "open_date": "2026-05-26 20:30"
+    },
+    {
+      "match": "Coritiba v Bahia",
+      "campionato": "Brazilian Serie A",
+      "volume": 36,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35597322",
+      "market_id": "1.258375653",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 01:00"
     },
     {
       "match": "Deportes Copiapo v Union Espanola",
@@ -469,9 +469,9 @@
       "match": "Alhama CF (W) v Levante UD (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 1164,
+      "volume": 332,
       "best_volume": 1164,
       "whale_max": 0,
       "entered": false
@@ -533,18 +533,6 @@
       "quota_iniziale": 1.04,
       "volume": 203,
       "best_volume": 203,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258543748",
-      "match": "Comerciantes Unidos v Deportivo Garcilaso",
-      "campionato": "Peruvian Primera Division",
-      "open_date": "2026-05-25 22:30",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 23577,
-      "best_volume": 23577,
       "whale_max": 0,
       "entered": false
     }
