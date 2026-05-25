@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 13:02:17",
+  "last_update": "25/05/2026 13:02:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -77,6 +77,21 @@
       "market_id": "1.258554927",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 1126,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35614850",
+      "market_id": "1.258364861",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Hodd v Egersund",
@@ -212,21 +227,6 @@
       "market_id": "1.258502605",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "volume": 75,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35614850",
-      "market_id": "1.258364861",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Stromsgodset v Bryne",
@@ -601,10 +601,10 @@
       "match": "Notts Co v Salford City",
       "campionato": "English Sky Bet League 2",
       "open_date": "2026-05-25 16:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 75,
-      "best_volume": 191,
+      "volume": 1126,
+      "best_volume": 1126,
       "whale_max": 0,
       "entered": false
     },
@@ -621,14 +621,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502626",
-      "match": "Hodd v Egersund",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
+      "event_id": "bf_1.258494055",
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 13:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
+      "volume": 1375,
+      "best_volume": 1375,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258563489",
+      "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
+      "campionato": "Israeli National League",
+      "open_date": "2026-05-25 18:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 215,
+      "best_volume": 215,
       "whale_max": 0,
       "entered": false
     }
