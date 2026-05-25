@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 21:40:45",
+  "last_update": "25/05/2026 21:40:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-26 19:00"
     },
     {
-      "match": "Coritiba v Bahia",
-      "campionato": "Brazilian Serie A",
-      "volume": 1038,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35597322",
-      "market_id": "1.258375653",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 01:00"
-    },
-    {
       "match": "Botafogo SP v Athletic Club",
       "campionato": "Brazilian Serie B",
       "volume": 763,
@@ -137,6 +122,21 @@
       "market_id": "1.258600840",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
+    },
+    {
+      "match": "Coritiba v Bahia",
+      "campionato": "Brazilian Serie A",
+      "volume": 463,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35597322",
+      "market_id": "1.258375653",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 01:00"
     },
     {
       "match": "BFC Daugavpils v FK Auda",
@@ -216,7 +216,7 @@
     {
       "match": "Ceres Futebol Clube RJ v Campos",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 152,
+      "volume": 144,
       "quota": 1.41,
       "in_range": false,
       "monitored": false,
@@ -246,8 +246,8 @@
     {
       "match": "FC Chernigiv v FK Metal Kharkiv",
       "campionato": "Ukrainian Persha Liga",
-      "volume": 16,
-      "quota": 1.26,
+      "volume": 21,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
