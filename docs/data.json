@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 10:08:22",
+  "last_update": "25/05/2026 10:09:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Stabaek v Kongsvinger",
       "campionato": "Norwegian 1st Division",
-      "volume": 3253,
+      "volume": 3249,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -32,21 +32,6 @@
       "market_id": "1.258502251",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Paju Citizen v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 1472,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623188",
-      "market_id": "1.258489190",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 09:30"
     },
     {
       "match": "Cherno More v Arda",
@@ -216,8 +201,8 @@
     {
       "match": "Kolding IF v Hillerod Fodbold",
       "campionato": "Danish 1st Division",
-      "volume": 60,
-      "quota": 1.3,
+      "volume": 121,
+      "quota": 1.29,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -227,6 +212,21 @@
       "market_id": "1.258494055",
       "_is_inplay": false,
       "open_date": "2026-05-25 13:00"
+    },
+    {
+      "match": "Paju Citizen v Gimpo Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 25,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623188",
+      "market_id": "1.258489190",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 09:30"
     },
     {
       "match": "Stromsgodset v Bryne",
@@ -573,32 +573,8 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3253,
+      "volume": 3249,
       "best_volume": 3253,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258489190",
-      "match": "Paju Citizen v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "open_date": "2026-05-25 09:30",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.1,
-      "volume": 1472,
-      "best_volume": 1472,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258536227",
-      "match": "Rapid Vienna v SV Ried",
-      "campionato": "Austrian Bundesliga",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
