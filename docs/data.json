@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 22:07:58",
+  "last_update": "25/05/2026 22:08:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -216,8 +216,8 @@
     {
       "match": "Ceres Futebol Clube RJ v Campos",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 64,
-      "quota": 1.9,
+      "volume": 36,
+      "quota": 1.86,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -227,21 +227,6 @@
       "market_id": "1.258573507",
       "_is_inplay": true,
       "open_date": "2026-05-25 21:00"
-    },
-    {
-      "match": "FC Chernigiv v FK Metal Kharkiv",
-      "campionato": "Ukrainian Persha Liga",
-      "volume": 16,
-      "quota": 1.36,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647413",
-      "market_id": "1.258565935",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 16:00"
     },
     {
       "match": "Aucas v Manta FC",
@@ -272,6 +257,21 @@
       "market_id": "1.258546342",
       "_is_inplay": false,
       "open_date": "2026-05-26 00:00"
+    },
+    {
+      "match": "FC Chernigiv v FK Metal Kharkiv",
+      "campionato": "Ukrainian Persha Liga",
+      "volume": 13,
+      "quota": 1.38,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647413",
+      "market_id": "1.258565935",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 16:00"
     }
   ],
   "tracked_matches": [
@@ -560,6 +560,18 @@
       "quota_iniziale": 1.1,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258513183",
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-25 20:45",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 14676,
+      "best_volume": 14676,
       "whale_max": 0,
       "entered": false
     }
