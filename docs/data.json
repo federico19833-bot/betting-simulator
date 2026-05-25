@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 14:57:19",
+  "last_update": "25/05/2026 14:57:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-25 17:00"
     },
     {
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1144,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635188",
+      "market_id": "1.258473887",
+      "_is_inplay": false,
+      "open_date": "2026-05-22 21:00"
+    },
+    {
       "match": "USM Khenchela v USM Alger",
       "campionato": "Algerian Ligue 1",
       "volume": 1111,
@@ -62,21 +77,6 @@
       "market_id": "1.258546465",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1108,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635188",
-      "market_id": "1.258473887",
-      "_is_inplay": false,
-      "open_date": "2026-05-22 21:00"
     },
     {
       "match": "Odds BK v Ranheim IL",
@@ -594,26 +594,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258498869",
-      "match": "Hvidovre v Esbjerg",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 15:00",
+      "event_id": "bf_1.258473887",
+      "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-22 21:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 449,
-      "best_volume": 449,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
+      "volume": 1144,
+      "best_volume": 1144,
       "whale_max": 0,
       "entered": false
     }
