@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 03:37:48",
+  "last_update": "25/05/2026 03:38:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Pumas UNAM v Cruz Azul",
       "campionato": "Mexican Liga MX",
-      "volume": 7664,
+      "volume": 10484,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-25 17:00"
     },
     {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 140,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
+    },
+    {
       "match": "Suwon Bluewings v Cheonan City",
       "campionato": "South Korean K2 League",
       "volume": 130,
@@ -227,21 +242,6 @@
       "market_id": "1.258489211",
       "_is_inplay": false,
       "open_date": "2026-05-25 09:30"
-    },
-    {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 47,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
     }
   ],
   "tracked_matches": [
@@ -470,42 +470,6 @@
       "quota_iniziale": 1.04,
       "volume": 579,
       "best_volume": 579,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258486278",
-      "match": "Pumas UNAM v Cruz Azul",
-      "campionato": "Mexican Liga MX",
-      "open_date": "2026-05-25 03:00",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 7664,
-      "best_volume": 7664,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 2226,
-      "best_volume": 2226,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258498869",
-      "match": "Hvidovre v Esbjerg",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 15:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 355,
-      "best_volume": 355,
       "whale_max": 0,
       "entered": false
     }
