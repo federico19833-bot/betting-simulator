@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 02:11:26",
+  "last_update": "25/05/2026 02:12:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -231,7 +231,7 @@
     {
       "match": "Vasco Da Gama v Red Bull Bragantino",
       "campionato": "Brazilian Serie A",
-      "volume": 104,
+      "volume": 87,
       "quota": 1.22,
       "in_range": false,
       "monitored": false,
@@ -246,7 +246,7 @@
     {
       "match": "CD Motagua v CD Marathon",
       "campionato": "Honduras Liga Nacional",
-      "volume": 72,
+      "volume": 71,
       "quota": 1.28,
       "in_range": false,
       "monitored": false,
@@ -272,21 +272,6 @@
       "market_id": "1.258489211",
       "_is_inplay": false,
       "open_date": "2026-05-25 09:30"
-    },
-    {
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 21,
-      "quota": 1.43,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640040",
-      "market_id": "1.258513731",
-      "_is_inplay": false,
-      "open_date": "2026-05-24 01:30"
     }
   ],
   "tracked_matches": [
@@ -539,6 +524,30 @@
       "quota_iniziale": 1.04,
       "volume": 222,
       "best_volume": 222,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258554906",
+      "match": "Cavalier v Portmore Utd",
+      "campionato": "Jamaican Premier League",
+      "open_date": "2026-05-25 03:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 304,
+      "best_volume": 304,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258498869",
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 15:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 2099,
+      "best_volume": 2099,
       "whale_max": 0,
       "entered": false
     }
