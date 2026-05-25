@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 17:40:43",
+  "last_update": "25/05/2026 17:41:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Ludogorets v CSKA Sofia",
+      "campionato": "Bulgarian A League",
+      "volume": 32302,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625112",
+      "market_id": "1.258476005",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 19:30"
+    },
+    {
       "match": "Bnei Yehuda v Maccabi Herzliya",
       "campionato": "Israeli National League",
       "volume": 26327,
@@ -32,21 +47,6 @@
       "market_id": "1.258563335",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "Ludogorets v CSKA Sofia",
-      "campionato": "Bulgarian A League",
-      "volume": 24575,
-      "quota": 1.08,
-      "in_range": true,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625112",
-      "market_id": "1.258476005",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 19:30"
     },
     {
       "match": "Al Budaiya v Al Najma (BRN)",
@@ -77,6 +77,51 @@
       "market_id": "1.258563356",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
+    },
+    {
+      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
+      "campionato": "Bulgarian A League",
+      "volume": 1498,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625118",
+      "market_id": "1.258475963",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 19:30"
+    },
+    {
+      "match": "Manama Club v Al-Ittihad (BRN)",
+      "campionato": "Bahraini Premier",
+      "volume": 1393,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646256",
+      "market_id": "1.258552575",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
+      "match": "Al Jahra v Al Arabi Kuwait",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 1252,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635140",
+      "market_id": "1.258534309",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:15"
     },
     {
       "match": "Parma U20 v Cesena U20",
@@ -199,39 +244,9 @@
       "open_date": "2026-05-25 19:30"
     },
     {
-      "match": "Manama Club v Al-Ittihad (BRN)",
-      "campionato": "Bahraini Premier",
-      "volume": 230,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646256",
-      "market_id": "1.258552575",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "Stromsgodset v Bryne",
-      "campionato": "Norwegian 1st Division",
-      "volume": 166,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632858",
-      "market_id": "1.258502272",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
       "match": "Haugesund v Moss",
       "campionato": "Norwegian 1st Division",
-      "volume": 166,
+      "volume": 210,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -240,6 +255,21 @@
       "source": "Betfair",
       "event_id": "35632860",
       "market_id": "1.258502230",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Asane v Raufoss",
+      "campionato": "Norwegian 1st Division",
+      "volume": 120,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632861",
+      "market_id": "1.258502188",
       "_is_inplay": true,
       "open_date": "2026-05-25 17:00"
     },
@@ -289,21 +319,6 @@
       "open_date": "2026-05-25 18:00"
     },
     {
-      "match": "Asane v Raufoss",
-      "campionato": "Norwegian 1st Division",
-      "volume": 61,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632861",
-      "market_id": "1.258502188",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
       "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
       "campionato": "Israeli National League",
       "volume": 60,
@@ -319,10 +334,25 @@
       "open_date": "2026-05-25 18:00"
     },
     {
+      "match": "Stromsgodset v Bryne",
+      "campionato": "Norwegian 1st Division",
+      "volume": 52,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632858",
+      "market_id": "1.258502272",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
       "match": "SC Kiryat Yam v Maccabi Petach Tikva",
       "campionato": "Israeli National League",
-      "volume": 40,
-      "quota": 1.3,
+      "volume": 46,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -347,21 +377,6 @@
       "market_id": "1.258504171",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "Al Jahra v Al Arabi Kuwait",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 15,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635140",
-      "market_id": "1.258534309",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:15"
     },
     {
       "match": "Elfsborg v Hacken",
@@ -392,21 +407,6 @@
       "market_id": "1.258364882",
       "_is_inplay": false,
       "open_date": "2026-05-25 19:00"
-    },
-    {
-      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
-      "campionato": "Bulgarian A League",
-      "volume": 15,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625118",
-      "market_id": "1.258475963",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 19:30"
     }
   ],
   "tracked_matches": [
@@ -547,9 +547,9 @@
       "match": "Ludogorets v CSKA Sofia",
       "campionato": "Bulgarian A League",
       "open_date": "2026-05-25 19:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 24575,
+      "volume": 32302,
       "best_volume": 32302,
       "whale_max": 0,
       "entered": true
@@ -645,7 +645,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 230,
+      "volume": 1393,
       "best_volume": 2773,
       "whale_max": 0,
       "entered": false
@@ -669,7 +669,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 61,
+      "volume": 120,
       "best_volume": 1960,
       "whale_max": 0,
       "entered": false
@@ -717,8 +717,8 @@
       "open_date": "2026-05-25 18:15",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 1252,
+      "best_volume": 1252,
       "whale_max": 0,
       "entered": false
     },
@@ -783,14 +783,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258566110",
-      "match": "Parma U20 v Cesena U20",
-      "campionato": "Italian Campionato Primavera",
-      "open_date": "2026-05-25 20:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 686,
-      "best_volume": 686,
+      "event_id": "bf_1.258475963",
+      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
+      "campionato": "Bulgarian A League",
+      "open_date": "2026-05-25 19:30",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 1498,
+      "best_volume": 1498,
       "whale_max": 0,
       "entered": false
     }
