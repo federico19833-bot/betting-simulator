@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 21:41:44",
+  "last_update": "25/05/2026 21:42:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Derry City v Shelbourne",
       "campionato": "Irish Premier Division",
-      "volume": 13232,
+      "volume": 14693,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -49,24 +49,9 @@
       "open_date": "2026-05-25 20:30"
     },
     {
-      "match": "Sevilla FC (W) v SD Eibar (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1162,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649419",
-      "market_id": "1.258595207",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
-    },
-    {
       "match": "Coritiba v Bahia",
       "campionato": "Brazilian Serie A",
-      "volume": 997,
+      "volume": 1038,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -81,7 +66,7 @@
     {
       "match": "Botafogo SP v Athletic Club",
       "campionato": "Brazilian Serie B",
-      "volume": 763,
+      "volume": 762,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -154,6 +139,36 @@
       "open_date": "2026-05-26 18:00"
     },
     {
+      "match": "Sevilla FC (W) v SD Eibar (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 332,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649419",
+      "market_id": "1.258595207",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 19:00"
+    },
+    {
+      "match": "Ceres Futebol Clube RJ v Campos",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 233,
+      "quota": 1.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648185",
+      "market_id": "1.258573507",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 21:00"
+    },
+    {
       "match": "Alashkert v FC Shirak",
       "campionato": "Armenian Premier League",
       "volume": 217,
@@ -214,21 +229,6 @@
       "open_date": "2026-05-26 17:00"
     },
     {
-      "match": "Ceres Futebol Clube RJ v Campos",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 144,
-      "quota": 1.41,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648185",
-      "market_id": "1.258573507",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 21:00"
-    },
-    {
       "match": "FC Badalona (W) v Real Madrid FC (W)",
       "campionato": "Spanish Liga F",
       "volume": 73,
@@ -261,8 +261,8 @@
     {
       "match": "FC Chernigiv v FK Metal Kharkiv",
       "campionato": "Ukrainian Persha Liga",
-      "volume": 14,
-      "quota": 1.27,
+      "volume": 15,
+      "quota": 1.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -460,9 +460,9 @@
       "match": "Sevilla FC (W) v SD Eibar (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1162,
+      "volume": 332,
       "best_volume": 1162,
       "whale_max": 0,
       "entered": false
@@ -498,7 +498,7 @@
       "open_date": "2026-05-26 00:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 763,
+      "volume": 762,
       "best_volume": 763,
       "whale_max": 0,
       "entered": false
@@ -552,14 +552,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258516658",
-      "match": "Aucas v Manta FC",
-      "campionato": "Ecuadorian Serie A",
-      "open_date": "2026-05-26 02:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "event_id": "bf_1.258513183",
+      "match": "Derry City v Shelbourne",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-25 20:45",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 14693,
+      "best_volume": 14693,
       "whale_max": 0,
       "entered": false
     }
