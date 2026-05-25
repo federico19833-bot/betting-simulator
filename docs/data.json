@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 11:24:38",
+  "last_update": "25/05/2026 11:25:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Stabaek v Kongsvinger",
       "campionato": "Norwegian 1st Division",
-      "volume": 3249,
+      "volume": 3248,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -287,6 +287,21 @@
       "market_id": "1.258502230",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Kolding IF v Hillerod Fodbold",
+      "campionato": "Danish 1st Division",
+      "volume": 2,
+      "quota": 10.0,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623334",
+      "market_id": "1.258494055",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 13:00"
     }
   ],
   "tracked_matches": [
@@ -385,18 +400,6 @@
       "best_volume": 18533,
       "whale_max": 0,
       "entered": true
-    },
-    {
-      "event_id": "bf_1.258502272",
-      "match": "Stromsgodset v Bryne",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 15,
-      "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
     },
     {
       "event_id": "bf_1.258546465",
@@ -513,7 +516,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3249,
+      "volume": 3248,
       "best_volume": 3253,
       "whale_max": 0,
       "entered": false
@@ -587,18 +590,6 @@
       "quota_iniziale": 1.07,
       "volume": 186,
       "best_volume": 186,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258536227",
-      "match": "Rapid Vienna v SV Ried",
-      "campionato": "Austrian Bundesliga",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
