@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 15:07:05",
+  "last_update": "25/05/2026 15:07:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Lokomotiv Plovdiv v Botev Plovdiv",
       "campionato": "Bulgarian A League",
-      "volume": 7662,
+      "volume": 6410,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Hvidovre v Esbjerg",
       "campionato": "Danish 1st Division",
-      "volume": 3001,
+      "volume": 1838,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -609,26 +609,38 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 459,
-      "best_volume": 459,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258473429",
       "match": "Lokomotiv Plovdiv v Botev Plovdiv",
       "campionato": "Bulgarian A League",
       "open_date": "2026-05-25 16:45",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 7662,
+      "volume": 6410,
       "best_volume": 7662,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258498869",
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 15:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1838,
+      "best_volume": 1838,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502605",
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
