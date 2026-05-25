@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 16:42:10",
+  "last_update": "25/05/2026 16:42:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,7 +96,7 @@
     {
       "match": "Club Independiente Petrolero v Real Potosi",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 849,
+      "volume": 848,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Lyn v Strommen",
       "campionato": "Norwegian 1st Division",
-      "volume": 539,
+      "volume": 559,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -165,6 +165,21 @@
       "source": "Betfair",
       "event_id": "35646256",
       "market_id": "1.258552575",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
+      "match": "SC Kiryat Yam v Maccabi Petach Tikva",
+      "campionato": "Israeli National League",
+      "volume": 64,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646823",
+      "market_id": "1.258564257",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
     },
@@ -255,21 +270,6 @@
       "source": "Betfair",
       "event_id": "35647246",
       "market_id": "1.258563489",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:00"
-    },
-    {
-      "match": "SC Kiryat Yam v Maccabi Petach Tikva",
-      "campionato": "Israeli National League",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646823",
-      "market_id": "1.258564257",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
     }
@@ -462,7 +462,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 15,
+      "volume": 64,
       "best_volume": 484,
       "whale_max": 0,
       "entered": false
@@ -486,7 +486,7 @@
       "open_date": "2026-05-23 23:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 849,
+      "volume": 848,
       "best_volume": 849,
       "whale_max": 0,
       "entered": false
@@ -510,7 +510,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 539,
+      "volume": 559,
       "best_volume": 559,
       "whale_max": 0,
       "entered": false
@@ -548,6 +548,18 @@
       "quota_iniziale": 1.07,
       "volume": 2114,
       "best_volume": 2643,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502230",
+      "match": "Haugesund v Moss",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
