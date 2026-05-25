@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 16:51:17",
+  "last_update": "25/05/2026 16:51:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,6 +18,21 @@
     "balance": 918.69
   },
   "live_events": [
+    {
+      "match": "CD Gualberto Villarroel v The Strongest",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 2350,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635193",
+      "market_id": "1.258472121",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 02:00"
+    },
     {
       "match": "Odds BK v Ranheim IL",
       "campionato": "Norwegian 1st Division",
@@ -139,19 +154,19 @@
       "open_date": "2026-05-25 18:00"
     },
     {
-      "match": "Always Ready v Universitario de Vinto",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 323,
-      "quota": 1.14,
+      "match": "Lyn v Strommen",
+      "campionato": "Norwegian 1st Division",
+      "volume": 410,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635379",
-      "market_id": "1.258472067",
+      "event_id": "35632866",
+      "market_id": "1.258502209",
       "_is_inplay": false,
-      "open_date": "2026-05-23 21:00"
+      "open_date": "2026-05-25 17:00"
     },
     {
       "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
@@ -169,19 +184,19 @@
       "open_date": "2026-05-25 18:00"
     },
     {
-      "match": "CD Gualberto Villarroel v The Strongest",
+      "match": "Always Ready v Universitario de Vinto",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 209,
-      "quota": 1.09,
+      "volume": 255,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35635193",
-      "market_id": "1.258472121",
+      "event_id": "35635379",
+      "market_id": "1.258472067",
       "_is_inplay": false,
-      "open_date": "2026-05-23 02:00"
+      "open_date": "2026-05-23 21:00"
     },
     {
       "match": "USM Khenchela v USM Alger",
@@ -225,21 +240,6 @@
       "source": "Betfair",
       "event_id": "35643299",
       "market_id": "1.258536227",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Lyn v Strommen",
-      "campionato": "Norwegian 1st Division",
-      "volume": 20,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632866",
-      "market_id": "1.258502209",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
     },
@@ -489,7 +489,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 20,
+      "volume": 410,
       "best_volume": 559,
       "whale_max": 0,
       "entered": false
@@ -585,8 +585,20 @@
       "open_date": "2026-05-23 02:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 209,
+      "volume": 2350,
       "best_volume": 3860,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502230",
+      "match": "Haugesund v Moss",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
