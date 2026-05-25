@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 20:19:27",
+  "last_update": "25/05/2026 20:19:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-26 00:00"
     },
     {
-      "match": "Alhama CF (W) v Levante UD (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1162,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649557",
-      "market_id": "1.258602585",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
-    },
-    {
       "match": "FK Jelgava v Liepajas Metalurgs",
       "campionato": "Latvian Virsliga",
       "volume": 625,
@@ -182,21 +167,6 @@
       "market_id": "1.258516658",
       "_is_inplay": false,
       "open_date": "2026-05-26 02:00"
-    },
-    {
-      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
-      "campionato": "Bulgarian A League",
-      "volume": 465,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625118",
-      "market_id": "1.258475963",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:30"
     },
     {
       "match": "FC Honka Akatemia v VJS",
@@ -244,6 +214,36 @@
       "open_date": "2026-05-26 17:00"
     },
     {
+      "match": "Alhama CF (W) v Levante UD (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 332,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649557",
+      "market_id": "1.258602585",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 19:00"
+    },
+    {
+      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
+      "campionato": "Bulgarian A League",
+      "volume": 269,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625118",
+      "market_id": "1.258475963",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:30"
+    },
+    {
       "match": "BFC Daugavpils v FK Auda",
       "campionato": "Latvian Virsliga",
       "volume": 217,
@@ -274,6 +274,21 @@
       "open_date": "2026-05-26 19:00"
     },
     {
+      "match": "Al Tadhamon v Al-Qadsia",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 202,
+      "quota": 1.3,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635179",
+      "market_id": "1.258534462",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 19:25"
+    },
+    {
       "match": "Coritiba v Bahia",
       "campionato": "Brazilian Serie A",
       "volume": 194,
@@ -302,21 +317,6 @@
       "market_id": "1.258556771",
       "_is_inplay": false,
       "open_date": "2026-05-26 03:00"
-    },
-    {
-      "match": "Al Tadhamon v Al-Qadsia",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 126,
-      "quota": 1.26,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635179",
-      "market_id": "1.258534462",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 19:25"
     },
     {
       "match": "Derry City v Shelbourne",
@@ -733,9 +733,9 @@
       "match": "Alhama CF (W) v Levante UD (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1162,
+      "volume": 332,
       "best_volume": 1162,
       "whale_max": 0,
       "entered": false
@@ -753,14 +753,14 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258543748",
-      "match": "Comerciantes Unidos v Deportivo Garcilaso",
-      "campionato": "Peruvian Primera Division",
-      "open_date": "2026-05-25 22:30",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 16923,
-      "best_volume": 16923,
+      "event_id": "bf_1.258516658",
+      "match": "Aucas v Manta FC",
+      "campionato": "Ecuadorian Serie A",
+      "open_date": "2026-05-26 02:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 588,
+      "best_volume": 588,
       "whale_max": 0,
       "entered": false
     }
