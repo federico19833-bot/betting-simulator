@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 22:29:40",
+  "last_update": "25/05/2026 22:30:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Derry City v Shelbourne",
       "campionato": "Irish Premier Division",
-      "volume": 14724,
+      "volume": 14728,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -77,6 +77,21 @@
       "market_id": "1.258375653",
       "_is_inplay": false,
       "open_date": "2026-05-26 01:00"
+    },
+    {
+      "match": "Sevilla FC (W) v SD Eibar (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 1162,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649419",
+      "market_id": "1.258595207",
+      "_is_inplay": false,
+      "open_date": "2026-05-26 19:00"
     },
     {
       "match": "Orebro v Helsingborgs",
@@ -137,21 +152,6 @@
       "market_id": "1.258582432",
       "_is_inplay": false,
       "open_date": "2026-05-26 18:00"
-    },
-    {
-      "match": "Sevilla FC (W) v SD Eibar (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 332,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649419",
-      "market_id": "1.258595207",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 19:00"
     },
     {
       "match": "Alashkert v FC Shirak",
@@ -229,25 +229,10 @@
       "open_date": "2026-05-26 19:00"
     },
     {
-      "match": "FC Chernigiv v FK Metal Kharkiv",
-      "campionato": "Ukrainian Persha Liga",
-      "volume": 36,
-      "quota": 1.88,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647413",
-      "market_id": "1.258565935",
-      "_is_inplay": false,
-      "open_date": "2026-05-26 16:00"
-    },
-    {
       "match": "Ceres Futebol Clube RJ v Campos",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 20,
-      "quota": 3.85,
+      "volume": 30,
+      "quota": 4.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -460,9 +445,9 @@
       "match": "Sevilla FC (W) v SD Eibar (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-26 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 332,
+      "volume": 1162,
       "best_volume": 1163,
       "whale_max": 0,
       "entered": false
@@ -558,8 +543,8 @@
       "open_date": "2026-05-25 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 14724,
-      "best_volume": 14724,
+      "volume": 14728,
+      "best_volume": 14728,
       "whale_max": 0,
       "entered": false
     }
