@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 02:33:26",
+  "last_update": "25/05/2026 02:34:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -246,7 +246,7 @@
     {
       "match": "Pumas UNAM v Cruz Azul",
       "campionato": "Mexican Liga MX",
-      "volume": 39,
+      "volume": 44,
       "quota": 2.24,
       "in_range": false,
       "monitored": false,
@@ -524,6 +524,30 @@
       "quota_iniziale": 1.04,
       "volume": 222,
       "best_volume": 222,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258365180",
+      "match": "Los Angeles FC v Seattle Sounders",
+      "campionato": "US MLS",
+      "open_date": "2026-05-25 03:15",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 329,
+      "best_volume": 329,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258498869",
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-25 15:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 2099,
+      "best_volume": 2099,
       "whale_max": 0,
       "entered": false
     }
