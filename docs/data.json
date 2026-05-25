@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 16:10:08",
+  "last_update": "25/05/2026 16:10:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "volume": 985,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35614850",
-      "market_id": "1.258364861",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 16:00"
-    },
-    {
       "match": "Rapid Vienna v SV Ried",
       "campionato": "Austrian Bundesliga",
       "volume": 916,
@@ -107,6 +92,21 @@
       "market_id": "1.258546465",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 842,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35614850",
+      "market_id": "1.258364861",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Ogre United v SC Grobina",
@@ -184,6 +184,21 @@
       "open_date": "2026-05-25 18:00"
     },
     {
+      "match": "Lyn v Strommen",
+      "campionato": "Norwegian 1st Division",
+      "volume": 63,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632866",
+      "market_id": "1.258502209",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
       "match": "Cherno More v Arda",
       "campionato": "Bulgarian A League",
       "volume": 53,
@@ -257,21 +272,6 @@
       "market_id": "1.258513731",
       "_is_inplay": false,
       "open_date": "2026-05-24 01:30"
-    },
-    {
-      "match": "Lyn v Strommen",
-      "campionato": "Norwegian 1st Division",
-      "volume": 25,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632866",
-      "market_id": "1.258502209",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
     },
     {
       "match": "SC Kiryat Yam v Maccabi Petach Tikva",
@@ -391,9 +391,9 @@
       "match": "Lyn v Strommen",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 25,
+      "volume": 63,
       "best_volume": 928,
       "whale_max": 0,
       "entered": false
@@ -555,14 +555,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258563489",
-      "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
-      "campionato": "Israeli National League",
-      "open_date": "2026-05-25 18:00",
+      "event_id": "bf_1.258502605",
+      "match": "Odds BK v Ranheim IL",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 40,
-      "best_volume": 40,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
