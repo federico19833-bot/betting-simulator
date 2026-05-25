@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 17:36:28",
+  "last_update": "25/05/2026 17:37:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -81,7 +81,7 @@
     {
       "match": "Parma U20 v Cesena U20",
       "campionato": "Italian Campionato Primavera",
-      "volume": 3238,
+      "volume": 3236,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -94,9 +94,24 @@
       "open_date": "2026-05-25 20:30"
     },
     {
+      "match": "Lyn v Strommen",
+      "campionato": "Norwegian 1st Division",
+      "volume": 2952,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632866",
+      "market_id": "1.258502209",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 2130,
+      "volume": 2773,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -109,32 +124,17 @@
       "open_date": "2026-05-25 18:00"
     },
     {
-      "match": "Asane v Raufoss",
+      "match": "Haugesund v Moss",
       "campionato": "Norwegian 1st Division",
-      "volume": 1960,
-      "quota": 1.07,
+      "volume": 956,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35632861",
-      "market_id": "1.258502188",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Lyn v Strommen",
-      "campionato": "Norwegian 1st Division",
-      "volume": 935,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632866",
-      "market_id": "1.258502209",
+      "event_id": "35632860",
+      "market_id": "1.258502230",
       "_is_inplay": true,
       "open_date": "2026-05-25 17:00"
     },
@@ -244,17 +244,17 @@
       "open_date": "2026-05-25 19:30"
     },
     {
-      "match": "Stromsgodset v Bryne",
+      "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
-      "volume": 211,
-      "quota": 1.14,
+      "volume": 117,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35632858",
-      "market_id": "1.258502272",
+      "event_id": "35632861",
+      "market_id": "1.258502188",
       "_is_inplay": true,
       "open_date": "2026-05-25 17:00"
     },
@@ -289,21 +289,6 @@
       "open_date": "2026-05-25 20:45"
     },
     {
-      "match": "Haugesund v Moss",
-      "campionato": "Norwegian 1st Division",
-      "volume": 62,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632860",
-      "market_id": "1.258502230",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 17:00"
-    },
-    {
       "match": "Rigas Futbola Skola v FK Tukums 2000",
       "campionato": "Latvian Virsliga",
       "volume": 62,
@@ -334,10 +319,25 @@
       "open_date": "2026-05-25 18:00"
     },
     {
+      "match": "Stromsgodset v Bryne",
+      "campionato": "Norwegian 1st Division",
+      "volume": 59,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632858",
+      "market_id": "1.258502272",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
       "match": "SC Kiryat Yam v Maccabi Petach Tikva",
       "campionato": "Israeli National League",
       "volume": 40,
-      "quota": 1.23,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -696,8 +696,8 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 2130,
-      "best_volume": 2130,
+      "volume": 2773,
+      "best_volume": 2773,
       "whale_max": 0,
       "entered": false
     },
@@ -718,9 +718,9 @@
       "match": "Asane v Raufoss",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1960,
+      "volume": 117,
       "best_volume": 1960,
       "whale_max": 0,
       "entered": false
@@ -774,18 +774,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502230",
-      "match": "Haugesund v Moss",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 62,
-      "best_volume": 62,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258554885",
       "match": "Rigas Futbola Skola v FK Tukums 2000",
       "campionato": "Latvian Virsliga",
@@ -798,26 +786,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258367790",
-      "match": "Norrkoping v Osters",
-      "campionato": "Swedish Superettan",
-      "open_date": "2026-05-25 19:05",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 26327,
-      "best_volume": 26327,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258475963",
-      "match": "CSKA 1948 Sofia v PFC Levski Sofia",
-      "campionato": "Bulgarian A League",
-      "open_date": "2026-05-25 19:30",
+      "event_id": "bf_1.258566110",
+      "match": "Parma U20 v Cesena U20",
+      "campionato": "Italian Campionato Primavera",
+      "open_date": "2026-05-25 20:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 3236,
+      "best_volume": 3236,
       "whale_max": 0,
       "entered": false
     }
