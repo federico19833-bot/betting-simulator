@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 10:20:03",
+  "last_update": "25/05/2026 10:20:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-25 17:00"
     },
     {
-      "match": "Hvidovre v Esbjerg",
-      "campionato": "Danish 1st Division",
-      "volume": 815,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624568",
-      "market_id": "1.258498869",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 15:00"
-    },
-    {
       "match": "Hapoel Afula v MS Kfar Kasem",
       "campionato": "Israeli National League",
       "volume": 781,
@@ -122,6 +107,21 @@
       "market_id": "1.258564235",
       "_is_inplay": false,
       "open_date": "2026-05-25 18:00"
+    },
+    {
+      "match": "Hvidovre v Esbjerg",
+      "campionato": "Danish 1st Division",
+      "volume": 694,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624568",
+      "market_id": "1.258498869",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 15:00"
     },
     {
       "match": "Manama Club v Al-Ittihad (BRN)",
@@ -393,7 +393,7 @@
       "open_date": "2026-05-25 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 815,
+      "volume": 694,
       "best_volume": 1236,
       "whale_max": 0,
       "entered": false
@@ -587,18 +587,6 @@
       "quota_iniziale": 1.09,
       "volume": 1473,
       "best_volume": 1473,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258536227",
-      "match": "Rapid Vienna v SV Ried",
-      "campionato": "Austrian Bundesliga",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
