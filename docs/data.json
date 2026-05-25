@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 15:53:13",
+  "last_update": "25/05/2026 15:53:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -51,7 +51,7 @@
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1287,
+      "volume": 1250,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-25 17:00"
     },
     {
+      "match": "Rapid Vienna v SV Ried",
+      "campionato": "Austrian Bundesliga",
+      "volume": 563,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35643299",
+      "market_id": "1.258536227",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 17:00"
+    },
+    {
       "match": "Fk Siauliai v Riteriai",
       "campionato": "Lithuanian A Lyga",
       "volume": 505,
@@ -122,21 +137,6 @@
       "market_id": "1.258555476",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:30"
-    },
-    {
-      "match": "Rapid Vienna v SV Ried",
-      "campionato": "Austrian Bundesliga",
-      "volume": 395,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35643299",
-      "market_id": "1.258536227",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 17:00"
     },
     {
       "match": "Blooming Santa Cruz v Real Tomayapo",
@@ -405,7 +405,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.1,
-      "volume": 395,
+      "volume": 563,
       "best_volume": 4096,
       "whale_max": 0,
       "entered": false
@@ -563,18 +563,6 @@
       "quota_iniziale": 1.04,
       "volume": 191,
       "best_volume": 191,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
