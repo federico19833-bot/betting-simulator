@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 16:05:35",
+  "last_update": "25/05/2026 16:06:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Hodd v Egersund",
       "campionato": "Norwegian 1st Division",
-      "volume": 6621,
+      "volume": 5830,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258502605",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Notts Co v Salford City",
-      "campionato": "English Sky Bet League 2",
-      "volume": 917,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35614850",
-      "market_id": "1.258364861",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Rapid Vienna v SV Ried",
@@ -171,7 +156,7 @@
     {
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 113,
+      "volume": 162,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -212,6 +197,21 @@
       "market_id": "1.258502209",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Notts Co v Salford City",
+      "campionato": "English Sky Bet League 2",
+      "volume": 60,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35614850",
+      "market_id": "1.258364861",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 16:00"
     },
     {
       "match": "Cherno More v Arda",
@@ -441,7 +441,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 113,
+      "volume": 162,
       "best_volume": 191,
       "whale_max": 0,
       "entered": false
@@ -477,7 +477,7 @@
       "open_date": "2026-05-25 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 6621,
+      "volume": 5830,
       "best_volume": 6621,
       "whale_max": 0,
       "entered": false
@@ -555,14 +555,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258502605",
-      "match": "Odds BK v Ranheim IL",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-25 17:00",
+      "event_id": "bf_1.258513731",
+      "match": "Blooming Santa Cruz v Real Tomayapo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-24 01:30",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 1032,
-      "best_volume": 1032,
+      "volume": 555,
+      "best_volume": 555,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258563489",
+      "match": "Maccabi Kabilio Jaffa v Hapoel Eran Hadera",
+      "campionato": "Israeli National League",
+      "open_date": "2026-05-25 18:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 40,
+      "best_volume": 40,
       "whale_max": 0,
       "entered": false
     }
