@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 03:28:29",
+  "last_update": "25/05/2026 03:29:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -18,6 +18,21 @@
     "balance": 918.69
   },
   "live_events": [
+    {
+      "match": "Pumas UNAM v Cruz Azul",
+      "campionato": "Mexican Liga MX",
+      "volume": 2444,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638662",
+      "market_id": "1.258486278",
+      "_is_inplay": true,
+      "open_date": "2026-05-25 03:00"
+    },
     {
       "match": "USM Khenchela v USM Alger",
       "campionato": "Algerian Ligue 1",
@@ -169,21 +184,6 @@
       "open_date": "2026-05-25 16:00"
     },
     {
-      "match": "Club Independiente Petrolero v Real Potosi",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 272,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635482",
-      "market_id": "1.258472472",
-      "_is_inplay": false,
-      "open_date": "2026-05-23 23:15"
-    },
-    {
       "match": "Sandnes Ulf v Sogndal",
       "campionato": "Norwegian 1st Division",
       "volume": 223,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-25 17:00"
     },
     {
+      "match": "Club Independiente Petrolero v Real Potosi",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 164,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635482",
+      "market_id": "1.258472472",
+      "_is_inplay": false,
+      "open_date": "2026-05-23 23:15"
+    },
+    {
       "match": "Suwon Bluewings v Cheonan City",
       "campionato": "South Korean K2 League",
       "volume": 130,
@@ -227,21 +242,6 @@
       "market_id": "1.258489211",
       "_is_inplay": false,
       "open_date": "2026-05-25 09:30"
-    },
-    {
-      "match": "Pumas UNAM v Cruz Azul",
-      "campionato": "Mexican Liga MX",
-      "volume": 75,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638662",
-      "market_id": "1.258486278",
-      "_is_inplay": true,
-      "open_date": "2026-05-25 03:00"
     }
   ],
   "tracked_matches": [
@@ -480,32 +480,8 @@
       "open_date": "2026-05-25 03:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 75,
-      "best_volume": 75,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258513731",
-      "match": "Blooming Santa Cruz v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-05-24 01:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 1013,
-      "best_volume": 1013,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258498869",
-      "match": "Hvidovre v Esbjerg",
-      "campionato": "Danish 1st Division",
-      "open_date": "2026-05-25 15:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 355,
-      "best_volume": 355,
+      "volume": 2444,
+      "best_volume": 2444,
       "whale_max": 0,
       "entered": false
     }
