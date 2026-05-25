@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 09:17:34",
+  "last_update": "25/05/2026 09:18:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -32,21 +32,6 @@
       "market_id": "1.258502188",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
-    },
-    {
-      "match": "Suwon Bluewings v Cheonan City",
-      "campionato": "South Korean K2 League",
-      "volume": 2561,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623187",
-      "market_id": "1.258489211",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 09:30"
     },
     {
       "match": "San Antonio Bulo Bulo v Academia de Balompie Boli",
@@ -107,6 +92,21 @@
       "market_id": "1.258502251",
       "_is_inplay": false,
       "open_date": "2026-05-25 17:00"
+    },
+    {
+      "match": "Suwon Bluewings v Cheonan City",
+      "campionato": "South Korean K2 League",
+      "volume": 996,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623187",
+      "market_id": "1.258489211",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 09:30"
     },
     {
       "match": "Hodd v Egersund",
@@ -548,6 +548,18 @@
       "quota_iniziale": 1.07,
       "volume": 3251,
       "best_volume": 3251,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258502251",
+      "match": "Stabaek v Kongsvinger",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-25 17:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 1032,
+      "best_volume": 1032,
       "whale_max": 0,
       "entered": false
     }
