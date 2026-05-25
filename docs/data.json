@@ -1,5 +1,5 @@
 {
-  "last_update": "25/05/2026 17:53:06",
+  "last_update": "25/05/2026 17:54:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -66,7 +66,7 @@
     {
       "match": "Hapoel Nof HaGalil v Hapoel Akko",
       "campionato": "Israeli National League",
-      "volume": 4992,
+      "volume": 3685,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -231,7 +231,7 @@
     {
       "match": "Haugesund v Moss",
       "campionato": "Norwegian 1st Division",
-      "volume": 106,
+      "volume": 94,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -289,6 +289,21 @@
       "open_date": "2026-05-25 18:00"
     },
     {
+      "match": "Levadia Tallinn II v FC Nõmme United U21",
+      "campionato": "Estonian Esiliiga",
+      "volume": 64,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645709",
+      "market_id": "1.258566683",
+      "_is_inplay": false,
+      "open_date": "2026-05-25 18:00"
+    },
+    {
       "match": "SC Kiryat Yam v Maccabi Petach Tikva",
       "campionato": "Israeli National League",
       "volume": 60,
@@ -304,24 +319,9 @@
       "open_date": "2026-05-25 18:00"
     },
     {
-      "match": "Levadia Tallinn II v FC Nõmme United U21",
-      "campionato": "Estonian Esiliiga",
-      "volume": 60,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645709",
-      "market_id": "1.258566683",
-      "_is_inplay": false,
-      "open_date": "2026-05-25 18:00"
-    },
-    {
       "match": "Manama Club v Al-Ittihad (BRN)",
       "campionato": "Bahraini Premier",
-      "volume": 15,
+      "volume": 34,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -382,7 +382,7 @@
       "match": "Norrkoping v Osters",
       "campionato": "Swedish Superettan",
       "volume": 15,
-      "quota": 1.07,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -606,7 +606,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 15,
+      "volume": 34,
       "best_volume": 2773,
       "whale_max": 0,
       "entered": false
@@ -676,7 +676,7 @@
       "match": "Norrkoping v Osters",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-25 19:05",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
       "volume": 15,
       "best_volume": 26327,
@@ -690,7 +690,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 4992,
+      "volume": 3685,
       "best_volume": 4992,
       "whale_max": 0,
       "entered": false
@@ -762,7 +762,7 @@
       "open_date": "2026-05-25 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 60,
+      "volume": 64,
       "best_volume": 64,
       "whale_max": 0,
       "entered": false
@@ -776,18 +776,6 @@
       "quota_iniziale": 1.04,
       "volume": 15,
       "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258566110",
-      "match": "Parma U20 v Cesena U20",
-      "campionato": "Italian Campionato Primavera",
-      "open_date": "2026-05-25 20:30",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 686,
-      "best_volume": 686,
       "whale_max": 0,
       "entered": false
     }
