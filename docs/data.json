@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:29:05",
+  "last_update": "27/05/2026 10:29:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,21 +49,6 @@
       "open_date": "2026-05-27 11:00"
     },
     {
-      "match": "Ilves v TPS",
-      "campionato": "Finnish Cup",
-      "volume": 1773,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652182",
-      "market_id": "1.258617292",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:30"
-    },
-    {
       "match": "IF Vestri v Njardvik",
       "campionato": "Icelandic 1 Deild",
       "volume": 1209,
@@ -107,6 +92,21 @@
       "market_id": "1.258602358",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
+    },
+    {
+      "match": "Ilves v TPS",
+      "campionato": "Finnish Cup",
+      "volume": 412,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652182",
+      "market_id": "1.258617292",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:30"
     },
     {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
@@ -627,7 +627,7 @@
       "open_date": "2026-05-27 17:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 1773,
+      "volume": 412,
       "best_volume": 1773,
       "whale_max": 0,
       "entered": false
@@ -689,18 +689,6 @@
       "quota_iniziale": 1.07,
       "volume": 15,
       "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258626829",
-      "match": "Catania v Ascoli",
-      "campionato": "Italian Serie C",
-      "open_date": "2026-05-27 21:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 11247,
-      "best_volume": 11247,
       "whale_max": 0,
       "entered": false
     }
