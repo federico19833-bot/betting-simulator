@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 09:44:01",
+  "last_update": "27/05/2026 09:44:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -49,21 +49,6 @@
       "open_date": "2026-05-27 09:00"
     },
     {
-      "match": "FC Urartu v FC Noah",
-      "campionato": "Armenian Premier League",
-      "volume": 1496,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651670",
-      "market_id": "1.258612794",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:00"
-    },
-    {
       "match": "IF Vestri v Njardvik",
       "campionato": "Icelandic 1 Deild",
       "volume": 1210,
@@ -107,6 +92,21 @@
       "market_id": "1.258602358",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
+    },
+    {
+      "match": "FC Urartu v FC Noah",
+      "campionato": "Armenian Premier League",
+      "volume": 400,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651670",
+      "market_id": "1.258612794",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:00"
     },
     {
       "match": "Barcelona (W) v Real Sociedad (W)",
@@ -216,8 +216,8 @@
     {
       "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
       "campionato": "South Korean WK League",
-      "volume": 43,
-      "quota": 1.33,
+      "volume": 87,
+      "quota": 1.35,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -534,7 +534,7 @@
       "open_date": "2026-05-27 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1496,
+      "volume": 400,
       "best_volume": 1496,
       "whale_max": 0,
       "entered": false
