@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:51:39",
+  "last_update": "27/05/2026 10:52:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,24 +94,9 @@
       "open_date": "2026-05-27 12:00"
     },
     {
-      "match": "Ilves v TPS",
-      "campionato": "Finnish Cup",
-      "volume": 570,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652182",
-      "market_id": "1.258617292",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:30"
-    },
-    {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
       "campionato": "South Korean K3/K4 Championship",
-      "volume": 374,
+      "volume": 360,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -122,6 +107,21 @@
       "market_id": "1.258641484",
       "_is_inplay": false,
       "open_date": "2026-05-27 12:00"
+    },
+    {
+      "match": "Ilves v TPS",
+      "campionato": "Finnish Cup",
+      "volume": 337,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652182",
+      "market_id": "1.258617292",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:30"
     },
     {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
@@ -510,7 +510,7 @@
       "open_date": "2026-05-27 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 374,
+      "volume": 360,
       "best_volume": 1090,
       "whale_max": 0,
       "entered": false
@@ -604,9 +604,9 @@
       "match": "Ilves v TPS",
       "campionato": "Finnish Cup",
       "open_date": "2026-05-27 17:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 570,
+      "volume": 337,
       "best_volume": 1773,
       "whale_max": 0,
       "entered": false
@@ -696,26 +696,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258602358",
-      "match": "Defensores Unidos v Villa Dalmine",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "open_date": "2026-05-27 20:30",
+      "event_id": "bf_1.258624196",
+      "match": "Throttur v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-05-27 21:15",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 20,
-      "best_volume": 20,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258626829",
-      "match": "Catania v Ascoli",
-      "campionato": "Italian Serie C",
-      "open_date": "2026-05-27 21:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 11247,
-      "best_volume": 11247,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
