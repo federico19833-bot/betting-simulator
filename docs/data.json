@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 22:09:32",
+  "last_update": "27/05/2026 22:10:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 981.39
   },
   "live_events": [
+    {
+      "match": "Aegir v IR Reykjavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 4914,
+      "quota": 1.45,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653063",
+      "market_id": "1.258624866",
+      "_is_inplay": true,
+      "open_date": "2026-05-27 21:15"
+    },
     {
       "match": "Olimpia v Audax Italiano",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -81,7 +96,7 @@
     {
       "match": "Boyaca Chico v Llaneros FC",
       "campionato": "Colombian Cup",
-      "volume": 1130,
+      "volume": 1042,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -124,21 +139,6 @@
       "open_date": "2026-05-27 22:00"
     },
     {
-      "match": "Aegir v IR Reykjavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 533,
-      "quota": 1.42,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653063",
-      "market_id": "1.258624866",
-      "_is_inplay": true,
-      "open_date": "2026-05-27 21:15"
-    },
-    {
       "match": "Caracas v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 523,
@@ -154,6 +154,21 @@
       "open_date": "2026-05-28 00:00"
     },
     {
+      "match": "Racing Club v Club Independiente Petrolero",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 374,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639839",
+      "market_id": "1.258616316",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Atletico MG v Puerto Cabello",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 265,
@@ -165,21 +180,6 @@
       "source": "Betfair",
       "event_id": "35639709",
       "market_id": "1.258495347",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
-      "match": "Racing Club v Club Independiente Petrolero",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 245,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639839",
-      "market_id": "1.258616316",
       "_is_inplay": false,
       "open_date": "2026-05-28 00:00"
     },
@@ -471,7 +471,7 @@
       "open_date": "2026-05-27 23:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 1130,
+      "volume": 1042,
       "best_volume": 1130,
       "whale_max": 0,
       "entered": false
