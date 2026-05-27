@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 09:36:19",
+  "last_update": "27/05/2026 09:36:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
       "campionato": "Spanish Liga F",
-      "volume": 16271,
+      "volume": 11247,
       "quota": 1.09,
       "in_range": true,
       "monitored": false,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-27 20:30"
     },
     {
-      "match": "Ulsan Citizen FC v Daejeon Korail FC",
-      "campionato": "South Korean K3/K4 Championship",
-      "volume": 257,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655032",
-      "market_id": "1.258641484",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 12:00"
-    },
-    {
       "match": "Tallinna Kalev v Viimsi JK",
       "campionato": "Estonian Esiliiga",
       "volume": 251,
@@ -152,6 +137,21 @@
       "market_id": "1.258615420",
       "_is_inplay": false,
       "open_date": "2026-05-27 18:00"
+    },
+    {
+      "match": "Ulsan Citizen FC v Daejeon Korail FC",
+      "campionato": "South Korean K3/K4 Championship",
+      "volume": 230,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655032",
+      "market_id": "1.258641484",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 12:00"
     },
     {
       "match": "Seoul City Amazones (W) v Incheon Hyundai Steel (",
@@ -201,7 +201,7 @@
     {
       "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
       "campionato": "South Korean WK League",
-      "volume": 106,
+      "volume": 91,
       "quota": 1.25,
       "in_range": false,
       "monitored": false,
@@ -642,7 +642,7 @@
       "open_date": "2026-05-27 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 16271,
+      "volume": 11247,
       "best_volume": 16271,
       "whale_max": 0,
       "entered": true
@@ -672,14 +672,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258641484",
-      "match": "Ulsan Citizen FC v Daejeon Korail FC",
-      "campionato": "South Korean K3/K4 Championship",
-      "open_date": "2026-05-27 12:00",
-      "quota_attuale": 1.09,
+      "event_id": "bf_1.258624217",
+      "match": "Fylkir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-05-27 21:15",
+      "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 257,
-      "best_volume": 257,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
