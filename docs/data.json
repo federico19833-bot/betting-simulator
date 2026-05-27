@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:06:47",
+  "last_update": "27/05/2026 10:07:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 11243,
+      "volume": 11247,
       "quota": 1.09,
       "in_range": true,
       "monitored": false,
@@ -231,8 +231,8 @@
     {
       "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
       "campionato": "South Korean WK League",
-      "volume": 41,
-      "quota": 1.43,
+      "volume": 94,
+      "quota": 1.42,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -287,6 +287,21 @@
       "market_id": "1.258617292",
       "_is_inplay": false,
       "open_date": "2026-05-27 17:30"
+    },
+    {
+      "match": "Tallinna Kalev v Viimsi JK",
+      "campionato": "Estonian Esiliiga",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652096",
+      "market_id": "1.258615420",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 18:00"
     },
     {
       "match": "Crystal Palace v Rayo Vallecano",
@@ -708,14 +723,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258602606",
-      "match": "Argentino de Quilmes v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "open_date": "2026-05-27 20:30",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 11243,
-      "best_volume": 11243,
+      "event_id": "bf_1.258615420",
+      "match": "Tallinna Kalev v Viimsi JK",
+      "campionato": "Estonian Esiliiga",
+      "open_date": "2026-05-27 18:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
