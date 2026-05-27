@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 21:56:08",
+  "last_update": "27/05/2026 21:56:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 981.39
   },
   "live_events": [
-    {
-      "match": "Independiente (Ecu) v Rosario Central",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 4594,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633127",
-      "market_id": "1.258442336",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
-    },
     {
       "match": "Crystal Palace v Rayo Vallecano",
       "campionato": "UEFA Europa Conference League",
@@ -60,6 +45,36 @@
       "source": "Betfair",
       "event_id": "35633648",
       "market_id": "1.258477421",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
+      "match": "Caracas v Botafogo FR",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 3185,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639827",
+      "market_id": "1.258615098",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
+      "match": "Independiente (Ecu) v Rosario Central",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 2402,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633127",
+      "market_id": "1.258442336",
       "_is_inplay": false,
       "open_date": "2026-05-28 00:00"
     },
@@ -139,6 +154,21 @@
       "open_date": "2026-05-28 00:00"
     },
     {
+      "match": "Fylkir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 515,
+      "quota": 1.44,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653015",
+      "market_id": "1.258624217",
+      "_is_inplay": true,
+      "open_date": "2026-05-27 21:15"
+    },
+    {
       "match": "Atletico MG v Puerto Cabello",
       "campionato": "CONMEBOL Copa Sudamericana",
       "volume": 503,
@@ -152,21 +182,6 @@
       "market_id": "1.258495347",
       "_is_inplay": false,
       "open_date": "2026-05-28 00:00"
-    },
-    {
-      "match": "Fylkir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 409,
-      "quota": 1.44,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653015",
-      "market_id": "1.258624217",
-      "_is_inplay": true,
-      "open_date": "2026-05-27 21:15"
     },
     {
       "match": "Cienciano v Juventud De Las Piedras",
@@ -197,21 +212,6 @@
       "market_id": "1.258656279",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
-    },
-    {
-      "match": "Caracas v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 15,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639827",
-      "market_id": "1.258615098",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     }
   ],
   "tracked_matches": [
@@ -522,7 +522,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 15,
+      "volume": 3185,
       "best_volume": 4861,
       "whale_max": 0,
       "entered": false
