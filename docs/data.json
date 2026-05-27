@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:07:52",
+  "last_update": "27/05/2026 10:07:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 11243,
+      "volume": 11247,
       "quota": 1.09,
       "in_range": true,
       "monitored": false,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-27 18:00"
     },
     {
+      "match": "Ulsan Citizen FC v Daejeon Korail FC",
+      "campionato": "South Korean K3/K4 Championship",
+      "volume": 256,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655032",
+      "market_id": "1.258641484",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 12:00"
+    },
+    {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
       "campionato": "Spanish Liga F",
       "volume": 251,
@@ -156,7 +171,7 @@
     {
       "match": "Seoul City Amazones (W) v Incheon Hyundai Steel (",
       "campionato": "South Korean WK League",
-      "volume": 216,
+      "volume": 215,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -165,21 +180,6 @@
       "source": "Betfair",
       "event_id": "35653279",
       "market_id": "1.258646540",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 12:00"
-    },
-    {
-      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
-      "campionato": "South Korean WK League",
-      "volume": 180,
-      "quota": 1.38,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653424",
-      "market_id": "1.258628804",
       "_is_inplay": false,
       "open_date": "2026-05-27 12:00"
     },
@@ -244,17 +244,17 @@
       "open_date": "2026-05-27 19:00"
     },
     {
-      "match": "Ulsan Citizen FC v Daejeon Korail FC",
-      "campionato": "South Korean K3/K4 Championship",
-      "volume": 15,
-      "quota": 1.08,
+      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
+      "campionato": "South Korean WK League",
+      "volume": 38,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35655032",
-      "market_id": "1.258641484",
+      "event_id": "35653424",
+      "market_id": "1.258628804",
       "_is_inplay": false,
       "open_date": "2026-05-27 12:00"
     },
@@ -287,21 +287,6 @@
       "market_id": "1.258617292",
       "_is_inplay": false,
       "open_date": "2026-05-27 17:30"
-    },
-    {
-      "match": "Tallinna Kalev v Viimsi JK",
-      "campionato": "Estonian Esiliiga",
-      "volume": 15,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652096",
-      "market_id": "1.258615420",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 18:00"
     },
     {
       "match": "Crystal Palace v Rayo Vallecano",
@@ -549,7 +534,7 @@
       "open_date": "2026-05-27 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 216,
+      "volume": 215,
       "best_volume": 216,
       "whale_max": 0,
       "entered": false
@@ -561,7 +546,7 @@
       "open_date": "2026-05-27 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 15,
+      "volume": 256,
       "best_volume": 1090,
       "whale_max": 0,
       "entered": false
@@ -723,14 +708,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258615420",
-      "match": "Tallinna Kalev v Viimsi JK",
-      "campionato": "Estonian Esiliiga",
-      "open_date": "2026-05-27 18:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 15,
-      "best_volume": 15,
+      "event_id": "bf_1.258602606",
+      "match": "Argentino de Quilmes v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-05-27 20:30",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 11247,
+      "best_volume": 11247,
       "whale_max": 0,
       "entered": false
     }
