@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:36:20",
+  "last_update": "27/05/2026 10:36:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-27 21:00"
     },
     {
-      "match": "Throttur v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 266,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653020",
-      "market_id": "1.258624196",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 21:15"
-    },
-    {
       "match": "Gyeongju Hydro & Nuclear Power v Jinju Citizen FC",
       "campionato": "South Korean K3/K4 Championship",
       "volume": 216,
@@ -244,6 +229,21 @@
       "open_date": "2026-05-27 17:00"
     },
     {
+      "match": "Seoul City Amazones (W) v Incheon Hyundai Steel (",
+      "campionato": "South Korean WK League",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653279",
+      "market_id": "1.258646540",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 12:00"
+    },
+    {
       "match": "FC Pyunik v FC Van Yerevan",
       "campionato": "Armenian Premier League",
       "volume": 15,
@@ -277,7 +277,7 @@
       "match": "SK Artis Brno v Slovacko",
       "campionato": "Czech 1 Liga",
       "volume": 15,
-      "quota": 1.15,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -315,6 +315,21 @@
       "source": "Betfair",
       "event_id": "35653015",
       "market_id": "1.258624217",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 21:15"
+    },
+    {
+      "match": "Throttur v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 15,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653020",
+      "market_id": "1.258624196",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:15"
     }
@@ -573,18 +588,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258624196",
-      "match": "Throttur v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-05-27 21:15",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.08,
-      "volume": 266,
-      "best_volume": 266,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258641514",
       "match": "Pocheon FC v Changwon City",
       "campionato": "South Korean K3/K4 Championship",
@@ -689,6 +692,30 @@
       "quota_iniziale": 1.02,
       "volume": 1209,
       "best_volume": 1209,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258646540",
+      "match": "Seoul City Amazones (W) v Incheon Hyundai Steel (",
+      "campionato": "South Korean WK League",
+      "open_date": "2026-05-27 12:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 15,
+      "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258626829",
+      "match": "Catania v Ascoli",
+      "campionato": "Italian Serie C",
+      "open_date": "2026-05-27 21:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 11247,
+      "best_volume": 11247,
       "whale_max": 0,
       "entered": false
     }
