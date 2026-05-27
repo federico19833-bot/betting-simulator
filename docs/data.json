@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:01:44",
+  "last_update": "27/05/2026 10:02:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-27 18:00"
     },
     {
+      "match": "Jamaica v India",
+      "campionato": "Friendlies International",
+      "volume": 320,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656231",
+      "market_id": "1.258658796",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 20:30"
+    },
+    {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
       "campionato": "Spanish Liga F",
       "volume": 251,
@@ -231,7 +246,7 @@
     {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
       "campionato": "South Korean K3/K4 Championship",
-      "volume": 129,
+      "volume": 15,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -546,7 +561,7 @@
       "open_date": "2026-05-27 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 129,
+      "volume": 15,
       "best_volume": 1090,
       "whale_max": 0,
       "entered": false
@@ -704,6 +719,30 @@
       "quota_iniziale": 1.09,
       "volume": 1110,
       "best_volume": 1110,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258658796",
+      "match": "Jamaica v India",
+      "campionato": "Friendlies International",
+      "open_date": "2026-05-27 20:30",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 320,
+      "best_volume": 320,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258602606",
+      "match": "Argentino de Quilmes v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-05-27 20:30",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 11243,
+      "best_volume": 11243,
       "whale_max": 0,
       "entered": false
     }
