@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 11:04:26",
+  "last_update": "27/05/2026 11:04:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-27 20:30"
     },
     {
-      "match": "Ilves v TPS",
-      "campionato": "Finnish Cup",
-      "volume": 794,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652182",
-      "market_id": "1.258617292",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:30"
-    },
-    {
       "match": "FC Pyunik v FC Van Yerevan",
       "campionato": "Armenian Premier League",
       "volume": 694,
@@ -137,6 +122,21 @@
       "market_id": "1.258628804",
       "_is_inplay": false,
       "open_date": "2026-05-27 12:00"
+    },
+    {
+      "match": "Ilves v TPS",
+      "campionato": "Finnish Cup",
+      "volume": 567,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652182",
+      "market_id": "1.258617292",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:30"
     },
     {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
@@ -678,8 +678,8 @@
       "open_date": "2026-05-27 17:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 794,
-      "best_volume": 794,
+      "volume": 567,
+      "best_volume": 570,
       "whale_max": 0,
       "entered": false
     },
