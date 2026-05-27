@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:55:54",
+  "last_update": "27/05/2026 10:56:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-27 20:30"
     },
     {
+      "match": "Defensores Unidos v Villa Dalmine",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1110,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649559",
+      "market_id": "1.258602358",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 20:30"
+    },
+    {
       "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
       "campionato": "South Korean WK League",
       "volume": 680,
@@ -122,6 +137,21 @@
       "market_id": "1.258641484",
       "_is_inplay": false,
       "open_date": "2026-05-27 12:00"
+    },
+    {
+      "match": "FC Urartu v FC Noah",
+      "campionato": "Armenian Premier League",
+      "volume": 332,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651670",
+      "market_id": "1.258612794",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:00"
     },
     {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
@@ -195,36 +225,6 @@
       "source": "Betfair",
       "event_id": "35649565",
       "market_id": "1.258602606",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 20:30"
-    },
-    {
-      "match": "FC Urartu v FC Noah",
-      "campionato": "Armenian Premier League",
-      "volume": 44,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651670",
-      "market_id": "1.258612794",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:00"
-    },
-    {
-      "match": "Defensores Unidos v Villa Dalmine",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 20,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649559",
-      "market_id": "1.258602358",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
     },
@@ -652,9 +652,9 @@
       "match": "FC Urartu v FC Noah",
       "campionato": "Armenian Premier League",
       "open_date": "2026-05-27 17:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 44,
+      "volume": 332,
       "best_volume": 332,
       "whale_max": 0,
       "entered": false
@@ -696,14 +696,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258624196",
-      "match": "Throttur v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-05-27 21:15",
+      "event_id": "bf_1.258602358",
+      "match": "Defensores Unidos v Villa Dalmine",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-05-27 20:30",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 1110,
+      "best_volume": 1110,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258626829",
+      "match": "Catania v Ascoli",
+      "campionato": "Italian Serie C",
+      "open_date": "2026-05-27 21:00",
       "quota_attuale": 1.1,
       "quota_iniziale": 1.1,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 8234,
+      "best_volume": 8234,
       "whale_max": 0,
       "entered": false
     }
