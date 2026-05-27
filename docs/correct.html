@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Betting Simulator - Dashboard + Correzioni</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; background:#0f172a; color:#e2e8f0; padding:20px; max-width:1200px; margin:auto; }
+h1 { font-size:24px; margin-bottom:5px; display:flex; align-items:center; gap:10px; }
+h1 .live { font-size:11px; background:#ef4444; color:#fff; padding:2px 8px; border-radius:10px; font-weight:normal; }
+.sub { color:#94a3b8; font-size:13px; margin-bottom:20px; }
+.stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-bottom:20px; }
+.stat { background:#1e293b; border-radius:10px; padding:14px; text-align:center; }
+.stat .val { font-size:22px; font-weight:bold; }
+.stat .lbl { font-size:12px; color:#94a3b8; margin-top:2px; }
+.green { color:#22c55e; } .red { color:#ef4444; } .yellow { color:#f59e0b; } .blue { color:#3b82f6; }
+.section { background:#1e293b; border-radius:10px; padding:16px; margin-bottom:20px; }
+.section h2 { font-size:15px; margin-bottom:12px; color:#f1f5f9; }
+.chart-wrap { height:350px; }
+table { width:100%; border-collapse:collapse; font-size:13px; }
+th { background:#334155; padding:10px 8px; text-align:left; font-weight:600; white-space:nowrap; }
+td { padding:8px; border-bottom:1px solid #334155; }
+tr:hover { background:#1a2744; }
+.eligible { background:#064e3b; }
+.tag { display:inline-block; font-size:11px; padding:1px 6px; border-radius:4px; font-weight:600; }
+.tag-yes { background:#166534; color:#86efac; }
+.tag-no { background:#7f1d1d; color:#fca5a5; }
+.footer { text-align:center; color:#64748b; font-size:12px; margin-top:20px; }
+@keyframes pulse { 0%{opacity:1} 50%{opacity:0.4} 100%{opacity:1} }
+.live-dot { display:inline-block; width:8px; height:8px; background:#ef4444; border-radius:50%; animation:pulse 1.5s infinite; margin-right:6px; }
+.modal-overlay { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); z-index:1000; justify-content:center; align-items:center; }
+.modal-box { background:#1e293b; border-radius:12px; padding:24px; min-width:320px; max-width:420px; border:1px solid #475569; }
+.modal-box h3 { margin:0 0 16px 0; color:#f1f5f9; font-size:16px; }
+.modal-box label { display:block; color:#94a3b8; font-size:13px; margin-bottom:4px; margin-top:12px; }
+.modal-box select, .modal-box input { width:100%; padding:8px 12px; background:#0f172a; border:1px solid #475569; border-radius:6px; color:#e2e8f0; font-size:14px; }
+.modal-box .btn-row { display:flex; gap:8px; margin-top:20px; }
+.modal-box button { flex:1; padding:10px; border:none; border-radius:6px; font-size:14px; font-weight:600; cursor:pointer; }
+.btn-save { background:#22c55e; color:#fff; }
+.btn-save:hover { background:#16a34a; }
+.btn-delete { background:#ef4444; color:#fff; }
+.btn-delete:hover { background:#dc2626; }
+.btn-cancel { background:#475569; color:#e2e8f0; }
+.btn-cancel:hover { background:#64748b; }
+.esito-click { cursor:pointer; padding:2px 6px; border-radius:4px; }
+.esito-click:hover { background:#334155; }
+.toast { position:fixed; bottom:20px; right:20px; background:#22c55e; color:#fff; padding:12px 20px; border-radius:8px; font-size:14px; z-index:2000; display:none; }
+.toast.error { background:#ef4444; }
+</style>
+</head>
+<body>
+<h1>Over 0.5 Tracking <span class="live">LIVE</span> <span style="font-size:12px;color:#f59e0b">[CORREZIONI]</span></h1>
+<div class="sub" id="sub">Caricamento...</div>
+
+<div class="stats" id="stats"></div>
+
+<div class="section">
+<h2>Storico Giocate</h2>
+<div style="overflow-x:auto">
+<table>
+<thead><tr><th>ID</th><th>Data</th><th>Match</th><th>Campionato</th><th>Quota</th><th>Volume</th><th>Risultato</th><th>Ris. HT</th><th>Esito</th><th>Profitto</th></tr></thead>
+<tbody id="tableBody"></tbody>
+</table>
+</div>
+</div>
+
+<div class="section" id="liveSection" style="display:none">
+<h2><span class="live-dot"></span>Eventi Live Monitorati</h2>
+<div style="overflow-x:auto">
+<table>
+<thead><tr><th>Match</th><th>Campionato</th><th>Kick-off</th><th>Quota</th><th>Volume</th><th>Balena</th><th>Stato</th><th>Idonea</th></tr></thead>
+<tbody id="liveBody"></tbody>
+</table>
+</div>
+</div>
+
+<div class="section" id="trackedSection" style="display:none">
+<h2><span class="live-dot"></span>Monitoraggio Balene</h2>
+<div style="overflow-x:auto">
+<table>
+<thead><tr><th>Match</th><th>Campionato</th><th>Kick-off</th><th>Quota iniziale</th><th>Quota attuale</th><th>Volume</th><th>Balena max</th><th>Stato</th></tr></thead>
+<tbody id="trackedBody"></tbody>
+</table>
+</div>
+</div>
+
+<div class="section">
+<h2>Andamento Capitale</h2>
+<div class="chart-wrap"><canvas id="equityChart"></canvas></div>
+</div>
+
+<div class="footer" id="footer"></div>
+
+<div class="modal-overlay" id="modalOverlay">
+<div class="modal-box">
+    <h3>Correggi giocata</h3>
+    <div style="font-size:13px;color:#94a3b8;margin-bottom:8px" id="modalMatch"></div>
+    <label>Esito</label>
+    <select id="modalEsito">
+        <option value="VINTA">VINTA</option>
+        <option value="PERSA">PERSA</option>
+        <option value="IN_CORSO">IN_CORSO</option>
+    </select>
+    <label>Risultato (es: 2-1)</label>
+    <input id="modalRisultato" type="text" placeholder="es: 2-1" />
+    <div class="btn-row">
+        <button class="btn-save" onclick="saveCorrection()">Salva</button>
+        <button class="btn-delete" onclick="deleteGiocata()">Elimina</button>
+        <button class="btn-cancel" onclick="closeModal()">Annulla</button>
+    </div>
+</div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+let chart = null;
+let currentId = null;
+
+function showToast(msg, isError) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.className = isError ? 'toast error' : 'toast';
+    t.style.display = 'block';
+    setTimeout(function(){ t.style.display = 'none'; }, 3000);
+}
+
+function openModal(id, match, esito, risultato) {
+    currentId = id;
+    document.getElementById('modalMatch').textContent = '#' + id + ' ' + match;
+    document.getElementById('modalEsito').value = esito;
+    document.getElementById('modalRisultato').value = risultato || '';
+    document.getElementById('modalOverlay').style.display = 'flex';
+}
+
+function closeModal() {
+    document.getElementById('modalOverlay').style.display = 'none';
+    currentId = null;
+}
+
+async function saveCorrection() {
+    if (!currentId) return;
+    const esito = document.getElementById('modalEsito').value;
+    const risultato = document.getElementById('modalRisultato').value;
+    try {
+        const resp = await fetch('/api/correct', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({id: currentId, esito: esito, risultato: risultato})
+        });
+        const data = await resp.json();
+        if (data.ok) {
+            showToast('#' + currentId + ' corretta: ' + esito + ' ' + risultato);
+            closeModal();
+            loadData();
+        } else {
+            showToast('Errore: ' + (data.error || 'sconosciuto'), true);
+        }
+    } catch(e) {
+        showToast('Errore API: ' + e.message, true);
+    }
+}
+
+async function deleteGiocata() {
+    if (!currentId) return;
+    if (!confirm('Eliminare la giocata #' + currentId + '?')) return;
+    try {
+        const resp = await fetch('/api/delete', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({id: currentId})
+        });
+        const data = await resp.json();
+        if (data.ok) {
+            showToast('#' + currentId + ' eliminata');
+            closeModal();
+            loadData();
+        } else {
+            showToast('Errore: ' + (data.error || 'sconosciuto'), true);
+        }
+    } catch(e) {
+        showToast('Errore API: ' + e.message, true);
+    }
+}
+
+async function loadData() {
+    try {
+        const resp = await fetch('data.json?' + Date.now());
+        const data = await resp.json();
+        render(data);
+    } catch(e) {
+        document.getElementById('sub').textContent = 'Errore caricamento dati: ' + e.message;
+    }
+}
+
+function formatDate(d) {
+    if (!d) return '-';
+    try {
+        const date = new Date(d);
+        return date.toLocaleDateString('it-IT', {day:'2-digit',month:'2-digit'}) + ' ' + 
+               date.toLocaleTimeString('it-IT', {hour:'2-digit',minute:'2-digit'});
+    } catch { return d; }
+}
+
+function render(data) {
+    const s = data.stats;
+    document.getElementById('sub').textContent = 'Strategia Over 0.5 | Range ' + data.config.min_odds + '-' + data.config.max_odds + ' | Soglia ' + data.config.volume_threshold.toLocaleString() + '\u20ac | Scan ' + data.config.poll_interval + 's | Aggiornato: ' + data.last_update;
+    document.getElementById('footer').textContent = 'Aggiornato: ' + data.last_update + ' | Scan ogni ' + data.config.poll_interval + 's | Modalita correzioni';
+    
+    const maxWhale = data.max_whale || 0;
+    stats.innerHTML = '<div class="stat"><div class="val blue">' + s.total + '</div><div class="lbl">Giocate totali</div></div>' +
+        '<div class="stat"><div class="val green">' + s.wins + '</div><div class="lbl">Vinte</div></div>' +
+        '<div class="stat"><div class="val red">' + s.losses + '</div><div class="lbl">Perse</div></div>' +
+        '<div class="stat"><div class="val yellow">' + s.in_corso + '</div><div class="lbl">In corso</div></div>' +
+        '<div class="stat"><div class="val ' + (s.winrate >= 90 ? 'green' : s.winrate >= 60 ? 'yellow' : 'red') + '">' + s.winrate + '%</div><div class="lbl">Win Rate</div></div>' +
+        '<div class="stat"><div class="val ' + (s.profit >= 0 ? 'green' : 'red') + '">' + (s.profit >= 0 ? '+' : '') + s.profit.toFixed(2) + '\u20ac</div><div class="lbl">Profitto netto</div></div>' +
+        '<div class="stat"><div class="val ' + (s.roi >= 0 ? 'green' : 'red') + '">' + s.roi + '%</div><div class="lbl">ROI</div></div>' +
+        '<div class="stat"><div class="val ' + (s.balance >= 1000 ? 'green' : 'red') + '">' + s.balance.toFixed(2) + '\u20ac</div><div class="lbl">Capitale finale</div></div>';
+    
+    // Live events
+    const liveBody = document.getElementById('liveBody');
+    const liveSection = document.getElementById('liveSection');
+    if (data.live_events && data.live_events.length > 0) {
+        liveSection.style.display = 'block';
+        liveBody.innerHTML = data.live_events.map(function(e) {
+            const isPreMatch = e._is_inplay === false;
+            const statusTag = isPreMatch 
+                ? '<span class="tag" style="background:#451a03;color:#fdba74">PRE-MATCH</span>'
+                : '<span class="tag" style="background:#166534;color:#86efac">LIVE</span>';
+            return '<tr' + (e.in_range ? ' class="eligible"' : '') + '>' +
+                '<td>' + e.match + '</td>' +
+                '<td>' + e.campionato + '</td>' +
+                '<td>' + formatDate(e.open_date) + '</td>' +
+                '<td>' + e.quota.toFixed(3) + '</td>' +
+                '<td>' + e.volume.toLocaleString() + '\u20ac</td>' +
+                '<td>' + (e.whale_max > 0 ? '<span class="tag" style="background:#a855f7;color:#e9d5ff">' + e.whale_max.toLocaleString() + '\u20ac</span>' : '-') + '</td>' +
+                '<td>' + statusTag + '</td>' +
+                '<td><span class="tag ' + (e.in_range ? 'tag-yes' : 'tag-no') + '">' + (e.in_range ? 'SI' : 'NO') + '</span></td>' +
+            '</tr>';
+        }).join('');
+    } else {
+        liveSection.style.display = 'none';
+    }
+    
+    // Entries table with clickable esito
+    const tbody = document.getElementById('tableBody');
+    if (data.giocate && data.giocate.length > 0) {
+        tbody.innerHTML = data.giocate.map(function(g) {
+            const esitoIcon = g.esito === 'VINTA' ? '\u2705' : g.esito === 'PERSA' ? '\u274C' : '\u23F3';
+            const profitColor = g.profitto >= 0 ? '#22c55e' : '#ef4444';
+            const safeMatch = g.match.replace(/'/g, "\\'");
+            return '<tr>' +
+                '<td>#' + g.id + '</td>' +
+                '<td>' + g.orario + '</td>' +
+                '<td>' + g.match + '</td>' +
+                '<td>' + g.campionato + '</td>' +
+                '<td>' + g.quota + '</td>' +
+                '<td>' + g.volume.toLocaleString() + '\u20ac</td>' +
+                '<td>' + (g.risultato || '-') + '</td>' +
+                '<td>' + (g.risultato_ht || '-') + '</td>' +
+                '<td><span class="esito-click" onclick="openModal(' + g.id + ',\'' + safeMatch + '\',\'' + g.esito + '\',\'' + (g.risultato || '') + '\')">' + esitoIcon + ' ' + g.esito + '</span></td>' +
+                '<td style="color:' + profitColor + '">' + (g.profitto >= 0 ? '+' : '') + g.profitto.toFixed(2) + '\u20ac</td>' +
+            '</tr>';
+        }).join('');
+    } else {
+        tbody.innerHTML = '<tr><td colspan="10" style="text-align:center;color:#64748b">Nessuna giocata</td></tr>';
+    }
+    
+    // Tracked matches
+    const trackedBody = document.getElementById('trackedBody');
+    const trackedSection = document.getElementById('trackedSection');
+    if (data.tracked_matches && data.tracked_matches.length > 0) {
+        trackedSection.style.display = 'block';
+        trackedBody.innerHTML = data.tracked_matches.map(function(t) {
+            const entered = t.entered ? '<span class="tag" style="background:#166534;color:#86efac">ENTRATA</span>' : '<span class="tag" style="background:#a855f7;color:#e9d5ff">IN ATTESA</span>';
+            const whale = t.whale_max > 0 ? '<span class="tag" style="background:#3b0764;color:#d8b4fe">' + t.whale_max.toLocaleString() + '\u20ac</span>' : '-';
+            return '<tr>' +
+                '<td>' + t.match + '</td>' +
+                '<td>' + t.campionato + '</td>' +
+                '<td>' + formatDate(t.open_date) + '</td>' +
+                '<td>' + t.quota_iniziale.toFixed(3) + '</td>' +
+                '<td>' + t.quota_attuale.toFixed(3) + '</td>' +
+                '<td>' + t.volume.toLocaleString() + '\u20ac</td>' +
+                '<td>' + whale + '</td>' +
+                '<td>' + entered + '</td>' +
+            '</tr>';
+        }).join('');
+    } else {
+        trackedSection.style.display = 'none';
+    }
+    
+    // Equity chart
+    if (data.giocate.length > 0) {
+        const giocate = data.giocate.slice().reverse();
+        let balance = 1000;
+        const labels = [];
+        const equity = [];
+        let lastDate = '';
+        giocate.forEach(function(g, i) {
+            balance += g.profitto;
+            const dateStr = g.orario ? g.orario.substring(0, 10) : '';
+            const displayLabel = dateStr !== lastDate ? dateStr : '';
+            lastDate = dateStr;
+            labels.push(displayLabel);
+            equity.push(balance);
+        });
+        
+        if (chart) chart.destroy();
+        chart = new Chart(document.getElementById('equityChart'), {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Equity',
+                    data: equity,
+                    borderColor: '#3b82f6',
+                    backgroundColor: 'rgba(59,130,246,0.1)',
+                    fill: true,
+                    tension: 0.3,
+                    pointRadius: 3,
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { labels: { color: '#94a3b8' } },
+                    title: { display: true, text: 'Andamento Capitale (1000\u20ac iniziali)', color: '#e2e8f0', font: { size: 16 } }
+                },
+                scales: {
+                    x: { ticks: { color: '#94a3b8', maxRotation: 45, autoSkip: true, maxTicksLimit: 30 }, grid: { color: '#334155' } },
+                    y: { ticks: { color: '#94a3b8', callback: function(v) { return v + '\u20ac'; } }, grid: { color: '#334155' } }
+                }
+            }
+        });
+    }
+}
+
+loadData();
+setInterval(loadData, 30000);
+</script>
+</body>
+</html>
