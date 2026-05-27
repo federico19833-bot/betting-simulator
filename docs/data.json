@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 23:26:30",
+  "last_update": "27/05/2026 23:27:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,21 +32,6 @@
       "market_id": "1.258634429",
       "_is_inplay": true,
       "open_date": "2026-05-27 23:00"
-    },
-    {
-      "match": "Vasco Da Gama v Barracas Central",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2490,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633608",
-      "market_id": "1.258477400",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Olimpia v Audax Italiano",
@@ -109,9 +94,24 @@
       "open_date": "2026-05-28 00:00"
     },
     {
+      "match": "Vasco Da Gama v Barracas Central",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1613,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633608",
+      "market_id": "1.258477400",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Atletico MG v Puerto Cabello",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 962,
+      "volume": 967,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -315,7 +315,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 962,
+      "volume": 967,
       "best_volume": 7031,
       "whale_max": 0,
       "entered": false
