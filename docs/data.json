@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 22:59:52",
+  "last_update": "27/05/2026 23:00:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "Racing Club v Club Independiente Petrolero",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2318,
-      "quota": 1.1,
+      "volume": 2102,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -60,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35639827",
       "market_id": "1.258615098",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
+      "match": "Independiente (Ecu) v Rosario Central",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1774,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633127",
+      "market_id": "1.258442336",
       "_is_inplay": false,
       "open_date": "2026-05-28 00:00"
     },
@@ -111,7 +126,7 @@
     {
       "match": "Vasco Da Gama v Barracas Central",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 459,
+      "volume": 368,
       "quota": 1.42,
       "in_range": false,
       "monitored": false,
@@ -135,21 +150,6 @@
       "source": "Betfair",
       "event_id": "35633648",
       "market_id": "1.258477421",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
-      "match": "Independiente (Ecu) v Rosario Central",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 184,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633127",
-      "market_id": "1.258442336",
       "_is_inplay": false,
       "open_date": "2026-05-28 00:00"
     },
@@ -427,10 +427,10 @@
       "match": "Independiente (Ecu) v Rosario Central",
       "campionato": "CONMEBOL Copa Libertadores",
       "open_date": "2026-05-28 00:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.01,
-      "volume": 334,
-      "best_volume": 334,
+      "volume": 1774,
+      "best_volume": 1774,
       "whale_max": 0,
       "entered": false
     },
