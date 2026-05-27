@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 11:10:42",
+  "last_update": "27/05/2026 11:10:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Catania v Ascoli",
       "campionato": "Italian Serie C",
-      "volume": 8234,
+      "volume": 9029,
       "quota": 1.1,
       "in_range": true,
       "monitored": false,
@@ -47,6 +47,21 @@
       "market_id": "1.258641514",
       "_is_inplay": true,
       "open_date": "2026-05-27 11:00"
+    },
+    {
+      "match": "Ilves v TPS",
+      "campionato": "Finnish Cup",
+      "volume": 1236,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652182",
+      "market_id": "1.258617292",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:30"
     },
     {
       "match": "IF Vestri v Njardvik",
@@ -77,21 +92,6 @@
       "market_id": "1.258602358",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
-    },
-    {
-      "match": "Ilves v TPS",
-      "campionato": "Finnish Cup",
-      "volume": 800,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652182",
-      "market_id": "1.258617292",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:30"
     },
     {
       "match": "FC Pyunik v FC Van Yerevan",
@@ -201,7 +201,7 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 115,
+      "volume": 116,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -639,8 +639,8 @@
       "open_date": "2026-05-27 17:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 800,
-      "best_volume": 1234,
+      "volume": 1236,
+      "best_volume": 1236,
       "whale_max": 0,
       "entered": false
     },
