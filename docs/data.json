@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 09:25:42",
+  "last_update": "27/05/2026 09:26:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-27 20:30"
     },
     {
+      "match": "Fylkir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 274,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653015",
+      "market_id": "1.258624217",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 21:15"
+    },
+    {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
       "campionato": "South Korean K3/K4 Championship",
       "volume": 257,
@@ -169,21 +184,6 @@
       "open_date": "2026-05-27 12:00"
     },
     {
-      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
-      "campionato": "South Korean WK League",
-      "volume": 208,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653424",
-      "market_id": "1.258628804",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 12:00"
-    },
-    {
       "match": "HK Kopavogur v Volsungur",
       "campionato": "Icelandic 1 Deild",
       "volume": 136,
@@ -214,19 +214,19 @@
       "open_date": "2026-05-27 17:00"
     },
     {
-      "match": "Pocheon FC v Changwon City",
-      "campionato": "South Korean K3/K4 Championship",
-      "volume": 75,
-      "quota": 1.11,
+      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
+      "campionato": "South Korean WK League",
+      "volume": 78,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35655011",
-      "market_id": "1.258641514",
+      "event_id": "35653424",
+      "market_id": "1.258628804",
       "_is_inplay": false,
-      "open_date": "2026-05-27 11:00"
+      "open_date": "2026-05-27 12:00"
     },
     {
       "match": "Gijang United v Busan Transportation Corp",
@@ -302,21 +302,6 @@
       "market_id": "1.258617509",
       "_is_inplay": false,
       "open_date": "2026-05-27 18:00"
-    },
-    {
-      "match": "Fylkir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 15,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653015",
-      "market_id": "1.258624217",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 21:15"
     },
     {
       "match": "Throttur v Grotta",
@@ -668,6 +653,18 @@
       "quota_iniziale": 1.08,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258624217",
+      "match": "Fylkir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-05-27 21:15",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 274,
+      "best_volume": 274,
       "whale_max": 0,
       "entered": false
     }
