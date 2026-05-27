@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 11:37:38",
+  "last_update": "27/05/2026 11:38:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -96,8 +96,8 @@
     {
       "match": "FC Urartu v FC Noah",
       "campionato": "Armenian Premier League",
-      "volume": 510,
-      "quota": 1.09,
+      "volume": 581,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -199,6 +199,21 @@
       "open_date": "2026-05-27 20:00"
     },
     {
+      "match": "Ilves v TPS",
+      "campionato": "Finnish Cup",
+      "volume": 114,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652182",
+      "market_id": "1.258617292",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:30"
+    },
+    {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 84,
@@ -212,21 +227,6 @@
       "market_id": "1.258602606",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
-    },
-    {
-      "match": "Ilves v TPS",
-      "campionato": "Finnish Cup",
-      "volume": 18,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652182",
-      "market_id": "1.258617292",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:30"
     },
     {
       "match": "Seoul City Amazones (W) v Incheon Hyundai Steel (",
@@ -589,9 +589,9 @@
       "match": "FC Urartu v FC Noah",
       "campionato": "Armenian Premier League",
       "open_date": "2026-05-27 17:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 510,
+      "volume": 581,
       "best_volume": 1280,
       "whale_max": 0,
       "entered": false
@@ -665,18 +665,6 @@
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258626829",
-      "match": "Catania v Ascoli",
-      "campionato": "Italian Serie C",
-      "open_date": "2026-05-27 21:00",
-      "quota_attuale": 1.1,
-      "quota_iniziale": 1.1,
-      "volume": 8687,
-      "best_volume": 8687,
       "whale_max": 0,
       "entered": false
     }
