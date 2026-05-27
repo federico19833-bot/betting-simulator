@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 21:31:53",
+  "last_update": "27/05/2026 21:32:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
       "campionato": "Spanish Liga F",
-      "volume": 6634,
-      "quota": 1.22,
+      "volume": 9439,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-28 00:00"
     },
     {
+      "match": "Caracas v Botafogo FR",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 2577,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639827",
+      "market_id": "1.258615098",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Sportivo Italiano v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 2102,
@@ -77,21 +92,6 @@
       "market_id": "1.258656279",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
-    },
-    {
-      "match": "Independiente (Ecu) v Rosario Central",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1587,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633127",
-      "market_id": "1.258442336",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Libertad v Universidad de Venezuela",
@@ -154,21 +154,6 @@
       "open_date": "2026-05-28 00:00"
     },
     {
-      "match": "Caracas v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 878,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639827",
-      "market_id": "1.258615098",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
       "match": "Crystal Palace v Rayo Vallecano",
       "campionato": "UEFA Europa Conference League",
       "volume": 853,
@@ -216,8 +201,8 @@
     {
       "match": "Atletico MG v Puerto Cabello",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 510,
-      "quota": 1.27,
+      "volume": 379,
+      "quota": 1.28,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -225,6 +210,21 @@
       "source": "Betfair",
       "event_id": "35639709",
       "market_id": "1.258495347",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
+      "match": "Independiente (Ecu) v Rosario Central",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 315,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633127",
+      "market_id": "1.258442336",
       "_is_inplay": false,
       "open_date": "2026-05-28 00:00"
     },
@@ -544,9 +544,9 @@
       "match": "Caracas v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
       "open_date": "2026-05-28 00:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 878,
+      "volume": 2577,
       "best_volume": 3322,
       "whale_max": 0,
       "entered": false
