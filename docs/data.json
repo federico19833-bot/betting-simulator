@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 21:18:26",
+  "last_update": "27/05/2026 21:18:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10969,
-      "quota": 1.15,
+      "volume": 10196,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -64,9 +64,24 @@
       "open_date": "2026-05-28 00:00"
     },
     {
+      "match": "Cienciano v Juventud De Las Piedras",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1542,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639813",
+      "market_id": "1.258497738",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Libertad v Universidad de Venezuela",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1206,
+      "volume": 1191,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -107,6 +122,21 @@
       "market_id": "1.258643070",
       "_is_inplay": false,
       "open_date": "2026-05-27 22:00"
+    },
+    {
+      "match": "Atletico MG v Puerto Cabello",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1036,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639709",
+      "market_id": "1.258495347",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Independiente (Ecu) v Rosario Central",
@@ -154,21 +184,6 @@
       "open_date": "2026-05-27 21:15"
     },
     {
-      "match": "Cienciano v Juventud De Las Piedras",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 866,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639813",
-      "market_id": "1.258497738",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
       "campionato": "Spanish Liga F",
       "volume": 853,
@@ -214,34 +229,19 @@
       "open_date": "2026-05-27 21:15"
     },
     {
-      "match": "Grindavik v Afturelding",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 360,
-      "quota": 1.39,
+      "match": "Boyaca Chico v Llaneros FC",
+      "campionato": "Colombian Cup",
+      "volume": 446,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35653057",
-      "market_id": "1.258624908",
-      "_is_inplay": true,
-      "open_date": "2026-05-27 21:15"
-    },
-    {
-      "match": "Atletico MG v Puerto Cabello",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 339,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639709",
-      "market_id": "1.258495347",
+      "event_id": "35654115",
+      "market_id": "1.258634429",
       "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
+      "open_date": "2026-05-27 23:00"
     },
     {
       "match": "Sportivo Italiano v San Martin de Burzaco",
@@ -259,6 +259,21 @@
       "open_date": "2026-05-27 20:30"
     },
     {
+      "match": "Vasco Da Gama v Barracas Central",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 184,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633608",
+      "market_id": "1.258477400",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Crystal Palace v Rayo Vallecano",
       "campionato": "UEFA Europa Conference League",
       "volume": 102,
@@ -272,21 +287,6 @@
       "market_id": "1.258442378",
       "_is_inplay": true,
       "open_date": "2026-05-27 21:00"
-    },
-    {
-      "match": "Vasco Da Gama v Barracas Central",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 96,
-      "quota": 1.36,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633608",
-      "market_id": "1.258477400",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     }
   ],
   "tracked_matches": [
@@ -591,18 +591,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258624908",
-      "match": "Grindavik v Afturelding",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-05-27 21:15",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.02,
-      "volume": 187,
-      "best_volume": 1085,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258615098",
       "match": "Caracas v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -633,7 +621,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1206,
+      "volume": 1191,
       "best_volume": 1206,
       "whale_max": 0,
       "entered": false
@@ -645,8 +633,20 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 866,
-      "best_volume": 866,
+      "volume": 1542,
+      "best_volume": 1542,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258634429",
+      "match": "Boyaca Chico v Llaneros FC",
+      "campionato": "Colombian Cup",
+      "open_date": "2026-05-27 23:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 446,
+      "best_volume": 446,
       "whale_max": 0,
       "entered": false
     }
