@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:14:37",
+  "last_update": "27/05/2026 10:14:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-27 20:30"
     },
     {
+      "match": "FC Pyunik v FC Van Yerevan",
+      "campionato": "Armenian Premier League",
+      "volume": 160,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651671",
+      "market_id": "1.258611682",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:00"
+    },
+    {
       "match": "Pocheon FC v Changwon City",
       "campionato": "South Korean K3/K4 Championship",
       "volume": 146,
@@ -212,21 +227,6 @@
       "market_id": "1.258624887",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:00"
-    },
-    {
-      "match": "FC Pyunik v FC Van Yerevan",
-      "campionato": "Armenian Premier League",
-      "volume": 78,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651671",
-      "market_id": "1.258611682",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:00"
     },
     {
       "match": "Gyeongju Hydro & Nuclear Power v Jinju Citizen FC",
@@ -543,8 +543,8 @@
       "open_date": "2026-05-27 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 78,
-      "best_volume": 78,
+      "volume": 160,
+      "best_volume": 160,
       "whale_max": 0,
       "entered": false
     },
