@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 21:00:08",
+  "last_update": "27/05/2026 21:00:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 12466,
+      "volume": 10569,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -34,24 +34,9 @@
       "open_date": "2026-05-27 20:30"
     },
     {
-      "match": "Caracas v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2792,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639827",
-      "market_id": "1.258615098",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
       "match": "Cienciano v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2546,
+      "volume": 2535,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -94,21 +79,6 @@
       "open_date": "2026-05-28 00:00"
     },
     {
-      "match": "Throttur v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 1281,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653020",
-      "market_id": "1.258624196",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 21:15"
-    },
-    {
       "match": "Marica v Olaria",
       "campionato": "Brazilian Carioca Matches",
       "volume": 1209,
@@ -122,6 +92,21 @@
       "market_id": "1.258643070",
       "_is_inplay": false,
       "open_date": "2026-05-27 22:00"
+    },
+    {
+      "match": "Throttur v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 1200,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653020",
+      "market_id": "1.258624196",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 21:15"
     },
     {
       "match": "Grindavik v Afturelding",
@@ -199,6 +184,21 @@
       "open_date": "2026-05-28 00:00"
     },
     {
+      "match": "Caracas v Botafogo FR",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 598,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639827",
+      "market_id": "1.258615098",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Catania v Ascoli",
       "campionato": "Italian Serie C",
       "volume": 539,
@@ -212,6 +212,21 @@
       "market_id": "1.258626829",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:00"
+    },
+    {
+      "match": "Vasco Da Gama v Barracas Central",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 266,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633608",
+      "market_id": "1.258477400",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Aegir v IR Reykjavik",
@@ -242,21 +257,6 @@
       "market_id": "1.258442378",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:00"
-    },
-    {
-      "match": "Vasco Da Gama v Barracas Central",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 177,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633608",
-      "market_id": "1.258477400",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
@@ -579,7 +579,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2546,
+      "volume": 2535,
       "best_volume": 2759,
       "whale_max": 0,
       "entered": false
@@ -601,9 +601,9 @@
       "match": "Caracas v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
       "open_date": "2026-05-28 00:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 1056,
+      "volume": 598,
       "best_volume": 1846,
       "whale_max": 0,
       "entered": false
