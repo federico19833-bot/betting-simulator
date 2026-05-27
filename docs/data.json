@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:35:35",
+  "last_update": "27/05/2026 10:36:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-27 20:00"
     },
     {
-      "match": "Jamaica v India",
-      "campionato": "Friendlies International",
-      "volume": 1209,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656231",
-      "market_id": "1.258658796",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 20:30"
-    },
-    {
       "match": "Defensores Unidos v Villa Dalmine",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1110,
@@ -107,6 +92,21 @@
       "market_id": "1.258602358",
       "_is_inplay": false,
       "open_date": "2026-05-27 20:30"
+    },
+    {
+      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
+      "campionato": "South Korean WK League",
+      "volume": 680,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653424",
+      "market_id": "1.258628804",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 12:00"
     },
     {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
@@ -182,21 +182,6 @@
       "market_id": "1.258630540",
       "_is_inplay": false,
       "open_date": "2026-05-27 19:00"
-    },
-    {
-      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
-      "campionato": "South Korean WK League",
-      "volume": 146,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653424",
-      "market_id": "1.258628804",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 12:00"
     },
     {
       "match": "HK Kopavogur v Volsungur",
@@ -649,10 +634,10 @@
       "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
       "campionato": "South Korean WK League",
       "open_date": "2026-05-27 12:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 146,
-      "best_volume": 146,
+      "volume": 680,
+      "best_volume": 680,
       "whale_max": 0,
       "entered": false
     },
@@ -681,14 +666,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258658796",
-      "match": "Jamaica v India",
-      "campionato": "Friendlies International",
-      "open_date": "2026-05-27 20:30",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 1209,
-      "best_volume": 1209,
+      "event_id": "bf_1.258626829",
+      "match": "Catania v Ascoli",
+      "campionato": "Italian Serie C",
+      "open_date": "2026-05-27 21:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 11247,
+      "best_volume": 11247,
       "whale_max": 0,
       "entered": false
     }
