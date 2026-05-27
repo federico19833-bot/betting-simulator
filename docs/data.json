@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 00:34:08",
+  "last_update": "28/05/2026 00:34:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Caracas v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2908,
-      "quota": 1.12,
+      "volume": 2318,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,39 +34,9 @@
       "open_date": "2026-05-28 00:00"
     },
     {
-      "match": "Libertad v Universidad de Venezuela",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 2665,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633339",
-      "market_id": "1.258442399",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
-      "match": "Independiente (Ecu) v Rosario Central",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1750,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633127",
-      "market_id": "1.258442336",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
       "match": "Atletico MG v Puerto Cabello",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1314,
+      "volume": 1623,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -79,10 +49,25 @@
       "open_date": "2026-05-28 00:00"
     },
     {
+      "match": "Libertad v Universidad de Venezuela",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 762,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633339",
+      "market_id": "1.258442399",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Olimpia v Audax Italiano",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 677,
-      "quota": 1.13,
+      "volume": 697,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -90,21 +75,6 @@
       "source": "Betfair",
       "event_id": "35633648",
       "market_id": "1.258477421",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 00:00"
-    },
-    {
-      "match": "Vasco Da Gama v Barracas Central",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 537,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633608",
-      "market_id": "1.258477400",
       "_is_inplay": true,
       "open_date": "2026-05-28 00:00"
     }
@@ -315,18 +285,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258442336",
-      "match": "Independiente (Ecu) v Rosario Central",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "open_date": "2026-05-28 00:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.03,
-      "volume": 2090,
-      "best_volume": 7779,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258477421",
       "match": "Olimpia v Audax Italiano",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -347,18 +305,6 @@
       "quota_iniziale": 1.05,
       "volume": 1432,
       "best_volume": 4201,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258477400",
-      "match": "Vasco Da Gama v Barracas Central",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "open_date": "2026-05-28 00:00",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.08,
-      "volume": 955,
-      "best_volume": 3906,
       "whale_max": 0,
       "entered": false
     }
