@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:52:54",
+  "last_update": "27/05/2026 10:53:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -21,7 +21,7 @@
     {
       "match": "Catania v Ascoli",
       "campionato": "Italian Serie C",
-      "volume": 11247,
+      "volume": 11289,
       "quota": 1.09,
       "in_range": true,
       "monitored": false,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-27 12:00"
     },
     {
-      "match": "Ilves v TPS",
-      "campionato": "Finnish Cup",
-      "volume": 570,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652182",
-      "market_id": "1.258617292",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 17:30"
-    },
-    {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
       "campionato": "South Korean K3/K4 Championship",
       "volume": 360,
@@ -122,6 +107,21 @@
       "market_id": "1.258641484",
       "_is_inplay": false,
       "open_date": "2026-05-27 12:00"
+    },
+    {
+      "match": "Ilves v TPS",
+      "campionato": "Finnish Cup",
+      "volume": 337,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652182",
+      "market_id": "1.258617292",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 17:30"
     },
     {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
@@ -604,9 +604,9 @@
       "match": "Ilves v TPS",
       "campionato": "Finnish Cup",
       "open_date": "2026-05-27 17:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 570,
+      "volume": 337,
       "best_volume": 1773,
       "whale_max": 0,
       "entered": false
@@ -714,8 +714,8 @@
       "open_date": "2026-05-27 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 11247,
-      "best_volume": 11247,
+      "volume": 11289,
+      "best_volume": 11289,
       "whale_max": 0,
       "entered": false
     }
