@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 21:10:07",
+  "last_update": "27/05/2026 21:10:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 4407,
-      "quota": 1.12,
+      "volume": 9614,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +36,7 @@
     {
       "match": "Cienciano v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2213,
+      "volume": 2433,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258624887",
       "_is_inplay": true,
       "open_date": "2026-05-27 20:00"
-    },
-    {
-      "match": "Caracas v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1988,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639827",
-      "market_id": "1.258615098",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Olimpia v Audax Italiano",
@@ -109,6 +94,21 @@
       "open_date": "2026-05-27 21:15"
     },
     {
+      "match": "Independiente (Ecu) v Rosario Central",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 970,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633127",
+      "market_id": "1.258442336",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Fylkir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 886,
@@ -137,21 +137,6 @@
       "market_id": "1.258627759",
       "_is_inplay": true,
       "open_date": "2026-05-27 21:00"
-    },
-    {
-      "match": "Independiente (Ecu) v Rosario Central",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 716,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633127",
-      "market_id": "1.258442336",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Racing Club v Club Independiente Petrolero",
@@ -186,8 +171,8 @@
     {
       "match": "Throttur v Grotta",
       "campionato": "Icelandic 1 Deild",
-      "volume": 452,
-      "quota": 1.31,
+      "volume": 402,
+      "quota": 1.32,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -216,7 +201,7 @@
     {
       "match": "Vasco Da Gama v Barracas Central",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 227,
+      "volume": 230,
       "quota": 1.27,
       "in_range": false,
       "monitored": false,
@@ -257,6 +242,21 @@
       "market_id": "1.258626829",
       "_is_inplay": true,
       "open_date": "2026-05-27 21:00"
+    },
+    {
+      "match": "Caracas v Botafogo FR",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 37,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639827",
+      "market_id": "1.258615098",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Boyaca Chico v Llaneros FC",
@@ -564,7 +564,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2213,
+      "volume": 2433,
       "best_volume": 2759,
       "whale_max": 0,
       "entered": false
