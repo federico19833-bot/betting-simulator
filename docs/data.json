@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 22:15:12",
+  "last_update": "27/05/2026 22:15:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,8 +34,8 @@
       "open_date": "2026-05-28 00:00"
     },
     {
-      "match": "Crystal Palace v Rayo Vallecano",
-      "campionato": "UEFA Europa Conference League",
+      "match": "Aegir v IR Reykjavik",
+      "campionato": "Icelandic 1 Deild",
       "volume": 2706,
       "quota": 1.09,
       "in_range": false,
@@ -43,10 +43,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35583692",
-      "market_id": "1.258442378",
+      "event_id": "35653063",
+      "market_id": "1.258624866",
       "_is_inplay": true,
-      "open_date": "2026-05-27 21:00"
+      "open_date": "2026-05-27 21:15"
     },
     {
       "match": "Cienciano v Juventud De Las Piedras",
@@ -156,8 +156,8 @@
     {
       "match": "Racing Club v Club Independiente Petrolero",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 237,
-      "quota": 1.17,
+      "volume": 251,
+      "quota": 1.19,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -390,18 +390,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258442378",
-      "match": "Crystal Palace v Rayo Vallecano",
-      "campionato": "UEFA Europa Conference League",
-      "open_date": "2026-05-27 21:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.04,
-      "volume": 2706,
-      "best_volume": 4543,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258477421",
       "match": "Olimpia v Audax Italiano",
       "campionato": "CONMEBOL Copa Sudamericana",
@@ -482,6 +470,18 @@
       "quota_iniziale": 1.01,
       "volume": 523,
       "best_volume": 523,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258624866",
+      "match": "Aegir v IR Reykjavik",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-05-27 21:15",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 2706,
+      "best_volume": 2706,
       "whale_max": 0,
       "entered": false
     }
