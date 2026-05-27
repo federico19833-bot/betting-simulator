@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 09:59:00",
+  "last_update": "27/05/2026 09:59:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-27 20:30"
     },
     {
+      "match": "Geoje FC v Jecheon Citizen FC",
+      "campionato": "South Korean K3/K4 Championship",
+      "volume": 160,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650214",
+      "market_id": "1.258614612",
+      "_is_inplay": true,
+      "open_date": "2026-05-27 09:00"
+    },
+    {
       "match": "Ararat Armenia v Gandzasar Kapan",
       "campionato": "Armenian Premier League",
       "volume": 148,
@@ -182,21 +197,6 @@
       "market_id": "1.258639518",
       "_is_inplay": false,
       "open_date": "2026-05-27 17:00"
-    },
-    {
-      "match": "Geoje FC v Jecheon Citizen FC",
-      "campionato": "South Korean K3/K4 Championship",
-      "volume": 146,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650214",
-      "market_id": "1.258614612",
-      "_is_inplay": true,
-      "open_date": "2026-05-27 09:00"
     },
     {
       "match": "Barcelona (W) v Real Sociedad (W)",
@@ -214,6 +214,21 @@
       "open_date": "2026-05-27 19:00"
     },
     {
+      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
+      "campionato": "South Korean WK League",
+      "volume": 134,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653424",
+      "market_id": "1.258628804",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 12:00"
+    },
+    {
       "match": "Ulsan Citizen FC v Daejeon Korail FC",
       "campionato": "South Korean K3/K4 Championship",
       "volume": 129,
@@ -225,21 +240,6 @@
       "source": "Betfair",
       "event_id": "35655032",
       "market_id": "1.258641484",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 12:00"
-    },
-    {
-      "match": "Sejong Sportstoto (W) v Gyeongju FC (W)",
-      "campionato": "South Korean WK League",
-      "volume": 121,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653424",
-      "market_id": "1.258628804",
       "_is_inplay": false,
       "open_date": "2026-05-27 12:00"
     },
@@ -522,7 +522,7 @@
       "open_date": "2026-05-27 09:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 146,
+      "volume": 160,
       "best_volume": 160,
       "whale_max": 0,
       "entered": false
