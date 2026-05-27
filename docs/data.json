@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 20:58:25",
+  "last_update": "27/05/2026 20:58:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 17181,
+      "volume": 12421,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Caracas v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2791,
+      "volume": 2855,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Cienciano v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2753,
+      "volume": 2707,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-28 00:00"
     },
     {
-      "match": "Throttur v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 1281,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653020",
-      "market_id": "1.258624196",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 21:15"
-    },
-    {
       "match": "Marica v Olaria",
       "campionato": "Brazilian Carioca Matches",
       "volume": 1209,
@@ -122,6 +107,21 @@
       "market_id": "1.258643070",
       "_is_inplay": false,
       "open_date": "2026-05-27 22:00"
+    },
+    {
+      "match": "Throttur v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 1184,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653020",
+      "market_id": "1.258624196",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 21:15"
     },
     {
       "match": "Grindavik v Afturelding",
@@ -229,6 +229,21 @@
       "open_date": "2026-05-27 21:15"
     },
     {
+      "match": "Vasco Da Gama v Barracas Central",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 192,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633608",
+      "market_id": "1.258477400",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Crystal Palace v Rayo Vallecano",
       "campionato": "UEFA Europa Conference League",
       "volume": 187,
@@ -242,21 +257,6 @@
       "market_id": "1.258442378",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:00"
-    },
-    {
-      "match": "Vasco Da Gama v Barracas Central",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 177,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633608",
-      "market_id": "1.258477400",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
@@ -579,7 +579,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2753,
+      "volume": 2707,
       "best_volume": 2759,
       "whale_max": 0,
       "entered": false
