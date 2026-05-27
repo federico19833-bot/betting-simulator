@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 21:21:46",
+  "last_update": "27/05/2026 21:22:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 973.79
   },
   "live_events": [
-    {
-      "match": "Deportivo La Coruna (W) v Espanyol (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 16071,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653187",
-      "market_id": "1.258627759",
-      "_is_inplay": true,
-      "open_date": "2026-05-27 21:00"
-    },
     {
       "match": "HK Kopavogur v Volsungur",
       "campionato": "Icelandic 1 Deild",
@@ -66,7 +51,7 @@
     {
       "match": "Cienciano v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1537,
+      "volume": 1513,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -81,7 +66,7 @@
     {
       "match": "Atletico MG v Puerto Cabello",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1275,
+      "volume": 1299,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -96,7 +81,7 @@
     {
       "match": "Libertad v Universidad de Venezuela",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1191,
+      "volume": 1185,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -154,6 +139,21 @@
       "open_date": "2026-05-27 21:15"
     },
     {
+      "match": "Caracas v Botafogo FR",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 871,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639827",
+      "market_id": "1.258615098",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Crystal Palace v Rayo Vallecano",
       "campionato": "UEFA Europa Conference League",
       "volume": 853,
@@ -201,7 +201,7 @@
     {
       "match": "Boyaca Chico v Llaneros FC",
       "campionato": "Colombian Cup",
-      "volume": 342,
+      "volume": 440,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -214,19 +214,19 @@
       "open_date": "2026-05-27 23:00"
     },
     {
-      "match": "Caracas v Botafogo FR",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 307,
-      "quota": 1.03,
+      "match": "Deportivo La Coruna (W) v Espanyol (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 381,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35639827",
-      "market_id": "1.258615098",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
+      "event_id": "35653187",
+      "market_id": "1.258627759",
+      "_is_inplay": true,
+      "open_date": "2026-05-27 21:00"
     },
     {
       "match": "Sportivo Italiano v San Martin de Burzaco",
@@ -246,8 +246,8 @@
     {
       "match": "Vasco Da Gama v Barracas Central",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 103,
-      "quota": 1.42,
+      "volume": 133,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -556,9 +556,9 @@
       "match": "Caracas v Botafogo FR",
       "campionato": "CONMEBOL Copa Sudamericana",
       "open_date": "2026-05-28 00:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 307,
+      "volume": 871,
       "best_volume": 2258,
       "whale_max": 0,
       "entered": false
@@ -582,7 +582,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1191,
+      "volume": 1185,
       "best_volume": 1206,
       "whale_max": 0,
       "entered": false
@@ -594,7 +594,7 @@
       "open_date": "2026-05-28 00:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 1537,
+      "volume": 1513,
       "best_volume": 2189,
       "whale_max": 0,
       "entered": false
@@ -606,7 +606,7 @@
       "open_date": "2026-05-27 23:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 342,
+      "volume": 440,
       "best_volume": 448,
       "whale_max": 0,
       "entered": false
