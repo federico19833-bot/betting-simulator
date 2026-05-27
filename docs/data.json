@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 10:36:42",
+  "last_update": "27/05/2026 10:37:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -36,7 +36,7 @@
     {
       "match": "Pocheon FC v Changwon City",
       "campionato": "South Korean K3/K4 Championship",
-      "volume": 1802,
+      "volume": 1801,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -152,6 +152,21 @@
       "market_id": "1.258627759",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:00"
+    },
+    {
+      "match": "Throttur v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 266,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653020",
+      "market_id": "1.258624196",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 21:15"
     },
     {
       "match": "Gyeongju Hydro & Nuclear Power v Jinju Citizen FC",
@@ -315,21 +330,6 @@
       "source": "Betfair",
       "event_id": "35653015",
       "market_id": "1.258624217",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 21:15"
-    },
-    {
-      "match": "Throttur v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 15,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653020",
-      "market_id": "1.258624196",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:15"
     }
@@ -594,7 +594,7 @@
       "open_date": "2026-05-27 11:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 1802,
+      "volume": 1801,
       "best_volume": 1802,
       "whale_max": 0,
       "entered": false
@@ -708,14 +708,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258626829",
-      "match": "Catania v Ascoli",
-      "campionato": "Italian Serie C",
-      "open_date": "2026-05-27 21:00",
+      "event_id": "bf_1.258624196",
+      "match": "Throttur v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-05-27 21:15",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 11247,
-      "best_volume": 11247,
+      "volume": 266,
+      "best_volume": 266,
       "whale_max": 0,
       "entered": false
     }
