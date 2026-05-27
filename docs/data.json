@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 20:51:36",
+  "last_update": "27/05/2026 20:52:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Argentino de Quilmes v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 17377,
+      "volume": 17389,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -36,8 +36,8 @@
     {
       "match": "Cienciano v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2137,
-      "quota": 1.05,
+      "volume": 2633,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -199,21 +199,6 @@
       "open_date": "2026-05-27 21:00"
     },
     {
-      "match": "Throttur v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 340,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653020",
-      "market_id": "1.258624196",
-      "_is_inplay": false,
-      "open_date": "2026-05-27 21:15"
-    },
-    {
       "match": "Aegir v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 250,
@@ -225,6 +210,21 @@
       "source": "Betfair",
       "event_id": "35653063",
       "market_id": "1.258624866",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 21:15"
+    },
+    {
+      "match": "Throttur v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 221,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653020",
+      "market_id": "1.258624196",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:15"
     },
@@ -244,6 +244,21 @@
       "open_date": "2026-05-27 21:00"
     },
     {
+      "match": "Vasco Da Gama v Barracas Central",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 107,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633608",
+      "market_id": "1.258477400",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 00:00"
+    },
+    {
       "match": "Deportivo La Coruna (W) v Espanyol (W)",
       "campionato": "Spanish Liga F",
       "volume": 102,
@@ -257,21 +272,6 @@
       "market_id": "1.258627759",
       "_is_inplay": false,
       "open_date": "2026-05-27 21:00"
-    },
-    {
-      "match": "Vasco Da Gama v Barracas Central",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 94,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633608",
-      "market_id": "1.258477400",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 00:00"
     },
     {
       "match": "Boyaca Chico v Llaneros FC",
@@ -577,9 +577,9 @@
       "match": "Cienciano v Juventud De Las Piedras",
       "campionato": "CONMEBOL Copa Sudamericana",
       "open_date": "2026-05-28 00:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 2137,
+      "volume": 2633,
       "best_volume": 2759,
       "whale_max": 0,
       "entered": false
