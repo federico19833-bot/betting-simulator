@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 11:06:46",
+  "last_update": "27/05/2026 11:06:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.1,
@@ -244,10 +244,25 @@
       "open_date": "2026-05-27 17:00"
     },
     {
+      "match": "Seoul City Amazones (W) v Incheon Hyundai Steel (",
+      "campionato": "South Korean WK League",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653279",
+      "market_id": "1.258646540",
+      "_is_inplay": false,
+      "open_date": "2026-05-27 12:00"
+    },
+    {
       "match": "Tallinna Kalev v Viimsi JK",
       "campionato": "Estonian Esiliiga",
       "volume": 15,
-      "quota": 1.06,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -613,7 +628,7 @@
       "match": "Tallinna Kalev v Viimsi JK",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-27 18:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
       "volume": 15,
       "best_volume": 15,
@@ -689,6 +704,30 @@
       "quota_iniziale": 1.09,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258646540",
+      "match": "Seoul City Amazones (W) v Incheon Hyundai Steel (",
+      "campionato": "South Korean WK League",
+      "open_date": "2026-05-27 12:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 15,
+      "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258626829",
+      "match": "Catania v Ascoli",
+      "campionato": "Italian Serie C",
+      "open_date": "2026-05-27 21:00",
+      "quota_attuale": 1.1,
+      "quota_iniziale": 1.1,
+      "volume": 8234,
+      "best_volume": 8234,
       "whale_max": 0,
       "entered": false
     }
