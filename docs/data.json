@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 13:26:20",
+  "last_update": "28/05/2026 13:26:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-29 00:00"
     },
     {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 726,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Wieczysta Krakow v Polonia Warszawa",
       "campionato": "Polish I Liga",
       "volume": 668,
@@ -107,21 +122,6 @@
       "market_id": "1.258605909",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
-    },
-    {
-      "match": "JJK v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 546,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653931",
-      "market_id": "1.258632355",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Ismaily v Pharco FC",
@@ -438,7 +438,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 546,
+      "volume": 726,
       "best_volume": 898,
       "whale_max": 0,
       "entered": false
