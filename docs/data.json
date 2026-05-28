@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 18:07:33",
+  "last_update": "28/05/2026 18:08:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "JK Welco Elekter v Nomme Kalju II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 3053,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654043",
+      "market_id": "1.258632858",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "Republic of Ireland v Qatar",
       "campionato": "Friendlies International",
       "volume": 2771,
@@ -36,8 +51,8 @@
     {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
-      "volume": 2109,
-      "quota": 1.1,
+      "volume": 1650,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,19 +64,19 @@
       "open_date": "2026-05-28 18:00"
     },
     {
-      "match": "JK Welco Elekter v Nomme Kalju II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 1937,
-      "quota": 1.14,
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1455,
+      "quota": 1.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35654043",
-      "market_id": "1.258632858",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
       "_is_inplay": true,
-      "open_date": "2026-05-28 18:00"
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Al Fahaheel FC v Al Salmiyah",
@@ -77,6 +92,21 @@
       "market_id": "1.258664579",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:20"
+    },
+    {
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1289,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635133",
+      "market_id": "1.258645483",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -124,51 +154,6 @@
       "open_date": "2026-05-28 17:30"
     },
     {
-      "match": "Levadia Tallinn II v FC Elva",
-      "campionato": "Estonian Esiliiga",
-      "volume": 274,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653463",
-      "market_id": "1.258629569",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 18:00"
-    },
-    {
-      "match": "SE Palmeiras v Junior FC Barranquilla",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 223,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635133",
-      "market_id": "1.258645483",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
-    },
-    {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 213,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 17:30"
-    },
-    {
       "match": "Assyriska FF v Vasalunds IF",
       "campionato": "Swedish Cup",
       "volume": 18,
@@ -212,6 +197,21 @@
       "market_id": "1.258674254",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
+    },
+    {
+      "match": "Levadia Tallinn II v FC Elva",
+      "campionato": "Estonian Esiliiga",
+      "volume": 2,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653463",
+      "market_id": "1.258629569",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 18:00"
     }
   ],
   "tracked_matches": [
@@ -498,8 +498,8 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 223,
-      "best_volume": 863,
+      "volume": 1289,
+      "best_volume": 1289,
       "whale_max": 0,
       "entered": false
     },
@@ -558,7 +558,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 274,
+      "volume": 2,
       "best_volume": 274,
       "whale_max": 0,
       "entered": false
