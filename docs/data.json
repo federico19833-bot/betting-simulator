@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 02:17:25",
+  "last_update": "28/05/2026 02:17:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Sport Recife v Fortaleza EC",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 3735,
+      "volume": 3692,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -60,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35633347",
       "market_id": "1.258482581",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 02:30"
+    },
+    {
+      "match": "Red Bull Bragantino v Carabobo FC",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 2006,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639840",
+      "market_id": "1.258498019",
       "_is_inplay": false,
       "open_date": "2026-05-28 02:30"
     },
@@ -137,21 +152,6 @@
       "market_id": "1.258674254",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
-    },
-    {
-      "match": "Red Bull Bragantino v Carabobo FC",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 947,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639840",
-      "market_id": "1.258498019",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 02:30"
     },
     {
       "match": "Petrojet v El Gounah",
@@ -257,6 +257,21 @@
       "market_id": "1.258617271",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
+    },
+    {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 147,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "FC Jazz v SalPa",
@@ -486,7 +501,7 @@
       "open_date": "2026-05-28 02:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 3735,
+      "volume": 3692,
       "best_volume": 4112,
       "whale_max": 0,
       "entered": false
@@ -498,8 +513,8 @@
       "open_date": "2026-05-28 02:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 947,
-      "best_volume": 947,
+      "volume": 2006,
+      "best_volume": 2006,
       "whale_max": 0,
       "entered": false
     },
@@ -620,6 +635,18 @@
       "quota_iniziale": 1.07,
       "volume": 288,
       "best_volume": 288,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258632355",
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "open_date": "2026-05-28 17:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 147,
+      "best_volume": 147,
       "whale_max": 0,
       "entered": false
     }
