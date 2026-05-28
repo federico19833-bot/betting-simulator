@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 18:43:41",
+  "last_update": "28/05/2026 18:44:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Assyriska FF v Vasalunds IF",
       "campionato": "Swedish Cup",
-      "volume": 3312,
-      "quota": 1.22,
+      "volume": 2700,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,8 +51,8 @@
     {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
-      "volume": 2364,
-      "quota": 1.27,
+      "volume": 2060,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -77,21 +77,6 @@
       "market_id": "1.258674254",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
-    },
-    {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1213,
-      "quota": 1.48,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -126,7 +111,7 @@
     {
       "match": "Chrobry Glogow v LKS Lodz",
       "campionato": "Polish I Liga",
-      "volume": 446,
+      "volume": 448,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -135,6 +120,21 @@
       "source": "Betfair",
       "event_id": "35648369",
       "market_id": "1.258608402",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 64,
+      "quota": 1.51,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
       "_is_inplay": true,
       "open_date": "2026-05-28 17:30"
     },
