@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 02:47:39",
+  "last_update": "28/05/2026 02:48:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,17 +19,17 @@
   },
   "live_events": [
     {
-      "match": "Corinthians v CA Platense",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 4560,
-      "quota": 1.11,
+      "match": "Sport Recife v Fortaleza EC",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 3199,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35633347",
-      "market_id": "1.258482581",
+      "event_id": "35636154",
+      "market_id": "1.258576514",
       "_is_inplay": true,
       "open_date": "2026-05-28 02:30"
     },
@@ -49,9 +49,39 @@
       "open_date": "2026-05-28 18:20"
     },
     {
+      "match": "Red Bull Bragantino v Carabobo FC",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1530,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639840",
+      "market_id": "1.258498019",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 02:30"
+    },
+    {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1284,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Bolivar v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1212,
+      "volume": 1251,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -64,8 +94,8 @@
       "open_date": "2026-05-28 02:30"
     },
     {
-      "match": "ABC RN v EC Vitoria Salvador",
-      "campionato": "Brazilian Copa do Nordeste",
+      "match": "Corinthians v CA Platense",
+      "campionato": "CONMEBOL Copa Libertadores",
       "volume": 1177,
       "quota": 1.13,
       "in_range": false,
@@ -73,23 +103,23 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35636155",
-      "market_id": "1.258576531",
+      "event_id": "35633347",
+      "market_id": "1.258482581",
       "_is_inplay": true,
       "open_date": "2026-05-28 02:30"
     },
     {
-      "match": "Red Bull Bragantino v Carabobo FC",
+      "match": "River Plate v Blooming Santa Cruz",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1132,
-      "quota": 1.12,
+      "volume": 1134,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35639840",
-      "market_id": "1.258498019",
+      "event_id": "35639867",
+      "market_id": "1.258615478",
       "_is_inplay": true,
       "open_date": "2026-05-28 02:30"
     },
@@ -139,21 +169,6 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "JJK v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 640,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653931",
-      "market_id": "1.258632355",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
-    },
-    {
       "match": "Septemvri v FC Yantra",
       "campionato": "Bulgarian A League",
       "volume": 481,
@@ -197,21 +212,6 @@
       "market_id": "1.258607306",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "River Plate v Blooming Santa Cruz",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 215,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639867",
-      "market_id": "1.258615478",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 02:30"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -501,18 +501,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258576531",
-      "match": "ABC RN v EC Vitoria Salvador",
-      "campionato": "Brazilian Copa do Nordeste",
-      "open_date": "2026-05-28 02:30",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.09,
-      "volume": 437,
-      "best_volume": 5081,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258607327",
       "match": "Ismaily v Pharco FC",
       "campionato": "Egyptian Premier",
@@ -627,8 +615,20 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.01,
-      "volume": 640,
+      "volume": 1284,
       "best_volume": 3118,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258576514",
+      "match": "Sport Recife v Fortaleza EC",
+      "campionato": "Brazilian Copa do Nordeste",
+      "open_date": "2026-05-28 02:30",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 3199,
+      "best_volume": 3199,
       "whale_max": 0,
       "entered": false
     }
