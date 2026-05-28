@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 17:45:29",
+  "last_update": "28/05/2026 17:46:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
-      "volume": 3153,
+      "volume": 2772,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-28 20:30"
     },
     {
+      "match": "JK Welco Elekter v Nomme Kalju II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 1571,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654043",
+      "market_id": "1.258632858",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "Al Fahaheel FC v Al Salmiyah",
       "campionato": "Kuwaiti Premier League",
       "volume": 1326,
@@ -77,21 +92,6 @@
       "market_id": "1.258664579",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:20"
-    },
-    {
-      "match": "JK Welco Elekter v Nomme Kalju II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 1315,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654043",
-      "market_id": "1.258632858",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 18:00"
     },
     {
       "match": "FC Tallinn v FC Maardu",
@@ -381,7 +381,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 1315,
+      "volume": 1571,
       "best_volume": 4407,
       "whale_max": 0,
       "entered": false
