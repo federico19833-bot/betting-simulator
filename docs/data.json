@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 03:38:23",
+  "last_update": "28/05/2026 03:38:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Red Bull Bragantino v Carabobo FC",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 1880,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639840",
-      "market_id": "1.258498019",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 02:30"
-    },
-    {
       "match": "Al Fahaheel FC v Al Salmiyah",
       "campionato": "Kuwaiti Premier League",
       "volume": 1561,
@@ -47,6 +32,21 @@
       "market_id": "1.258664579",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:20"
+    },
+    {
+      "match": "Red Bull Bragantino v Carabobo FC",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1298,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639840",
+      "market_id": "1.258498019",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 02:30"
     },
     {
       "match": "River Plate v Blooming Santa Cruz",
@@ -171,8 +171,8 @@
     {
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
-      "volume": 198,
-      "quota": 1.2,
+      "volume": 182,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
