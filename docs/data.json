@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 15:42:19",
+  "last_update": "28/05/2026 15:42:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-28 20:30"
     },
     {
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "volume": 831,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653464",
+      "market_id": "1.258629548",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "Cerro Porteno v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 767,
@@ -122,6 +137,21 @@
       "market_id": "1.258645504",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 744,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "JK Welco Elekter v Nomme Kalju II",
@@ -139,21 +169,6 @@
       "open_date": "2026-05-28 18:00"
     },
     {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 600,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
-    },
-    {
       "match": "Ismaily v Pharco FC",
       "campionato": "Egyptian Premier",
       "volume": 224,
@@ -165,21 +180,6 @@
       "source": "Betfair",
       "event_id": "35644407",
       "market_id": "1.258607327",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "El Geish v Wadi Degla",
-      "campionato": "Egyptian Premier",
-      "volume": 20,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640051",
-      "market_id": "1.258607306",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
     },
@@ -212,6 +212,21 @@
       "market_id": "1.258632837",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:45"
+    },
+    {
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
+      "volume": 3,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640051",
+      "market_id": "1.258607306",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
     }
   ],
   "tracked_matches": [
@@ -548,6 +563,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258629548",
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "open_date": "2026-05-28 18:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 831,
+      "best_volume": 831,
       "whale_max": 0,
       "entered": false
     }
