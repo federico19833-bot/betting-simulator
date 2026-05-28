@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 11:02:08",
+  "last_update": "28/05/2026 11:02:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
-      "volume": 485,
+      "volume": 486,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -137,6 +137,21 @@
       "market_id": "1.258632355",
       "_is_inplay": false,
       "open_date": "2026-05-28 17:30"
+    },
+    {
+      "match": "Ismaily v Pharco FC",
+      "campionato": "Egyptian Premier",
+      "volume": 392,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644407",
+      "market_id": "1.258607327",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
     },
     {
       "match": "El Geish v Wadi Degla",
@@ -156,7 +171,7 @@
     {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
-      "volume": 219,
+      "volume": 204,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -182,21 +197,6 @@
       "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
-    },
-    {
-      "match": "Ismaily v Pharco FC",
-      "campionato": "Egyptian Premier",
-      "volume": 15,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644407",
-      "market_id": "1.258607327",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
     }
   ],
   "tracked_matches": [
@@ -411,7 +411,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 485,
+      "volume": 486,
       "best_volume": 1741,
       "whale_max": 0,
       "entered": false
@@ -435,7 +435,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 219,
+      "volume": 204,
       "best_volume": 250,
       "whale_max": 0,
       "entered": false
@@ -493,10 +493,10 @@
       "match": "Ismaily v Pharco FC",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-28 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 392,
+      "best_volume": 392,
       "whale_max": 0,
       "entered": false
     },
