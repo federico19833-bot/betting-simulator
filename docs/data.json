@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 16:42:21",
+  "last_update": "28/05/2026 16:42:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
+      "volume": 3915,
+      "quota": 1.35,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640051",
+      "market_id": "1.258607306",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 16:00"
+    },
+    {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
       "volume": 3000,
@@ -32,21 +47,6 @@
       "market_id": "1.258629548",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:00"
-    },
-    {
-      "match": "JJK v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 2795,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653931",
-      "market_id": "1.258632355",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "JK Welco Elekter v Nomme Kalju II",
@@ -64,21 +64,6 @@
       "open_date": "2026-05-28 18:00"
     },
     {
-      "match": "El Geish v Wadi Degla",
-      "campionato": "Egyptian Premier",
-      "volume": 2365,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640051",
-      "market_id": "1.258607306",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 16:00"
-    },
-    {
       "match": "Republic of Ireland v Qatar",
       "campionato": "Friendlies International",
       "volume": 2101,
@@ -92,6 +77,21 @@
       "market_id": "1.258632837",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:45"
+    },
+    {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1746,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Al Fahaheel FC v Al Salmiyah",
@@ -111,8 +111,8 @@
     {
       "match": "Wieczysta Krakow v Polonia Warszawa",
       "campionato": "Polish I Liga",
-      "volume": 1049,
-      "quota": 1.08,
+      "volume": 1152,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-29 00:00"
     },
     {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 349,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
-    },
-    {
       "match": "SE Palmeiras v Junior FC Barranquilla",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 226,
@@ -182,6 +167,21 @@
       "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 206,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Fiorentina U20 v Parma U20",
@@ -409,9 +409,9 @@
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-28 17:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 2795,
+      "volume": 1746,
       "best_volume": 3526,
       "whale_max": 0,
       "entered": false
@@ -445,9 +445,9 @@
       "match": "Wieczysta Krakow v Polonia Warszawa",
       "campionato": "Polish I Liga",
       "open_date": "2026-05-28 20:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1049,
+      "volume": 1152,
       "best_volume": 2016,
       "whale_max": 0,
       "entered": false
