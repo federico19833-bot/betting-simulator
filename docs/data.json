@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 02:51:15",
+  "last_update": "28/05/2026 02:51:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,19 +19,19 @@
   },
   "live_events": [
     {
-      "match": "River Plate v Blooming Santa Cruz",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 2519,
-      "quota": 1.14,
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2373,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35639867",
-      "market_id": "1.258615478",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 02:30"
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Al Fahaheel FC v Al Salmiyah",
@@ -47,21 +47,6 @@
       "market_id": "1.258664579",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:20"
-    },
-    {
-      "match": "JJK v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1265,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653931",
-      "market_id": "1.258632355",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Corinthians v CA Platense",
@@ -141,7 +126,7 @@
     {
       "match": "Red Bull Bragantino v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 326,
+      "volume": 334,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -459,18 +444,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258615478",
-      "match": "River Plate v Blooming Santa Cruz",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "open_date": "2026-05-28 02:30",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.06,
-      "volume": 2532,
-      "best_volume": 3846,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258607327",
       "match": "Ismaily v Pharco FC",
       "campionato": "Egyptian Premier",
@@ -583,9 +556,9 @@
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-28 17:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 1265,
+      "volume": 2373,
       "best_volume": 3118,
       "whale_max": 0,
       "entered": false
