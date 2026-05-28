@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 02:07:39",
+  "last_update": "28/05/2026 02:08:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 989.94
   },
   "live_events": [
-    {
-      "match": "Bolivar v Independiente Rivadavia",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 4551,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639842",
-      "market_id": "1.258498522",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 02:30"
-    },
     {
       "match": "Corinthians v CA Platense",
       "campionato": "CONMEBOL Copa Libertadores",
@@ -60,6 +45,21 @@
       "source": "Betfair",
       "event_id": "35636154",
       "market_id": "1.258576514",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 02:30"
+    },
+    {
+      "match": "Bolivar v Independiente Rivadavia",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 2252,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639842",
+      "market_id": "1.258498522",
       "_is_inplay": false,
       "open_date": "2026-05-28 02:30"
     },
@@ -474,7 +474,7 @@
       "open_date": "2026-05-28 02:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 4551,
+      "volume": 2252,
       "best_volume": 4552,
       "whale_max": 0,
       "entered": false
