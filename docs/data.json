@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 16:28:00",
+  "last_update": "28/05/2026 16:28:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "El Geish v Wadi Degla",
       "campionato": "Egyptian Premier",
-      "volume": 7477,
-      "quota": 1.21,
+      "volume": 8036,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-28 20:30"
     },
     {
+      "match": "Petrojet v El Gounah",
+      "campionato": "Egyptian Premier",
+      "volume": 1079,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644396",
+      "market_id": "1.258603129",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 16:00"
+    },
+    {
       "match": "Cerro Porteno v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 768,
@@ -139,19 +154,19 @@
       "open_date": "2026-05-29 00:00"
     },
     {
-      "match": "Petrojet v El Gounah",
-      "campionato": "Egyptian Premier",
-      "volume": 590,
-      "quota": 1.18,
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 226,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35644396",
-      "market_id": "1.258603129",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 16:00"
+      "event_id": "35635133",
+      "market_id": "1.258645483",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "Septemvri v FC Yantra",
@@ -167,21 +182,6 @@
       "market_id": "1.258617271",
       "_is_inplay": true,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "SE Palmeiras v Junior FC Barranquilla",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 211,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635133",
-      "market_id": "1.258645483",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "FC Jazz v SalPa",
@@ -474,7 +474,7 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 211,
+      "volume": 226,
       "best_volume": 1715,
       "whale_max": 0,
       "entered": false
