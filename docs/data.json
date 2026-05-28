@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 06:11:03",
+  "last_update": "28/05/2026 06:11:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-28 17:30"
     },
     {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 214,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Ismaily v Pharco FC",
       "campionato": "Egyptian Premier",
       "volume": 150,
@@ -137,21 +152,6 @@
       "market_id": "1.258607327",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 74,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "SE Palmeiras v Junior FC Barranquilla",
@@ -421,9 +421,9 @@
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-28 17:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 74,
+      "volume": 214,
       "best_volume": 288,
       "whale_max": 0,
       "entered": false
