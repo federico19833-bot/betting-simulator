@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 16:44:55",
+  "last_update": "28/05/2026 16:45:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1006.09
   },
   "live_events": [
-    {
-      "match": "El Geish v Wadi Degla",
-      "campionato": "Egyptian Premier",
-      "volume": 3859,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640051",
-      "market_id": "1.258607306",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 16:00"
-    },
     {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
@@ -79,7 +64,7 @@
       "open_date": "2026-05-28 20:45"
     },
     {
-      "match": "JJK v OLS",
+      "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
       "volume": 1744,
       "quota": 1.09,
@@ -88,8 +73,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35653931",
-      "market_id": "1.258632355",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
       "_is_inplay": false,
       "open_date": "2026-05-28 17:30"
     },
@@ -124,8 +109,8 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "Septemvri v FC Yantra",
-      "campionato": "Bulgarian A League",
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
       "volume": 672,
       "quota": 1.03,
       "in_range": false,
@@ -133,8 +118,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35652195",
-      "market_id": "1.258617271",
+      "event_id": "35640051",
+      "market_id": "1.258607306",
       "_is_inplay": true,
       "open_date": "2026-05-28 16:00"
     },
@@ -167,6 +152,21 @@
       "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 67,
+      "quota": 1.34,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Fiorentina U20 v Parma U20",
@@ -474,18 +474,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258617271",
-      "match": "Septemvri v FC Yantra",
-      "campionato": "Bulgarian A League",
-      "open_date": "2026-05-28 16:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.04,
-      "volume": 672,
-      "best_volume": 672,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258664579",
       "match": "Al Fahaheel FC v Al Salmiyah",
       "campionato": "Kuwaiti Premier League",
@@ -506,6 +494,30 @@
       "quota_iniziale": 1.09,
       "volume": 393,
       "best_volume": 768,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258607306",
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
+      "open_date": "2026-05-28 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 672,
+      "best_volume": 672,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258632376",
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "open_date": "2026-05-28 17:30",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 1744,
+      "best_volume": 1744,
       "whale_max": 0,
       "entered": false
     }
