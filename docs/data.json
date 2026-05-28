@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 12:22:11",
+  "last_update": "28/05/2026 12:22:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
-      "volume": 1137,
+      "volume": 1020,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258632355",
       "_is_inplay": false,
       "open_date": "2026-05-28 17:30"
-    },
-    {
-      "match": "SE Palmeiras v Junior FC Barranquilla",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 857,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635133",
-      "market_id": "1.258645483",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "Petrojet v El Gounah",
@@ -169,6 +154,21 @@
       "open_date": "2026-05-28 17:30"
     },
     {
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 141,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635133",
+      "market_id": "1.258645483",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
+    },
+    {
       "match": "El Geish v Wadi Degla",
       "campionato": "Egyptian Premier",
       "volume": 140,
@@ -202,7 +202,7 @@
       "match": "Fiorentina U20 v Parma U20",
       "campionato": "Italian Campionato Primavera",
       "volume": 15,
-      "quota": 1.04,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -486,7 +486,7 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 857,
+      "volume": 141,
       "best_volume": 858,
       "whale_max": 0,
       "entered": false
@@ -510,7 +510,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 1137,
+      "volume": 1020,
       "best_volume": 1137,
       "whale_max": 0,
       "entered": false
@@ -532,7 +532,7 @@
       "match": "Fiorentina U20 v Parma U20",
       "campionato": "Italian Campionato Primavera",
       "open_date": "2026-05-28 20:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
       "volume": 15,
       "best_volume": 15,
