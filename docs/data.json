@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 17:01:24",
+  "last_update": "28/05/2026 17:01:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
-      "volume": 1695,
+      "volume": 1688,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Al Fahaheel FC v Al Salmiyah",
       "campionato": "Kuwaiti Premier League",
-      "volume": 1326,
+      "volume": 1325,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -107,21 +107,6 @@
       "market_id": "1.258664579",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:20"
-    },
-    {
-      "match": "SE Palmeiras v Junior FC Barranquilla",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1208,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635133",
-      "market_id": "1.258645483",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -135,6 +120,21 @@
       "source": "Betfair",
       "event_id": "35635121",
       "market_id": "1.258645504",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 226,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635133",
+      "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
     },
@@ -417,7 +417,7 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1208,
+      "volume": 226,
       "best_volume": 1715,
       "whale_max": 0,
       "entered": false
@@ -453,7 +453,7 @@
       "open_date": "2026-05-28 18:20",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1326,
+      "volume": 1325,
       "best_volume": 1326,
       "whale_max": 0,
       "entered": false
@@ -477,7 +477,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1695,
+      "volume": 1688,
       "best_volume": 2648,
       "whale_max": 0,
       "entered": false
