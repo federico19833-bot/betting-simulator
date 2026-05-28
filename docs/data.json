@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 13:17:37",
+  "last_update": "28/05/2026 13:18:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-28 18:20"
     },
     {
-      "match": "Republic of Ireland v Qatar",
-      "campionato": "Friendlies International",
-      "volume": 1208,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654041",
-      "market_id": "1.258632837",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 20:45"
-    },
-    {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
       "volume": 1201,
@@ -111,7 +96,7 @@
     {
       "match": "Wieczysta Krakow v Polonia Warszawa",
       "campionato": "Polish I Liga",
-      "volume": 668,
+      "volume": 683,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -212,6 +197,21 @@
       "market_id": "1.258674254",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
+    },
+    {
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
+      "volume": 6,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640051",
+      "market_id": "1.258607306",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
     }
   ],
   "tracked_matches": [
@@ -510,7 +510,7 @@
       "open_date": "2026-05-28 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 668,
+      "volume": 683,
       "best_volume": 683,
       "whale_max": 0,
       "entered": false
@@ -536,18 +536,6 @@
       "quota_iniziale": 1.06,
       "volume": 920,
       "best_volume": 920,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258632837",
-      "match": "Republic of Ireland v Qatar",
-      "campionato": "Friendlies International",
-      "open_date": "2026-05-28 20:45",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 1208,
-      "best_volume": 1208,
       "whale_max": 0,
       "entered": false
     }
