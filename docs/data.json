@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 18:09:05",
+  "last_update": "28/05/2026 18:09:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 3327,
+      "quota": 1.26,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Republic of Ireland v Qatar",
       "campionato": "Friendlies International",
       "volume": 2771,
@@ -36,8 +51,8 @@
     {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
-      "volume": 2341,
-      "quota": 1.11,
+      "volume": 2109,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,7 +81,7 @@
     {
       "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
-      "volume": 944,
+      "volume": 941,
       "quota": 1.16,
       "in_range": false,
       "monitored": false,
@@ -81,7 +96,7 @@
     {
       "match": "Cerro Porteno v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 863,
+      "volume": 870,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -154,24 +169,9 @@
       "open_date": "2026-05-29 00:00"
     },
     {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 165,
-      "quota": 1.26,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 17:30"
-    },
-    {
       "match": "Assyriska FF v Vasalunds IF",
       "campionato": "Swedish Cup",
-      "volume": 117,
+      "volume": 18,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -510,7 +510,7 @@
       "open_date": "2026-05-28 19:30",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 117,
+      "volume": 18,
       "best_volume": 1326,
       "whale_max": 0,
       "entered": false
@@ -534,7 +534,7 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 863,
+      "volume": 870,
       "best_volume": 870,
       "whale_max": 0,
       "entered": false
