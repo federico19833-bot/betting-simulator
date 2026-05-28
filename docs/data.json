@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 06:03:22",
+  "last_update": "28/05/2026 06:03:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,8 +51,8 @@
     {
       "match": "Petrojet v El Gounah",
       "campionato": "Egyptian Premier",
-      "volume": 1192,
-      "quota": 1.13,
+      "volume": 1090,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -135,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35640051",
       "market_id": "1.258607306",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
+    },
+    {
+      "match": "Ismaily v Pharco FC",
+      "campionato": "Egyptian Premier",
+      "volume": 310,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644407",
+      "market_id": "1.258607327",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
     },
@@ -545,6 +560,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258607327",
+      "match": "Ismaily v Pharco FC",
+      "campionato": "Egyptian Premier",
+      "open_date": "2026-05-28 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 310,
+      "best_volume": 310,
       "whale_max": 0,
       "entered": false
     }
