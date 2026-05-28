@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 17:35:14",
+  "last_update": "28/05/2026 17:35:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "JK Welco Elekter v Nomme Kalju II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 4169,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654043",
-      "market_id": "1.258632858",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 18:00"
-    },
-    {
       "match": "Republic of Ireland v Qatar",
       "campionato": "Friendlies International",
       "volume": 2733,
@@ -47,6 +32,21 @@
       "market_id": "1.258632837",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:45"
+    },
+    {
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "volume": 1347,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653464",
+      "market_id": "1.258629548",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
     },
     {
       "match": "Al Fahaheel FC v Al Salmiyah",
@@ -79,17 +79,17 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "FC Tallinn v FC Maardu",
+      "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
-      "volume": 782,
-      "quota": 1.02,
+      "volume": 865,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35653464",
-      "market_id": "1.258629548",
+      "event_id": "35654043",
+      "market_id": "1.258632858",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:00"
     },
@@ -396,7 +396,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 4169,
+      "volume": 865,
       "best_volume": 4169,
       "whale_max": 0,
       "entered": false
@@ -432,7 +432,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 782,
+      "volume": 1347,
       "best_volume": 4456,
       "whale_max": 0,
       "entered": false
