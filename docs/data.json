@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 05:06:30",
+  "last_update": "28/05/2026 05:07:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -90,6 +90,21 @@
       "source": "Betfair",
       "event_id": "35640051",
       "market_id": "1.258607306",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
+    },
+    {
+      "match": "Ismaily v Pharco FC",
+      "campionato": "Egyptian Premier",
+      "volume": 307,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644407",
+      "market_id": "1.258607327",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
     },
@@ -464,6 +479,18 @@
       "quota_iniziale": 1.06,
       "volume": 260,
       "best_volume": 260,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258607327",
+      "match": "Ismaily v Pharco FC",
+      "campionato": "Egyptian Premier",
+      "open_date": "2026-05-28 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 307,
+      "best_volume": 307,
       "whale_max": 0,
       "entered": false
     }
