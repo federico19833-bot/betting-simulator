@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 13:53:31",
+  "last_update": "28/05/2026 13:54:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-28 18:20"
     },
     {
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "volume": 1208,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653464",
+      "market_id": "1.258629548",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "Wieczysta Krakow v Polonia Warszawa",
       "campionato": "Polish I Liga",
       "volume": 1144,
@@ -96,7 +111,7 @@
     {
       "match": "Cerro Porteno v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 578,
+      "volume": 780,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -522,7 +537,7 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 578,
+      "volume": 780,
       "best_volume": 920,
       "whale_max": 0,
       "entered": false
@@ -536,6 +551,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258629548",
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "open_date": "2026-05-28 18:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 1208,
+      "best_volume": 1208,
       "whale_max": 0,
       "entered": false
     }
