@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 12:04:40",
+  "last_update": "28/05/2026 12:05:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-28 17:30"
     },
     {
+      "match": "JK Welco Elekter v Nomme Kalju II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 182,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654043",
+      "market_id": "1.258632858",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "El Geish v Wadi Degla",
       "campionato": "Egyptian Premier",
       "volume": 15,
@@ -182,21 +197,6 @@
       "market_id": "1.258607306",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "JK Welco Elekter v Nomme Kalju II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654043",
-      "market_id": "1.258632858",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 18:00"
     }
   ],
   "tracked_matches": [
@@ -505,9 +505,9 @@
       "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-28 18:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 15,
+      "volume": 182,
       "best_volume": 372,
       "whale_max": 0,
       "entered": false
