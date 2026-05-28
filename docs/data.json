@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 17:38:19",
+  "last_update": "28/05/2026 17:38:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,10 +34,25 @@
       "open_date": "2026-05-28 20:45"
     },
     {
+      "match": "JK Welco Elekter v Nomme Kalju II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 1892,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654043",
+      "market_id": "1.258632858",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
-      "volume": 2519,
-      "quota": 1.11,
+      "volume": 1891,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -77,21 +92,6 @@
       "market_id": "1.258664579",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:20"
-    },
-    {
-      "match": "JK Welco Elekter v Nomme Kalju II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 762,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654043",
-      "market_id": "1.258632858",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 18:00"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -394,9 +394,9 @@
       "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-28 18:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 762,
+      "volume": 1892,
       "best_volume": 4407,
       "whale_max": 0,
       "entered": false
