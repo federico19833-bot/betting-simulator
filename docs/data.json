@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 15:58:14",
+  "last_update": "28/05/2026 15:58:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,8 +81,8 @@
     {
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
-      "volume": 1560,
-      "quota": 1.07,
+      "volume": 1750,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-29 00:00"
     },
     {
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
+      "volume": 726,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640051",
+      "market_id": "1.258607306",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
+    },
+    {
       "match": "SE Palmeiras v Junior FC Barranquilla",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 592,
@@ -171,7 +186,7 @@
     {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
-      "volume": 173,
+      "volume": 169,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -182,21 +197,6 @@
       "market_id": "1.258632376",
       "_is_inplay": false,
       "open_date": "2026-05-28 17:30"
-    },
-    {
-      "match": "El Geish v Wadi Degla",
-      "campionato": "Egyptian Premier",
-      "volume": 119,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640051",
-      "market_id": "1.258607306",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
     },
     {
       "match": "Fiorentina U20 v Parma U20",
@@ -451,10 +451,10 @@
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-28 17:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1560,
-      "best_volume": 1560,
+      "volume": 1750,
+      "best_volume": 1750,
       "whale_max": 0,
       "entered": false
     },
