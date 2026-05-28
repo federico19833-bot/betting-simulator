@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 09:44:44",
+  "last_update": "28/05/2026 09:45:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1006.09
   },
   "live_events": [
-    {
-      "match": "Al Fahaheel FC v Al Salmiyah",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 1974,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655462",
-      "market_id": "1.258664579",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 18:20"
-    },
     {
       "match": "Republic of Ireland v Qatar",
       "campionato": "Friendlies International",
@@ -197,6 +182,21 @@
       "market_id": "1.258632858",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:00"
+    },
+    {
+      "match": "Al Fahaheel FC v Al Salmiyah",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 15,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655462",
+      "market_id": "1.258664579",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:20"
     }
   ],
   "tracked_matches": [
@@ -445,9 +445,9 @@
       "match": "Al Fahaheel FC v Al Salmiyah",
       "campionato": "Kuwaiti Premier League",
       "open_date": "2026-05-28 18:20",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1974,
+      "volume": 15,
       "best_volume": 1974,
       "whale_max": 0,
       "entered": false
