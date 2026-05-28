@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 06:27:57",
+  "last_update": "28/05/2026 06:28:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -141,7 +141,7 @@
     {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
-      "volume": 143,
+      "volume": 128,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -167,6 +167,21 @@
       "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "volume": 15,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653464",
+      "market_id": "1.258629548",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
     },
     {
       "match": "JK Welco Elekter v Nomme Kalju II",
@@ -408,7 +423,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 143,
+      "volume": 128,
       "best_volume": 315,
       "whale_max": 0,
       "entered": false
@@ -518,6 +533,18 @@
       "quota_iniziale": 1.03,
       "volume": 150,
       "best_volume": 310,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258629548",
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "open_date": "2026-05-28 18:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 15,
+      "best_volume": 15,
       "whale_max": 0,
       "entered": false
     }
