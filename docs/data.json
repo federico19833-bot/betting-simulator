@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 19:09:18",
+  "last_update": "28/05/2026 19:09:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,24 +49,9 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "FC Tallinn v FC Maardu",
-      "campionato": "Estonian Esiliiga",
-      "volume": 1093,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653464",
-      "market_id": "1.258629548",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 18:00"
-    },
-    {
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
-      "volume": 932,
+      "volume": 928,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -109,9 +94,24 @@
       "open_date": "2026-05-28 20:45"
     },
     {
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "volume": 393,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653464",
+      "market_id": "1.258629548",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "Assyriska FF v Vasalunds IF",
       "campionato": "Swedish Cup",
-      "volume": 56,
+      "volume": 52,
       "quota": 2.0,
       "in_range": false,
       "monitored": false,
@@ -411,7 +411,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 932,
+      "volume": 928,
       "best_volume": 932,
       "whale_max": 0,
       "entered": false
