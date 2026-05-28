@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 11:08:17",
+  "last_update": "28/05/2026 11:08:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-28 20:45"
     },
     {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 996,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
       "volume": 936,
@@ -124,21 +139,6 @@
       "open_date": "2026-05-29 00:00"
     },
     {
-      "match": "JJK v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 486,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653931",
-      "market_id": "1.258632355",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
-    },
-    {
       "match": "El Geish v Wadi Degla",
       "campionato": "Egyptian Premier",
       "volume": 359,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-28 17:30"
     },
     {
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 200,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635133",
+      "market_id": "1.258645483",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
+    },
+    {
       "match": "Ismaily v Pharco FC",
       "campionato": "Egyptian Premier",
       "volume": 88,
@@ -182,21 +197,6 @@
       "market_id": "1.258607327",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "SE Palmeiras v Junior FC Barranquilla",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 75,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635133",
-      "market_id": "1.258645483",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
     }
   ],
   "tracked_matches": [
@@ -411,7 +411,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 486,
+      "volume": 996,
       "best_volume": 1741,
       "whale_max": 0,
       "entered": false
@@ -505,9 +505,9 @@
       "match": "SE Palmeiras v Junior FC Barranquilla",
       "campionato": "CONMEBOL Copa Libertadores",
       "open_date": "2026-05-29 00:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 75,
+      "volume": 200,
       "best_volume": 225,
       "whale_max": 0,
       "entered": false
