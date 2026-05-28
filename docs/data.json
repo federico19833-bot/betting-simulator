@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 03:18:55",
+  "last_update": "28/05/2026 03:19:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Bolivar v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 2016,
-      "quota": 1.17,
+      "volume": 1658,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-28 20:30"
     },
     {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 498,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Septemvri v FC Yantra",
       "campionato": "Bulgarian A League",
       "volume": 481,
@@ -122,21 +137,6 @@
       "market_id": "1.258617271",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "Red Bull Bragantino v Carabobo FC",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 471,
-      "quota": 1.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639840",
-      "market_id": "1.258498019",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 02:30"
     },
     {
       "match": "Petrojet v El Gounah",
@@ -212,6 +212,21 @@
       "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "Red Bull Bragantino v Carabobo FC",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 121,
+      "quota": 1.3,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639840",
+      "market_id": "1.258498019",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 02:30"
     }
   ],
   "tracked_matches": [
