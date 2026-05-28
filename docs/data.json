@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 20:10:48",
+  "last_update": "28/05/2026 20:11:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,9 +49,24 @@
       "open_date": "2026-05-28 20:30"
     },
     {
+      "match": "Cerro Porteno v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1078,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635121",
+      "market_id": "1.258645504",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
+    },
+    {
       "match": "Fiorentina U20 v Parma U20",
       "campionato": "Italian Campionato Primavera",
-      "volume": 738,
+      "volume": 759,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -62,21 +77,6 @@
       "market_id": "1.258674254",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
-    },
-    {
-      "match": "Cerro Porteno v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 670,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635121",
-      "market_id": "1.258645504",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "Republic of Ireland v Qatar",
@@ -316,10 +316,10 @@
       "match": "Cerro Porteno v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "open_date": "2026-05-29 00:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 670,
-      "best_volume": 1068,
+      "volume": 1078,
+      "best_volume": 1078,
       "whale_max": 0,
       "entered": false
     },
@@ -354,7 +354,7 @@
       "open_date": "2026-05-28 20:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 738,
+      "volume": 759,
       "best_volume": 887,
       "whale_max": 0,
       "entered": false
