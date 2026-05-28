@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 13:40:42",
+  "last_update": "28/05/2026 13:41:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "Cerro Porteno v Sporting Cristal",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 840,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635121",
-      "market_id": "1.258645504",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
-    },
-    {
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
       "volume": 758,
@@ -122,6 +107,21 @@
       "market_id": "1.258632355",
       "_is_inplay": false,
       "open_date": "2026-05-28 17:30"
+    },
+    {
+      "match": "Cerro Porteno v Sporting Cristal",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 352,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635121",
+      "market_id": "1.258645504",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "Ismaily v Pharco FC",
@@ -152,6 +152,21 @@
       "market_id": "1.258632376",
       "_is_inplay": false,
       "open_date": "2026-05-28 17:30"
+    },
+    {
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
+      "volume": 191,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640051",
+      "market_id": "1.258607306",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
     },
     {
       "match": "SE Palmeiras v Junior FC Barranquilla",
@@ -212,21 +227,6 @@
       "market_id": "1.258632837",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:45"
-    },
-    {
-      "match": "El Geish v Wadi Degla",
-      "campionato": "Egyptian Premier",
-      "volume": 4,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640051",
-      "market_id": "1.258607306",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
     }
   ],
   "tracked_matches": [
@@ -549,7 +549,7 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 840,
+      "volume": 352,
       "best_volume": 920,
       "whale_max": 0,
       "entered": false
