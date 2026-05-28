@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 09:39:06",
+  "last_update": "28/05/2026 09:39:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1006.09
   },
   "live_events": [
-    {
-      "match": "JJK v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1741,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653931",
-      "market_id": "1.258632355",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
-    },
     {
       "match": "Al Fahaheel FC v Al Salmiyah",
       "campionato": "Kuwaiti Premier League",
@@ -137,6 +122,21 @@
       "market_id": "1.258607306",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
+    },
+    {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 246,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "SE Palmeiras v Junior FC Barranquilla",
@@ -409,9 +409,9 @@
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-28 17:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 1741,
+      "volume": 246,
       "best_volume": 1741,
       "whale_max": 0,
       "entered": false
