@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 02:13:19",
+  "last_update": "28/05/2026 02:13:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,8 +51,8 @@
     {
       "match": "Bolivar v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 2411,
-      "quota": 1.08,
+      "volume": 3142,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -75,6 +75,21 @@
       "source": "Betfair",
       "event_id": "35639867",
       "market_id": "1.258615478",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 02:30"
+    },
+    {
+      "match": "Penarol v Santa Fe",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1608,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633143",
+      "market_id": "1.258482560",
       "_is_inplay": false,
       "open_date": "2026-05-28 02:30"
     },
@@ -152,21 +167,6 @@
       "market_id": "1.258603129",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "Penarol v Santa Fe",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 754,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633143",
-      "market_id": "1.258482560",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 02:30"
     },
     {
       "match": "Wieczysta Krakow v Polonia Warszawa",
@@ -472,9 +472,9 @@
       "match": "Bolivar v Independiente Rivadavia",
       "campionato": "CONMEBOL Copa Libertadores",
       "open_date": "2026-05-28 02:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 2411,
+      "volume": 3142,
       "best_volume": 4552,
       "whale_max": 0,
       "entered": false
