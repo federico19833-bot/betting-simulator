@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 18:44:11",
+  "last_update": "28/05/2026 18:44:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Assyriska FF v Vasalunds IF",
-      "campionato": "Swedish Cup",
-      "volume": 2700,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656401",
-      "market_id": "1.258662094",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 19:30"
-    },
-    {
       "match": "SE Palmeiras v Junior FC Barranquilla",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 2618,
@@ -49,10 +34,25 @@
       "open_date": "2026-05-29 00:00"
     },
     {
+      "match": "Assyriska FF v Vasalunds IF",
+      "campionato": "Swedish Cup",
+      "volume": 2400,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656401",
+      "market_id": "1.258662094",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 19:30"
+    },
+    {
       "match": "FC Tallinn v FC Maardu",
       "campionato": "Estonian Esiliiga",
-      "volume": 2060,
-      "quota": 1.25,
+      "volume": 1386,
+      "quota": 1.29,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -111,8 +111,8 @@
     {
       "match": "Chrobry Glogow v LKS Lodz",
       "campionato": "Polish I Liga",
-      "volume": 448,
-      "quota": 1.1,
+      "volume": 364,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -126,8 +126,8 @@
     {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
-      "volume": 64,
-      "quota": 1.51,
+      "volume": 36,
+      "quota": 1.56,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
