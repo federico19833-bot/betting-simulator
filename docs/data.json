@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 15:20:47",
+  "last_update": "28/05/2026 15:21:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Septemvri v FC Yantra",
       "campionato": "Bulgarian A League",
-      "volume": 1810,
+      "volume": 1776,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-29 00:00"
     },
     {
+      "match": "JK Welco Elekter v Nomme Kalju II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 588,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654043",
+      "market_id": "1.258632858",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "FC Jazz v SalPa",
       "campionato": "Finnish Ykkonen",
       "volume": 514,
@@ -152,21 +167,6 @@
       "market_id": "1.258607327",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "JK Welco Elekter v Nomme Kalju II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 15,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654043",
-      "market_id": "1.258632858",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 18:00"
     },
     {
       "match": "Fiorentina U20 v Parma U20",
@@ -202,7 +202,7 @@
       "match": "El Geish v Wadi Degla",
       "campionato": "Egyptian Premier",
       "volume": 4,
-      "quota": 1.11,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -460,10 +460,10 @@
       "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-28 18:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 15,
-      "best_volume": 15,
+      "volume": 588,
+      "best_volume": 588,
       "whale_max": 0,
       "entered": false
     },
