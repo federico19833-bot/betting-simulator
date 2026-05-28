@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 13:13:00",
+  "last_update": "28/05/2026 13:13:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Al Fahaheel FC v Al Salmiyah",
       "campionato": "Kuwaiti Premier League",
-      "volume": 1327,
+      "volume": 1326,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Wieczysta Krakow v Polonia Warszawa",
       "campionato": "Polish I Liga",
-      "volume": 683,
+      "volume": 668,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -137,21 +137,6 @@
       "market_id": "1.258632355",
       "_is_inplay": false,
       "open_date": "2026-05-28 17:30"
-    },
-    {
-      "match": "El Geish v Wadi Degla",
-      "campionato": "Egyptian Premier",
-      "volume": 396,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35640051",
-      "market_id": "1.258607306",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
     },
     {
       "match": "Ismaily v Pharco FC",
@@ -227,6 +212,21 @@
       "market_id": "1.258674254",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
+    },
+    {
+      "match": "El Geish v Wadi Degla",
+      "campionato": "Egyptian Premier",
+      "volume": 6,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35640051",
+      "market_id": "1.258607306",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
     }
   ],
   "tracked_matches": [
@@ -501,7 +501,7 @@
       "open_date": "2026-05-28 18:20",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1327,
+      "volume": 1326,
       "best_volume": 1974,
       "whale_max": 0,
       "entered": false
@@ -525,7 +525,7 @@
       "open_date": "2026-05-28 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 683,
+      "volume": 668,
       "best_volume": 683,
       "whale_max": 0,
       "entered": false
