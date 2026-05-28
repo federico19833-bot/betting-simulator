@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 06:00:18",
+  "last_update": "28/05/2026 06:00:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,6 +32,21 @@
       "market_id": "1.258664579",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:20"
+    },
+    {
+      "match": "Fiorentina U20 v Parma U20",
+      "campionato": "Italian Campionato Primavera",
+      "volume": 1235,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658562",
+      "market_id": "1.258674254",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 20:30"
     },
     {
       "match": "Petrojet v El Gounah",
@@ -491,6 +506,18 @@
       "quota_iniziale": 1.02,
       "volume": 15,
       "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258674254",
+      "match": "Fiorentina U20 v Parma U20",
+      "campionato": "Italian Campionato Primavera",
+      "open_date": "2026-05-28 20:30",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1235,
+      "best_volume": 1235,
       "whale_max": 0,
       "entered": false
     }
