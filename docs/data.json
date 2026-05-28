@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 15:31:03",
+  "last_update": "28/05/2026 15:31:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,24 +124,9 @@
       "open_date": "2026-05-29 00:00"
     },
     {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 750,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 17:30"
-    },
-    {
       "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
-      "volume": 588,
+      "volume": 667,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -152,6 +137,21 @@
       "market_id": "1.258632858",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:00"
+    },
+    {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 600,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Ismaily v Pharco FC",
@@ -462,7 +462,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 588,
+      "volume": 667,
       "best_volume": 667,
       "whale_max": 0,
       "entered": false
