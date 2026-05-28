@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 17:28:34",
+  "last_update": "28/05/2026 17:29:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-28 18:20"
     },
     {
-      "match": "Assyriska FF v Vasalunds IF",
-      "campionato": "Swedish Cup",
-      "volume": 1208,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656401",
-      "market_id": "1.258662094",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 19:30"
-    },
-    {
       "match": "Wieczysta Krakow v Polonia Warszawa",
       "campionato": "Polish I Liga",
       "volume": 1084,
@@ -152,6 +137,21 @@
       "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "Assyriska FF v Vasalunds IF",
+      "campionato": "Swedish Cup",
+      "volume": 99,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656401",
+      "market_id": "1.258662094",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 19:30"
     },
     {
       "match": "JJK v OLS",
@@ -516,7 +516,7 @@
       "open_date": "2026-05-28 19:30",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 1208,
+      "volume": 99,
       "best_volume": 1307,
       "whale_max": 0,
       "entered": false
