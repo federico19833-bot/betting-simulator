@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 03:46:35",
+  "last_update": "28/05/2026 03:47:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,8 +34,23 @@
       "open_date": "2026-05-28 18:20"
     },
     {
-      "match": "River Plate v Blooming Santa Cruz",
+      "match": "Red Bull Bragantino v Carabobo FC",
       "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 1362,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639840",
+      "market_id": "1.258498019",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 02:30"
+    },
+    {
+      "match": "Petrojet v El Gounah",
+      "campionato": "Egyptian Premier",
       "volume": 1176,
       "quota": 1.13,
       "in_range": false,
@@ -43,10 +58,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35639867",
-      "market_id": "1.258615478",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 02:30"
+      "event_id": "35644396",
+      "market_id": "1.258603129",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
     },
     {
       "match": "Fiorentina U20 v Parma U20",
@@ -64,23 +79,8 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "Red Bull Bragantino v Carabobo FC",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 782,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639840",
-      "market_id": "1.258498019",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 02:30"
-    },
-    {
-      "match": "Ismaily v Pharco FC",
-      "campionato": "Egyptian Premier",
+      "match": "Septemvri v FC Yantra",
+      "campionato": "Bulgarian A League",
       "volume": 782,
       "quota": 1.13,
       "in_range": false,
@@ -88,8 +88,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35644407",
-      "market_id": "1.258607327",
+      "event_id": "35652195",
+      "market_id": "1.258617271",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
     },
@@ -109,40 +109,10 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "Septemvri v FC Yantra",
-      "campionato": "Bulgarian A League",
-      "volume": 481,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652195",
-      "market_id": "1.258617271",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "Petrojet v El Gounah",
-      "campionato": "Egyptian Premier",
-      "volume": 307,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644396",
-      "market_id": "1.258603129",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
-    },
-    {
       "match": "El Geish v Wadi Degla",
       "campionato": "Egyptian Premier",
-      "volume": 260,
-      "quota": 1.06,
+      "volume": 481,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -152,6 +122,36 @@
       "market_id": "1.258607306",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
+    },
+    {
+      "match": "Ismaily v Pharco FC",
+      "campionato": "Egyptian Premier",
+      "volume": 307,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644407",
+      "market_id": "1.258607327",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
+    },
+    {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 260,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -421,10 +421,10 @@
       "match": "Ismaily v Pharco FC",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-28 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 260,
-      "best_volume": 260,
+      "volume": 307,
+      "best_volume": 307,
       "whale_max": 0,
       "entered": false
     },
@@ -521,6 +521,18 @@
       "quota_iniziale": 1.07,
       "volume": 128,
       "best_volume": 674,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258632355",
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "open_date": "2026-05-28 17:30",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 260,
+      "best_volume": 260,
       "whale_max": 0,
       "entered": false
     }
