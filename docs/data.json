@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 15:54:39",
+  "last_update": "28/05/2026 15:55:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,21 +47,6 @@
       "market_id": "1.258603129",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "SE Palmeiras v Junior FC Barranquilla",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 1715,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35635133",
-      "market_id": "1.258645483",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "JJK v OLS",
@@ -137,6 +122,21 @@
       "market_id": "1.258632858",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:00"
+    },
+    {
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 506,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635133",
+      "market_id": "1.258645483",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
     },
     {
       "match": "FC Jazz v SalPa",
@@ -510,7 +510,7 @@
       "open_date": "2026-05-29 00:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 1715,
+      "volume": 506,
       "best_volume": 1715,
       "whale_max": 0,
       "entered": false
