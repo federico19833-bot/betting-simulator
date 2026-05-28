@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 15:08:55",
+  "last_update": "28/05/2026 15:09:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Petrojet v El Gounah",
+      "campionato": "Egyptian Premier",
+      "volume": 2358,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644396",
+      "market_id": "1.258603129",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 16:00"
+    },
+    {
       "match": "Septemvri v FC Yantra",
       "campionato": "Bulgarian A League",
       "volume": 1810,
@@ -30,21 +45,6 @@
       "source": "Betfair",
       "event_id": "35652195",
       "market_id": "1.258617271",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 16:00"
-    },
-    {
-      "match": "Petrojet v El Gounah",
-      "campionato": "Egyptian Premier",
-      "volume": 1627,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644396",
-      "market_id": "1.258603129",
       "_is_inplay": false,
       "open_date": "2026-05-28 16:00"
     },
@@ -96,7 +96,7 @@
     {
       "match": "JJK v OLS",
       "campionato": "Finnish Ykkonen",
-      "volume": 734,
+      "volume": 750,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -201,7 +201,7 @@
     {
       "match": "El Geish v Wadi Degla",
       "campionato": "Egyptian Premier",
-      "volume": 4,
+      "volume": 12,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -438,7 +438,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 734,
+      "volume": 750,
       "best_volume": 1479,
       "whale_max": 0,
       "entered": false
