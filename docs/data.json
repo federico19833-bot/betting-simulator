@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 18:38:02",
+  "last_update": "28/05/2026 18:38:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "volume": 2693,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653464",
+      "market_id": "1.258629548",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "SE Palmeiras v Junior FC Barranquilla",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 2618,
@@ -34,6 +49,21 @@
       "open_date": "2026-05-29 00:00"
     },
     {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2553,
+      "quota": 1.39,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Fiorentina U20 v Parma U20",
       "campionato": "Italian Campionato Primavera",
       "volume": 1326,
@@ -47,6 +77,21 @@
       "market_id": "1.258674254",
       "_is_inplay": false,
       "open_date": "2026-05-28 20:30"
+    },
+    {
+      "match": "Chrobry Glogow v LKS Lodz",
+      "campionato": "Polish I Liga",
+      "volume": 922,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648369",
+      "market_id": "1.258608402",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -81,8 +126,8 @@
     {
       "match": "Assyriska FF v Vasalunds IF",
       "campionato": "Swedish Cup",
-      "volume": 15,
-      "quota": 1.04,
+      "volume": 397,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -92,6 +137,21 @@
       "market_id": "1.258662094",
       "_is_inplay": false,
       "open_date": "2026-05-28 19:30"
+    },
+    {
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 15,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653931",
+      "market_id": "1.258632355",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Wieczysta Krakow v Polonia Warszawa",
@@ -383,6 +443,30 @@
       "quota_iniziale": 1.04,
       "volume": 2618,
       "best_volume": 2618,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258632355",
+      "match": "JJK v OLS",
+      "campionato": "Finnish Ykkonen",
+      "open_date": "2026-05-28 17:30",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 15,
+      "best_volume": 15,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258608402",
+      "match": "Chrobry Glogow v LKS Lodz",
+      "campionato": "Polish I Liga",
+      "open_date": "2026-05-28 17:30",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 922,
+      "best_volume": 922,
       "whale_max": 0,
       "entered": false
     }
