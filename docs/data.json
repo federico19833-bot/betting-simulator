@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 17:38:49",
+  "last_update": "28/05/2026 17:39:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2938,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Republic of Ireland v Qatar",
       "campionato": "Friendlies International",
       "volume": 2771,
@@ -36,7 +51,7 @@
     {
       "match": "JK Welco Elekter v Nomme Kalju II",
       "campionato": "Estonian Esiliiga",
-      "volume": 1892,
+      "volume": 2046,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -47,21 +62,6 @@
       "market_id": "1.258632858",
       "_is_inplay": false,
       "open_date": "2026-05-28 18:00"
-    },
-    {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1891,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 17:30"
     },
     {
       "match": "Wieczysta Krakow v Polonia Warszawa",
@@ -94,6 +94,21 @@
       "open_date": "2026-05-28 18:20"
     },
     {
+      "match": "FC Tallinn v FC Maardu",
+      "campionato": "Estonian Esiliiga",
+      "volume": 1033,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653464",
+      "market_id": "1.258629548",
+      "_is_inplay": false,
+      "open_date": "2026-05-28 18:00"
+    },
+    {
       "match": "Cerro Porteno v Sporting Cristal",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 646,
@@ -109,21 +124,6 @@
       "open_date": "2026-05-29 00:00"
     },
     {
-      "match": "FC Tallinn v FC Maardu",
-      "campionato": "Estonian Esiliiga",
-      "volume": 474,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653464",
-      "market_id": "1.258629548",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 18:00"
-    },
-    {
       "match": "SE Palmeiras v Junior FC Barranquilla",
       "campionato": "CONMEBOL Copa Libertadores",
       "volume": 223,
@@ -137,21 +137,6 @@
       "market_id": "1.258645483",
       "_is_inplay": false,
       "open_date": "2026-05-29 00:00"
-    },
-    {
-      "match": "Assyriska FF v Vasalunds IF",
-      "campionato": "Swedish Cup",
-      "volume": 99,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656401",
-      "market_id": "1.258662094",
-      "_is_inplay": false,
-      "open_date": "2026-05-28 19:30"
     },
     {
       "match": "JJK v OLS",
@@ -396,7 +381,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 1892,
+      "volume": 2046,
       "best_volume": 4407,
       "whale_max": 0,
       "entered": false
@@ -432,7 +417,7 @@
       "open_date": "2026-05-28 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 474,
+      "volume": 1033,
       "best_volume": 4456,
       "whale_max": 0,
       "entered": false
@@ -470,18 +455,6 @@
       "quota_iniziale": 1.04,
       "volume": 15,
       "best_volume": 15,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258662094",
-      "match": "Assyriska FF v Vasalunds IF",
-      "campionato": "Swedish Cup",
-      "open_date": "2026-05-28 19:30",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 99,
-      "best_volume": 2733,
       "whale_max": 0,
       "entered": false
     },
