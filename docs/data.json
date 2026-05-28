@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 18:32:40",
+  "last_update": "28/05/2026 18:33:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,9 +64,39 @@
       "open_date": "2026-05-28 19:30"
     },
     {
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 1279,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35635133",
+      "market_id": "1.258645483",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 00:00"
+    },
+    {
+      "match": "FC Jazz v SalPa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 772,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653928",
+      "market_id": "1.258632376",
+      "_is_inplay": true,
+      "open_date": "2026-05-28 17:30"
+    },
+    {
       "match": "Chrobry Glogow v LKS Lodz",
       "campionato": "Polish I Liga",
-      "volume": 944,
+      "volume": 699,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -77,21 +107,6 @@
       "market_id": "1.258608402",
       "_is_inplay": true,
       "open_date": "2026-05-28 17:30"
-    },
-    {
-      "match": "Al Fahaheel FC v Al Salmiyah",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 658,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655462",
-      "market_id": "1.258664579",
-      "_is_inplay": true,
-      "open_date": "2026-05-28 18:20"
     },
     {
       "match": "Cerro Porteno v Sporting Cristal",
@@ -124,19 +139,19 @@
       "open_date": "2026-05-28 20:30"
     },
     {
-      "match": "FC Jazz v SalPa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 432,
-      "quota": 1.37,
+      "match": "Al Fahaheel FC v Al Salmiyah",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 469,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35653928",
-      "market_id": "1.258632376",
+      "event_id": "35655462",
+      "market_id": "1.258664579",
       "_is_inplay": true,
-      "open_date": "2026-05-28 17:30"
+      "open_date": "2026-05-28 18:20"
     },
     {
       "match": "JJK v OLS",
@@ -441,7 +456,7 @@
       "open_date": "2026-05-28 17:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 944,
+      "volume": 699,
       "best_volume": 1018,
       "whale_max": 0,
       "entered": false
@@ -479,6 +494,18 @@
       "quota_iniziale": 1.09,
       "volume": 571,
       "best_volume": 571,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258645483",
+      "match": "SE Palmeiras v Junior FC Barranquilla",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "open_date": "2026-05-29 00:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 1279,
+      "best_volume": 1279,
       "whale_max": 0,
       "entered": false
     }
