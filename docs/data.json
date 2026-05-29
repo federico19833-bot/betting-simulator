@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:05:30",
+  "last_update": "29/05/2026 09:06:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 21321,
+      "volume": 21165,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Fremad Amager v Skive",
       "campionato": "Danish 2nd Division",
-      "volume": 1804,
+      "volume": 1815,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -150,6 +150,21 @@
       "source": "Betfair",
       "event_id": "35653322",
       "market_id": "1.258634874",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
+    },
+    {
+      "match": "FK Babrungas v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 1175,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659175",
+      "market_id": "1.258687961",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
     },
@@ -246,7 +261,7 @@
     {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
-      "volume": 810,
+      "volume": 811,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -454,6 +469,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "Garliava Kaunas v FK Siauliai II",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 330,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659178",
+      "market_id": "1.258691890",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:30"
+    },
+    {
       "match": "Ghazl El Mahallah v Haras El Hodood",
       "campionato": "Egyptian Premier",
       "volume": 314,
@@ -647,21 +677,6 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "Garliava Kaunas v FK Siauliai II",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 10,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659178",
-      "market_id": "1.258691890",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:30"
     },
     {
       "match": "Landvetter IS v Qviding FIF",
@@ -1035,7 +1050,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 21321,
+      "volume": 21165,
       "best_volume": 21336,
       "whale_max": 0,
       "entered": false
@@ -1057,10 +1072,10 @@
       "match": "Garliava Kaunas v FK Siauliai II",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-29 18:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 330,
+      "best_volume": 330,
       "whale_max": 0,
       "entered": false
     },
@@ -1107,8 +1122,8 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1804,
-      "best_volume": 1805,
+      "volume": 1815,
+      "best_volume": 1815,
       "whale_max": 0,
       "entered": false
     },
@@ -1373,6 +1388,18 @@
       "quota_iniziale": 1.04,
       "volume": 349,
       "best_volume": 349,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258687961",
+      "match": "FK Babrungas v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "open_date": "2026-05-29 17:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 1175,
+      "best_volume": 1175,
       "whale_max": 0,
       "entered": false
     }
