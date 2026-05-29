@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 07:06:35",
+  "last_update": "29/05/2026 07:07:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -420,6 +420,21 @@
       "source": "Betfair",
       "event_id": "35660542",
       "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Riteriai v FK Suduva",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 133,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653459",
+      "market_id": "1.258638143",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
     },
@@ -1157,6 +1172,18 @@
       "quota_iniziale": 1.06,
       "volume": 890,
       "best_volume": 890,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258638143",
+      "match": "Riteriai v FK Suduva",
+      "campionato": "Lithuanian A Lyga",
+      "open_date": "2026-05-29 19:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 133,
+      "best_volume": 133,
       "whale_max": 0,
       "entered": false
     }
