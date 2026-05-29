@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 10:07:19",
+  "last_update": "29/05/2026 10:07:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -334,6 +334,21 @@
       "open_date": "2026-05-29 19:30"
     },
     {
+      "match": "Dundalk v Derry City",
+      "campionato": "Irish Premier Division",
+      "volume": 558,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623767",
+      "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
       "volume": 456,
@@ -465,21 +480,6 @@
       "source": "Betfair",
       "event_id": "35641235",
       "market_id": "1.258674826",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Dundalk v Derry City",
-      "campionato": "Irish Premier Division",
-      "volume": 292,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623767",
-      "market_id": "1.258640640",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -1320,7 +1320,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 292,
+      "volume": 558,
       "best_volume": 1218,
       "whale_max": 0,
       "entered": false
