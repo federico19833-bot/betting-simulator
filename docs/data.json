@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:04:12",
+  "last_update": "29/05/2026 12:04:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 22603,
+      "volume": 28638,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -336,7 +336,7 @@
     {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
-      "volume": 825,
+      "volume": 811,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -529,21 +529,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 298,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
-    },
-    {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
       "volume": 232,
@@ -587,6 +572,21 @@
       "market_id": "1.258662503",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 191,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "IFK Berga v Solvesborgs GOIF",
@@ -1095,7 +1095,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 22603,
+      "volume": 28638,
       "best_volume": 36031,
       "whale_max": 0,
       "entered": false
@@ -1261,9 +1261,9 @@
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "open_date": "2026-05-29 20:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 298,
+      "volume": 191,
       "best_volume": 298,
       "whale_max": 0,
       "entered": false
