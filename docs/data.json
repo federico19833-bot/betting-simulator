@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 11:33:17",
+  "last_update": "29/05/2026 11:33:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "FC Nacka Iliria v Nykopings BIS",
-      "campionato": "Swedish Division 2",
-      "volume": 2527,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656128",
-      "market_id": "1.258656058",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Fremad Amager v Skive",
       "campionato": "Danish 2nd Division",
       "volume": 1805,
@@ -152,6 +137,21 @@
       "market_id": "1.258690273",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "FC Nacka Iliria v Nykopings BIS",
+      "campionato": "Swedish Division 2",
+      "volume": 1343,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656128",
+      "market_id": "1.258656058",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "PKK-U v KuPS Akatemia",
@@ -454,21 +454,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Orgryte v Elfsborg",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 426,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649502",
-      "market_id": "1.258597094",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "volume": 424,
@@ -482,6 +467,21 @@
       "market_id": "1.258633926",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:30"
+    },
+    {
+      "match": "Orgryte v Elfsborg",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 416,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649502",
+      "market_id": "1.258597094",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "National Bank v Al Ittihad (EGY)",
@@ -1155,7 +1155,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 426,
+      "volume": 416,
       "best_volume": 426,
       "whale_max": 0,
       "entered": false
@@ -1177,9 +1177,9 @@
       "match": "FC Nacka Iliria v Nykopings BIS",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 2527,
+      "volume": 1343,
       "best_volume": 2527,
       "whale_max": 0,
       "entered": false
