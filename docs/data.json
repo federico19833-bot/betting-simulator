@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:24:42",
+  "last_update": "29/05/2026 15:25:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "TransINVEST Vilnius v Hegelmann Litauen",
       "campionato": "Lithuanian A Lyga",
-      "volume": 5472,
+      "volume": 6642,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -336,7 +336,7 @@
     {
       "match": "FK Kabel v SU Dinamo Jug",
       "campionato": "Serbian First League",
-      "volume": 1086,
+      "volume": 1078,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -482,21 +482,6 @@
       "market_id": "1.258718405",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "South Africa v Nicaragua",
-      "campionato": "Friendlies International",
-      "volume": 580,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656162",
-      "market_id": "1.258659091",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Landvetter IS v Qviding FIF",
@@ -737,6 +722,21 @@
       "market_id": "1.258700887",
       "_is_inplay": false,
       "open_date": "2026-05-29 23:00"
+    },
+    {
+      "match": "South Africa v Nicaragua",
+      "campionato": "Friendlies International",
+      "volume": 8,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656162",
+      "market_id": "1.258659091",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     }
   ],
   "tracked_matches": [
@@ -975,7 +975,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 580,
+      "volume": 8,
       "best_volume": 21353,
       "whale_max": 0,
       "entered": true
@@ -1323,7 +1323,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 5472,
+      "volume": 6642,
       "best_volume": 8654,
       "whale_max": 0,
       "entered": false
@@ -1383,7 +1383,7 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 1086,
+      "volume": 1078,
       "best_volume": 1340,
       "whale_max": 0,
       "entered": false
