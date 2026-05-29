@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:49:53",
+  "last_update": "29/05/2026 12:50:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Liaoning Tieren FC v Shanghai Port FC",
       "campionato": "Chinese Super League",
-      "volume": 20757,
+      "volume": 20495,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -334,6 +334,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 718,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
+    },
+    {
       "match": "Al Mokawloon v Modern Sport FC",
       "campionato": "Egyptian Premier",
       "volume": 687,
@@ -394,19 +409,19 @@
       "open_date": "2026-05-29 22:00"
     },
     {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 576,
-      "quota": 1.04,
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 565,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
       "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Nomme Utd v Tallinna FC Flora",
@@ -574,21 +589,6 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "TransINVEST Vilnius v Hegelmann Litauen",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 146,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653451",
-      "market_id": "1.258636807",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Ghazl El Mahallah v Haras El Hodood",
       "campionato": "Egyptian Premier",
       "volume": 98,
@@ -667,7 +667,7 @@
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
       "volume": 10,
-      "quota": 1.15,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -682,7 +682,7 @@
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 10,
-      "quota": 1.03,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -972,7 +972,7 @@
       "open_date": "2026-05-29 13:35",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 20757,
+      "volume": 20495,
       "best_volume": 20757,
       "whale_max": 0,
       "entered": false
@@ -1090,7 +1090,7 @@
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "open_date": "2026-05-29 18:20",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
@@ -1212,7 +1212,7 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 576,
+      "volume": 718,
       "best_volume": 1686,
       "whale_max": 0,
       "entered": false
@@ -1434,14 +1434,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258636807",
-      "match": "TransINVEST Vilnius v Hegelmann Litauen",
-      "campionato": "Lithuanian A Lyga",
-      "open_date": "2026-05-29 18:00",
+      "event_id": "bf_1.258633926",
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 146,
-      "best_volume": 146,
+      "volume": 565,
+      "best_volume": 565,
       "whale_max": 0,
       "entered": false
     }
