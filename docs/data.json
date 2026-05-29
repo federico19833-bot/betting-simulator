@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:26:54",
+  "last_update": "29/05/2026 20:27:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 16208,
+      "volume": 15000,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 6103,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
       "volume": 5518,
@@ -109,9 +124,24 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "Shamrock Rovers v St Patricks",
+      "campionato": "Irish Premier Division",
+      "volume": 4634,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624108",
+      "market_id": "1.258640885",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 21:00"
+    },
+    {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 3571,
+      "volume": 3559,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -137,21 +167,6 @@
       "market_id": "1.258700887",
       "_is_inplay": false,
       "open_date": "2026-05-29 23:00"
-    },
-    {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 2366,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Envigado v Real Cartagena",
@@ -184,19 +199,19 @@
       "open_date": "2026-05-29 20:00"
     },
     {
-      "match": "Shamrock Rovers v St Patricks",
+      "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
-      "volume": 1038,
-      "quota": 1.06,
+      "volume": 1084,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624108",
-      "market_id": "1.258640885",
+      "event_id": "35624039",
+      "market_id": "1.258640619",
       "_is_inplay": false,
-      "open_date": "2026-05-29 21:00"
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Vanersborgs FK v Grebbestads IF",
@@ -300,21 +315,6 @@
       "source": "Betfair",
       "event_id": "35656086",
       "market_id": "1.258650790",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Sligo Rovers v Bohemians",
-      "campionato": "Irish Premier Division",
-      "volume": 125,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624039",
-      "market_id": "1.258640619",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     }
@@ -531,7 +531,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 16208,
+      "volume": 15000,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -685,9 +685,9 @@
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 125,
+      "volume": 1084,
       "best_volume": 10977,
       "whale_max": 0,
       "entered": true
@@ -939,7 +939,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 3571,
+      "volume": 3559,
       "best_volume": 3580,
       "whale_max": 0,
       "entered": false
@@ -961,9 +961,9 @@
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 1038,
+      "volume": 4634,
       "best_volume": 4634,
       "whale_max": 0,
       "entered": false
