@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:48:05",
+  "last_update": "29/05/2026 15:48:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 28634,
+      "volume": 28635,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 12098,
+      "volume": 12108,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
-      "volume": 2992,
+      "volume": 2982,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -424,6 +424,21 @@
       "open_date": "2026-05-29 17:30"
     },
     {
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 802,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:00"
+    },
+    {
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 760,
@@ -572,21 +587,6 @@
       "market_id": "1.258638386",
       "_is_inplay": false,
       "open_date": "2026-05-29 16:00"
-    },
-    {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 342,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -1338,7 +1338,7 @@
       "open_date": "2026-05-29 20:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 342,
+      "volume": 802,
       "best_volume": 1383,
       "whale_max": 0,
       "entered": false
@@ -1376,6 +1376,174 @@
       "quota_iniziale": 1.01,
       "volume": 533,
       "best_volume": 533,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258638365",
+      "match": "Al Mokawloon v Modern Sport FC",
+      "campionato": "Egyptian Premier",
+      "open_date": "2026-05-29 16:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 19236,
+      "best_volume": 19236,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258636286",
+      "match": "KPV v FC Inter 2",
+      "campionato": "Finnish Ykkonen",
+      "open_date": "2026-05-29 17:30",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258659113",
+      "match": "Iran v Gambia",
+      "campionato": "Friendlies International",
+      "open_date": "2026-05-29 17:30",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 250,
+      "best_volume": 250,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258698739",
+      "match": "Al-Shabab v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "open_date": "2026-05-29 18:20",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 760,
+      "best_volume": 760,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258674910",
+      "match": "Longford v Treaty United",
+      "campionato": "Irish Division 1",
+      "open_date": "2026-05-29 20:45",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 2982,
+      "best_volume": 2982,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258674889",
+      "match": "Bray Wanderers v Wexford F.C",
+      "campionato": "Irish Division 1",
+      "open_date": "2026-05-29 20:45",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 5248,
+      "best_volume": 5248,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258640661",
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-29 20:45",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 12108,
+      "best_volume": 12108,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258674868",
+      "match": "Cork City v Finn Harps",
+      "campionato": "Irish Division 1",
+      "open_date": "2026-05-29 20:45",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 166,
+      "best_volume": 166,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258640885",
+      "match": "Shamrock Rovers v St Patricks",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-29 21:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 1414,
+      "best_volume": 1414,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258671817",
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "open_date": "2026-05-29 21:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 1451,
+      "best_volume": 1451,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258690273",
+      "match": "San Antonio Bulo Bulo v Guabira",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-29 21:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258658818",
+      "match": "Envigado v Real Cartagena",
+      "campionato": "Colombian Primera B",
+      "open_date": "2026-05-29 22:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 1144,
+      "best_volume": 1144,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258546596",
+      "match": "Atletico Grau v Cesar Vallejo Moquegua",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-29 22:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 2183,
+      "best_volume": 2183,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258700887",
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "open_date": "2026-05-29 23:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
