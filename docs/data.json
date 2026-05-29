@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:07:17",
+  "last_update": "29/05/2026 09:07:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Fremad Amager v Skive",
       "campionato": "Danish 2nd Division",
-      "volume": 1815,
+      "volume": 1805,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -304,21 +304,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "SK Super Nova v Rigas Futbola Skola",
-      "campionato": "Latvian Virsliga",
-      "volume": 646,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653343",
-      "market_id": "1.258638011",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
       "volume": 636,
@@ -394,6 +379,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "SK Super Nova v Rigas Futbola Skola",
+      "campionato": "Latvian Virsliga",
+      "volume": 454,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653343",
+      "market_id": "1.258638011",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
       "volume": 432,
@@ -467,6 +467,21 @@
       "market_id": "1.258546596",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "Garliava Kaunas v FK Siauliai II",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 330,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659178",
+      "market_id": "1.258691890",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:30"
     },
     {
       "match": "Ghazl El Mahallah v Haras El Hodood",
@@ -677,21 +692,6 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "Garliava Kaunas v FK Siauliai II",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 10,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659178",
-      "market_id": "1.258691890",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:30"
     }
   ],
   "tracked_matches": [
@@ -1072,9 +1072,9 @@
       "match": "Garliava Kaunas v FK Siauliai II",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-29 18:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 10,
+      "volume": 330,
       "best_volume": 330,
       "whale_max": 0,
       "entered": false
@@ -1108,9 +1108,9 @@
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 646,
+      "volume": 454,
       "best_volume": 646,
       "whale_max": 0,
       "entered": false
@@ -1122,7 +1122,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1815,
+      "volume": 1805,
       "best_volume": 1815,
       "whale_max": 0,
       "entered": false
