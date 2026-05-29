@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 19:50:56",
+  "last_update": "29/05/2026 19:51:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
-      "volume": 5324,
+      "volume": 5127,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -171,7 +171,7 @@
     {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2042,
+      "volume": 2041,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -186,8 +186,8 @@
     {
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
-      "volume": 1414,
-      "quota": 1.07,
+      "volume": 1906,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -214,24 +214,9 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Dundalk v Derry City",
-      "campionato": "Irish Premier Division",
-      "volume": 889,
-      "quota": 1.94,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623767",
-      "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
-      "volume": 704,
+      "volume": 638,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -300,6 +285,21 @@
       "source": "Betfair",
       "event_id": "35656086",
       "market_id": "1.258650790",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Dundalk v Derry City",
+      "campionato": "Irish Premier Division",
+      "volume": 338,
+      "quota": 2.68,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623767",
+      "market_id": "1.258640640",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -733,9 +733,9 @@
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1414,
+      "volume": 1906,
       "best_volume": 10977,
       "whale_max": 0,
       "entered": true
@@ -1011,7 +1011,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 5324,
+      "volume": 5127,
       "best_volume": 11496,
       "whale_max": 0,
       "entered": false
@@ -1023,7 +1023,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 2042,
+      "volume": 2041,
       "best_volume": 2721,
       "whale_max": 0,
       "entered": false
