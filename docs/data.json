@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 07:41:06",
+  "last_update": "29/05/2026 07:41:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -437,6 +437,21 @@
       "market_id": "1.258581475",
       "_is_inplay": false,
       "open_date": "2026-05-30 00:30"
+    },
+    {
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 213,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653451",
+      "market_id": "1.258636807",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "PKK-U v KuPS Akatemia",
@@ -1256,6 +1271,18 @@
       "quota_iniziale": 1.07,
       "volume": 1491,
       "best_volume": 1491,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258636807",
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "open_date": "2026-05-29 18:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 213,
+      "best_volume": 213,
       "whale_max": 0,
       "entered": false
     }
