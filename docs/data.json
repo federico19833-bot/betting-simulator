@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:14:57",
+  "last_update": "29/05/2026 16:15:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 27122,
+      "volume": 27630,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -154,6 +154,21 @@
       "open_date": "2026-05-29 17:00"
     },
     {
+      "match": "Andorra v Iraq",
+      "campionato": "Friendlies International",
+      "volume": 3683,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655349",
+      "market_id": "1.258645696",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
       "volume": 2982,
@@ -212,21 +227,6 @@
       "market_id": "1.258546596",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
-    },
-    {
-      "match": "Andorra v Iraq",
-      "campionato": "Friendlies International",
-      "volume": 1872,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655349",
-      "market_id": "1.258645696",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Drogheda v Waterford",
@@ -321,7 +321,7 @@
     {
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
-      "volume": 1162,
+      "volume": 1191,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -514,6 +514,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 406,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
+    },
+    {
       "match": "FK Riga v SC Grobina",
       "campionato": "Latvian Virsliga",
       "volume": 394,
@@ -632,21 +647,6 @@
       "market_id": "1.258688090",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 146,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Hestrafors v IF Boljan",
@@ -1102,9 +1102,9 @@
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
       "open_date": "2026-05-29 18:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 1872,
+      "volume": 3683,
       "best_volume": 75915,
       "whale_max": 0,
       "entered": true
@@ -1128,7 +1128,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1162,
+      "volume": 1191,
       "best_volume": 1191,
       "whale_max": 0,
       "entered": false
@@ -1150,9 +1150,9 @@
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "open_date": "2026-05-29 20:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 146,
+      "volume": 406,
       "best_volume": 1360,
       "whale_max": 0,
       "entered": false
