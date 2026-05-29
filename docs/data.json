@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:21:19",
+  "last_update": "29/05/2026 14:21:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 62034,
+      "volume": 60715,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 19071,
+      "volume": 14640,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 15461,
+      "volume": 12010,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 11120,
+      "volume": 11188,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -257,6 +257,21 @@
       "market_id": "1.258633926",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:30"
+    },
+    {
+      "match": "Envigado v Real Cartagena",
+      "campionato": "Colombian Primera B",
+      "volume": 1354,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656127",
+      "market_id": "1.258658818",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
     },
     {
       "match": "Hestrafors v IF Boljan",
@@ -439,21 +454,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Rudes v NK Sesvete",
-      "campionato": "Croatian Prva NL",
-      "volume": 581,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35658443",
-      "market_id": "1.258688090",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:30"
-    },
-    {
       "match": "Iran v Gambia",
       "campionato": "Friendlies International",
       "volume": 556,
@@ -559,21 +559,6 @@
       "open_date": "2026-05-29 18:30"
     },
     {
-      "match": "Envigado v Real Cartagena",
-      "campionato": "Colombian Primera B",
-      "volume": 374,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656127",
-      "market_id": "1.258658818",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 22:00"
-    },
-    {
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "volume": 330,
@@ -602,6 +587,21 @@
       "market_id": "1.258656037",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Rudes v NK Sesvete",
+      "campionato": "Croatian Prva NL",
+      "volume": 210,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658443",
+      "market_id": "1.258688090",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:30"
     },
     {
       "match": "Cork City v Finn Harps",
@@ -1113,7 +1113,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 15461,
+      "volume": 12010,
       "best_volume": 15461,
       "whale_max": 0,
       "entered": false
@@ -1195,10 +1195,10 @@
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
       "open_date": "2026-05-29 22:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 374,
-      "best_volume": 590,
+      "volume": 1354,
+      "best_volume": 1354,
       "whale_max": 0,
       "entered": false
     },
@@ -1245,7 +1245,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 11120,
+      "volume": 11188,
       "best_volume": 11188,
       "whale_max": 0,
       "entered": false
@@ -1341,7 +1341,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 62034,
+      "volume": 60715,
       "best_volume": 62034,
       "whale_max": 0,
       "entered": false
