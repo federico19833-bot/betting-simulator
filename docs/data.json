@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 22:11:49",
+  "last_update": "29/05/2026 22:12:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
-      "volume": 1599,
+      "volume": 1484,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -47,21 +47,6 @@
       "market_id": "1.258658818",
       "_is_inplay": true,
       "open_date": "2026-05-29 22:00"
-    },
-    {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 1100,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 23:00"
     },
     {
       "match": "Real Madrid Castilla v Sabadell",
@@ -81,8 +66,8 @@
     {
       "match": "Leones FC v Ind Medellin",
       "campionato": "Colombian Cup",
-      "volume": 196,
-      "quota": 1.05,
+      "volume": 443,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -94,10 +79,25 @@
       "open_date": "2026-05-30 01:00"
     },
     {
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 141,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 23:00"
+    },
+    {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
       "campionato": "Peruvian Primera Division",
-      "volume": 70,
-      "quota": 1.42,
+      "volume": 84,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -111,8 +111,8 @@
     {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 27,
-      "quota": 2.92,
+      "volume": 21,
+      "quota": 2.62,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -802,9 +802,9 @@
       "match": "Leones FC v Ind Medellin",
       "campionato": "Colombian Cup",
       "open_date": "2026-05-30 01:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 196,
+      "volume": 443,
       "best_volume": 443,
       "whale_max": 0,
       "entered": false
