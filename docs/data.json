@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:48:28",
+  "last_update": "29/05/2026 09:49:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -484,21 +484,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Ghazl El Mahallah v Haras El Hodood",
-      "campionato": "Egyptian Premier",
-      "volume": 314,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644394",
-      "market_id": "1.258638032",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
       "volume": 252,
@@ -632,6 +617,21 @@
       "market_id": "1.258674889",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Ghazl El Mahallah v Haras El Hodood",
+      "campionato": "Egyptian Premier",
+      "volume": 32,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644394",
+      "market_id": "1.258638032",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Iran v Gambia",
@@ -1222,9 +1222,9 @@
       "match": "Ghazl El Mahallah v Haras El Hodood",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 314,
+      "volume": 32,
       "best_volume": 314,
       "whale_max": 0,
       "entered": false
