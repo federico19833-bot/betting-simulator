@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:36:25",
+  "last_update": "29/05/2026 12:36:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
-      "volume": 7291,
+      "volume": 6975,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -137,6 +137,21 @@
       "market_id": "1.258664309",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 1686,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "San Antonio Bulo Bulo v Guabira",
@@ -409,21 +424,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 586,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
-    },
-    {
       "match": "Nomme Utd v Tallinna FC Flora",
       "campionato": "Estonian Premier League",
       "volume": 551,
@@ -602,21 +602,6 @@
       "market_id": "1.258671817",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
-    },
-    {
-      "match": "TransINVEST Vilnius v Hegelmann Litauen",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 176,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653451",
-      "market_id": "1.258636807",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Cork City v Finn Harps",
@@ -1011,7 +996,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 7291,
+      "volume": 6975,
       "best_volume": 10991,
       "whale_max": 0,
       "entered": false
@@ -1239,8 +1224,8 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 586,
-      "best_volume": 978,
+      "volume": 1686,
+      "best_volume": 1686,
       "whale_max": 0,
       "entered": false
     },
@@ -1469,18 +1454,6 @@
       "quota_iniziale": 1.09,
       "volume": 1834,
       "best_volume": 1834,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258636807",
-      "match": "TransINVEST Vilnius v Hegelmann Litauen",
-      "campionato": "Lithuanian A Lyga",
-      "open_date": "2026-05-29 18:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 176,
-      "best_volume": 176,
       "whale_max": 0,
       "entered": false
     }
