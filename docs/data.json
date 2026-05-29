@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:46:46",
+  "last_update": "29/05/2026 13:47:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 16402,
+      "volume": 16422,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -227,6 +227,21 @@
       "market_id": "1.258581475",
       "_is_inplay": false,
       "open_date": "2026-05-30 00:30"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 856,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Drogheda v Waterford",
@@ -516,7 +531,7 @@
     {
       "match": "Vanersborgs FK v Grebbestads IF",
       "campionato": "Swedish Division 2",
-      "volume": 154,
+      "volume": 144,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -527,21 +542,6 @@
       "market_id": "1.258718099",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:15"
-    },
-    {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 152,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Riteriai v FK Suduva",
@@ -1329,7 +1329,7 @@
       "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 152,
+      "volume": 856,
       "best_volume": 1156,
       "whale_max": 0,
       "entered": false
@@ -1473,7 +1473,7 @@
       "open_date": "2026-05-29 19:15",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 154,
+      "volume": 144,
       "best_volume": 154,
       "whale_max": 0,
       "entered": false
