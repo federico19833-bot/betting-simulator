@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:48:49",
+  "last_update": "29/05/2026 14:49:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -482,6 +482,21 @@
       "market_id": "1.258636786",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "FK Riga v SC Grobina",
+      "campionato": "Latvian Virsliga",
+      "volume": 513,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653322",
+      "market_id": "1.258634874",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "SK Super Nova v Rigas Futbola Skola",
@@ -1556,6 +1571,18 @@
       "quota_iniziale": 1.07,
       "volume": 1383,
       "best_volume": 1383,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258634874",
+      "match": "FK Riga v SC Grobina",
+      "campionato": "Latvian Virsliga",
+      "open_date": "2026-05-29 17:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 513,
+      "best_volume": 513,
       "whale_max": 0,
       "entered": false
     }
