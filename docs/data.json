@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 07:51:31",
+  "last_update": "29/05/2026 07:52:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-05-29 13:35"
     },
     {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 3365,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
-    },
-    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 3286,
@@ -77,6 +62,21 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 3115,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "National Bank v Al Ittihad (EGY)",
@@ -514,36 +514,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Orgryte v Elfsborg",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 164,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649502",
-      "market_id": "1.258597094",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 112,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
-    },
-    {
       "match": "Naestved v AB",
       "campionato": "Danish 2nd Division",
       "volume": 101,
@@ -677,6 +647,21 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
+    },
+    {
+      "match": "Orgryte v Elfsborg",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649502",
+      "market_id": "1.258597094",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     }
   ],
   "tracked_matches": [
@@ -951,7 +936,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 3365,
+      "volume": 3115,
       "best_volume": 3365,
       "whale_max": 0,
       "entered": false
@@ -1095,7 +1080,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 164,
+      "volume": 10,
       "best_volume": 164,
       "whale_max": 0,
       "entered": false
@@ -1217,18 +1202,6 @@
       "quota_iniziale": 1.04,
       "volume": 587,
       "best_volume": 587,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258633926",
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "open_date": "2026-05-29 20:30",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 112,
-      "best_volume": 112,
       "whale_max": 0,
       "entered": false
     },
