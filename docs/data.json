@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 08:06:23",
+  "last_update": "29/05/2026 08:06:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -379,6 +379,21 @@
       "open_date": "2026-05-29 16:00"
     },
     {
+      "match": "PKK-U v KuPS Akatemia",
+      "campionato": "Finnish Ykkonen",
+      "volume": 460,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653929",
+      "market_id": "1.258636264",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:30"
+    },
+    {
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
       "volume": 449,
@@ -407,6 +422,21 @@
       "market_id": "1.258624065",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Kungsangens IF v IK Franke",
+      "campionato": "Swedish Division 2",
+      "volume": 298,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656099",
+      "market_id": "1.258656037",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -469,36 +499,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "PKK-U v KuPS Akatemia",
-      "campionato": "Finnish Ykkonen",
-      "volume": 204,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653929",
-      "market_id": "1.258636264",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 175,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Orgryte v Elfsborg",
       "campionato": "Swedish Allsvenskan",
       "volume": 130,
@@ -512,6 +512,21 @@
       "market_id": "1.258597094",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 116,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657650",
+      "market_id": "1.258671817",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Bosnia v North Macedonia",
@@ -647,21 +662,6 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
-    },
-    {
-      "match": "Kungsangens IF v IK Franke",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656099",
-      "market_id": "1.258656037",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "UCD v Athlone Town",
@@ -997,9 +997,9 @@
       "match": "PKK-U v KuPS Akatemia",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-29 17:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 204,
+      "volume": 460,
       "best_volume": 460,
       "whale_max": 0,
       "entered": false
@@ -1133,18 +1133,6 @@
       "quota_iniziale": 1.06,
       "volume": 1808,
       "best_volume": 1808,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258703931",
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 175,
-      "best_volume": 175,
       "whale_max": 0,
       "entered": false
     },
@@ -1333,10 +1321,22 @@
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.09,
+      "volume": 298,
+      "best_volume": 298,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258671817",
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 116,
+      "best_volume": 116,
       "whale_max": 0,
       "entered": false
     }
