@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 04:20:51",
+  "last_update": "29/05/2026 04:21:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Al Mokawloon v Modern Sport FC",
-      "campionato": "Egyptian Premier",
-      "volume": 1427,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644399",
-      "market_id": "1.258638365",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
-    },
-    {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
       "volume": 1386,
@@ -122,6 +107,21 @@
       "market_id": "1.258674826",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Al Mokawloon v Modern Sport FC",
+      "campionato": "Egyptian Premier",
+      "volume": 1297,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644399",
+      "market_id": "1.258638365",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Bray Wanderers v Wexford F.C",
@@ -364,21 +364,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "TransINVEST Vilnius v Hegelmann Litauen",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 115,
-      "quota": 3.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653451",
-      "market_id": "1.258636807",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 91,
@@ -392,6 +377,21 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 90,
+      "quota": 2.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653451",
+      "market_id": "1.258636807",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Nomme Utd v Tallinna FC Flora",
@@ -807,7 +807,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 1427,
+      "volume": 1297,
       "best_volume": 1427,
       "whale_max": 0,
       "entered": false
