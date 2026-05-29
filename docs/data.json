@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 18:33:03",
+  "last_update": "29/05/2026 18:33:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 6577,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
+    },
+    {
       "match": "Nomme Utd v Tallinna FC Flora",
       "campionato": "Estonian Premier League",
       "volume": 4576,
@@ -137,21 +152,6 @@
       "market_id": "1.258672883",
       "_is_inplay": true,
       "open_date": "2026-05-29 18:00"
-    },
-    {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 3284,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -199,6 +199,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "National Bank v Al Ittihad (EGY)",
+      "campionato": "Egyptian Premier",
+      "volume": 2144,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644404",
+      "market_id": "1.258638164",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Iran v Gambia",
       "campionato": "Friendlies International",
       "volume": 2001,
@@ -212,21 +227,6 @@
       "market_id": "1.258659113",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "National Bank v Al Ittihad (EGY)",
-      "campionato": "Egyptian Premier",
-      "volume": 1707,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644404",
-      "market_id": "1.258638164",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "AC Monza v Catanzaro",
@@ -304,10 +304,25 @@
       "open_date": "2026-05-29 19:30"
     },
     {
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "volume": 1139,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623772",
+      "market_id": "1.258640661",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
-      "volume": 1094,
-      "quota": 1.1,
+      "volume": 904,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -484,21 +499,6 @@
       "open_date": "2026-05-29 20:30"
     },
     {
-      "match": "Shelbourne v Galway Utd",
-      "campionato": "Irish Premier Division",
-      "volume": 276,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623772",
-      "market_id": "1.258640661",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
       "volume": 213,
@@ -592,7 +592,7 @@
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "volume": 10,
-      "quota": 1.01,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1078,10 +1078,10 @@
       "match": "Dinamo Bucharest v FCSB",
       "campionato": "Romanian Liga I",
       "open_date": "2026-05-29 19:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 3284,
-      "best_volume": 5244,
+      "volume": 6577,
+      "best_volume": 6577,
       "whale_max": 0,
       "entered": false
     },
@@ -1284,7 +1284,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 276,
+      "volume": 1139,
       "best_volume": 1794,
       "whale_max": 0,
       "entered": false
@@ -1306,7 +1306,7 @@
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
