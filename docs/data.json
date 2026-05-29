@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:24:06",
+  "last_update": "29/05/2026 15:24:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -304,21 +304,6 @@
       "open_date": "2026-05-29 22:00"
     },
     {
-      "match": "FK Kabel v SU Dinamo Jug",
-      "campionato": "Serbian First League",
-      "volume": 1340,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659735",
-      "market_id": "1.258686654",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
-    },
-    {
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "volume": 1217,
@@ -349,19 +334,19 @@
       "open_date": "2026-05-29 19:30"
     },
     {
-      "match": "South Africa v Nicaragua",
-      "campionato": "Friendlies International",
-      "volume": 1174,
-      "quota": 1.08,
+      "match": "FK Kabel v SU Dinamo Jug",
+      "campionato": "Serbian First League",
+      "volume": 1086,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656162",
-      "market_id": "1.258659091",
+      "event_id": "35659735",
+      "market_id": "1.258686654",
       "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
+      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Torns v Linero IF",
@@ -497,6 +482,21 @@
       "market_id": "1.258718405",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "South Africa v Nicaragua",
+      "campionato": "Friendlies International",
+      "volume": 580,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656162",
+      "market_id": "1.258659091",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Landvetter IS v Qviding FIF",
@@ -973,9 +973,9 @@
       "match": "South Africa v Nicaragua",
       "campionato": "Friendlies International",
       "open_date": "2026-05-29 18:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1174,
+      "volume": 580,
       "best_volume": 21353,
       "whale_max": 0,
       "entered": true
@@ -1381,9 +1381,9 @@
       "match": "FK Kabel v SU Dinamo Jug",
       "campionato": "Serbian First League",
       "open_date": "2026-05-29 17:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 1340,
+      "volume": 1086,
       "best_volume": 1340,
       "whale_max": 0,
       "entered": false
