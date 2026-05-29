@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 02:45:21",
+  "last_update": "29/05/2026 02:45:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,32 +34,17 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "America de Cali S.A v Macara",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 6835,
-      "quota": 1.08,
+      "match": "FK Dainava Alytus v FK Panevezio Ekranas",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 2901,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35639731",
-      "market_id": "1.258646000",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 02:30"
-    },
-    {
-      "match": "Thisted v Roskilde",
-      "campionato": "Danish 2nd Division",
-      "volume": 3208,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656386",
-      "market_id": "1.258662526",
+      "event_id": "35659177",
+      "market_id": "1.258691568",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
     },
@@ -77,6 +62,21 @@
       "market_id": "1.258516637",
       "_is_inplay": true,
       "open_date": "2026-05-29 02:30"
+    },
+    {
+      "match": "Thisted v Roskilde",
+      "campionato": "Danish 2nd Division",
+      "volume": 2188,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656386",
+      "market_id": "1.258662526",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Orgryte v Elfsborg",
@@ -182,21 +182,6 @@
       "market_id": "1.258640619",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "FK Dainava Alytus v FK Panevezio Ekranas",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 831,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659177",
-      "market_id": "1.258691568",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Nice v St Etienne",
@@ -467,6 +452,21 @@
       "market_id": "1.258640682",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "America de Cali S.A v Macara",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 62,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639731",
+      "market_id": "1.258646000",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 02:30"
     }
   ],
   "tracked_matches": [
@@ -945,7 +945,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 3208,
+      "volume": 2188,
       "best_volume": 6734,
       "whale_max": 0,
       "entered": false
@@ -967,9 +967,9 @@
       "match": "America de Cali S.A v Macara",
       "campionato": "CONMEBOL Copa Sudamericana",
       "open_date": "2026-05-29 02:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 6835,
+      "volume": 62,
       "best_volume": 7187,
       "whale_max": 0,
       "entered": false
