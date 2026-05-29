@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:53:24",
+  "last_update": "29/05/2026 15:54:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 95,
+    "total": 96,
     "wins": 84,
     "losses": 6,
-    "in_corso": 5,
+    "in_corso": 6,
     "winrate": 93.3,
     "profit": 13.69,
     "roi": 0.14,
@@ -111,9 +111,9 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 7000,
+      "volume": 8381,
       "quota": 1.08,
-      "in_range": false,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -197,21 +197,6 @@
       "market_id": "1.258690311",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "FK FAP v FK Graficar",
-      "campionato": "Serbian First League",
-      "volume": 2207,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661717",
-      "market_id": "1.258719237",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
@@ -362,6 +347,21 @@
       "market_id": "1.258718614",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "FK FAP v FK Graficar",
+      "campionato": "Serbian First League",
+      "volume": 1000,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661717",
+      "market_id": "1.258719237",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Orgryte v Elfsborg",
@@ -574,6 +574,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Iran v Gambia",
+      "campionato": "Friendlies International",
+      "volume": 318,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656159",
+      "market_id": "1.258659113",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:30"
+    },
+    {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
       "volume": 314,
@@ -621,8 +636,8 @@
     {
       "match": "Riteriai v FK Suduva",
       "campionato": "Lithuanian A Lyga",
-      "volume": 142,
-      "quota": 1.05,
+      "volume": 102,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -690,21 +705,6 @@
       "source": "Betfair",
       "event_id": "35653930",
       "market_id": "1.258636286",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "Iran v Gambia",
-      "campionato": "Friendlies International",
-      "volume": 10,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656159",
-      "market_id": "1.258659113",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
     },
@@ -1108,9 +1108,9 @@
       "match": "Riteriai v FK Suduva",
       "campionato": "Lithuanian A Lyga",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 142,
+      "volume": 102,
       "best_volume": 1448,
       "whale_max": 0,
       "entered": false
@@ -1206,7 +1206,7 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 2207,
+      "volume": 1000,
       "best_volume": 2208,
       "whale_max": 0,
       "entered": false
@@ -1410,7 +1410,7 @@
       "open_date": "2026-05-29 17:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 10,
+      "volume": 318,
       "best_volume": 318,
       "whale_max": 0,
       "entered": false
@@ -1446,10 +1446,10 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 7000,
-      "best_volume": 7000,
+      "volume": 8381,
+      "best_volume": 8381,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258640661",
@@ -1549,6 +1549,20 @@
     }
   ],
   "giocate": [
+    {
+      "id": 106,
+      "orario": "2026-05-29 15:53:59",
+      "match": "Bray Wanderers v Wexford F.C",
+      "campionato": "Irish Division 1",
+      "quota": 1.08,
+      "volume": 8381,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 105,
       "orario": "2026-05-29 13:15:43",
