@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:37:57",
+  "last_update": "29/05/2026 13:38:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 15725,
+      "volume": 15481,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -122,6 +122,21 @@
       "market_id": "1.258640661",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 2160,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
@@ -272,21 +287,6 @@
       "market_id": "1.258687961",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
-    },
-    {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 986,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -994,9 +994,9 @@
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 16:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 986,
+      "volume": 2160,
       "best_volume": 10991,
       "whale_max": 0,
       "entered": false
