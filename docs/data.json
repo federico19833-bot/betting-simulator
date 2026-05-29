@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:08:34",
+  "last_update": "29/05/2026 20:09:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 24641,
+      "volume": 24620,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 8570,
+      "volume": 8571,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -137,6 +137,21 @@
       "market_id": "1.258546596",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 2196,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657650",
+      "market_id": "1.258671817",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -214,21 +229,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Real Madrid Castilla v Sabadell",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 558,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657650",
-      "market_id": "1.258671817",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 21:00"
-    },
-    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
       "volume": 399,
@@ -274,21 +274,6 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 231,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 23:00"
-    },
-    {
       "match": "Leones FC v Ind Medellin",
       "campionato": "Colombian Cup",
       "volume": 196,
@@ -302,6 +287,21 @@
       "market_id": "1.258728064",
       "_is_inplay": false,
       "open_date": "2026-05-30 01:00"
+    },
+    {
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 180,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 00:30"
     },
     {
       "match": "Dundalk v Derry City",
@@ -319,19 +319,19 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 135,
-      "quota": 1.19,
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 160,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
       "_is_inplay": false,
-      "open_date": "2026-05-30 00:30"
+      "open_date": "2026-05-29 23:00"
     }
   ],
   "tracked_matches": [
@@ -630,7 +630,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 8570,
+      "volume": 8571,
       "best_volume": 9037,
       "whale_max": 0,
       "entered": true
@@ -990,7 +990,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 558,
+      "volume": 2196,
       "best_volume": 2721,
       "whale_max": 0,
       "entered": false
@@ -1060,9 +1060,9 @@
       "match": "Cucuta Deportivo v Fortaleza FC",
       "campionato": "Colombian Cup",
       "open_date": "2026-05-29 23:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 231,
+      "volume": 160,
       "best_volume": 231,
       "whale_max": 0,
       "entered": false
