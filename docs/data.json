@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 10:56:46",
+  "last_update": "29/05/2026 10:57:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -469,6 +469,21 @@
       "open_date": "2026-05-29 18:30"
     },
     {
+      "match": "Landvetter IS v Qviding FIF",
+      "campionato": "Swedish Division 2",
+      "volume": 298,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660542",
+      "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
       "volume": 252,
@@ -667,7 +682,7 @@
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 10,
-      "quota": 1.03,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -677,21 +692,6 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Longford v Treaty United",
@@ -1129,7 +1129,7 @@
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "open_date": "2026-05-29 18:20",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
@@ -1429,9 +1429,9 @@
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 10,
+      "volume": 298,
       "best_volume": 298,
       "whale_max": 0,
       "entered": false
