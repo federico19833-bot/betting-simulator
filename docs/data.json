@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 04:27:02",
+  "last_update": "29/05/2026 04:27:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -276,7 +276,7 @@
     {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
-      "volume": 422,
+      "volume": 432,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -422,6 +422,21 @@
       "market_id": "1.258664309",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 37,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653451",
+      "market_id": "1.258636807",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     }
   ],
   "tracked_matches": [
@@ -804,7 +819,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 422,
+      "volume": 432,
       "best_volume": 21348,
       "whale_max": 0,
       "entered": true
@@ -950,6 +965,18 @@
       "quota_iniziale": 1.06,
       "volume": 624,
       "best_volume": 624,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258636807",
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "open_date": "2026-05-29 18:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 37,
+      "best_volume": 37,
       "whale_max": 0,
       "entered": false
     }
