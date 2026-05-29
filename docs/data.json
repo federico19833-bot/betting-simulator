@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:45:46",
+  "last_update": "29/05/2026 15:46:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 28109,
+      "volume": 28634,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -349,21 +349,6 @@
       "open_date": "2026-05-29 17:00"
     },
     {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 1067,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
-    },
-    {
       "match": "Torns v Linero IF",
       "campionato": "Swedish Division 2",
       "volume": 1001,
@@ -454,19 +439,19 @@
       "open_date": "2026-05-29 18:20"
     },
     {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 687,
-      "quota": 1.05,
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 662,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
       "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
+      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "Skara Fc v Skovde",
@@ -572,6 +557,21 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
+    },
+    {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 394,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -1432,9 +1432,9 @@
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 16:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 687,
+      "volume": 394,
       "best_volume": 687,
       "whale_max": 0,
       "entered": false
@@ -1518,7 +1518,7 @@
       "open_date": "2026-05-29 20:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1067,
+      "volume": 662,
       "best_volume": 1383,
       "whale_max": 0,
       "entered": false
