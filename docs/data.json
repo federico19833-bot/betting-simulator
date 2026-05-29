@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:18:42",
+  "last_update": "29/05/2026 20:19:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 11745,
+      "volume": 11749,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 3580,
+      "volume": 3571,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -141,8 +141,8 @@
     {
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
-      "volume": 2565,
-      "quota": 1.08,
+      "volume": 2433,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -302,21 +302,6 @@
       "market_id": "1.258650790",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 24,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 00:30"
     }
   ],
   "tracked_matches": [
@@ -531,7 +516,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 11745,
+      "volume": 11749,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -925,9 +910,9 @@
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2565,
+      "volume": 2433,
       "best_volume": 11745,
       "whale_max": 0,
       "entered": true
@@ -939,7 +924,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 3580,
+      "volume": 3571,
       "best_volume": 3580,
       "whale_max": 0,
       "entered": false
@@ -1025,18 +1010,6 @@
       "quota_iniziale": 1.01,
       "volume": 2042,
       "best_volume": 2042,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258581475",
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "open_date": "2026-05-30 00:30",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.09,
-      "volume": 518,
-      "best_volume": 518,
       "whale_max": 0,
       "entered": false
     },
