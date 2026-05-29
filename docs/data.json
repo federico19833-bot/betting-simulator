@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 06:56:17",
+  "last_update": "29/05/2026 06:56:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,21 +184,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Nice v St Etienne",
-      "campionato": "French Ligue 1 Playoffs",
-      "volume": 831,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656086",
-      "market_id": "1.258650790",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "South Africa v Nicaragua",
       "campionato": "Friendlies International",
       "volume": 778,
@@ -212,6 +197,21 @@
       "market_id": "1.258659091",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Nice v St Etienne",
+      "campionato": "French Ligue 1 Playoffs",
+      "volume": 719,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656086",
+      "market_id": "1.258650790",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Andorra v Iraq",
@@ -1105,9 +1105,9 @@
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 831,
+      "volume": 719,
       "best_volume": 831,
       "whale_max": 0,
       "entered": false
