@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:52:01",
+  "last_update": "29/05/2026 16:52:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -304,6 +304,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "FK Babrungas v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 1208,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659175",
+      "market_id": "1.258687961",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
+    },
+    {
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "volume": 1208,
@@ -514,21 +529,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 398,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
-    },
-    {
       "match": "FK Riga v SC Grobina",
       "campionato": "Latvian Virsliga",
       "volume": 394,
@@ -557,21 +557,6 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "FK Babrungas v Minija Kretinga",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 334,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659175",
-      "market_id": "1.258687961",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -617,6 +602,21 @@
       "market_id": "1.258638032",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 166,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Cork City v Finn Harps",
@@ -1167,7 +1167,7 @@
       "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 398,
+      "volume": 166,
       "best_volume": 1360,
       "whale_max": 0,
       "entered": false
@@ -1513,9 +1513,9 @@
       "match": "FK Babrungas v Minija Kretinga",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-29 17:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 334,
+      "volume": 1208,
       "best_volume": 1208,
       "whale_max": 0,
       "entered": false
