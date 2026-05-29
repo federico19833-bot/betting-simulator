@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:52:16",
+  "last_update": "29/05/2026 12:52:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 30855,
+      "volume": 30672,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
-      "volume": 1498,
+      "volume": 1506,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -319,6 +319,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 718,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
+    },
+    {
       "match": "Al Mokawloon v Modern Sport FC",
       "campionato": "Egyptian Premier",
       "volume": 687,
@@ -332,6 +347,21 @@
       "market_id": "1.258638365",
       "_is_inplay": false,
       "open_date": "2026-05-29 16:00"
+    },
+    {
+      "match": "Andorra v Iraq",
+      "campionato": "Friendlies International",
+      "volume": 661,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655349",
+      "market_id": "1.258645696",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Landvetter IS v Qviding FIF",
@@ -392,21 +422,6 @@
       "market_id": "1.258658818",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
-    },
-    {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 576,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Bosnia v North Macedonia",
@@ -679,25 +694,10 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Andorra v Iraq",
-      "campionato": "Friendlies International",
-      "volume": 10,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655349",
-      "market_id": "1.258645696",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 10,
-      "quota": 1.02,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1083,7 +1083,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 30855,
+      "volume": 30672,
       "best_volume": 36031,
       "whale_max": 0,
       "entered": false
@@ -1105,7 +1105,7 @@
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "open_date": "2026-05-29 18:20",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
@@ -1227,7 +1227,7 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 576,
+      "volume": 718,
       "best_volume": 1686,
       "whale_max": 0,
       "entered": false
@@ -1419,7 +1419,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1498,
+      "volume": 1506,
       "best_volume": 1506,
       "whale_max": 0,
       "entered": false
