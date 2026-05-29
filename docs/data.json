@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:19:21",
+  "last_update": "29/05/2026 13:19:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 17234,
+      "volume": 17318,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "Al-Qadsia v Al Jahra",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 3444,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662536",
+      "market_id": "1.258713790",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:20"
+    },
+    {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
       "volume": 2328,
@@ -107,36 +122,6 @@
       "market_id": "1.258640661",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Al-Qadsia v Al Jahra",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 2073,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662536",
-      "market_id": "1.258713790",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 1903,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
@@ -242,6 +227,21 @@
       "market_id": "1.258674889",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 1172,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Bosnia v North Macedonia",
@@ -1009,9 +1009,9 @@
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 1903,
+      "volume": 1172,
       "best_volume": 10991,
       "whale_max": 0,
       "entered": false
@@ -1359,8 +1359,8 @@
       "open_date": "2026-05-29 18:20",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 2073,
-      "best_volume": 2073,
+      "volume": 3444,
+      "best_volume": 3444,
       "whale_max": 0,
       "entered": false
     },
