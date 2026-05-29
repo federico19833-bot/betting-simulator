@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:41:49",
+  "last_update": "29/05/2026 14:42:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,24 +34,9 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Al Mokawloon v Modern Sport FC",
-      "campionato": "Egyptian Premier",
-      "volume": 19493,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644399",
-      "market_id": "1.258638365",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
-    },
-    {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 19424,
+      "volume": 19380,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -62,6 +47,21 @@
       "market_id": "1.258650790",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Al Mokawloon v Modern Sport FC",
+      "campionato": "Egyptian Premier",
+      "volume": 19236,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644399",
+      "market_id": "1.258638365",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Shelbourne v Galway Utd",
@@ -1017,7 +1017,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 19493,
+      "volume": 19236,
       "best_volume": 19664,
       "whale_max": 0,
       "entered": false
