@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:03:36",
+  "last_update": "29/05/2026 12:04:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 28638,
+      "volume": 22603,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
-      "volume": 21281,
+      "volume": 18611,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
-      "volume": 10983,
+      "volume": 10991,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -364,6 +364,21 @@
       "open_date": "2026-05-29 18:00"
     },
     {
+      "match": "PKK-U v KuPS Akatemia",
+      "campionato": "Finnish Ykkonen",
+      "volume": 781,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653929",
+      "market_id": "1.258636264",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:30"
+    },
+    {
       "match": "Orgryte v Elfsborg",
       "campionato": "Swedish Allsvenskan",
       "volume": 743,
@@ -392,6 +407,21 @@
       "market_id": "1.258703931",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Bray Wanderers v Wexford F.C",
+      "campionato": "Irish Division 1",
+      "volume": 638,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641233",
+      "market_id": "1.258674889",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Andorra v Iraq",
@@ -499,34 +529,19 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "PKK-U v KuPS Akatemia",
-      "campionato": "Finnish Ykkonen",
-      "volume": 373,
-      "quota": 1.05,
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 298,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35653929",
-      "market_id": "1.258636264",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
       "_is_inplay": false,
-      "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "Bray Wanderers v Wexford F.C",
-      "campionato": "Irish Division 1",
-      "volume": 240,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641233",
-      "market_id": "1.258674889",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
+      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "TPV v Tampere Utd",
@@ -572,21 +587,6 @@
       "market_id": "1.258662503",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 191,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "IFK Berga v Solvesborgs GOIF",
@@ -1011,7 +1011,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 10983,
+      "volume": 10991,
       "best_volume": 10991,
       "whale_max": 0,
       "entered": false
@@ -1057,9 +1057,9 @@
       "match": "PKK-U v KuPS Akatemia",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-05-29 17:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 373,
+      "volume": 781,
       "best_volume": 1286,
       "whale_max": 0,
       "entered": false
@@ -1095,7 +1095,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 28638,
+      "volume": 22603,
       "best_volume": 36031,
       "whale_max": 0,
       "entered": false
@@ -1261,10 +1261,10 @@
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "open_date": "2026-05-29 20:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 191,
-      "best_volume": 191,
+      "volume": 298,
+      "best_volume": 298,
       "whale_max": 0,
       "entered": false
     },
@@ -1285,9 +1285,9 @@
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 240,
+      "volume": 638,
       "best_volume": 1373,
       "whale_max": 0,
       "entered": false
