@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:49:04",
+  "last_update": "29/05/2026 13:49:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 22875,
+      "volume": 38352,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -514,6 +514,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Hestrafors v IF Boljan",
+      "campionato": "Swedish Division 2",
+      "volume": 213,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656358",
+      "market_id": "1.258704276",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
+    },
+    {
       "match": "Al-Qadsia v Al Jahra",
       "campionato": "Kuwaiti Premier League",
       "volume": 178,
@@ -542,21 +557,6 @@
       "market_id": "1.258674868",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Vanersborgs FK v Grebbestads IF",
-      "campionato": "Swedish Division 2",
-      "volume": 144,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656359",
-      "market_id": "1.258718099",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:15"
     },
     {
       "match": "Riteriai v FK Suduva",
@@ -1281,8 +1281,8 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 22875,
-      "best_volume": 22875,
+      "volume": 38352,
+      "best_volume": 38352,
       "whale_max": 0,
       "entered": false
     },
@@ -1467,14 +1467,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258718099",
-      "match": "Vanersborgs FK v Grebbestads IF",
+      "event_id": "bf_1.258704276",
+      "match": "Hestrafors v IF Boljan",
       "campionato": "Swedish Division 2",
-      "open_date": "2026-05-29 19:15",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 144,
-      "best_volume": 144,
+      "open_date": "2026-05-29 19:30",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 213,
+      "best_volume": 213,
       "whale_max": 0,
       "entered": false
     }
