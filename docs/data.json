@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:13:44",
+  "last_update": "29/05/2026 09:14:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 19972,
+      "volume": 19864,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -34,24 +34,9 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 5919,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
-    },
-    {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
-      "volume": 5636,
+      "volume": 5861,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -62,6 +47,21 @@
       "market_id": "1.258640619",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 5813,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Liaoning Tieren FC v Shanghai Port FC",
@@ -966,7 +966,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 5919,
+      "volume": 5813,
       "best_volume": 5921,
       "whale_max": 0,
       "entered": false
@@ -1050,7 +1050,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 19972,
+      "volume": 19864,
       "best_volume": 21336,
       "whale_max": 0,
       "entered": false
