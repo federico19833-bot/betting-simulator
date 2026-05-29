@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 02:06:34",
+  "last_update": "29/05/2026 02:07:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,6 +62,21 @@
       "market_id": "1.258662526",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Liaoning Tieren FC v Shanghai Port FC",
+      "campionato": "Chinese Super League",
+      "volume": 3812,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646931",
+      "market_id": "1.258628880",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 13:35"
     },
     {
       "match": "FK Dainava Alytus v FK Panevezio Ekranas",
@@ -137,21 +152,6 @@
       "market_id": "1.258674889",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Liaoning Tieren FC v Shanghai Port FC",
-      "campionato": "Chinese Super League",
-      "volume": 1599,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646931",
-      "market_id": "1.258628880",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 13:35"
     },
     {
       "match": "Shamrock Rovers v St Patricks",
@@ -757,9 +757,9 @@
       "match": "Liaoning Tieren FC v Shanghai Port FC",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-29 13:35",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1599,
+      "volume": 3812,
       "best_volume": 3812,
       "whale_max": 0,
       "entered": false
