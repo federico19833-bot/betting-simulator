@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 17:03:27",
+  "last_update": "29/05/2026 17:04:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 28205,
+      "volume": 28173,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Al-Qadsia v Al Jahra",
       "campionato": "Kuwaiti Premier League",
-      "volume": 10760,
+      "volume": 10768,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-29 21:00"
     },
     {
+      "match": "Skara Fc v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 1290,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656357",
+      "market_id": "1.258718405",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "KPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "volume": 1282,
@@ -334,8 +349,8 @@
       "open_date": "2026-05-29 20:00"
     },
     {
-      "match": "FK Babrungas v Minija Kretinga",
-      "campionato": "Lithuanian 1 Lyga",
+      "match": "FK Kabel v SU Dinamo Jug",
+      "campionato": "Serbian First League",
       "volume": 1001,
       "quota": 1.02,
       "in_range": false,
@@ -343,9 +358,9 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35659175",
-      "market_id": "1.258687961",
-      "_is_inplay": false,
+      "event_id": "35659735",
+      "market_id": "1.258686654",
+      "_is_inplay": true,
       "open_date": "2026-05-29 17:00"
     },
     {
@@ -364,9 +379,24 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "SK Super Nova v Rigas Futbola Skola",
+      "campionato": "Latvian Virsliga",
+      "volume": 975,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653343",
+      "market_id": "1.258638011",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 916,
+      "volume": 914,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -377,6 +407,21 @@
       "market_id": "1.258662526",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Torns v Linero IF",
+      "campionato": "Swedish Division 2",
+      "volume": 909,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660043",
+      "market_id": "1.258718614",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -437,21 +482,6 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
-    },
-    {
-      "match": "FK Kabel v SU Dinamo Jug",
-      "campionato": "Serbian First League",
-      "volume": 616,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659735",
-      "market_id": "1.258686654",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Fremad Amager v Skive",
@@ -529,9 +559,24 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "FK Babrungas v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 463,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659175",
+      "market_id": "1.258687961",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 17:00"
+    },
+    {
       "match": "FK Riga v SC Grobina",
       "campionato": "Latvian Virsliga",
-      "volume": 384,
+      "volume": 395,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -591,7 +636,7 @@
     {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
-      "volume": 241,
+      "volume": 250,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -634,21 +679,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Skara Fc v Skovde",
-      "campionato": "Swedish Division 2",
-      "volume": 165,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656357",
-      "market_id": "1.258718405",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Rudes v NK Sesvete",
       "campionato": "Croatian Prva NL",
       "volume": 148,
@@ -664,21 +694,6 @@
       "open_date": "2026-05-29 17:30"
     },
     {
-      "match": "Torns v Linero IF",
-      "campionato": "Swedish Division 2",
-      "volume": 93,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660043",
-      "market_id": "1.258718614",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Hestrafors v IF Boljan",
       "campionato": "Swedish Division 2",
       "volume": 85,
@@ -692,21 +707,6 @@
       "market_id": "1.258704276",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:30"
-    },
-    {
-      "match": "SK Super Nova v Rigas Futbola Skola",
-      "campionato": "Latvian Virsliga",
-      "volume": 57,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653343",
-      "market_id": "1.258638011",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Iran v Gambia",
@@ -978,7 +978,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 241,
+      "volume": 250,
       "best_volume": 21348,
       "whale_max": 0,
       "entered": true
@@ -1002,7 +1002,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 916,
+      "volume": 914,
       "best_volume": 67989,
       "whale_max": 0,
       "entered": true
@@ -1086,7 +1086,7 @@
       "open_date": "2026-05-29 18:20",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 10760,
+      "volume": 10768,
       "best_volume": 11402,
       "whale_max": 0,
       "entered": false
@@ -1096,9 +1096,9 @@
       "match": "Skara Fc v Skovde",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 165,
+      "volume": 1290,
       "best_volume": 2661,
       "whale_max": 0,
       "entered": false
@@ -1144,9 +1144,9 @@
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 57,
+      "volume": 975,
       "best_volume": 1794,
       "whale_max": 0,
       "entered": false
@@ -1158,7 +1158,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 93,
+      "volume": 909,
       "best_volume": 1686,
       "whale_max": 0,
       "entered": false
@@ -1168,9 +1168,9 @@
       "match": "FK Kabel v SU Dinamo Jug",
       "campionato": "Serbian First League",
       "open_date": "2026-05-29 17:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 616,
+      "volume": 1001,
       "best_volume": 1498,
       "whale_max": 0,
       "entered": false
@@ -1350,7 +1350,7 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 384,
+      "volume": 395,
       "best_volume": 4586,
       "whale_max": 0,
       "entered": false
@@ -1396,9 +1396,9 @@
       "match": "FK Babrungas v Minija Kretinga",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-29 17:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 1001,
+      "volume": 463,
       "best_volume": 1001,
       "whale_max": 0,
       "entered": false
