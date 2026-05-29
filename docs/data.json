@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:49:07",
+  "last_update": "29/05/2026 16:49:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,8 +126,8 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 7817,
-      "quota": 1.08,
+      "volume": 5525,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-29 20:30"
     },
     {
+      "match": "Riteriai v FK Suduva",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 1294,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653459",
+      "market_id": "1.258638143",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
       "volume": 1280,
@@ -287,21 +302,6 @@
       "market_id": "1.258674847",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "FK Babrungas v Minija Kretinga",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 1208,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659175",
-      "market_id": "1.258687961",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "AC Monza v Catanzaro",
@@ -396,8 +396,8 @@
     {
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
-      "volume": 776,
-      "quota": 1.08,
+      "volume": 802,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -484,6 +484,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "Andorra v Iraq",
+      "campionato": "Friendlies International",
+      "volume": 535,
+      "quota": 1.26,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655349",
+      "market_id": "1.258645696",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Vanersborgs FK v Grebbestads IF",
       "campionato": "Swedish Division 2",
       "volume": 533,
@@ -512,21 +527,6 @@
       "market_id": "1.258662503",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Andorra v Iraq",
-      "campionato": "Friendlies International",
-      "volume": 408,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655349",
-      "market_id": "1.258645696",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "FK Riga v SC Grobina",
@@ -572,6 +572,21 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
+    },
+    {
+      "match": "FK Babrungas v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 334,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659175",
+      "market_id": "1.258687961",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "TPV v Tampere Utd",
@@ -722,21 +737,6 @@
       "market_id": "1.258700887",
       "_is_inplay": false,
       "open_date": "2026-05-29 23:00"
-    },
-    {
-      "match": "Riteriai v FK Suduva",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 8,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653459",
-      "market_id": "1.258638143",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     }
   ],
   "tracked_matches": [
@@ -1093,9 +1093,9 @@
       "match": "Riteriai v FK Suduva",
       "campionato": "Lithuanian A Lyga",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 8,
+      "volume": 1294,
       "best_volume": 1448,
       "whale_max": 0,
       "entered": false
@@ -1141,9 +1141,9 @@
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 776,
+      "volume": 802,
       "best_volume": 1191,
       "whale_max": 0,
       "entered": false
@@ -1333,9 +1333,9 @@
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 7817,
+      "volume": 5525,
       "best_volume": 8385,
       "whale_max": 0,
       "entered": true
@@ -1513,9 +1513,9 @@
       "match": "FK Babrungas v Minija Kretinga",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-29 17:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 1208,
+      "volume": 334,
       "best_volume": 1208,
       "whale_max": 0,
       "entered": false
