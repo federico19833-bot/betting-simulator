@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:30:24",
+  "last_update": "29/05/2026 20:30:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
-      "volume": 25660,
+      "volume": 25711,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -154,9 +154,24 @@
       "open_date": "2026-05-29 23:00"
     },
     {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 2444,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
-      "volume": 2042,
+      "volume": 2052,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -197,21 +212,6 @@
       "market_id": "1.258640088",
       "_is_inplay": true,
       "open_date": "2026-05-29 20:00"
-    },
-    {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 1004,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Vanersborgs FK v Grebbestads IF",
@@ -261,7 +261,7 @@
     {
       "match": "Real Madrid Castilla v Sabadell",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 344,
+      "volume": 334,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -306,8 +306,8 @@
     {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
-      "volume": 23,
-      "quota": 1.33,
+      "volume": 165,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -975,7 +975,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.08,
-      "volume": 344,
+      "volume": 334,
       "best_volume": 3571,
       "whale_max": 0,
       "entered": false
@@ -1023,8 +1023,8 @@
       "open_date": "2026-05-29 22:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.01,
-      "volume": 2042,
-      "best_volume": 2042,
+      "volume": 2052,
+      "best_volume": 2052,
       "whale_max": 0,
       "entered": false
     },
@@ -1037,6 +1037,18 @@
       "quota_iniziale": 1.04,
       "volume": 2721,
       "best_volume": 2721,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258581475",
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-05-30 00:30",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 165,
+      "best_volume": 165,
       "whale_max": 0,
       "entered": false
     }
