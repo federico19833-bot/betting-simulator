@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 10:33:22",
+  "last_update": "29/05/2026 10:33:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Sligo Rovers v Bohemians",
-      "campionato": "Irish Premier Division",
-      "volume": 20479,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624039",
-      "market_id": "1.258640619",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
       "volume": 20044,
@@ -47,6 +32,21 @@
       "market_id": "1.258662526",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Sligo Rovers v Bohemians",
+      "campionato": "Irish Premier Division",
+      "volume": 17104,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624039",
+      "market_id": "1.258640619",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "ZED FC v Kahraba Ismailia",
@@ -469,21 +469,6 @@
       "open_date": "2026-05-29 18:30"
     },
     {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 266,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
       "volume": 252,
@@ -692,6 +677,21 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
+    },
+    {
+      "match": "Landvetter IS v Qviding FIF",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660542",
+      "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Longford v Treaty United",
@@ -1215,7 +1215,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 266,
+      "volume": 10,
       "best_volume": 664,
       "whale_max": 0,
       "entered": false
