@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:23:30",
+  "last_update": "29/05/2026 15:24:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -304,6 +304,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "FK Kabel v SU Dinamo Jug",
+      "campionato": "Serbian First League",
+      "volume": 1340,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659735",
+      "market_id": "1.258686654",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
+    },
+    {
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "volume": 1217,
@@ -347,21 +362,6 @@
       "market_id": "1.258659091",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
-    },
-    {
-      "match": "FK Kabel v SU Dinamo Jug",
-      "campionato": "Serbian First League",
-      "volume": 1078,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659735",
-      "market_id": "1.258686654",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Torns v Linero IF",
@@ -1381,10 +1381,10 @@
       "match": "FK Kabel v SU Dinamo Jug",
       "campionato": "Serbian First League",
       "open_date": "2026-05-29 17:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1078,
-      "best_volume": 1078,
+      "volume": 1340,
+      "best_volume": 1340,
       "whale_max": 0,
       "entered": false
     },
