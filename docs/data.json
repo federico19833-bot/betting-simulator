@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:05:05",
+  "last_update": "29/05/2026 20:05:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 24693,
+      "volume": 24641,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
-      "volume": 11708,
+      "volume": 11707,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
-      "volume": 4560,
+      "volume": 4570,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -216,7 +216,7 @@
     {
       "match": "Real Madrid Castilla v Sabadell",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 558,
+      "volume": 548,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -227,21 +227,6 @@
       "market_id": "1.258671817",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
-    },
-    {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 518,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 00:30"
     },
     {
       "match": "Envigado v Real Cartagena",
@@ -289,19 +274,19 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 231,
-      "quota": 1.04,
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 197,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
       "_is_inplay": false,
-      "open_date": "2026-05-29 23:00"
+      "open_date": "2026-05-30 00:30"
     },
     {
       "match": "Leones FC v Ind Medellin",
@@ -317,6 +302,21 @@
       "market_id": "1.258728064",
       "_is_inplay": false,
       "open_date": "2026-05-30 01:00"
+    },
+    {
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 190,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 23:00"
     },
     {
       "match": "Dundalk v Derry City",
@@ -930,7 +930,7 @@
       "open_date": "2026-05-29 20:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 4560,
+      "volume": 4570,
       "best_volume": 41744,
       "whale_max": 0,
       "entered": true
@@ -942,7 +942,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 11708,
+      "volume": 11707,
       "best_volume": 11708,
       "whale_max": 0,
       "entered": false
@@ -990,7 +990,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 558,
+      "volume": 548,
       "best_volume": 2721,
       "whale_max": 0,
       "entered": false
@@ -1060,9 +1060,9 @@
       "match": "Cucuta Deportivo v Fortaleza FC",
       "campionato": "Colombian Cup",
       "open_date": "2026-05-29 23:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 231,
+      "volume": 190,
       "best_volume": 231,
       "whale_max": 0,
       "entered": false
