@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 21:21:50",
+  "last_update": "29/05/2026 21:22:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 8028,
+      "volume": 7913,
       "quota": 1.23,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Cucuta Deportivo v Fortaleza FC",
       "campionato": "Colombian Cup",
-      "volume": 4079,
+      "volume": 4074,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -64,25 +64,10 @@
       "open_date": "2026-05-30 00:30"
     },
     {
-      "match": "Atletico Grau v Cesar Vallejo Moquegua",
-      "campionato": "Peruvian Primera Division",
-      "volume": 1629,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645531",
-      "market_id": "1.258546596",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 22:00"
-    },
-    {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 1410,
-      "quota": 1.12,
+      "volume": 2028,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -96,7 +81,7 @@
     {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
-      "volume": 1078,
+      "volume": 1129,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -105,6 +90,21 @@
       "source": "Betfair",
       "event_id": "35656127",
       "market_id": "1.258658818",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "Atletico Grau v Cesar Vallejo Moquegua",
+      "campionato": "Peruvian Primera Division",
+      "volume": 1090,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645531",
+      "market_id": "1.258546596",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
     },
@@ -813,7 +813,7 @@
       "open_date": "2026-05-29 23:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 4079,
+      "volume": 4074,
       "best_volume": 5921,
       "whale_max": 0,
       "entered": false
