@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 06:40:18",
+  "last_update": "29/05/2026 06:40:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -349,21 +349,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Naestved v AB",
-      "campionato": "Danish 2nd Division",
-      "volume": 369,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656399",
-      "market_id": "1.258662503",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
       "volume": 298,
@@ -527,6 +512,21 @@
       "market_id": "1.258690273",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Naestved v AB",
+      "campionato": "Danish 2nd Division",
+      "volume": 61,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656399",
+      "market_id": "1.258662503",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "KPV v FC Inter 2",
@@ -925,9 +925,9 @@
       "match": "Naestved v AB",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 369,
+      "volume": 61,
       "best_volume": 369,
       "whale_max": 0,
       "entered": false
