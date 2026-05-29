@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:36:22",
+  "last_update": "29/05/2026 15:36:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -212,21 +212,6 @@
       "market_id": "1.258719237",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
-    },
-    {
-      "match": "Atletico Grau v Cesar Vallejo Moquegua",
-      "campionato": "Peruvian Primera Division",
-      "volume": 1769,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645531",
-      "market_id": "1.258546596",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 22:00"
     },
     {
       "match": "UCD v Athlone Town",
@@ -452,6 +437,21 @@
       "market_id": "1.258640088",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:00"
+    },
+    {
+      "match": "Atletico Grau v Cesar Vallejo Moquegua",
+      "campionato": "Peruvian Primera Division",
+      "volume": 708,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645531",
+      "market_id": "1.258546596",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
     },
     {
       "match": "ZED FC v Kahraba Ismailia",
@@ -1177,9 +1177,9 @@
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-05-29 22:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1769,
+      "volume": 708,
       "best_volume": 1770,
       "whale_max": 0,
       "entered": false
