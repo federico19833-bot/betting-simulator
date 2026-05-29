@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 07:13:54",
+  "last_update": "29/05/2026 07:14:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,24 +64,9 @@
       "open_date": "2026-05-29 13:35"
     },
     {
-      "match": "Hestrafors v IF Boljan",
-      "campionato": "Swedish Division 2",
-      "volume": 2748,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656358",
-      "market_id": "1.258704276",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
-    },
-    {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
-      "volume": 2380,
+      "volume": 2204,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -197,6 +182,21 @@
       "market_id": "1.258691568",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Hestrafors v IF Boljan",
+      "campionato": "Swedish Division 2",
+      "volume": 811,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656358",
+      "market_id": "1.258704276",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "South Africa v Nicaragua",
@@ -846,7 +846,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 2380,
+      "volume": 2204,
       "best_volume": 2380,
       "whale_max": 0,
       "entered": false
