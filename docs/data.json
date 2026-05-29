@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 19:41:14",
+  "last_update": "29/05/2026 19:42:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,20 +8,20 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 116,
+    "total": 117,
     "wins": 93,
     "losses": 6,
-    "in_corso": 17,
+    "in_corso": 18,
     "winrate": 93.9,
     "profit": 82.09,
-    "roi": 0.71,
+    "roi": 0.7,
     "balance": 1082.09
   },
   "live_events": [
     {
       "match": "Dinamo Bucharest v FCSB",
       "campionato": "Romanian Liga I",
-      "volume": 41745,
+      "volume": 42159,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 9638,
+      "volume": 9612,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -111,8 +111,8 @@
     {
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
-      "volume": 6378,
-      "quota": 1.08,
+      "volume": 5845,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -167,6 +167,21 @@
       "market_id": "1.258671817",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Envigado v Real Cartagena",
+      "campionato": "Colombian Primera B",
+      "volume": 1607,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656127",
+      "market_id": "1.258658818",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
     },
     {
       "match": "Cork City v Finn Harps",
@@ -244,6 +259,21 @@
       "open_date": "2026-05-29 21:00"
     },
     {
+      "match": "San Antonio Bulo Bulo v Guabira",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 389,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660154",
+      "market_id": "1.258690273",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 21:00"
+    },
+    {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
       "volume": 381,
@@ -272,6 +302,21 @@
       "market_id": "1.258640619",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 311,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 00:30"
     },
     {
       "match": "Leones FC v Ind Medellin",
@@ -304,40 +349,10 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 149,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 00:30"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Guabira",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 139,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660154",
-      "market_id": "1.258690273",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 21:00"
-    },
-    {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 69,
-      "quota": 1.86,
+      "volume": 61,
+      "quota": 1.94,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -351,8 +366,8 @@
     {
       "match": "Skara Fc v Skovde",
       "campionato": "Swedish Division 2",
-      "volume": 34,
-      "quota": 2.42,
+      "volume": 37,
+      "quota": 2.32,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -591,7 +606,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 9638,
+      "volume": 9612,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -939,8 +954,8 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 41745,
-      "best_volume": 41745,
+      "volume": 42159,
+      "best_volume": 42159,
       "whale_max": 0,
       "entered": true
     },
@@ -1023,7 +1038,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.08,
-      "volume": 139,
+      "volume": 389,
       "best_volume": 2721,
       "whale_max": 0,
       "entered": false
@@ -1033,9 +1048,9 @@
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "open_date": "2026-05-29 20:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 6378,
+      "volume": 5845,
       "best_volume": 11496,
       "whale_max": 0,
       "entered": true
@@ -1122,10 +1137,24 @@
       "volume": 8971,
       "best_volume": 8971,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     }
   ],
   "giocate": [
+    {
+      "id": 128,
+      "orario": "2026-05-29 19:42:46",
+      "match": "Longford v Treaty United",
+      "campionato": "Irish Division 1",
+      "quota": 1.08,
+      "volume": 8971,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 127,
       "orario": "2026-05-29 19:38:16",
