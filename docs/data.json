@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 19:53:04",
+  "last_update": "29/05/2026 19:53:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 11511,
+      "volume": 11506,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 9037,
+      "volume": 8995,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
-      "volume": 5324,
+      "volume": 5334,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "San Antonio Bulo Bulo v Guabira",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2042,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660154",
-      "market_id": "1.258690273",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 21:00"
-    },
-    {
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
       "volume": 1906,
@@ -199,19 +184,34 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 704,
-      "quota": 1.13,
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 1050,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
       "_is_inplay": false,
-      "open_date": "2026-05-30 00:30"
+      "open_date": "2026-05-29 23:00"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Guabira",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 834,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660154",
+      "market_id": "1.258690273",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Real Madrid Castilla v Sabadell",
@@ -242,6 +242,21 @@
       "market_id": "1.258658818",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 384,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 00:30"
     },
     {
       "match": "Nice v St Etienne",
@@ -289,6 +304,21 @@
       "open_date": "2026-05-29 21:00"
     },
     {
+      "match": "Dundalk v Derry City",
+      "campionato": "Irish Premier Division",
+      "volume": 178,
+      "quota": 2.3,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623767",
+      "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
       "volume": 165,
@@ -304,40 +334,10 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 34,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 23:00"
-    },
-    {
-      "match": "Dundalk v Derry City",
-      "campionato": "Irish Premier Division",
-      "volume": 23,
-      "quota": 2.88,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623767",
-      "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Skara Fc v Skovde",
       "campionato": "Swedish Division 2",
-      "volume": 14,
-      "quota": 18.0,
+      "volume": 11,
+      "quota": 1.33,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -561,7 +561,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 11511,
+      "volume": 11506,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -645,7 +645,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 9037,
+      "volume": 8995,
       "best_volume": 9037,
       "whale_max": 0,
       "entered": true
@@ -981,7 +981,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 5324,
+      "volume": 5334,
       "best_volume": 11496,
       "whale_max": 0,
       "entered": false
@@ -993,7 +993,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 2042,
+      "volume": 834,
       "best_volume": 2721,
       "whale_max": 0,
       "entered": false
@@ -1089,7 +1089,7 @@
       "open_date": "2026-05-29 23:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 34,
+      "volume": 1050,
       "best_volume": 1050,
       "whale_max": 0,
       "entered": false
