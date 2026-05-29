@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 05:48:05",
+  "last_update": "29/05/2026 05:48:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -122,21 +122,6 @@
       "market_id": "1.258658818",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
-    },
-    {
-      "match": "Ghazl El Mahallah v Haras El Hodood",
-      "campionato": "Egyptian Premier",
-      "volume": 1299,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644394",
-      "market_id": "1.258638032",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "ZED FC v Kahraba Ismailia",
@@ -272,6 +257,21 @@
       "market_id": "1.258638365",
       "_is_inplay": false,
       "open_date": "2026-05-29 16:00"
+    },
+    {
+      "match": "Ghazl El Mahallah v Haras El Hodood",
+      "campionato": "Egyptian Premier",
+      "volume": 462,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644394",
+      "market_id": "1.258638032",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Cork City v Finn Harps",
@@ -955,9 +955,9 @@
       "match": "Ghazl El Mahallah v Haras El Hodood",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1299,
+      "volume": 462,
       "best_volume": 1299,
       "whale_max": 0,
       "entered": false
