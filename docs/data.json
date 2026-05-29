@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:36:18",
+  "last_update": "29/05/2026 20:36:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
-      "volume": 33908,
+      "volume": 33907,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 13768,
+      "volume": 13622,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-29 21:00"
     },
     {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 3254,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
       "volume": 3134,
@@ -167,21 +182,6 @@
       "market_id": "1.258700887",
       "_is_inplay": false,
       "open_date": "2026-05-29 23:00"
-    },
-    {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 2472,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -828,7 +828,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 13768,
+      "volume": 13622,
       "best_volume": 16197,
       "whale_max": 0,
       "entered": false
