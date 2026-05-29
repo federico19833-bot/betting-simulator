@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:48:45",
+  "last_update": "29/05/2026 12:49:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
-      "volume": 1506,
+      "volume": 1498,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -409,6 +409,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "SK Super Nova v Rigas Futbola Skola",
+      "campionato": "Latvian Virsliga",
+      "volume": 484,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653343",
+      "market_id": "1.258638011",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "South Africa v Nicaragua",
       "campionato": "Friendlies International",
       "volume": 414,
@@ -499,19 +514,19 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Naestved v AB",
-      "campionato": "Danish 2nd Division",
-      "volume": 208,
-      "quota": 1.03,
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 200,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656399",
-      "market_id": "1.258662503",
+      "event_id": "35657650",
+      "market_id": "1.258671817",
       "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
+      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Cork City v Finn Harps",
@@ -557,21 +572,6 @@
       "market_id": "1.258638032",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Real Madrid Castilla v Sabadell",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 38,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657650",
-      "market_id": "1.258671817",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Rudes v NK Sesvete",
@@ -649,17 +649,17 @@
       "open_date": "2026-05-29 18:20"
     },
     {
-      "match": "SK Super Nova v Rigas Futbola Skola",
-      "campionato": "Latvian Virsliga",
+      "match": "Naestved v AB",
+      "campionato": "Danish 2nd Division",
       "volume": 10,
-      "quota": 1.1,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35653343",
-      "market_id": "1.258638011",
+      "event_id": "35656399",
+      "market_id": "1.258662503",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
     },
@@ -1101,7 +1101,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 208,
+      "volume": 10,
       "best_volume": 208,
       "whale_max": 0,
       "entered": false
@@ -1303,9 +1303,9 @@
       "match": "Real Madrid Castilla v Sabadell",
       "campionato": "Spanish Segunda B Playoffs",
       "open_date": "2026-05-29 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 38,
+      "volume": 200,
       "best_volume": 208,
       "whale_max": 0,
       "entered": false
@@ -1389,7 +1389,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1506,
+      "volume": 1498,
       "best_volume": 1506,
       "whale_max": 0,
       "entered": false
