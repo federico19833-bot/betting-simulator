@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:15:32",
+  "last_update": "29/05/2026 16:16:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 27630,
+      "volume": 27122,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-29 17:00"
     },
     {
-      "match": "Andorra v Iraq",
-      "campionato": "Friendlies International",
-      "volume": 3683,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655349",
-      "market_id": "1.258645696",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
       "volume": 2982,
@@ -197,6 +182,21 @@
       "market_id": "1.258671817",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Andorra v Iraq",
+      "campionato": "Friendlies International",
+      "volume": 2499,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655349",
+      "market_id": "1.258645696",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "PKK-U v KuPS Akatemia",
@@ -1104,7 +1104,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 3683,
+      "volume": 2499,
       "best_volume": 75915,
       "whale_max": 0,
       "entered": true
