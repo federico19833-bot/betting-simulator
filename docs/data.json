@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:25:45",
+  "last_update": "29/05/2026 13:26:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 1013.69
   },
   "live_events": [
+    {
+      "match": "Ludogorets v Lokomotiv Plovdiv",
+      "campionato": "Bulgarian A League",
+      "volume": 30970,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652991",
+      "market_id": "1.258624065",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
     {
       "match": "Liaoning Tieren FC v Shanghai Port FC",
       "campionato": "Chinese Super League",
@@ -47,21 +62,6 @@
       "market_id": "1.258650790",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Ludogorets v Lokomotiv Plovdiv",
-      "campionato": "Bulgarian A League",
-      "volume": 23831,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652991",
-      "market_id": "1.258624065",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Cobh Ramblers v Kerry FC",
@@ -619,6 +619,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Iran v Gambia",
+      "campionato": "Friendlies International",
+      "volume": 90,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656159",
+      "market_id": "1.258659113",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:30"
+    },
+    {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 72,
@@ -660,21 +675,6 @@
       "source": "Betfair",
       "event_id": "35653929",
       "market_id": "1.258636264",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "Iran v Gambia",
-      "campionato": "Friendlies International",
-      "volume": 10,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656159",
-      "market_id": "1.258659113",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
     },
@@ -1044,7 +1044,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 23831,
+      "volume": 30970,
       "best_volume": 30970,
       "whale_max": 0,
       "entered": false
