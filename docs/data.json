@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 19:52:30",
+  "last_update": "29/05/2026 19:53:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 25029,
+      "volume": 26114,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 11506,
+      "volume": 11511,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 8971,
+      "volume": 9037,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
-      "volume": 5334,
+      "volume": 5324,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -197,21 +197,6 @@
       "market_id": "1.258624065",
       "_is_inplay": true,
       "open_date": "2026-05-29 18:00"
-    },
-    {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 1050,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 23:00"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -319,25 +304,25 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Skara Fc v Skovde",
-      "campionato": "Swedish Division 2",
-      "volume": 51,
-      "quota": 3.35,
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 34,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656357",
-      "market_id": "1.258718405",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 19:00"
+      "event_id": "35660275",
+      "market_id": "1.258700887",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 23:00"
     },
     {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
-      "volume": 31,
-      "quota": 2.92,
+      "volume": 23,
+      "quota": 2.88,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -347,6 +332,21 @@
       "market_id": "1.258640640",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Skara Fc v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 14,
+      "quota": 18.0,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656357",
+      "market_id": "1.258718405",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 19:00"
     }
   ],
   "tracked_matches": [
@@ -561,7 +561,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 11506,
+      "volume": 11511,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -645,8 +645,8 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 8971,
-      "best_volume": 8971,
+      "volume": 9037,
+      "best_volume": 9037,
       "whale_max": 0,
       "entered": true
     },
@@ -981,7 +981,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 5334,
+      "volume": 5324,
       "best_volume": 11496,
       "whale_max": 0,
       "entered": false
@@ -1089,7 +1089,7 @@
       "open_date": "2026-05-29 23:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 1050,
+      "volume": 34,
       "best_volume": 1050,
       "whale_max": 0,
       "entered": false
