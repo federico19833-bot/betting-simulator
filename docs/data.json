@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:29:51",
+  "last_update": "29/05/2026 20:30:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
-      "volume": 25711,
+      "volume": 25660,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 16211,
+      "volume": 15223,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 10715,
+      "volume": 10716,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "Sligo Rovers v Bohemians",
+      "campionato": "Irish Premier Division",
+      "volume": 1805,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624039",
+      "market_id": "1.258640619",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "volume": 1700,
@@ -186,7 +201,7 @@
     {
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
-      "volume": 993,
+      "volume": 1004,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -289,19 +304,19 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Sligo Rovers v Bohemians",
-      "campionato": "Irish Premier Division",
-      "volume": 125,
-      "quota": 1.08,
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 23,
+      "quota": 1.33,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624039",
-      "market_id": "1.258640619",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
       "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
+      "open_date": "2026-05-30 00:30"
     }
   ],
   "tracked_matches": [
@@ -516,7 +531,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 16211,
+      "volume": 15223,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -670,9 +685,9 @@
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 125,
+      "volume": 1805,
       "best_volume": 10977,
       "whale_max": 0,
       "entered": true
@@ -828,7 +843,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 10715,
+      "volume": 10716,
       "best_volume": 10716,
       "whale_max": 0,
       "entered": false
