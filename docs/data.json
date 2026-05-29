@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:52:13",
+  "last_update": "29/05/2026 09:52:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -287,6 +287,21 @@
       "market_id": "1.258656037",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 788,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Dundalk v Derry City",
@@ -1418,6 +1433,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258633926",
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "open_date": "2026-05-29 20:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 788,
+      "best_volume": 788,
       "whale_max": 0,
       "entered": false
     }
