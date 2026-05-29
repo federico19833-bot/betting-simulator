@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:52:19",
+  "last_update": "29/05/2026 14:52:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 20241,
+      "volume": 19338,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -62,6 +62,21 @@
       "market_id": "1.258638365",
       "_is_inplay": false,
       "open_date": "2026-05-29 16:00"
+    },
+    {
+      "match": "Cobh Ramblers v Kerry FC",
+      "campionato": "Irish Division 1",
+      "volume": 13180,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641235",
+      "market_id": "1.258674826",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Shelbourne v Galway Utd",
@@ -90,21 +105,6 @@
       "source": "Betfair",
       "event_id": "35623767",
       "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Cobh Ramblers v Kerry FC",
-      "campionato": "Irish Division 1",
-      "volume": 8619,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641235",
-      "market_id": "1.258674826",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -1230,8 +1230,8 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 8619,
-      "best_volume": 11188,
+      "volume": 13180,
+      "best_volume": 13180,
       "whale_max": 0,
       "entered": false
     },
