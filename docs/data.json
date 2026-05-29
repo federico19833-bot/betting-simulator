@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:00:19",
+  "last_update": "29/05/2026 09:00:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
-      "volume": 9125,
+      "volume": 7060,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -291,7 +291,7 @@
     {
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
-      "volume": 645,
+      "volume": 646,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -514,6 +514,21 @@
       "open_date": "2026-05-29 19:30"
     },
     {
+      "match": "Naestved v AB",
+      "campionato": "Danish 2nd Division",
+      "volume": 130,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656399",
+      "market_id": "1.258662503",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 115,
@@ -542,21 +557,6 @@
       "market_id": "1.258672883",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
-    },
-    {
-      "match": "Naestved v AB",
-      "campionato": "Danish 2nd Division",
-      "volume": 79,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656399",
-      "market_id": "1.258662503",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Bray Wanderers v Wexford F.C",
@@ -1071,7 +1071,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 79,
+      "volume": 130,
       "best_volume": 196,
       "whale_max": 0,
       "entered": false
@@ -1095,7 +1095,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 645,
+      "volume": 646,
       "best_volume": 646,
       "whale_max": 0,
       "entered": false
