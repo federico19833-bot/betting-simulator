@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 06:26:17",
+  "last_update": "29/05/2026 06:26:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Liaoning Tieren FC v Shanghai Port FC",
-      "campionato": "Chinese Super League",
-      "volume": 3370,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646931",
-      "market_id": "1.258628880",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 13:35"
-    },
-    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 3286,
@@ -62,6 +47,21 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Liaoning Tieren FC v Shanghai Port FC",
+      "campionato": "Chinese Super League",
+      "volume": 3050,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646931",
+      "market_id": "1.258628880",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 13:35"
     },
     {
       "match": "Fremad Amager v Skive",
@@ -364,21 +364,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Kungsangens IF v IK Franke",
-      "campionato": "Swedish Division 2",
-      "volume": 298,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656099",
-      "market_id": "1.258656037",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
       "volume": 252,
@@ -527,6 +512,21 @@
       "market_id": "1.258690273",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Kungsangens IF v IK Franke",
+      "campionato": "Swedish Division 2",
+      "volume": 20,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656099",
+      "market_id": "1.258656037",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "KPV v FC Inter 2",
@@ -891,7 +891,7 @@
       "open_date": "2026-05-29 13:35",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 3370,
+      "volume": 3050,
       "best_volume": 3370,
       "whale_max": 0,
       "entered": false
@@ -1153,9 +1153,9 @@
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 298,
+      "volume": 20,
       "best_volume": 298,
       "whale_max": 0,
       "entered": false
