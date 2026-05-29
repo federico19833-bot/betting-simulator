@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 21:53:46",
+  "last_update": "29/05/2026 21:54:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,17 +19,17 @@
   },
   "live_events": [
     {
-      "match": "Real Madrid Castilla v Sabadell",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 7922,
-      "quota": 1.37,
+      "match": "San Antonio Bulo Bulo v Guabira",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 2967,
+      "quota": 1.36,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657650",
-      "market_id": "1.258671817",
+      "event_id": "35660154",
+      "market_id": "1.258690273",
       "_is_inplay": true,
       "open_date": "2026-05-29 21:00"
     },
@@ -49,8 +49,23 @@
       "open_date": "2026-05-30 00:30"
     },
     {
-      "match": "Bray Wanderers v Wexford F.C",
-      "campionato": "Irish Division 1",
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 1555,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657650",
+      "market_id": "1.258671817",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
       "volume": 847,
       "quota": 1.12,
       "in_range": false,
@@ -58,16 +73,16 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35641233",
-      "market_id": "1.258674889",
+      "event_id": "35623772",
+      "market_id": "1.258640661",
       "_is_inplay": true,
       "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 810,
-      "quota": 1.26,
+      "volume": 536,
+      "quota": 1.67,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,25 +124,10 @@
       "open_date": "2026-05-30 01:00"
     },
     {
-      "match": "San Antonio Bulo Bulo v Guabira",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 156,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660154",
-      "market_id": "1.258690273",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 21:00"
-    },
-    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
-      "volume": 119,
-      "quota": 1.37,
+      "volume": 156,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -139,19 +139,19 @@
       "open_date": "2026-05-29 22:00"
     },
     {
-      "match": "Shelbourne v Galway Utd",
-      "campionato": "Irish Premier Division",
-      "volume": 65,
-      "quota": 1.71,
+      "match": "Atletico Grau v Cesar Vallejo Moquegua",
+      "campionato": "Peruvian Primera Division",
+      "volume": 96,
+      "quota": 1.41,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623772",
-      "market_id": "1.258640661",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 20:45"
+      "event_id": "35645531",
+      "market_id": "1.258546596",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
     }
   ],
   "tracked_matches": [
@@ -836,6 +836,18 @@
       "quota_iniziale": 1.05,
       "volume": 105,
       "best_volume": 355,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258658818",
+      "match": "Envigado v Real Cartagena",
+      "campionato": "Colombian Primera B",
+      "open_date": "2026-05-29 22:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 156,
+      "best_volume": 156,
       "whale_max": 0,
       "entered": false
     }
