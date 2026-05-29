@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 05:42:55",
+  "last_update": "29/05/2026 05:43:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -379,6 +379,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 136,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
+    },
+    {
       "match": "Riteriai v FK Suduva",
       "campionato": "Lithuanian A Lyga",
       "volume": 133,
@@ -452,21 +467,6 @@
       "market_id": "1.258597094",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 36,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Naestved v AB",
@@ -994,9 +994,9 @@
       "match": "Dinamo Bucharest v FCSB",
       "campionato": "Romanian Liga I",
       "open_date": "2026-05-29 19:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 36,
+      "volume": 136,
       "best_volume": 136,
       "whale_max": 0,
       "entered": false
