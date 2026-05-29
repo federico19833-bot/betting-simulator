@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 18:17:58",
+  "last_update": "29/05/2026 18:18:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -169,21 +169,6 @@
       "open_date": "2026-05-29 18:30"
     },
     {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 2185,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "volume": 2183,
@@ -199,9 +184,24 @@
       "open_date": "2026-05-29 20:30"
     },
     {
+      "match": "Landvetter IS v Qviding FIF",
+      "campionato": "Swedish Division 2",
+      "volume": 2121,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660542",
+      "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 1685,
+      "volume": 1619,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -242,6 +242,36 @@
       "market_id": "1.258704276",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:30"
+    },
+    {
+      "match": "Vanersborgs FK v Grebbestads IF",
+      "campionato": "Swedish Division 2",
+      "volume": 1407,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656359",
+      "market_id": "1.258718099",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:15"
+    },
+    {
+      "match": "Drogheda v Waterford",
+      "campionato": "Irish Premier Division",
+      "volume": 1363,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624096",
+      "market_id": "1.258640682",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Iran v Gambia",
@@ -317,21 +347,6 @@
       "market_id": "1.258638143",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Vanersborgs FK v Grebbestads IF",
-      "campionato": "Swedish Division 2",
-      "volume": 871,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656359",
-      "market_id": "1.258718099",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:15"
     },
     {
       "match": "UCD v Athlone Town",
@@ -435,21 +450,6 @@
       "source": "Betfair",
       "event_id": "35624039",
       "market_id": "1.258640619",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Drogheda v Waterford",
-      "campionato": "Irish Premier Division",
-      "volume": 461,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624096",
-      "market_id": "1.258640682",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -799,9 +799,9 @@
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 461,
+      "volume": 1363,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -873,7 +873,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1685,
+      "volume": 1619,
       "best_volume": 75915,
       "whale_max": 0,
       "entered": true
@@ -1053,7 +1053,7 @@
       "open_date": "2026-05-29 19:15",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 871,
+      "volume": 1407,
       "best_volume": 2185,
       "whale_max": 0,
       "entered": false
@@ -1221,7 +1221,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 2185,
+      "volume": 2121,
       "best_volume": 3369,
       "whale_max": 0,
       "entered": false
