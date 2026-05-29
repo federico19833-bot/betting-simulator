@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:03:14",
+  "last_update": "29/05/2026 13:03:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
-      "volume": 24322,
+      "volume": 25418,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -75,6 +75,21 @@
       "source": "Betfair",
       "event_id": "35623767",
       "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Nice v St Etienne",
+      "campionato": "French Ligue 1 Playoffs",
+      "volume": 8222,
+      "quota": 1.08,
+      "in_range": true,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656086",
+      "market_id": "1.258650790",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -426,7 +441,7 @@
     {
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
-      "volume": 495,
+      "volume": 496,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -559,21 +574,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Nice v St Etienne",
-      "campionato": "French Ligue 1 Playoffs",
-      "volume": 169,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656086",
-      "market_id": "1.258650790",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
       "volume": 165,
@@ -621,7 +621,7 @@
     {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 72,
+      "volume": 71,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -1273,9 +1273,9 @@
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 169,
+      "volume": 8222,
       "best_volume": 14204,
       "whale_max": 0,
       "entered": true
@@ -1323,7 +1323,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 72,
+      "volume": 71,
       "best_volume": 1500,
       "whale_max": 0,
       "entered": false
@@ -1371,7 +1371,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 495,
+      "volume": 496,
       "best_volume": 692,
       "whale_max": 0,
       "entered": false
