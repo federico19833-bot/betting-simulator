@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:44:23",
+  "last_update": "29/05/2026 13:44:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
-      "volume": 23716,
+      "volume": 22841,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 15725,
+      "volume": 16402,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -109,21 +109,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 2077,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
-    },
-    {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
       "campionato": "Peruvian Primera Division",
       "volume": 1769,
@@ -152,6 +137,21 @@
       "market_id": "1.258664309",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 1513,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Longford v Treaty United",
@@ -212,21 +212,6 @@
       "market_id": "1.258674889",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 1156,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "FC Nacka Iliria v Nykopings BIS",
@@ -587,6 +572,21 @@
       "market_id": "1.258704276",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:30"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 152,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Torns v Linero IF",
@@ -994,9 +994,9 @@
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 2077,
+      "volume": 1513,
       "best_volume": 15077,
       "whale_max": 0,
       "entered": false
@@ -1404,7 +1404,7 @@
       "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1156,
+      "volume": 152,
       "best_volume": 1156,
       "whale_max": 0,
       "entered": false
@@ -1428,7 +1428,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 23716,
+      "volume": 22841,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": false
