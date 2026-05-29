@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:42:10",
+  "last_update": "29/05/2026 20:42:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 33926,
+      "volume": 32973,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
-      "volume": 15223,
+      "volume": 15219,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Cobh Ramblers v Kerry FC",
-      "campionato": "Irish Division 1",
-      "volume": 11677,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641235",
-      "market_id": "1.258674826",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
       "volume": 7939,
@@ -90,6 +75,21 @@
       "source": "Betfair",
       "event_id": "35641233",
       "market_id": "1.258674889",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Cobh Ramblers v Kerry FC",
+      "campionato": "Irish Division 1",
+      "volume": 6106,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641235",
+      "market_id": "1.258674826",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -124,21 +124,6 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Drogheda v Waterford",
-      "campionato": "Irish Premier Division",
-      "volume": 4069,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624096",
-      "market_id": "1.258640682",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
       "volume": 3553,
@@ -169,6 +154,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 3039,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
       "volume": 2721,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-30 00:30"
     },
     {
+      "match": "Drogheda v Waterford",
+      "campionato": "Irish Premier Division",
+      "volume": 2397,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624096",
+      "market_id": "1.258640682",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 1805,
@@ -197,21 +212,6 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
-    },
-    {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 718,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "AC Monza v Catanzaro",
@@ -826,9 +826,9 @@
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 11677,
+      "volume": 6106,
       "best_volume": 16197,
       "whale_max": 0,
       "entered": false
@@ -996,7 +996,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 15223,
+      "volume": 15219,
       "best_volume": 15223,
       "whale_max": 0,
       "entered": true
