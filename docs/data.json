@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 10:59:20",
+  "last_update": "29/05/2026 11:00:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "Liaoning Tieren FC v Shanghai Port FC",
+      "campionato": "Chinese Super League",
+      "volume": 12175,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646931",
+      "market_id": "1.258628880",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 13:35"
+    },
+    {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
       "volume": 4847,
@@ -62,21 +77,6 @@
       "market_id": "1.258638386",
       "_is_inplay": false,
       "open_date": "2026-05-29 16:00"
-    },
-    {
-      "match": "Liaoning Tieren FC v Shanghai Port FC",
-      "campionato": "Chinese Super League",
-      "volume": 3936,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646931",
-      "market_id": "1.258628880",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 13:35"
     },
     {
       "match": "Fremad Amager v Skive",
@@ -574,6 +574,21 @@
       "open_date": "2026-05-29 19:30"
     },
     {
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 152,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657650",
+      "market_id": "1.258671817",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 21:00"
+    },
+    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 126,
@@ -585,21 +600,6 @@
       "source": "Betfair",
       "event_id": "35624108",
       "market_id": "1.258640885",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 21:00"
-    },
-    {
-      "match": "Real Madrid Castilla v Sabadell",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 119,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657650",
-      "market_id": "1.258671817",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
     },
@@ -985,10 +985,10 @@
       "match": "Liaoning Tieren FC v Shanghai Port FC",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-29 13:35",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 3936,
-      "best_volume": 3937,
+      "volume": 12175,
+      "best_volume": 12175,
       "whale_max": 0,
       "entered": false
     },
@@ -1369,10 +1369,10 @@
       "match": "Real Madrid Castilla v Sabadell",
       "campionato": "Spanish Segunda B Playoffs",
       "open_date": "2026-05-29 21:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 119,
-      "best_volume": 119,
+      "volume": 152,
+      "best_volume": 152,
       "whale_max": 0,
       "entered": false
     },
