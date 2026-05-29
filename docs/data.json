@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:43:23",
+  "last_update": "29/05/2026 15:43:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -349,6 +349,21 @@
       "open_date": "2026-05-29 17:00"
     },
     {
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 1067,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:00"
+    },
+    {
       "match": "Torns v Linero IF",
       "campionato": "Swedish Division 2",
       "volume": 1001,
@@ -469,6 +484,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "TPV v Tampere Utd",
+      "campionato": "Finnish Ykkonen",
+      "volume": 564,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653926",
+      "market_id": "1.258636786",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "volume": 562,
@@ -497,21 +527,6 @@
       "market_id": "1.258638032",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "TPV v Tampere Utd",
-      "campionato": "Finnish Ykkonen",
-      "volume": 532,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653926",
-      "market_id": "1.258636786",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Naestved v AB",
@@ -617,21 +632,6 @@
       "market_id": "1.258674868",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 156,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "Al-Qadsia v Al Jahra",
@@ -1516,9 +1516,9 @@
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "open_date": "2026-05-29 20:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 156,
+      "volume": 1067,
       "best_volume": 1383,
       "whale_max": 0,
       "entered": false
