@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:16:39",
+  "last_update": "29/05/2026 14:17:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 18541,
+      "volume": 19072,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 10392,
+      "volume": 10559,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -321,7 +321,7 @@
     {
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
-      "volume": 830,
+      "volume": 800,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -437,6 +437,21 @@
       "market_id": "1.258718405",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Iran v Gambia",
+      "campionato": "Friendlies International",
+      "volume": 556,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656159",
+      "market_id": "1.258659113",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:30"
     },
     {
       "match": "Ludogorets v Lokomotiv Plovdiv",
@@ -705,21 +720,6 @@
       "source": "Betfair",
       "event_id": "35653930",
       "market_id": "1.258636286",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "Iran v Gambia",
-      "campionato": "Friendlies International",
-      "volume": 10,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656159",
-      "market_id": "1.258659113",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
     },
@@ -1051,10 +1051,10 @@
       "match": "Iran v Gambia",
       "campionato": "Friendlies International",
       "open_date": "2026-05-29 17:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 556,
+      "best_volume": 556,
       "whale_max": 0,
       "entered": false
     },
@@ -1245,7 +1245,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 10392,
+      "volume": 10559,
       "best_volume": 10923,
       "whale_max": 0,
       "entered": false
@@ -1497,7 +1497,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 830,
+      "volume": 800,
       "best_volume": 830,
       "whale_max": 0,
       "entered": false
