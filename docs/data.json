@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 05:39:18",
+  "last_update": "29/05/2026 05:39:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "Hestrafors v IF Boljan",
       "campionato": "Swedish Division 2",
-      "volume": 1530,
+      "volume": 1540,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -276,7 +276,7 @@
     {
       "match": "Al Mokawloon v Modern Sport FC",
       "campionato": "Egyptian Premier",
-      "volume": 521,
+      "volume": 522,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -424,21 +424,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 68,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
-    },
-    {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
       "volume": 68,
@@ -469,19 +454,19 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Naestved v AB",
-      "campionato": "Danish 2nd Division",
-      "volume": 10,
-      "quota": 1.03,
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 58,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656399",
-      "market_id": "1.258662503",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
       "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
+      "open_date": "2026-05-29 19:30"
     }
   ],
   "tracked_matches": [
@@ -780,7 +765,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 521,
+      "volume": 522,
       "best_volume": 1439,
       "whale_max": 0,
       "entered": false
@@ -996,7 +981,7 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 68,
+      "volume": 58,
       "best_volume": 68,
       "whale_max": 0,
       "entered": false
@@ -1008,8 +993,8 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1530,
-      "best_volume": 1530,
+      "volume": 1540,
+      "best_volume": 1540,
       "whale_max": 0,
       "entered": false
     },
@@ -1058,18 +1043,6 @@
       "quota_iniziale": 1.08,
       "volume": 2493,
       "best_volume": 2493,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258662503",
-      "match": "Naestved v AB",
-      "campionato": "Danish 2nd Division",
-      "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 10,
-      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
