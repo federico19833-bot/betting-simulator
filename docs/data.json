@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:06:56",
+  "last_update": "29/05/2026 15:07:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 67569,
+      "volume": 75915,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -349,6 +349,21 @@
       "open_date": "2026-05-29 18:00"
     },
     {
+      "match": "Ludogorets v Lokomotiv Plovdiv",
+      "campionato": "Bulgarian A League",
+      "volume": 1163,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652991",
+      "market_id": "1.258624065",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "FK Kabel v SU Dinamo Jug",
       "campionato": "Serbian First League",
       "volume": 1078,
@@ -377,21 +392,6 @@
       "market_id": "1.258718614",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Ludogorets v Lokomotiv Plovdiv",
-      "campionato": "Bulgarian A League",
-      "volume": 934,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652991",
-      "market_id": "1.258624065",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Orgryte v Elfsborg",
@@ -484,6 +484,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Landvetter IS v Qviding FIF",
+      "campionato": "Swedish Division 2",
+      "volume": 562,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660542",
+      "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
       "volume": 530,
@@ -557,21 +572,6 @@
       "market_id": "1.258640619",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 295,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Iran v Gambia",
@@ -1311,8 +1311,8 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 67569,
-      "best_volume": 69928,
+      "volume": 75915,
+      "best_volume": 75915,
       "whale_max": 0,
       "entered": false
     },
@@ -1429,9 +1429,9 @@
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
       "open_date": "2026-05-29 18:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 934,
+      "volume": 1163,
       "best_volume": 1217,
       "whale_max": 0,
       "entered": false
@@ -1465,9 +1465,9 @@
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 295,
+      "volume": 562,
       "best_volume": 830,
       "whale_max": 0,
       "entered": false
