@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:23:58",
+  "last_update": "29/05/2026 20:24:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 11745,
+      "volume": 15003,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 11497,
+      "volume": 11456,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 5700,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
       "volume": 5518,
@@ -137,6 +122,21 @@
       "market_id": "1.258690273",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 3000,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Cucuta Deportivo v Fortaleza FC",
@@ -531,7 +531,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 11745,
+      "volume": 15003,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -615,7 +615,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 11497,
+      "volume": 11456,
       "best_volume": 11497,
       "whale_max": 0,
       "entered": true
