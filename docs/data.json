@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 19:55:29",
+  "last_update": "29/05/2026 19:56:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 26556,
-      "quota": 1.12,
+      "volume": 25524,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,7 +51,7 @@
     {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
-      "volume": 11506,
+      "volume": 11497,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -96,9 +96,9 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 7828,
+      "volume": 8116,
       "quota": 1.08,
-      "in_range": false,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-29 18:00"
     },
     {
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 942,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 23:00"
+    },
+    {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 834,
@@ -197,21 +212,6 @@
       "market_id": "1.258690273",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
-    },
-    {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 644,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 23:00"
     },
     {
       "match": "Real Madrid Castilla v Sabadell",
@@ -274,21 +274,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Dundalk v Derry City",
-      "campionato": "Irish Premier Division",
-      "volume": 355,
-      "quota": 3.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623767",
-      "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Leones FC v Ind Medellin",
       "campionato": "Colombian Cup",
       "volume": 264,
@@ -334,19 +319,19 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Skara Fc v Skovde",
-      "campionato": "Swedish Division 2",
-      "volume": 14,
-      "quota": 22.0,
+      "match": "Dundalk v Derry City",
+      "campionato": "Irish Premier Division",
+      "volume": 60,
+      "quota": 3.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656357",
-      "market_id": "1.258718405",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 19:00"
+      "event_id": "35623767",
+      "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     }
   ],
   "tracked_matches": [
@@ -561,7 +546,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 11506,
+      "volume": 11497,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -645,7 +630,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 7828,
+      "volume": 8116,
       "best_volume": 9037,
       "whale_max": 0,
       "entered": true
@@ -1075,9 +1060,9 @@
       "match": "Cucuta Deportivo v Fortaleza FC",
       "campionato": "Colombian Cup",
       "open_date": "2026-05-29 23:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 644,
+      "volume": 942,
       "best_volume": 1050,
       "whale_max": 0,
       "entered": false
