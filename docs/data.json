@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 11:36:47",
+  "last_update": "29/05/2026 11:37:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "volume": 1274,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623772",
+      "market_id": "1.258640661",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "FK Riga v SC Grobina",
       "campionato": "Latvian Virsliga",
       "volume": 1197,
@@ -304,6 +319,21 @@
       "open_date": "2026-05-29 16:00"
     },
     {
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 830,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 00:30"
+    },
+    {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
       "volume": 811,
@@ -375,21 +405,6 @@
       "source": "Betfair",
       "event_id": "35623767",
       "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Shelbourne v Galway Utd",
-      "campionato": "Irish Premier Division",
-      "volume": 592,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623772",
-      "market_id": "1.258640661",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -512,21 +527,6 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
-    },
-    {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 262,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 00:30"
     },
     {
       "match": "TPV v Tampere Utd",
@@ -1297,10 +1297,10 @@
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 592,
-      "best_volume": 592,
+      "volume": 1274,
+      "best_volume": 1274,
       "whale_max": 0,
       "entered": false
     },
@@ -1445,6 +1445,18 @@
       "quota_iniziale": 1.03,
       "volume": 424,
       "best_volume": 424,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258581475",
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-05-30 00:30",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 830,
+      "best_volume": 830,
       "whale_max": 0,
       "entered": false
     }
