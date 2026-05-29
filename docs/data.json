@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:00:31",
+  "last_update": "29/05/2026 15:01:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "TransINVEST Vilnius v Hegelmann Litauen",
       "campionato": "Lithuanian A Lyga",
-      "volume": 6952,
+      "volume": 5472,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -381,7 +381,7 @@
     {
       "match": "Rudes v NK Sesvete",
       "campionato": "Croatian Prva NL",
-      "volume": 853,
+      "volume": 852,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -467,6 +467,21 @@
       "market_id": "1.258636786",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Naestved v AB",
+      "campionato": "Danish 2nd Division",
+      "volume": 523,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656399",
+      "market_id": "1.258662503",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "SK Super Nova v Rigas Futbola Skola",
@@ -647,21 +662,6 @@
       "market_id": "1.258718099",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:15"
-    },
-    {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 63,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -1299,7 +1299,7 @@
       "open_date": "2026-05-29 17:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 853,
+      "volume": 852,
       "best_volume": 853,
       "whale_max": 0,
       "entered": false
@@ -1323,7 +1323,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 6952,
+      "volume": 5472,
       "best_volume": 8654,
       "whale_max": 0,
       "entered": false
@@ -1497,18 +1497,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258690683",
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "open_date": "2026-05-29 19:30",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 63,
-      "best_volume": 63,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258704255",
       "match": "IFK Berga v Solvesborgs GOIF",
       "campionato": "Swedish Division 2",
@@ -1529,6 +1517,18 @@
       "quota_iniziale": 1.07,
       "volume": 1383,
       "best_volume": 1383,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258662503",
+      "match": "Naestved v AB",
+      "campionato": "Danish 2nd Division",
+      "open_date": "2026-05-29 19:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 523,
+      "best_volume": 523,
       "whale_max": 0,
       "entered": false
     }
