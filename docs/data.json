@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:34:56",
+  "last_update": "29/05/2026 09:35:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
-      "volume": 4354,
+      "volume": 4142,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -589,6 +589,21 @@
       "open_date": "2026-05-29 21:00"
     },
     {
+      "match": "Naestved v AB",
+      "campionato": "Danish 2nd Division",
+      "volume": 104,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656399",
+      "market_id": "1.258662503",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Nomme Utd v Tallinna FC Flora",
       "campionato": "Estonian Premier League",
       "volume": 83,
@@ -662,21 +677,6 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "Naestved v AB",
-      "campionato": "Danish 2nd Division",
-      "volume": 10,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656399",
-      "market_id": "1.258662503",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Longford v Treaty United",
@@ -996,7 +996,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 4354,
+      "volume": 4142,
       "best_volume": 5921,
       "whale_max": 0,
       "entered": false
@@ -1114,9 +1114,9 @@
       "match": "Naestved v AB",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 104,
       "best_volume": 196,
       "whale_max": 0,
       "entered": false
