@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:30:43",
+  "last_update": "29/05/2026 14:31:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "Cobh Ramblers v Kerry FC",
+      "campionato": "Irish Division 1",
+      "volume": 11125,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641235",
+      "market_id": "1.258674826",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
       "volume": 8994,
@@ -90,21 +105,6 @@
       "source": "Betfair",
       "event_id": "35623767",
       "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Cobh Ramblers v Kerry FC",
-      "campionato": "Irish Division 1",
-      "volume": 8619,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641235",
-      "market_id": "1.258674826",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -349,21 +349,6 @@
       "open_date": "2026-05-29 19:30"
     },
     {
-      "match": "Ludogorets v Lokomotiv Plovdiv",
-      "campionato": "Bulgarian A League",
-      "volume": 1050,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652991",
-      "market_id": "1.258624065",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Torns v Linero IF",
       "campionato": "Swedish Division 2",
       "volume": 1011,
@@ -437,6 +422,21 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
+    },
+    {
+      "match": "Ludogorets v Lokomotiv Plovdiv",
+      "campionato": "Bulgarian A League",
+      "volume": 755,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652991",
+      "market_id": "1.258624065",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "IFK Berga v Solvesborgs GOIF",
@@ -666,7 +666,7 @@
     {
       "match": "Vanersborgs FK v Grebbestads IF",
       "campionato": "Swedish Division 2",
-      "volume": 75,
+      "volume": 85,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -1245,7 +1245,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 8619,
+      "volume": 11125,
       "best_volume": 11188,
       "whale_max": 0,
       "entered": false
@@ -1459,9 +1459,9 @@
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
       "open_date": "2026-05-29 18:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1050,
+      "volume": 755,
       "best_volume": 1217,
       "whale_max": 0,
       "entered": false
@@ -1521,7 +1521,7 @@
       "open_date": "2026-05-29 19:15",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 75,
+      "volume": 85,
       "best_volume": 155,
       "whale_max": 0,
       "entered": false
