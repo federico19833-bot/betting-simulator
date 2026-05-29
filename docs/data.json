@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:41:27",
+  "last_update": "29/05/2026 13:42:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
-      "volume": 24074,
+      "volume": 23716,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258650790",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 11883,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Cobh Ramblers v Kerry FC",
@@ -497,6 +482,21 @@
       "market_id": "1.258662503",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 424,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "TPV v Tampere Utd",
@@ -994,9 +994,9 @@
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 11883,
+      "volume": 424,
       "best_volume": 11883,
       "whale_max": 0,
       "entered": false
@@ -1428,7 +1428,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 24074,
+      "volume": 23716,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": false
