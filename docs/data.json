@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:56:05",
+  "last_update": "29/05/2026 13:56:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 15574,
+      "volume": 14475,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "FC Nacka Iliria v Nykopings BIS",
+      "campionato": "Swedish Division 2",
+      "volume": 1520,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656128",
+      "market_id": "1.258656058",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
       "volume": 1487,
@@ -270,6 +285,21 @@
       "source": "Betfair",
       "event_id": "35661717",
       "market_id": "1.258719237",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
+    },
+    {
+      "match": "FK Riga v SC Grobina",
+      "campionato": "Latvian Virsliga",
+      "volume": 904,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653322",
+      "market_id": "1.258634874",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
     },
@@ -379,21 +409,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "FC Nacka Iliria v Nykopings BIS",
-      "campionato": "Swedish Division 2",
-      "volume": 586,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656128",
-      "market_id": "1.258656058",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
       "volume": 551,
@@ -452,21 +467,6 @@
       "market_id": "1.258638011",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "FK Riga v SC Grobina",
-      "campionato": "Latvian Virsliga",
-      "volume": 492,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653322",
-      "market_id": "1.258634874",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Garliava Kaunas v FK Siauliai II",
@@ -576,7 +576,7 @@
     {
       "match": "Vanersborgs FK v Grebbestads IF",
       "campionato": "Swedish Division 2",
-      "volume": 144,
+      "volume": 154,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -632,6 +632,21 @@
       "market_id": "1.258690273",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 62,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -1341,8 +1356,8 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 492,
-      "best_volume": 750,
+      "volume": 904,
+      "best_volume": 904,
       "whale_max": 0,
       "entered": false
     },
@@ -1437,8 +1452,8 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 586,
-      "best_volume": 586,
+      "volume": 1520,
+      "best_volume": 1520,
       "whale_max": 0,
       "entered": false
     },
@@ -1473,8 +1488,20 @@
       "open_date": "2026-05-29 19:15",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 144,
+      "volume": 154,
       "best_volume": 154,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258690683",
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "open_date": "2026-05-29 19:30",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 62,
+      "best_volume": 62,
       "whale_max": 0,
       "entered": false
     }
