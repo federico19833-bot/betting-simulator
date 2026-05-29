@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:59:14",
+  "last_update": "29/05/2026 16:59:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-29 16:00"
     },
     {
+      "match": "Al-Qadsia v Al Jahra",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 11389,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662536",
+      "market_id": "1.258713790",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:20"
+    },
+    {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
       "volume": 11077,
@@ -107,21 +122,6 @@
       "market_id": "1.258640640",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Al-Qadsia v Al Jahra",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 8109,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662536",
-      "market_id": "1.258713790",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:20"
     },
     {
       "match": "Bray Wanderers v Wexford F.C",
@@ -186,8 +186,8 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 2549,
-      "quota": 1.26,
+      "volume": 2564,
+      "quota": 1.27,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -409,36 +409,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 841,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
-    },
-    {
-      "match": "SK Super Nova v Rigas Futbola Skola",
-      "campionato": "Latvian Virsliga",
-      "volume": 806,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653343",
-      "market_id": "1.258638011",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Garliava Kaunas v FK Siauliai II",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 760,
@@ -456,7 +426,7 @@
     {
       "match": "Skara Fc v Skovde",
       "campionato": "Swedish Division 2",
-      "volume": 698,
+      "volume": 708,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -621,7 +591,7 @@
     {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
-      "volume": 250,
+      "volume": 241,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -707,6 +677,21 @@
       "market_id": "1.258704276",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:30"
+    },
+    {
+      "match": "SK Super Nova v Rigas Futbola Skola",
+      "campionato": "Latvian Virsliga",
+      "volume": 55,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653343",
+      "market_id": "1.258638011",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Iran v Gambia",
@@ -978,7 +963,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 250,
+      "volume": 241,
       "best_volume": 21348,
       "whale_max": 0,
       "entered": true
@@ -1086,8 +1071,8 @@
       "open_date": "2026-05-29 18:20",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 8109,
-      "best_volume": 9439,
+      "volume": 11389,
+      "best_volume": 11389,
       "whale_max": 0,
       "entered": false
     },
@@ -1098,7 +1083,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 698,
+      "volume": 708,
       "best_volume": 708,
       "whale_max": 0,
       "entered": false
@@ -1158,7 +1143,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 806,
+      "volume": 55,
       "best_volume": 1794,
       "whale_max": 0,
       "entered": false
@@ -1172,18 +1157,6 @@
       "quota_iniziale": 1.06,
       "volume": 85,
       "best_volume": 1686,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258633926",
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "open_date": "2026-05-29 20:30",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.08,
-      "volume": 841,
-      "best_volume": 1898,
       "whale_max": 0,
       "entered": false
     },
