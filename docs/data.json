@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:47:20",
+  "last_update": "29/05/2026 13:47:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,15 +81,30 @@
     {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
-      "volume": 6664,
+      "volume": 8994,
       "quota": 1.08,
-      "in_range": false,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
       "event_id": "35623767",
       "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "volume": 3180,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623772",
+      "market_id": "1.258640661",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -469,6 +484,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "Thisted v Roskilde",
+      "campionato": "Danish 2nd Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656386",
+      "market_id": "1.258662526",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "volume": 304,
@@ -527,21 +557,6 @@
       "market_id": "1.258674868",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Vanersborgs FK v Grebbestads IF",
-      "campionato": "Swedish Division 2",
-      "volume": 144,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656359",
-      "market_id": "1.258718099",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:15"
     },
     {
       "match": "Riteriai v FK Suduva",
@@ -677,21 +692,6 @@
       "market_id": "1.258656058",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Shelbourne v Galway Utd",
-      "campionato": "Irish Premier Division",
-      "volume": 10,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623772",
-      "market_id": "1.258640661",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Cucuta Deportivo v Fortaleza FC",
@@ -1003,9 +1003,9 @@
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-29 18:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.06,
-      "volume": 551,
+      "volume": 306,
       "best_volume": 36031,
       "whale_max": 0,
       "entered": true
@@ -1051,9 +1051,9 @@
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 3180,
       "best_volume": 10917,
       "whale_max": 0,
       "entered": false
@@ -1065,7 +1065,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 6664,
+      "volume": 8994,
       "best_volume": 14204,
       "whale_max": 0,
       "entered": true
@@ -1463,18 +1463,6 @@
       "quota_iniziale": 1.01,
       "volume": 213,
       "best_volume": 213,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258718099",
-      "match": "Vanersborgs FK v Grebbestads IF",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-05-29 19:15",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 144,
-      "best_volume": 154,
       "whale_max": 0,
       "entered": false
     }
