@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 21:31:08",
+  "last_update": "29/05/2026 21:31:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,10 +19,25 @@
   },
   "live_events": [
     {
+      "match": "Envigado v Real Cartagena",
+      "campionato": "Colombian Primera B",
+      "volume": 5252,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656127",
+      "market_id": "1.258658818",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
+    },
+    {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 6620,
-      "quota": 1.29,
+      "volume": 4382,
+      "quota": 1.3,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,8 +51,8 @@
     {
       "match": "Cucuta Deportivo v Fortaleza FC",
       "campionato": "Colombian Cup",
-      "volume": 3442,
-      "quota": 1.07,
+      "volume": 3984,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,6 +62,21 @@
       "market_id": "1.258700887",
       "_is_inplay": false,
       "open_date": "2026-05-29 23:00"
+    },
+    {
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "volume": 3051,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623772",
+      "market_id": "1.258640661",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -66,8 +96,8 @@
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
       "campionato": "Peruvian Primera Division",
-      "volume": 2092,
-      "quota": 1.19,
+      "volume": 1719,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -81,7 +111,7 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 1035,
+      "volume": 1027,
       "quota": 1.4,
       "in_range": false,
       "monitored": false,
@@ -94,39 +124,9 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Shelbourne v Galway Utd",
-      "campionato": "Irish Premier Division",
-      "volume": 903,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623772",
-      "market_id": "1.258640661",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Envigado v Real Cartagena",
-      "campionato": "Colombian Primera B",
-      "volume": 670,
-      "quota": 1.26,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656127",
-      "market_id": "1.258658818",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 22:00"
-    },
-    {
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
-      "volume": 356,
+      "volume": 366,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -137,21 +137,6 @@
       "market_id": "1.258674847",
       "_is_inplay": true,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "San Antonio Bulo Bulo v Guabira",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 203,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660154",
-      "market_id": "1.258690273",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Leones FC v Ind Medellin",
@@ -167,6 +152,21 @@
       "market_id": "1.258728064",
       "_is_inplay": false,
       "open_date": "2026-05-30 01:00"
+    },
+    {
+      "match": "San Antonio Bulo Bulo v Guabira",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 183,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660154",
+      "market_id": "1.258690273",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Real Madrid Castilla v Sabadell",
@@ -886,9 +886,9 @@
       "match": "Cucuta Deportivo v Fortaleza FC",
       "campionato": "Colombian Cup",
       "open_date": "2026-05-29 23:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 3442,
+      "volume": 3984,
       "best_volume": 4082,
       "whale_max": 0,
       "entered": false
