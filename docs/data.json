@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:59:44",
+  "last_update": "29/05/2026 13:00:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 30970,
+      "volume": 30965,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
-      "volume": 25423,
+      "volume": 25418,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Liaoning Tieren FC v Shanghai Port FC",
       "campionato": "Chinese Super League",
-      "volume": 20238,
+      "volume": 20234,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
-      "volume": 10918,
+      "volume": 10917,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -141,7 +141,7 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 1488,
+      "volume": 1487,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -186,7 +186,7 @@
     {
       "match": "Real Madrid Castilla v Sabadell",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1414,
+      "volume": 1413,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -201,7 +201,7 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 1398,
+      "volume": 1397,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -276,7 +276,7 @@
     {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
-      "volume": 864,
+      "volume": 863,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -291,7 +291,7 @@
     {
       "match": "FK Riga v SC Grobina",
       "campionato": "Latvian Virsliga",
-      "volume": 786,
+      "volume": 785,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -381,7 +381,7 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 634,
+      "volume": 623,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -426,7 +426,7 @@
     {
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
-      "volume": 496,
+      "volume": 495,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -456,7 +456,7 @@
     {
       "match": "South Africa v Nicaragua",
       "campionato": "Friendlies International",
-      "volume": 424,
+      "volume": 423,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -486,7 +486,7 @@
     {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
-      "volume": 374,
+      "volume": 373,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -576,7 +576,7 @@
     {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
-      "volume": 166,
+      "volume": 165,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -589,9 +589,24 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "Drogheda v Waterford",
+      "campionato": "Irish Premier Division",
+      "volume": 144,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624096",
+      "market_id": "1.258640682",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
-      "volume": 98,
+      "volume": 97,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -606,7 +621,7 @@
     {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 72,
+      "volume": 71,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -934,9 +949,9 @@
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 213,
+      "volume": 144,
       "best_volume": 20795,
       "whale_max": 0,
       "entered": true
@@ -960,7 +975,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 424,
+      "volume": 423,
       "best_volume": 21353,
       "whale_max": 0,
       "entered": true
@@ -972,7 +987,7 @@
       "open_date": "2026-05-29 13:35",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 20238,
+      "volume": 20234,
       "best_volume": 20757,
       "whale_max": 0,
       "entered": false
@@ -1068,7 +1083,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 30970,
+      "volume": 30965,
       "best_volume": 36031,
       "whale_max": 0,
       "entered": false
@@ -1236,7 +1251,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1398,
+      "volume": 1397,
       "best_volume": 1488,
       "whale_max": 0,
       "entered": false
@@ -1248,7 +1263,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 10918,
+      "volume": 10917,
       "best_volume": 14204,
       "whale_max": 0,
       "entered": false
@@ -1296,7 +1311,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 1414,
+      "volume": 1413,
       "best_volume": 1414,
       "whale_max": 0,
       "entered": false
@@ -1308,7 +1323,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 72,
+      "volume": 71,
       "best_volume": 1500,
       "whale_max": 0,
       "entered": false
@@ -1320,7 +1335,7 @@
       "open_date": "2026-05-29 22:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 374,
+      "volume": 373,
       "best_volume": 590,
       "whale_max": 0,
       "entered": false
@@ -1356,7 +1371,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 496,
+      "volume": 495,
       "best_volume": 692,
       "whale_max": 0,
       "entered": false
@@ -1380,7 +1395,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 98,
+      "volume": 97,
       "best_volume": 1506,
       "whale_max": 0,
       "entered": false
@@ -1392,7 +1407,7 @@
       "open_date": "2026-05-30 00:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 864,
+      "volume": 863,
       "best_volume": 864,
       "whale_max": 0,
       "entered": false
@@ -1404,7 +1419,7 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 786,
+      "volume": 785,
       "best_volume": 816,
       "whale_max": 0,
       "entered": false
@@ -1452,7 +1467,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1488,
+      "volume": 1487,
       "best_volume": 1488,
       "whale_max": 0,
       "entered": false
@@ -1464,7 +1479,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 166,
+      "volume": 165,
       "best_volume": 166,
       "whale_max": 0,
       "entered": false
