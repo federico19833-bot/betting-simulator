@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 21:29:58",
+  "last_update": "29/05/2026 21:30:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Nice v St Etienne",
+      "campionato": "French Ligue 1 Playoffs",
+      "volume": 6620,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656086",
+      "market_id": "1.258650790",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Cucuta Deportivo v Fortaleza FC",
       "campionato": "Colombian Cup",
-      "volume": 4082,
+      "volume": 3442,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -49,21 +64,6 @@
       "open_date": "2026-05-30 00:30"
     },
     {
-      "match": "Nice v St Etienne",
-      "campionato": "French Ligue 1 Playoffs",
-      "volume": 2530,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656086",
-      "market_id": "1.258650790",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
       "campionato": "Peruvian Primera Division",
       "volume": 2092,
@@ -81,8 +81,8 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 1341,
-      "quota": 1.17,
+      "volume": 1226,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -96,8 +96,8 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 821,
-      "quota": 1.39,
+      "volume": 1043,
+      "quota": 1.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -111,8 +111,8 @@
     {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
-      "volume": 422,
-      "quota": 1.19,
+      "volume": 670,
+      "quota": 1.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -141,8 +141,8 @@
     {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 298,
-      "quota": 1.17,
+      "volume": 203,
+      "quota": 1.19,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -888,7 +888,7 @@
       "open_date": "2026-05-29 23:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 4082,
+      "volume": 3442,
       "best_volume": 4082,
       "whale_max": 0,
       "entered": false
