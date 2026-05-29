@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:50:16",
+  "last_update": "29/05/2026 13:50:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 38352,
+      "volume": 30884,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -90,6 +90,21 @@
       "source": "Betfair",
       "event_id": "35623767",
       "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Drogheda v Waterford",
+      "campionato": "Irish Premier Division",
+      "volume": 4580,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624096",
+      "market_id": "1.258640682",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -244,19 +259,19 @@
       "open_date": "2026-05-30 00:30"
     },
     {
-      "match": "Drogheda v Waterford",
-      "campionato": "Irish Premier Division",
-      "volume": 786,
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 856,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624096",
-      "market_id": "1.258640682",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
       "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Al-Shabab v Al Tadhamon",
@@ -381,7 +396,7 @@
     {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
-      "volume": 530,
+      "volume": 510,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -542,21 +557,6 @@
       "market_id": "1.258674868",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 152,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Vanersborgs FK v Grebbestads IF",
@@ -934,9 +934,9 @@
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 786,
+      "volume": 4580,
       "best_volume": 24074,
       "whale_max": 0,
       "entered": true
@@ -1296,7 +1296,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 38352,
+      "volume": 30884,
       "best_volume": 38352,
       "whale_max": 0,
       "entered": false
@@ -1344,7 +1344,7 @@
       "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 152,
+      "volume": 856,
       "best_volume": 1156,
       "whale_max": 0,
       "entered": false
