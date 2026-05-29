@@ -153,7 +153,7 @@ function render(data) {
     // Entries table
     const tbody = document.getElementById('tableBody');
     if (data.giocate && data.giocate.length > 0) {
-        const maxVisible = 20;
+        const maxVisible = 25;
         const showAll = data.giocate.length <= maxVisible;
         const rows = data.giocate.map((g, i) => {
             const esitoIcon = g.esito === 'VINTA' ? '✅' : g.esito === 'PERSA' ? '❌' : '⏳';
