@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:43:15",
+  "last_update": "29/05/2026 13:43:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "ZED FC v Kahraba Ismailia",
+      "campionato": "Egyptian Premier",
+      "volume": 15077,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644403",
+      "market_id": "1.258638386",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 16:00"
+    },
+    {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
       "volume": 10918,
@@ -107,21 +122,6 @@
       "market_id": "1.258713790",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "ZED FC v Kahraba Ismailia",
-      "campionato": "Egyptian Premier",
-      "volume": 2998,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644403",
-      "market_id": "1.258638386",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 16:00"
     },
     {
       "match": "Shelbourne v Galway Utd",
@@ -994,10 +994,10 @@
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 16:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 2998,
-      "best_volume": 11883,
+      "volume": 15077,
+      "best_volume": 15077,
       "whale_max": 0,
       "entered": false
     },
