@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:51:03",
+  "last_update": "29/05/2026 12:51:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Liaoning Tieren FC v Shanghai Port FC",
       "campionato": "Chinese Super League",
-      "volume": 20495,
+      "volume": 20757,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
-      "volume": 1506,
+      "volume": 1498,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -424,6 +424,21 @@
       "open_date": "2026-05-29 22:00"
     },
     {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 565,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
+    },
+    {
       "match": "Nomme Utd v Tallinna FC Flora",
       "campionato": "Estonian Premier League",
       "volume": 551,
@@ -587,6 +602,21 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 146,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653451",
+      "market_id": "1.258636807",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Ghazl El Mahallah v Haras El Hodood",
@@ -957,7 +987,7 @@
       "open_date": "2026-05-29 13:35",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 20495,
+      "volume": 20757,
       "best_volume": 20757,
       "whale_max": 0,
       "entered": false
@@ -1389,7 +1419,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1506,
+      "volume": 1498,
       "best_volume": 1506,
       "whale_max": 0,
       "entered": false
@@ -1415,6 +1445,30 @@
       "quota_iniziale": 1.08,
       "volume": 786,
       "best_volume": 816,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258636807",
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "open_date": "2026-05-29 18:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 146,
+      "best_volume": 146,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258633926",
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "open_date": "2026-05-29 20:30",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 565,
+      "best_volume": 565,
       "whale_max": 0,
       "entered": false
     }
