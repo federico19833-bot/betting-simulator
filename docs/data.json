@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:44:23",
+  "last_update": "29/05/2026 16:44:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 28176,
+      "volume": 28173,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "Andorra v Iraq",
+      "campionato": "Friendlies International",
+      "volume": 2708,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655349",
+      "market_id": "1.258645696",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Real Madrid Castilla v Sabadell",
       "campionato": "Spanish Segunda B Playoffs",
       "volume": 2658,
@@ -244,21 +259,6 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 1325,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
-    },
-    {
       "match": "KPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "volume": 1321,
@@ -272,6 +272,21 @@
       "market_id": "1.258636286",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 1320,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "UCD v Athlone Town",
@@ -317,21 +332,6 @@
       "market_id": "1.258640088",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:00"
-    },
-    {
-      "match": "Andorra v Iraq",
-      "campionato": "Friendlies International",
-      "volume": 1043,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655349",
-      "market_id": "1.258645696",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "FC Nacka Iliria v Nykopings BIS",
@@ -450,21 +450,6 @@
       "source": "Betfair",
       "event_id": "35656357",
       "market_id": "1.258718405",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Riteriai v FK Suduva",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 589,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653459",
-      "market_id": "1.258638143",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
     },
@@ -666,8 +651,8 @@
     {
       "match": "Rudes v NK Sesvete",
       "campionato": "Croatian Prva NL",
-      "volume": 154,
-      "quota": 1.15,
+      "volume": 148,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -737,6 +722,21 @@
       "market_id": "1.258700887",
       "_is_inplay": false,
       "open_date": "2026-05-29 23:00"
+    },
+    {
+      "match": "Riteriai v FK Suduva",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 8,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653459",
+      "market_id": "1.258638143",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     }
   ],
   "tracked_matches": [
@@ -1093,9 +1093,9 @@
       "match": "Riteriai v FK Suduva",
       "campionato": "Lithuanian A Lyga",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 66,
+      "volume": 8,
       "best_volume": 1448,
       "whale_max": 0,
       "entered": false
@@ -1167,7 +1167,7 @@
       "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 1325,
+      "volume": 1320,
       "best_volume": 1360,
       "whale_max": 0,
       "entered": false
