@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:23:04",
+  "last_update": "29/05/2026 14:23:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 60999,
+      "volume": 60928,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 15461,
+      "volume": 12010,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -167,6 +167,21 @@
       "market_id": "1.258546596",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 1728,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "FC Nacka Iliria v Nykopings BIS",
@@ -437,21 +452,6 @@
       "market_id": "1.258597094",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 624,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Skara Fc v Skovde",
@@ -1113,7 +1113,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 15461,
+      "volume": 12010,
       "best_volume": 15461,
       "whale_max": 0,
       "entered": false
@@ -1267,10 +1267,10 @@
       "match": "UCD v Athlone Town",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 786,
-      "best_volume": 786,
+      "volume": 1728,
+      "best_volume": 1728,
       "whale_max": 0,
       "entered": false
     },
@@ -1341,7 +1341,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 60999,
+      "volume": 60928,
       "best_volume": 62034,
       "whale_max": 0,
       "entered": false
