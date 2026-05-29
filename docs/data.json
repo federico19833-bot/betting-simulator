@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:34:02",
+  "last_update": "29/05/2026 12:34:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -9,13 +9,13 @@
   },
   "stats": {
     "total": 92,
-    "wins": 83,
+    "wins": 84,
     "losses": 6,
-    "in_corso": 3,
+    "in_corso": 2,
     "winrate": 93.3,
-    "profit": 6.09,
-    "roi": 0.07,
-    "balance": 1006.09
+    "profit": 13.69,
+    "roi": 0.15,
+    "balance": 1013.69
   },
   "live_events": [
     {
@@ -51,7 +51,7 @@
     {
       "match": "Liaoning Tieren FC v Shanghai Port FC",
       "campionato": "Chinese Super League",
-      "volume": 20512,
+      "volume": 20351,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 5808,
+      "volume": 5677,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
+    },
+    {
+      "match": "Cobh Ramblers v Kerry FC",
+      "campionato": "Irish Division 1",
+      "volume": 1834,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641235",
+      "market_id": "1.258674826",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Fremad Amager v Skive",
@@ -184,21 +199,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Cobh Ramblers v Kerry FC",
-      "campionato": "Irish Division 1",
-      "volume": 1273,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641235",
-      "market_id": "1.258674826",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
       "volume": 1182,
@@ -257,21 +257,6 @@
       "market_id": "1.258686654",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
-    },
-    {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 978,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -349,6 +334,21 @@
       "open_date": "2026-05-29 18:00"
     },
     {
+      "match": "National Bank v Al Ittihad (EGY)",
+      "campionato": "Egyptian Premier",
+      "volume": 727,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644404",
+      "market_id": "1.258638164",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Al Mokawloon v Modern Sport FC",
       "campionato": "Egyptian Premier",
       "volume": 700,
@@ -409,6 +409,21 @@
       "open_date": "2026-05-29 18:00"
     },
     {
+      "match": "Dinamo Bucharest v FCSB",
+      "campionato": "Romanian Liga I",
+      "volume": 586,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648449",
+      "market_id": "1.258690683",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:30"
+    },
+    {
       "match": "Nomme Utd v Tallinna FC Flora",
       "campionato": "Estonian Premier League",
       "volume": 551,
@@ -426,7 +441,7 @@
     {
       "match": "FK Dainava Alytus v FK Panevezio Ekranas",
       "campionato": "Lithuanian 1 Lyga",
-      "volume": 506,
+      "volume": 496,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -437,21 +452,6 @@
       "market_id": "1.258691568",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
-    },
-    {
-      "match": "National Bank v Al Ittihad (EGY)",
-      "campionato": "Egyptian Premier",
-      "volume": 496,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644404",
-      "market_id": "1.258638164",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "SK Super Nova v Rigas Futbola Skola",
@@ -712,7 +712,7 @@
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "volume": 10,
-      "quota": 1.03,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1002,7 +1002,7 @@
       "open_date": "2026-05-29 13:35",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 20512,
+      "volume": 20351,
       "best_volume": 20512,
       "whale_max": 0,
       "entered": false
@@ -1122,7 +1122,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 506,
+      "volume": 496,
       "best_volume": 893,
       "whale_max": 0,
       "entered": false
@@ -1132,7 +1132,7 @@
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
       "open_date": "2026-05-29 18:20",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
@@ -1218,7 +1218,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 496,
+      "volume": 727,
       "best_volume": 727,
       "whale_max": 0,
       "entered": false
@@ -1254,7 +1254,7 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 978,
+      "volume": 586,
       "best_volume": 978,
       "whale_max": 0,
       "entered": false
@@ -1326,7 +1326,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 5808,
+      "volume": 5677,
       "best_volume": 10886,
       "whale_max": 0,
       "entered": false
@@ -1498,6 +1498,18 @@
       "best_volume": 58,
       "whale_max": 0,
       "entered": false
+    },
+    {
+      "event_id": "bf_1.258674826",
+      "match": "Cobh Ramblers v Kerry FC",
+      "campionato": "Irish Division 1",
+      "open_date": "2026-05-29 20:45",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 1834,
+      "best_volume": 1834,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
@@ -1536,9 +1548,9 @@
       "campionato": "Irish Premier Division",
       "quota": 1.08,
       "volume": 20795,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
-      "risultato": "",
+      "esito": "VINTA",
+      "profitto": 7.6,
+      "risultato": "1-2",
       "risultato_ht": "",
       "whale_max": 0.0,
       "whale_tot": 0.0
