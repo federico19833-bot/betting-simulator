@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 09:27:44",
+  "last_update": "29/05/2026 09:28:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -559,6 +559,21 @@
       "open_date": "2026-05-29 19:30"
     },
     {
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 119,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657650",
+      "market_id": "1.258671817",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 21:00"
+    },
+    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 116,
@@ -587,21 +602,6 @@
       "market_id": "1.258672883",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
-    },
-    {
-      "match": "Real Madrid Castilla v Sabadell",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 75,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657650",
-      "market_id": "1.258671817",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 21:00"
     },
     {
       "match": "Bray Wanderers v Wexford F.C",
@@ -1294,9 +1294,9 @@
       "match": "Real Madrid Castilla v Sabadell",
       "campionato": "Spanish Segunda B Playoffs",
       "open_date": "2026-05-29 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 75,
+      "volume": 119,
       "best_volume": 119,
       "whale_max": 0,
       "entered": false
