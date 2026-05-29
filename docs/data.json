@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 08:45:05",
+  "last_update": "29/05/2026 08:45:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -484,21 +484,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 213,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "IFK Berga v Solvesborgs GOIF",
       "campionato": "Swedish Division 2",
       "volume": 155,
@@ -512,6 +497,21 @@
       "market_id": "1.258704255",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:30"
+    },
+    {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 136,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Naestved v AB",
@@ -1176,7 +1176,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.06,
-      "volume": 213,
+      "volume": 136,
       "best_volume": 286,
       "whale_max": 0,
       "entered": false
