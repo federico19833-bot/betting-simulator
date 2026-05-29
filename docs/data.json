@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 12:18:48",
+  "last_update": "29/05/2026 12:19:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 22821,
+      "volume": 22719,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -199,19 +199,34 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 386,
+      "match": "Dundalk v Derry City",
+      "campionato": "Irish Premier Division",
+      "volume": 400,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623767",
+      "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 395,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
       "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Andorra v Iraq",
@@ -229,19 +244,19 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Dundalk v Derry City",
-      "campionato": "Irish Premier Division",
-      "volume": 269,
-      "quota": 1.07,
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 306,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35623767",
-      "market_id": "1.258640640",
+      "event_id": "35653451",
+      "market_id": "1.258636807",
       "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Drogheda v Waterford",
@@ -697,7 +712,7 @@
       "match": "Kungsangens IF v IK Franke",
       "campionato": "Swedish Division 2",
       "volume": 8,
-      "quota": 1.09,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1065,7 +1080,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 22821,
+      "volume": 22719,
       "best_volume": 36031,
       "whale_max": 0,
       "entered": false
@@ -1267,9 +1282,9 @@
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 269,
+      "volume": 400,
       "best_volume": 1218,
       "whale_max": 0,
       "entered": false
@@ -1419,14 +1434,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258674847",
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "open_date": "2026-05-29 20:45",
+      "event_id": "bf_1.258636807",
+      "match": "TransINVEST Vilnius v Hegelmann Litauen",
+      "campionato": "Lithuanian A Lyga",
+      "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 386,
-      "best_volume": 386,
+      "volume": 306,
+      "best_volume": 306,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258633926",
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "open_date": "2026-05-29 20:30",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 395,
+      "best_volume": 395,
       "whale_max": 0,
       "entered": false
     }
