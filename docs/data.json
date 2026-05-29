@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 20:41:34",
+  "last_update": "29/05/2026 20:42:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 1005.69
   },
   "live_events": [
+    {
+      "match": "Nice v St Etienne",
+      "campionato": "French Ligue 1 Playoffs",
+      "volume": 33926,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656086",
+      "market_id": "1.258650790",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
     {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
@@ -51,7 +66,7 @@
     {
       "match": "Cobh Ramblers v Kerry FC",
       "campionato": "Irish Division 1",
-      "volume": 10867,
+      "volume": 11677,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -75,21 +90,6 @@
       "source": "Betfair",
       "event_id": "35641233",
       "market_id": "1.258674889",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
-      "match": "Nice v St Etienne",
-      "campionato": "French Ligue 1 Playoffs",
-      "volume": 6438,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656086",
-      "market_id": "1.258650790",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -124,6 +124,21 @@
       "open_date": "2026-05-29 21:00"
     },
     {
+      "match": "Drogheda v Waterford",
+      "campionato": "Irish Premier Division",
+      "volume": 4069,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624096",
+      "market_id": "1.258640682",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
       "volume": 3553,
@@ -137,21 +152,6 @@
       "market_id": "1.258658818",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
-    },
-    {
-      "match": "Drogheda v Waterford",
-      "campionato": "Irish Premier Division",
-      "volume": 3170,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624096",
-      "market_id": "1.258640682",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
@@ -184,21 +184,6 @@
       "open_date": "2026-05-30 00:30"
     },
     {
-      "match": "UCD v Athlone Town",
-      "campionato": "Irish Division 1",
-      "volume": 2712,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641234",
-      "market_id": "1.258674847",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 1805,
@@ -212,6 +197,21 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "UCD v Athlone Town",
+      "campionato": "Irish Division 1",
+      "volume": 718,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641234",
+      "market_id": "1.258674847",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "AC Monza v Catanzaro",
@@ -828,7 +828,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 10867,
+      "volume": 11677,
       "best_volume": 16197,
       "whale_max": 0,
       "entered": false
