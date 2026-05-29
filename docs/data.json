@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 18:12:45",
+  "last_update": "29/05/2026 18:13:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 68671,
+      "volume": 68351,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -139,21 +139,6 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 3369,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Garliava Kaunas v FK Siauliai II",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 2529,
@@ -186,7 +171,7 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 1520,
+      "volume": 1735,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -272,6 +257,21 @@
       "market_id": "1.258671817",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Landvetter IS v Qviding FIF",
+      "campionato": "Swedish Division 2",
+      "volume": 1168,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660542",
+      "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Ghazl El Mahallah v Haras El Hodood",
@@ -441,7 +441,7 @@
     {
       "match": "Vanersborgs FK v Grebbestads IF",
       "campionato": "Swedish Division 2",
-      "volume": 275,
+      "volume": 313,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -572,6 +572,21 @@
       "market_id": "1.258704255",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:30"
+    },
+    {
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623772",
+      "market_id": "1.258640661",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     }
   ],
   "tracked_matches": [
@@ -858,7 +873,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 1520,
+      "volume": 1735,
       "best_volume": 75915,
       "whale_max": 0,
       "entered": true
@@ -1038,7 +1053,7 @@
       "open_date": "2026-05-29 19:15",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 275,
+      "volume": 313,
       "best_volume": 2185,
       "whale_max": 0,
       "entered": false
@@ -1050,7 +1065,7 @@
       "open_date": "2026-05-29 18:20",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 68671,
+      "volume": 68351,
       "best_volume": 68671,
       "whale_max": 0,
       "entered": true
@@ -1204,9 +1219,9 @@
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 3369,
+      "volume": 1168,
       "best_volume": 3369,
       "whale_max": 0,
       "entered": false
@@ -1244,6 +1259,18 @@
       "quota_iniziale": 1.06,
       "volume": 10,
       "best_volume": 3271,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258640661",
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "open_date": "2026-05-29 20:45",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
