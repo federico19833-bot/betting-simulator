@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 11:26:19",
+  "last_update": "29/05/2026 11:27:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
-      "volume": 20898,
+      "volume": 20699,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
-      "volume": 10866,
+      "volume": 9779,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -334,21 +334,6 @@
       "open_date": "2026-05-29 19:30"
     },
     {
-      "match": "Dundalk v Derry City",
-      "campionato": "Irish Premier Division",
-      "volume": 574,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623767",
-      "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
       "volume": 454,
@@ -392,6 +377,21 @@
       "market_id": "1.258597094",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Dundalk v Derry City",
+      "campionato": "Irish Premier Division",
+      "volume": 400,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623767",
+      "market_id": "1.258640640",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Al Mokawloon v Modern Sport FC",
@@ -452,21 +452,6 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
-    },
-    {
-      "match": "Bray Wanderers v Wexford F.C",
-      "campionato": "Irish Division 1",
-      "volume": 288,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641233",
-      "market_id": "1.258674889",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Landvetter IS v Qviding FIF",
@@ -632,6 +617,21 @@
       "market_id": "1.258672883",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Bray Wanderers v Wexford F.C",
+      "campionato": "Irish Division 1",
+      "volume": 79,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641233",
+      "market_id": "1.258674889",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Rudes v NK Sesvete",
@@ -996,7 +996,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 10866,
+      "volume": 9779,
       "best_volume": 10866,
       "whale_max": 0,
       "entered": false
@@ -1270,9 +1270,9 @@
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 288,
+      "volume": 79,
       "best_volume": 288,
       "whale_max": 0,
       "entered": false
@@ -1294,9 +1294,9 @@
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 574,
+      "volume": 400,
       "best_volume": 1218,
       "whale_max": 0,
       "entered": false
