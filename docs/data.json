@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 17:57:47",
+  "last_update": "29/05/2026 17:58:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -244,6 +244,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "TPV v Tampere Utd",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1049,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653926",
+      "market_id": "1.258636786",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
       "volume": 1010,
@@ -276,8 +291,8 @@
     {
       "match": "Orgryte v Elfsborg",
       "campionato": "Swedish Allsvenskan",
-      "volume": 970,
-      "quota": 1.09,
+      "volume": 867,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -287,21 +302,6 @@
       "market_id": "1.258597094",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "TPV v Tampere Utd",
-      "campionato": "Finnish Ykkonen",
-      "volume": 933,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653926",
-      "market_id": "1.258636786",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Cerro Largo FC v Cerro",
@@ -828,7 +828,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 933,
+      "volume": 1049,
       "best_volume": 21348,
       "whale_max": 0,
       "entered": true
