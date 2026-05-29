@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:02:48",
+  "last_update": "29/05/2026 16:03:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 28650,
+      "volume": 20040,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Al Mokawloon v Modern Sport FC",
       "campionato": "Egyptian Premier",
-      "volume": 19236,
+      "volume": 19246,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 12114,
+      "volume": 12098,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Dundalk v Derry City",
       "campionato": "Irish Premier Division",
-      "volume": 9006,
+      "volume": 9001,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 8385,
+      "volume": 8381,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
-      "volume": 2982,
+      "volume": 3172,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -184,9 +184,24 @@
       "open_date": "2026-05-29 21:00"
     },
     {
+      "match": "South Africa v Nicaragua",
+      "campionato": "Friendlies International",
+      "volume": 2253,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656162",
+      "market_id": "1.258659091",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Opatija v Karlovac",
       "campionato": "Croatian Prva NL",
-      "volume": 2240,
+      "volume": 2239,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -244,24 +259,9 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "FK Kabel v SU Dinamo Jug",
-      "campionato": "Serbian First League",
-      "volume": 1498,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659735",
-      "market_id": "1.258686654",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
-    },
-    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
-      "volume": 1415,
+      "volume": 1414,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -276,7 +276,7 @@
     {
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
-      "volume": 1218,
+      "volume": 1217,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -289,24 +289,9 @@
       "open_date": "2026-05-29 20:30"
     },
     {
-      "match": "IFK Berga v Solvesborgs GOIF",
-      "campionato": "Swedish Division 2",
-      "volume": 1208,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35658557",
-      "market_id": "1.258704255",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
-    },
-    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
-      "volume": 1145,
+      "volume": 1144,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -317,6 +302,21 @@
       "market_id": "1.258658818",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "FK Kabel v SU Dinamo Jug",
+      "campionato": "Serbian First League",
+      "volume": 1086,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659735",
+      "market_id": "1.258686654",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "FK FAP v FK Graficar",
@@ -351,7 +351,7 @@
     {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
-      "volume": 914,
+      "volume": 915,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -396,7 +396,7 @@
     {
       "match": "Al-Shabab v Al Tadhamon",
       "campionato": "Kuwaiti Premier League",
-      "volume": 761,
+      "volume": 760,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -422,21 +422,6 @@
       "market_id": "1.258718405",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "TPV v Tampere Utd",
-      "campionato": "Finnish Ykkonen",
-      "volume": 581,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653926",
-      "market_id": "1.258636786",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Landvetter IS v Qviding FIF",
@@ -486,7 +471,7 @@
     {
       "match": "Garliava Kaunas v FK Siauliai II",
       "campionato": "Lithuanian 1 Lyga",
-      "volume": 485,
+      "volume": 484,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -501,7 +486,7 @@
     {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
-      "volume": 394,
+      "volume": 395,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -512,6 +497,36 @@
       "market_id": "1.258638386",
       "_is_inplay": true,
       "open_date": "2026-05-29 16:00"
+    },
+    {
+      "match": "TPV v Tampere Utd",
+      "campionato": "Finnish Ykkonen",
+      "volume": 374,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653926",
+      "market_id": "1.258636786",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 340,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "Naestved v AB",
@@ -576,7 +591,7 @@
     {
       "match": "Orgryte v Elfsborg",
       "campionato": "Swedish Allsvenskan",
-      "volume": 291,
+      "volume": 311,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -619,21 +634,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 164,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
-    },
-    {
       "match": "PKK-U v KuPS Akatemia",
       "campionato": "Finnish Ykkonen",
       "volume": 148,
@@ -647,21 +647,6 @@
       "market_id": "1.258636264",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:30"
-    },
-    {
-      "match": "Riteriai v FK Suduva",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 102,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653459",
-      "market_id": "1.258638143",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Vanersborgs FK v Grebbestads IF",
@@ -679,19 +664,19 @@
       "open_date": "2026-05-29 19:15"
     },
     {
-      "match": "South Africa v Nicaragua",
-      "campionato": "Friendlies International",
-      "volume": 80,
-      "quota": 1.1,
+      "match": "Riteriai v FK Suduva",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 66,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656162",
-      "market_id": "1.258659091",
+      "event_id": "35653459",
+      "market_id": "1.258638143",
       "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "KPV v FC Inter 2",
@@ -975,7 +960,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1537,
+      "volume": 2253,
       "best_volume": 21353,
       "whale_max": 0,
       "entered": true
@@ -999,7 +984,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 9006,
+      "volume": 9001,
       "best_volume": 14204,
       "whale_max": 0,
       "entered": true
@@ -1095,7 +1080,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 102,
+      "volume": 66,
       "best_volume": 1448,
       "whale_max": 0,
       "entered": false
@@ -1107,7 +1092,7 @@
       "open_date": "2026-05-29 17:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 2240,
+      "volume": 2239,
       "best_volume": 2240,
       "whale_max": 0,
       "entered": false
@@ -1179,7 +1164,7 @@
       "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1218,
+      "volume": 1217,
       "best_volume": 1360,
       "whale_max": 0,
       "entered": false
@@ -1203,7 +1188,7 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 1498,
+      "volume": 1086,
       "best_volume": 1498,
       "whale_max": 0,
       "entered": false
@@ -1227,7 +1212,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 291,
+      "volume": 311,
       "best_volume": 1833,
       "whale_max": 0,
       "entered": false
@@ -1239,7 +1224,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 394,
+      "volume": 395,
       "best_volume": 687,
       "whale_max": 0,
       "entered": false
@@ -1251,7 +1236,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 914,
+      "volume": 915,
       "best_volume": 1217,
       "whale_max": 0,
       "entered": false
@@ -1263,7 +1248,7 @@
       "open_date": "2026-05-29 18:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 485,
+      "volume": 484,
       "best_volume": 485,
       "whale_max": 0,
       "entered": false
@@ -1321,22 +1306,10 @@
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "open_date": "2026-05-29 20:00",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 164,
-      "best_volume": 1383,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258704255",
-      "match": "IFK Berga v Solvesborgs GOIF",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 1208,
-      "best_volume": 1208,
+      "quota_iniziale": 1.07,
+      "volume": 340,
+      "best_volume": 1383,
       "whale_max": 0,
       "entered": false
     },
@@ -1371,7 +1344,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 19236,
+      "volume": 19246,
       "best_volume": 19246,
       "whale_max": 0,
       "entered": false
@@ -1407,7 +1380,7 @@
       "open_date": "2026-05-29 18:20",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 761,
+      "volume": 760,
       "best_volume": 761,
       "whale_max": 0,
       "entered": false
@@ -1419,8 +1392,8 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 2982,
-      "best_volume": 2992,
+      "volume": 3172,
+      "best_volume": 3172,
       "whale_max": 0,
       "entered": false
     },
@@ -1431,7 +1404,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 8385,
+      "volume": 8381,
       "best_volume": 8385,
       "whale_max": 0,
       "entered": true
@@ -1443,7 +1416,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 12114,
+      "volume": 12098,
       "best_volume": 12114,
       "whale_max": 0,
       "entered": false
@@ -1467,7 +1440,7 @@
       "open_date": "2026-05-29 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1415,
+      "volume": 1414,
       "best_volume": 1415,
       "whale_max": 0,
       "entered": false
@@ -1503,7 +1476,7 @@
       "open_date": "2026-05-29 22:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1145,
+      "volume": 1144,
       "best_volume": 1145,
       "whale_max": 0,
       "entered": false
