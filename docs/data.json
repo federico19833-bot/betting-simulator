@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 19:44:00",
+  "last_update": "29/05/2026 19:44:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Longford v Treaty United",
-      "campionato": "Irish Division 1",
-      "volume": 9638,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651775",
-      "market_id": "1.258674910",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
       "volume": 8971,
@@ -105,6 +90,21 @@
       "source": "Betfair",
       "event_id": "35641233",
       "market_id": "1.258674889",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Longford v Treaty United",
+      "campionato": "Irish Division 1",
+      "volume": 8960,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651775",
+      "market_id": "1.258674910",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -274,21 +274,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Dundalk v Derry City",
-      "campionato": "Irish Premier Division",
-      "volume": 304,
-      "quota": 2.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623767",
-      "market_id": "1.258640640",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Shamrock Rovers v St Patricks",
       "campionato": "Irish Premier Division",
       "volume": 301,
@@ -302,6 +287,21 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 294,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 00:30"
     },
     {
       "match": "Leones FC v Ind Medellin",
@@ -334,25 +334,25 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 162,
-      "quota": 1.12,
+      "match": "Dundalk v Derry City",
+      "campionato": "Irish Premier Division",
+      "volume": 95,
+      "quota": 2.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
+      "event_id": "35623767",
+      "market_id": "1.258640640",
       "_is_inplay": false,
-      "open_date": "2026-05-30 00:30"
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Skara Fc v Skovde",
       "campionato": "Swedish Division 2",
-      "volume": 15,
-      "quota": 2.58,
+      "volume": 31,
+      "quota": 3.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -362,6 +362,21 @@
       "market_id": "1.258718405",
       "_is_inplay": true,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 23:00"
     }
   ],
   "tracked_matches": [
@@ -1090,9 +1105,9 @@
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 9638,
+      "volume": 8960,
       "best_volume": 12566,
       "whale_max": 0,
       "entered": true
@@ -1106,6 +1121,18 @@
       "quota_iniziale": 1.01,
       "volume": 389,
       "best_volume": 389,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258700887",
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "open_date": "2026-05-29 23:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
