@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 18:28:24",
+  "last_update": "29/05/2026 18:28:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Naestved v AB",
       "campionato": "Danish 2nd Division",
-      "volume": 68351,
+      "volume": 61118,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Torns v Linero IF",
       "campionato": "Swedish Division 2",
-      "volume": 6836,
+      "volume": 6840,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "National Bank v Al Ittihad (EGY)",
+      "campionato": "Egyptian Premier",
+      "volume": 2201,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644404",
+      "market_id": "1.258638164",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Drogheda v Waterford",
       "campionato": "Irish Premier Division",
       "volume": 2183,
@@ -199,25 +214,10 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "National Bank v Al Ittihad (EGY)",
-      "campionato": "Egyptian Premier",
-      "volume": 1605,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644404",
-      "market_id": "1.258638164",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
-      "volume": 1597,
-      "quota": 1.1,
+      "volume": 1632,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -319,24 +319,9 @@
       "open_date": "2026-05-29 19:30"
     },
     {
-      "match": "Shelbourne v Galway Utd",
-      "campionato": "Irish Premier Division",
-      "volume": 1082,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35623772",
-      "market_id": "1.258640661",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Bray Wanderers v Wexford F.C",
       "campionato": "Irish Division 1",
-      "volume": 817,
+      "volume": 807,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -362,21 +347,6 @@
       "market_id": "1.258638032",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Al-Shabab v Al Tadhamon",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 591,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660324",
-      "market_id": "1.258698739",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 18:20"
     },
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
@@ -454,21 +424,6 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Sligo Rovers v Bohemians",
-      "campionato": "Irish Premier Division",
-      "volume": 336,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624039",
-      "market_id": "1.258640619",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:45"
-    },
-    {
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "volume": 282,
@@ -514,6 +469,21 @@
       "open_date": "2026-05-29 19:00"
     },
     {
+      "match": "Al-Shabab v Al Tadhamon",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 148,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660324",
+      "market_id": "1.258698739",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 18:20"
+    },
+    {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
       "volume": 119,
@@ -525,6 +495,21 @@
       "source": "Betfair",
       "event_id": "35651775",
       "market_id": "1.258674910",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Shelbourne v Galway Utd",
+      "campionato": "Irish Premier Division",
+      "volume": 119,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35623772",
+      "market_id": "1.258640661",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
     },
@@ -542,6 +527,21 @@
       "market_id": "1.258640885",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Sligo Rovers v Bohemians",
+      "campionato": "Irish Premier Division",
+      "volume": 25,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624039",
+      "market_id": "1.258640619",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:45"
     },
     {
       "match": "Al-Qadsia v Al Jahra",
@@ -855,7 +855,7 @@
       "open_date": "2026-05-29 20:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 817,
+      "volume": 807,
       "best_volume": 8385,
       "whale_max": 0,
       "entered": true
@@ -925,9 +925,9 @@
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 336,
+      "volume": 25,
       "best_volume": 10977,
       "whale_max": 0,
       "entered": true
@@ -1023,7 +1023,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 68351,
+      "volume": 61118,
       "best_volume": 68351,
       "whale_max": 0,
       "entered": true
@@ -1215,8 +1215,8 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 6836,
-      "best_volume": 6836,
+      "volume": 6840,
+      "best_volume": 6840,
       "whale_max": 0,
       "entered": false
     },
@@ -1237,9 +1237,9 @@
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
       "open_date": "2026-05-29 20:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.07,
-      "volume": 1082,
+      "volume": 119,
       "best_volume": 1082,
       "whale_max": 0,
       "entered": false
