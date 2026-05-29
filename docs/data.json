@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 02:32:55",
+  "last_update": "29/05/2026 02:33:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 4223,
+      "volume": 5673,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -49,19 +49,19 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "FK Dainava Alytus v FK Panevezio Ekranas",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 3341,
-      "quota": 1.1,
+      "match": "America de Cali S.A v Macara",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 3727,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35659177",
-      "market_id": "1.258691568",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
+      "event_id": "35639731",
+      "market_id": "1.258646000",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 02:30"
     },
     {
       "match": "Cruzeiro MG v Barcelona (ECU)",
@@ -184,6 +184,21 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "FK Dainava Alytus v FK Panevezio Ekranas",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 877,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659177",
+      "market_id": "1.258691568",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
       "volume": 831,
@@ -274,21 +289,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "America de Cali S.A v Macara",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 527,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639731",
-      "market_id": "1.258646000",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 02:30"
-    },
-    {
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
       "volume": 523,
@@ -364,21 +364,6 @@
       "open_date": "2026-05-29 16:00"
     },
     {
-      "match": "Boca Juniors v Univ Catolica (Chile)",
-      "campionato": "CONMEBOL Copa Libertadores",
-      "volume": 305,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35633661",
-      "market_id": "1.258516637",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 02:30"
-    },
-    {
       "match": "KPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "volume": 194,
@@ -452,6 +437,21 @@
       "market_id": "1.258640661",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Boca Juniors v Univ Catolica (Chile)",
+      "campionato": "CONMEBOL Copa Libertadores",
+      "volume": 86,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35633661",
+      "market_id": "1.258516637",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 02:30"
     },
     {
       "match": "South Africa v Nicaragua",
@@ -709,9 +709,9 @@
       "match": "Boca Juniors v Univ Catolica (Chile)",
       "campionato": "CONMEBOL Copa Libertadores",
       "open_date": "2026-05-29 02:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 305,
+      "volume": 86,
       "best_volume": 6199,
       "whale_max": 0,
       "entered": false
@@ -961,10 +961,10 @@
       "match": "America de Cali S.A v Macara",
       "campionato": "CONMEBOL Copa Sudamericana",
       "open_date": "2026-05-29 02:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 527,
-      "best_volume": 3646,
+      "volume": 3727,
+      "best_volume": 3727,
       "whale_max": 0,
       "entered": false
     },
@@ -1011,8 +1011,8 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 4223,
-      "best_volume": 4223,
+      "volume": 5673,
+      "best_volume": 5673,
       "whale_max": 0,
       "entered": false
     },
