@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 01:39:38",
+  "last_update": "30/05/2026 01:40:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -17,7 +17,23 @@
     "roi": -0.06,
     "balance": 993.19
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 464,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 00:30"
+    }
+  ],
   "tracked_matches": [
     {
       "event_id": "bf_1.258405477",
