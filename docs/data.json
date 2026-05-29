@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:33:00",
+  "last_update": "29/05/2026 14:33:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Andorra v Iraq",
       "campionato": "Friendlies International",
-      "volume": 68402,
+      "volume": 68393,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -304,21 +304,6 @@
       "open_date": "2026-05-29 20:00"
     },
     {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 1360,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
-    },
-    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
       "volume": 1354,
@@ -422,21 +407,6 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "Ludogorets v Lokomotiv Plovdiv",
-      "campionato": "Bulgarian A League",
-      "volume": 755,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35652991",
-      "market_id": "1.258624065",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "IFK Berga v Solvesborgs GOIF",
@@ -574,6 +544,21 @@
       "open_date": "2026-05-29 18:30"
     },
     {
+      "match": "Ludogorets v Lokomotiv Plovdiv",
+      "campionato": "Bulgarian A League",
+      "volume": 436,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35652991",
+      "market_id": "1.258624065",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "volume": 294,
@@ -602,6 +587,21 @@
       "market_id": "1.258656037",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 200,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Cork City v Finn Harps",
@@ -1341,7 +1341,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 68402,
+      "volume": 68393,
       "best_volume": 69928,
       "whale_max": 0,
       "entered": false
@@ -1387,9 +1387,9 @@
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "open_date": "2026-05-29 20:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 1360,
+      "volume": 200,
       "best_volume": 1360,
       "whale_max": 0,
       "entered": false
@@ -1459,9 +1459,9 @@
       "match": "Ludogorets v Lokomotiv Plovdiv",
       "campionato": "Bulgarian A League",
       "open_date": "2026-05-29 18:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 755,
+      "volume": 436,
       "best_volume": 1217,
       "whale_max": 0,
       "entered": false
