@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 16:22:39",
+  "last_update": "29/05/2026 16:23:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 27541,
+      "volume": 27538,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -152,6 +152,21 @@
       "market_id": "1.258719237",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
+    },
+    {
+      "match": "Andorra v Iraq",
+      "campionato": "Friendlies International",
+      "volume": 3266,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35655349",
+      "market_id": "1.258645696",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Longford v Treaty United",
@@ -394,36 +409,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 775,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
-    },
-    {
-      "match": "Andorra v Iraq",
-      "campionato": "Friendlies International",
-      "volume": 771,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35655349",
-      "market_id": "1.258645696",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Garliava Kaunas v FK Siauliai II",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 760,
@@ -602,6 +587,21 @@
       "market_id": "1.258636807",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 224,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
     },
     {
       "match": "Ghazl El Mahallah v Haras El Hodood",
@@ -1150,9 +1150,9 @@
       "match": "Bosnia v North Macedonia",
       "campionato": "Friendlies International",
       "open_date": "2026-05-29 20:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 775,
+      "volume": 224,
       "best_volume": 1360,
       "whale_max": 0,
       "entered": false
