@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 23:31:20",
+  "last_update": "29/05/2026 23:31:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
-      "volume": 3261,
-      "quota": 1.19,
+      "volume": 3007,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,6 +49,21 @@
       "open_date": "2026-05-29 23:00"
     },
     {
+      "match": "Atletico Grau v Cesar Vallejo Moquegua",
+      "campionato": "Peruvian Primera Division",
+      "volume": 891,
+      "quota": 1.54,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645531",
+      "market_id": "1.258546596",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 22:00"
+    },
+    {
       "match": "Leones FC v Ind Medellin",
       "campionato": "Colombian Cup",
       "volume": 854,
@@ -62,21 +77,6 @@
       "market_id": "1.258728064",
       "_is_inplay": false,
       "open_date": "2026-05-30 01:00"
-    },
-    {
-      "match": "Atletico Grau v Cesar Vallejo Moquegua",
-      "campionato": "Peruvian Primera Division",
-      "volume": 43,
-      "quota": 1.61,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645531",
-      "market_id": "1.258546596",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 22:00"
     }
   ],
   "tracked_matches": [
