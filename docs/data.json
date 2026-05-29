@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 08:49:11",
+  "last_update": "29/05/2026 08:49:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -589,21 +589,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "National Bank v Al Ittihad (EGY)",
-      "campionato": "Egyptian Premier",
-      "volume": 19,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644404",
-      "market_id": "1.258638164",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "Iran v Gambia",
       "campionato": "Friendlies International",
       "volume": 10,
@@ -647,6 +632,21 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
+    },
+    {
+      "match": "National Bank v Al Ittihad (EGY)",
+      "campionato": "Egyptian Premier",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644404",
+      "market_id": "1.258638164",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     }
   ],
   "tracked_matches": [
@@ -1087,9 +1087,9 @@
       "match": "National Bank v Al Ittihad (EGY)",
       "campionato": "Egyptian Premier",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 19,
+      "volume": 10,
       "best_volume": 1805,
       "whale_max": 0,
       "entered": false
