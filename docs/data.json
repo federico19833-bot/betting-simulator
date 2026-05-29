@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 11:13:35",
+  "last_update": "29/05/2026 11:14:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "ZED FC v Kahraba Ismailia",
       "campionato": "Egyptian Premier",
-      "volume": 6850,
+      "volume": 6840,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -559,6 +559,21 @@
       "open_date": "2026-05-29 20:00"
     },
     {
+      "match": "Ghazl El Mahallah v Haras El Hodood",
+      "campionato": "Egyptian Premier",
+      "volume": 170,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644394",
+      "market_id": "1.258638032",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "IFK Berga v Solvesborgs GOIF",
       "campionato": "Swedish Division 2",
       "volume": 155,
@@ -722,21 +737,6 @@
       "market_id": "1.258700887",
       "_is_inplay": false,
       "open_date": "2026-05-29 23:00"
-    },
-    {
-      "match": "Ghazl El Mahallah v Haras El Hodood",
-      "campionato": "Egyptian Premier",
-      "volume": 8,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644394",
-      "market_id": "1.258638032",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     }
   ],
   "tracked_matches": [
@@ -1011,7 +1011,7 @@
       "open_date": "2026-05-29 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 6850,
+      "volume": 6840,
       "best_volume": 8604,
       "whale_max": 0,
       "entered": false
@@ -1227,7 +1227,7 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 8,
+      "volume": 170,
       "best_volume": 314,
       "whale_max": 0,
       "entered": false
