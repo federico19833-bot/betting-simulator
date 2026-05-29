@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:36:55",
+  "last_update": "29/05/2026 15:37:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -201,7 +201,7 @@
     {
       "match": "FK FAP v FK Graficar",
       "campionato": "Serbian First League",
-      "volume": 2208,
+      "volume": 2207,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -257,6 +257,21 @@
       "market_id": "1.258671817",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Atletico Grau v Cesar Vallejo Moquegua",
+      "campionato": "Peruvian Primera Division",
+      "volume": 1444,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645531",
+      "market_id": "1.258546596",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
     },
     {
       "match": "Shamrock Rovers v St Patricks",
@@ -332,6 +347,21 @@
       "market_id": "1.258686654",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
+    },
+    {
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 1067,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:00"
     },
     {
       "match": "Torns v Linero IF",
@@ -422,36 +452,6 @@
       "market_id": "1.258698739",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:20"
-    },
-    {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 738,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
-    },
-    {
-      "match": "Atletico Grau v Cesar Vallejo Moquegua",
-      "campionato": "Peruvian Primera Division",
-      "volume": 708,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645531",
-      "market_id": "1.258546596",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 22:00"
     },
     {
       "match": "ZED FC v Kahraba Ismailia",
@@ -1179,7 +1179,7 @@
       "open_date": "2026-05-29 22:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 708,
+      "volume": 1444,
       "best_volume": 1770,
       "whale_max": 0,
       "entered": false
@@ -1371,7 +1371,7 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 2208,
+      "volume": 2207,
       "best_volume": 2208,
       "whale_max": 0,
       "entered": false
@@ -1503,7 +1503,7 @@
       "open_date": "2026-05-29 20:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 738,
+      "volume": 1067,
       "best_volume": 1383,
       "whale_max": 0,
       "entered": false
