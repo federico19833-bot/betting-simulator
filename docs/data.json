@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:49:17",
+  "last_update": "29/05/2026 15:49:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "South Africa v Nicaragua",
-      "campionato": "Friendlies International",
-      "volume": 4018,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656162",
-      "market_id": "1.258659091",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Longford v Treaty United",
       "campionato": "Irish Division 1",
       "volume": 2992,
@@ -184,9 +169,24 @@
       "open_date": "2026-05-29 20:45"
     },
     {
+      "match": "South Africa v Nicaragua",
+      "campionato": "Friendlies International",
+      "volume": 2811,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656162",
+      "market_id": "1.258659091",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
+    },
+    {
       "match": "Opatija v Karlovac",
       "campionato": "Croatian Prva NL",
-      "volume": 2240,
+      "volume": 2239,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -559,6 +559,21 @@
       "open_date": "2026-05-29 16:00"
     },
     {
+      "match": "AC Monza v Catanzaro",
+      "campionato": "Italian Serie B",
+      "volume": 342,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648330",
+      "market_id": "1.258640088",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:00"
+    },
+    {
       "match": "Sligo Rovers v Bohemians",
       "campionato": "Irish Premier Division",
       "volume": 314,
@@ -619,25 +634,10 @@
       "open_date": "2026-05-29 20:45"
     },
     {
-      "match": "AC Monza v Catanzaro",
-      "campionato": "Italian Serie B",
-      "volume": 156,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648330",
-      "market_id": "1.258640088",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 20:00"
-    },
-    {
       "match": "Riteriai v FK Suduva",
       "campionato": "Lithuanian A Lyga",
-      "volume": 98,
-      "quota": 1.06,
+      "volume": 153,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -681,7 +681,7 @@
     {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
-      "volume": 84,
+      "volume": 83,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -990,7 +990,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 4018,
+      "volume": 2811,
       "best_volume": 21353,
       "whale_max": 0,
       "entered": true
@@ -1108,9 +1108,9 @@
       "match": "Riteriai v FK Suduva",
       "campionato": "Lithuanian A Lyga",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 98,
+      "volume": 153,
       "best_volume": 1448,
       "whale_max": 0,
       "entered": false
@@ -1122,7 +1122,7 @@
       "open_date": "2026-05-29 17:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 2240,
+      "volume": 2239,
       "best_volume": 2240,
       "whale_max": 0,
       "entered": false
@@ -1336,9 +1336,9 @@
       "match": "AC Monza v Catanzaro",
       "campionato": "Italian Serie B",
       "open_date": "2026-05-29 20:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 156,
+      "volume": 342,
       "best_volume": 1383,
       "whale_max": 0,
       "entered": false
