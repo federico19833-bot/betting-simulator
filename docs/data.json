@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:15:16",
+  "last_update": "29/05/2026 15:15:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -557,6 +557,21 @@
       "market_id": "1.258691890",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:30"
+    },
+    {
+      "match": "Vaxjo Norra IF v Rappe Goif",
+      "campionato": "Swedish Division 2",
+      "volume": 469,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656617",
+      "market_id": "1.258718384",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -1529,6 +1544,18 @@
       "quota_iniziale": 1.01,
       "volume": 523,
       "best_volume": 523,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258718384",
+      "match": "Vaxjo Norra IF v Rappe Goif",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-29 19:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 469,
+      "best_volume": 469,
       "whale_max": 0,
       "entered": false
     }
