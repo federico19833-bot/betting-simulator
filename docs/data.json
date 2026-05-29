@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 15:07:33",
+  "last_update": "29/05/2026 15:08:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -484,21 +484,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 562,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
-    },
-    {
       "match": "TPV v Tampere Utd",
       "campionato": "Finnish Ykkonen",
       "volume": 530,
@@ -572,6 +557,21 @@
       "market_id": "1.258640619",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "Landvetter IS v Qviding FIF",
+      "campionato": "Swedish Division 2",
+      "volume": 295,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660542",
+      "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Iran v Gambia",
@@ -1465,9 +1465,9 @@
       "match": "Landvetter IS v Qviding FIF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 562,
+      "volume": 295,
       "best_volume": 830,
       "whale_max": 0,
       "entered": false
