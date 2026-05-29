@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 21:36:22",
+  "last_update": "29/05/2026 21:36:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,36 @@
     "balance": 1060.89
   },
   "live_events": [
+    {
+      "match": "Real Madrid Castilla v Sabadell",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 8015,
+      "quota": 1.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657650",
+      "market_id": "1.258671817",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 21:00"
+    },
+    {
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 4531,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 23:00"
+    },
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
       "campionato": "Peruvian Primera Division",
@@ -49,25 +79,10 @@
       "open_date": "2026-05-30 00:30"
     },
     {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 1998,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 23:00"
-    },
-    {
       "match": "Shelbourne v Galway Utd",
       "campionato": "Irish Premier Division",
-      "volume": 1025,
-      "quota": 1.4,
+      "volume": 2427,
+      "quota": 1.38,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -81,7 +96,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 696,
+      "volume": 1333,
       "quota": 1.24,
       "in_range": false,
       "monitored": false,
@@ -124,21 +139,6 @@
       "open_date": "2026-05-30 01:00"
     },
     {
-      "match": "Envigado v Real Cartagena",
-      "campionato": "Colombian Primera B",
-      "volume": 171,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656127",
-      "market_id": "1.258658818",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 22:00"
-    },
-    {
       "match": "San Antonio Bulo Bulo v Guabira",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 166,
@@ -154,19 +154,19 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Real Madrid Castilla v Sabadell",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 132,
-      "quota": 1.34,
+      "match": "Envigado v Real Cartagena",
+      "campionato": "Colombian Primera B",
+      "volume": 135,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657650",
-      "market_id": "1.258671817",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 21:00"
+      "event_id": "35656127",
+      "market_id": "1.258658818",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 22:00"
     }
   ],
   "tracked_matches": [
@@ -849,7 +849,7 @@
       "open_date": "2026-05-29 23:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 1998,
+      "volume": 4531,
       "best_volume": 4573,
       "whale_max": 0,
       "entered": false
