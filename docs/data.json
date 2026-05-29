@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 13:56:41",
+  "last_update": "29/05/2026 13:57:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 14475,
+      "volume": 16090,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -229,19 +229,19 @@
       "open_date": "2026-05-29 21:00"
     },
     {
-      "match": "Bosnia v North Macedonia",
-      "campionato": "Friendlies International",
-      "volume": 1359,
-      "quota": 1.08,
+      "match": "Hestrafors v IF Boljan",
+      "campionato": "Swedish Division 2",
+      "volume": 1207,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35654074",
-      "market_id": "1.258633926",
+      "event_id": "35656358",
+      "market_id": "1.258704276",
       "_is_inplay": false,
-      "open_date": "2026-05-29 20:30"
+      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Torns v Linero IF",
@@ -544,21 +544,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "Al-Qadsia v Al Jahra",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 178,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662536",
-      "market_id": "1.258713790",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:20"
-    },
-    {
       "match": "Cork City v Finn Harps",
       "campionato": "Irish Division 1",
       "volume": 166,
@@ -587,6 +572,36 @@
       "market_id": "1.258718099",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:15"
+    },
+    {
+      "match": "Bosnia v North Macedonia",
+      "campionato": "Friendlies International",
+      "volume": 152,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654074",
+      "market_id": "1.258633926",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 20:30"
+    },
+    {
+      "match": "Al-Qadsia v Al Jahra",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 138,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662536",
+      "market_id": "1.258713790",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:20"
     },
     {
       "match": "Riteriai v FK Suduva",
@@ -632,21 +647,6 @@
       "market_id": "1.258690273",
       "_is_inplay": false,
       "open_date": "2026-05-29 21:00"
-    },
-    {
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
-      "volume": 62,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648449",
-      "market_id": "1.258690683",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:30"
     },
     {
       "match": "Sligo Rovers v Bohemians",
@@ -1236,7 +1236,7 @@
       "open_date": "2026-05-29 18:20",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 178,
+      "volume": 138,
       "best_volume": 3444,
       "whale_max": 0,
       "entered": false
@@ -1344,7 +1344,7 @@
       "open_date": "2026-05-29 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1359,
+      "volume": 152,
       "best_volume": 1359,
       "whale_max": 0,
       "entered": false
@@ -1494,14 +1494,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258690683",
-      "match": "Dinamo Bucharest v FCSB",
-      "campionato": "Romanian Liga I",
+      "event_id": "bf_1.258704276",
+      "match": "Hestrafors v IF Boljan",
+      "campionato": "Swedish Division 2",
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 62,
-      "best_volume": 62,
+      "volume": 1207,
+      "best_volume": 1207,
       "whale_max": 0,
       "entered": false
     }
