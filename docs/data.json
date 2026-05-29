@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 14:02:03",
+  "last_update": "29/05/2026 14:02:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Nice v St Etienne",
       "campionato": "French Ligue 1 Playoffs",
-      "volume": 16985,
+      "volume": 16992,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -152,6 +152,21 @@
       "market_id": "1.258640661",
       "_is_inplay": false,
       "open_date": "2026-05-29 20:45"
+    },
+    {
+      "match": "FK FAP v FK Graficar",
+      "campionato": "Serbian First League",
+      "volume": 2207,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661717",
+      "market_id": "1.258719237",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
     },
     {
       "match": "Atletico Grau v Cesar Vallejo Moquegua",
@@ -285,21 +300,6 @@
       "source": "Betfair",
       "event_id": "35659735",
       "market_id": "1.258686654",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
-    },
-    {
-      "match": "FK FAP v FK Graficar",
-      "campionato": "Serbian First League",
-      "volume": 1000,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661717",
-      "market_id": "1.258719237",
       "_is_inplay": false,
       "open_date": "2026-05-29 17:00"
     },
@@ -469,6 +469,21 @@
       "open_date": "2026-05-29 18:00"
     },
     {
+      "match": "FK Riga v SC Grobina",
+      "campionato": "Latvian Virsliga",
+      "volume": 513,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653322",
+      "market_id": "1.258634874",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 17:00"
+    },
+    {
       "match": "SK Super Nova v Rigas Futbola Skola",
       "campionato": "Latvian Virsliga",
       "volume": 496,
@@ -499,6 +514,21 @@
       "open_date": "2026-05-29 18:30"
     },
     {
+      "match": "Landvetter IS v Qviding FIF",
+      "campionato": "Swedish Division 2",
+      "volume": 436,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660542",
+      "market_id": "1.258703931",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 19:00"
+    },
+    {
       "match": "Rudes v NK Sesvete",
       "campionato": "Croatian Prva NL",
       "volume": 405,
@@ -527,36 +557,6 @@
       "market_id": "1.258658818",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
-    },
-    {
-      "match": "FK Riga v SC Grobina",
-      "campionato": "Latvian Virsliga",
-      "volume": 334,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653322",
-      "market_id": "1.258634874",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:00"
-    },
-    {
-      "match": "Landvetter IS v Qviding FIF",
-      "campionato": "Swedish Division 2",
-      "volume": 305,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660542",
-      "market_id": "1.258703931",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 19:00"
     },
     {
       "match": "Kungsangens IF v IK Franke",
@@ -606,7 +606,7 @@
     {
       "match": "Al-Qadsia v Al Jahra",
       "campionato": "Kuwaiti Premier League",
-      "volume": 139,
+      "volume": 138,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -651,7 +651,7 @@
     {
       "match": "Dinamo Bucharest v FCSB",
       "campionato": "Romanian Liga I",
-      "volume": 63,
+      "volume": 62,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -1266,7 +1266,7 @@
       "open_date": "2026-05-29 18:20",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 139,
+      "volume": 138,
       "best_volume": 3444,
       "whale_max": 0,
       "entered": false
@@ -1386,8 +1386,8 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 1000,
-      "best_volume": 1000,
+      "volume": 2207,
+      "best_volume": 2207,
       "whale_max": 0,
       "entered": false
     },
@@ -1482,8 +1482,8 @@
       "open_date": "2026-05-29 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 305,
-      "best_volume": 305,
+      "volume": 436,
+      "best_volume": 436,
       "whale_max": 0,
       "entered": false
     },
@@ -1530,7 +1530,7 @@
       "open_date": "2026-05-29 19:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 63,
+      "volume": 62,
       "best_volume": 63,
       "whale_max": 0,
       "entered": false
@@ -1554,7 +1554,7 @@
       "open_date": "2026-05-29 17:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 334,
+      "volume": 513,
       "best_volume": 513,
       "whale_max": 0,
       "entered": false
