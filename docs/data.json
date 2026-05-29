@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 02:39:09",
+  "last_update": "29/05/2026 02:39:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,24 +34,9 @@
       "open_date": "2026-05-29 18:00"
     },
     {
-      "match": "America de Cali S.A v Macara",
-      "campionato": "CONMEBOL Copa Sudamericana",
-      "volume": 5883,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35639731",
-      "market_id": "1.258646000",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 02:30"
-    },
-    {
       "match": "Thisted v Roskilde",
       "campionato": "Danish 2nd Division",
-      "volume": 4606,
+      "volume": 4653,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -62,6 +47,21 @@
       "market_id": "1.258662526",
       "_is_inplay": false,
       "open_date": "2026-05-29 18:00"
+    },
+    {
+      "match": "America de Cali S.A v Macara",
+      "campionato": "CONMEBOL Copa Sudamericana",
+      "volume": 3537,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35639731",
+      "market_id": "1.258646000",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 02:30"
     },
     {
       "match": "Boca Juniors v Univ Catolica (Chile)",
@@ -94,21 +94,6 @@
       "open_date": "2026-05-29 19:00"
     },
     {
-      "match": "FK Dainava Alytus v FK Panevezio Ekranas",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 1986,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659177",
-      "market_id": "1.258691568",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 18:00"
-    },
-    {
       "match": "Envigado v Real Cartagena",
       "campionato": "Colombian Primera B",
       "volume": 1805,
@@ -122,6 +107,21 @@
       "market_id": "1.258658818",
       "_is_inplay": false,
       "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "FK Dainava Alytus v FK Panevezio Ekranas",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 1697,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659177",
+      "market_id": "1.258691568",
+      "_is_inplay": false,
+      "open_date": "2026-05-29 18:00"
     },
     {
       "match": "Cobh Ramblers v Kerry FC",
@@ -407,21 +407,6 @@
       "market_id": "1.258664309",
       "_is_inplay": false,
       "open_date": "2026-05-29 19:00"
-    },
-    {
-      "match": "Iran v Gambia",
-      "campionato": "Friendlies International",
-      "volume": 112,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656159",
-      "market_id": "1.258659113",
-      "_is_inplay": false,
-      "open_date": "2026-05-29 17:30"
     },
     {
       "match": "Shamrock Rovers v St Patricks",
@@ -960,7 +945,7 @@
       "open_date": "2026-05-29 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 4606,
+      "volume": 4653,
       "best_volume": 6734,
       "whale_max": 0,
       "entered": false
@@ -978,25 +963,13 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258659113",
-      "match": "Iran v Gambia",
-      "campionato": "Friendlies International",
-      "open_date": "2026-05-29 17:30",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 112,
-      "best_volume": 112,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258646000",
       "match": "America de Cali S.A v Macara",
       "campionato": "CONMEBOL Copa Sudamericana",
       "open_date": "2026-05-29 02:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 5883,
+      "volume": 3537,
       "best_volume": 5883,
       "whale_max": 0,
       "entered": false
