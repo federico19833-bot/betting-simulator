@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 01:09:23",
+  "last_update": "30/05/2026 01:09:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,25 +19,10 @@
   },
   "live_events": [
     {
-      "match": "Cerro Largo FC v Cerro",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 2852,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648574",
-      "market_id": "1.258581475",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 00:30"
-    },
-    {
       "match": "Leones FC v Ind Medellin",
       "campionato": "Colombian Cup",
-      "volume": 1026,
-      "quota": 1.07,
+      "volume": 1546,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,6 +32,21 @@
       "market_id": "1.258728064",
       "_is_inplay": true,
       "open_date": "2026-05-30 01:00"
+    },
+    {
+      "match": "Cerro Largo FC v Cerro",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 1238,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648574",
+      "market_id": "1.258581475",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 00:30"
     }
   ],
   "tracked_matches": [
@@ -691,10 +691,10 @@
       "match": "Leones FC v Ind Medellin",
       "campionato": "Colombian Cup",
       "open_date": "2026-05-30 01:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1026,
-      "best_volume": 1249,
+      "volume": 1546,
+      "best_volume": 1546,
       "whale_max": 0,
       "entered": false
     }
