@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 23:18:31",
+  "last_update": "29/05/2026 23:19:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Cerro Largo FC v Cerro",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1757,
+      "volume": 1916,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -32,36 +32,6 @@
       "market_id": "1.258581475",
       "_is_inplay": false,
       "open_date": "2026-05-30 00:30"
-    },
-    {
-      "match": "Cucuta Deportivo v Fortaleza FC",
-      "campionato": "Colombian Cup",
-      "volume": 1116,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660275",
-      "market_id": "1.258700887",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 23:00"
-    },
-    {
-      "match": "Atletico Grau v Cesar Vallejo Moquegua",
-      "campionato": "Peruvian Primera Division",
-      "volume": 958,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645531",
-      "market_id": "1.258546596",
-      "_is_inplay": true,
-      "open_date": "2026-05-29 22:00"
     },
     {
       "match": "Leones FC v Ind Medellin",
@@ -77,6 +47,36 @@
       "market_id": "1.258728064",
       "_is_inplay": false,
       "open_date": "2026-05-30 01:00"
+    },
+    {
+      "match": "Atletico Grau v Cesar Vallejo Moquegua",
+      "campionato": "Peruvian Primera Division",
+      "volume": 693,
+      "quota": 1.42,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645531",
+      "market_id": "1.258546596",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 22:00"
+    },
+    {
+      "match": "Cucuta Deportivo v Fortaleza FC",
+      "campionato": "Colombian Cup",
+      "volume": 506,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660275",
+      "market_id": "1.258700887",
+      "_is_inplay": true,
+      "open_date": "2026-05-29 23:00"
     }
   ],
   "tracked_matches": [
