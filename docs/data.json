@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 07:11:10",
+  "last_update": "30/05/2026 07:11:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Suwon FC v Seongnam FC",
       "campionato": "South Korean K2 League",
-      "volume": 4388,
+      "volume": 4393,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -514,6 +514,21 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "Gimhae City v Gimpo Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 1127,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649136",
+      "market_id": "1.258660325",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "Athletic Club v Fortaleza EC",
       "campionato": "Brazilian Serie B",
       "volume": 1110,
@@ -587,21 +602,6 @@
       "market_id": "1.258673869",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "Gimhae City v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 824,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649136",
-      "market_id": "1.258660325",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Racing Club (Uru) v Defensor Sporting",
@@ -934,21 +934,6 @@
       "open_date": "2026-05-30 18:00"
     },
     {
-      "match": "BFA Vilnius v FK Jonava",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 231,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662041",
-      "market_id": "1.258712125",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
       "match": "Lahti v Ilves",
       "campionato": "Finnish Veikkausliiga",
       "volume": 213,
@@ -1142,6 +1127,21 @@
       "market_id": "1.258566704",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:15"
+    },
+    {
+      "match": "BFA Vilnius v FK Jonava",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 95,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662041",
+      "market_id": "1.258712125",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "IFK Lulea v IFK Umea",
@@ -2082,8 +2082,8 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 824,
-      "best_volume": 824,
+      "volume": 1127,
+      "best_volume": 1127,
       "whale_max": 0,
       "entered": false
     },
@@ -2886,8 +2886,8 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 4388,
-      "best_volume": 4388,
+      "volume": 4393,
+      "best_volume": 4393,
       "whale_max": 0,
       "entered": false
     },
