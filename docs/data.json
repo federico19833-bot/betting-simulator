@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 22:36:19",
+  "last_update": "30/05/2026 22:36:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Athletic Club v Fortaleza EC",
       "campionato": "Brazilian Serie B",
-      "volume": 9007,
-      "quota": 1.1,
+      "volume": 9332,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +36,7 @@
     {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
-      "volume": 7487,
+      "volume": 7491,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -141,8 +141,8 @@
     {
       "match": "Instituto v Lanus",
       "campionato": "Argentinian Cup",
-      "volume": 448,
-      "quota": 2.28,
+      "volume": 501,
+      "quota": 2.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -154,25 +154,10 @@
       "open_date": "2026-05-30 23:00"
     },
     {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
-      "volume": 52,
-      "quota": 2.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
-    },
-    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 48,
-      "quota": 2.36,
+      "volume": 94,
+      "quota": 2.44,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -182,6 +167,21 @@
       "market_id": "1.258574307",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:30"
+    },
+    {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 82,
+      "quota": 2.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 00:30"
     }
   ],
   "tracked_matches": [
@@ -1092,7 +1092,7 @@
       "open_date": "2026-05-30 22:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 7487,
+      "volume": 7491,
       "best_volume": 31462,
       "whale_max": 0,
       "entered": true
