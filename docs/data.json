@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:29:26",
+  "last_update": "30/05/2026 04:29:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Malmo FF v Halmstads",
       "campionato": "Swedish Allsvenskan",
-      "volume": 8229,
+      "volume": 8367,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -784,21 +784,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "HIK Hellerup v Vendsyssel FF",
-      "campionato": "Danish 2nd Division",
-      "volume": 379,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656407",
-      "market_id": "1.258665296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
       "volume": 349,
@@ -887,6 +872,21 @@
       "market_id": "1.258566704",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:15"
+    },
+    {
+      "match": "HIK Hellerup v Vendsyssel FF",
+      "campionato": "Danish 2nd Division",
+      "volume": 256,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656407",
+      "market_id": "1.258665296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -2163,7 +2163,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 379,
+      "volume": 256,
       "best_volume": 1522,
       "whale_max": 0,
       "entered": false
@@ -2259,7 +2259,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 8229,
+      "volume": 8367,
       "best_volume": 8367,
       "whale_max": 0,
       "entered": false
