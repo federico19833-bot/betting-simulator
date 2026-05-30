@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 20:01:26",
+  "last_update": "30/05/2026 20:02:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -60,7 +60,7 @@
       "source": "Betfair",
       "event_id": "35648629",
       "market_id": "1.258582478",
-      "_is_inplay": false,
+      "_is_inplay": true,
       "open_date": "2026-05-30 20:00"
     },
     {
@@ -92,6 +92,21 @@
       "market_id": "1.258734375",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "All Boys v Los Andes",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 2398,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648495",
+      "market_id": "1.258730277",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:30"
     },
     {
       "match": "Estudiantes de Caseros v Godoy Cruz",
@@ -137,21 +152,6 @@
       "market_id": "1.258730178",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
-    },
-    {
-      "match": "All Boys v Los Andes",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 1640,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648495",
-      "market_id": "1.258730277",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:30"
     },
     {
       "match": "Kuwait SC v Kazma SC",
@@ -349,6 +349,21 @@
       "open_date": "2026-05-31 00:30"
     },
     {
+      "match": "Instituto v Lanus",
+      "campionato": "Argentinian Cup",
+      "volume": 332,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641098",
+      "market_id": "1.258676850",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:00"
+    },
+    {
       "match": "Manta FC v Libertad FC",
       "campionato": "Ecuadorian Serie A",
       "volume": 301,
@@ -362,21 +377,6 @@
       "market_id": "1.258575671",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Instituto v Lanus",
-      "campionato": "Argentinian Cup",
-      "volume": 222,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641098",
-      "market_id": "1.258676850",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:00"
     },
     {
       "match": "Union San Felipe v Puerto Montt",
@@ -409,6 +409,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "LDU v Orense Sporting Club",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 136,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645621",
+      "market_id": "1.258548940",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:30"
+    },
+    {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
       "volume": 134,
@@ -424,25 +439,10 @@
       "open_date": "2026-05-30 22:30"
     },
     {
-      "match": "LDU v Orense Sporting Club",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 78,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645621",
-      "market_id": "1.258548940",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:30"
-    },
-    {
       "match": "Athletic Club v Fortaleza EC",
       "campionato": "Brazilian Serie B",
-      "volume": 10,
-      "quota": 1.09,
+      "volume": 112,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1492,9 +1492,9 @@
       "match": "Instituto v Lanus",
       "campionato": "Argentinian Cup",
       "open_date": "2026-05-30 23:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 222,
+      "volume": 332,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1962,7 +1962,7 @@
       "open_date": "2026-05-30 20:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1640,
+      "volume": 2398,
       "best_volume": 30623,
       "whale_max": 0,
       "entered": true
