@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 20:47:55",
+  "last_update": "30/05/2026 20:48:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 42995,
+      "volume": 42859,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
-      "volume": 41527,
+      "volume": 33810,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "All Boys v Los Andes",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 2703,
+      "volume": 2750,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -199,21 +199,6 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "Santos v EC Vitoria Salvador",
-      "campionato": "Brazilian Serie A",
-      "volume": 1246,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624949",
-      "market_id": "1.258659683",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:00"
-    },
-    {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 1024,
@@ -225,6 +210,21 @@
       "source": "Betfair",
       "event_id": "35665123",
       "market_id": "1.258734375",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Manta FC v Libertad FC",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 1016,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648453",
+      "market_id": "1.258575671",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -261,7 +261,7 @@
     {
       "match": "Avai v Criciuma",
       "campionato": "Brazilian Serie B",
-      "volume": 549,
+      "volume": 444,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -304,40 +304,25 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "Manta FC v Libertad FC",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 294,
-      "quota": 1.22,
+      "match": "Santos v EC Vitoria Salvador",
+      "campionato": "Brazilian Serie A",
+      "volume": 364,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648453",
-      "market_id": "1.258575671",
+      "event_id": "35624949",
+      "market_id": "1.258659683",
       "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Athletic Club v Fortaleza EC",
-      "campionato": "Brazilian Serie B",
-      "volume": 237,
-      "quota": 1.54,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649361",
-      "market_id": "1.258704951",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:00"
+      "open_date": "2026-05-31 01:00"
     },
     {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
-      "volume": 194,
-      "quota": 1.23,
+      "volume": 180,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -347,6 +332,21 @@
       "market_id": "1.258576330",
       "_is_inplay": false,
       "open_date": "2026-05-31 00:30"
+    },
+    {
+      "match": "Athletic Club v Fortaleza EC",
+      "campionato": "Brazilian Serie B",
+      "volume": 166,
+      "quota": 1.56,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649361",
+      "market_id": "1.258704951",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:00"
     },
     {
       "match": "Universidad de Venezuela v Portuguesa FC",
@@ -366,8 +366,8 @@
     {
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
-      "volume": 53,
-      "quota": 1.51,
+      "volume": 70,
+      "quota": 1.52,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1143,7 +1143,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 41527,
+      "volume": 33810,
       "best_volume": 41527,
       "whale_max": 0,
       "entered": true
@@ -1155,7 +1155,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 42995,
+      "volume": 42859,
       "best_volume": 42995,
       "whale_max": 0,
       "entered": true
