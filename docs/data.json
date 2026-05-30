@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 03:28:34",
+  "last_update": "30/05/2026 03:29:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -289,21 +289,6 @@
       "open_date": "2026-05-30 12:00"
     },
     {
-      "match": "MAS Taborsko v Banik Ostrava",
-      "campionato": "Czech 1 Liga",
-      "volume": 1439,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657052",
-      "market_id": "1.258667296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 1437,
@@ -332,6 +317,21 @@
       "market_id": "1.258667589",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "MAS Taborsko v Banik Ostrava",
+      "campionato": "Czech 1 Liga",
+      "volume": 1283,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657052",
+      "market_id": "1.258667296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -2028,7 +2028,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1439,
+      "volume": 1283,
       "best_volume": 2361,
       "whale_max": 0,
       "entered": false
