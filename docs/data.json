@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 16:53:35",
+  "last_update": "30/05/2026 16:54:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
-      "volume": 6554,
+      "volume": 6572,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "Osters v Norrby IF",
       "campionato": "Swedish Superettan",
-      "volume": 4178,
+      "volume": 4175,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -141,8 +141,8 @@
     {
       "match": "NK Jarun v Cibalia Vinkovci",
       "campionato": "Croatian Prva NL",
-      "volume": 3571,
-      "quota": 1.13,
+      "volume": 3684,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -156,7 +156,7 @@
     {
       "match": "Bollstanas SK v Sunnersta AIF",
       "campionato": "Swedish Division 2",
-      "volume": 2468,
+      "volume": 2701,
       "quota": 1.3,
       "in_range": false,
       "monitored": false,
@@ -514,21 +514,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Paris St-G v Arsenal",
-      "campionato": "UEFA Champions League",
-      "volume": 393,
-      "quota": 1.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579868",
-      "market_id": "1.258548597",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 18:00"
-    },
-    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 371,
@@ -572,6 +557,21 @@
       "market_id": "1.258713807",
       "_is_inplay": true,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Paris St-G v Arsenal",
+      "campionato": "UEFA Champions League",
+      "volume": 238,
+      "quota": 1.31,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579868",
+      "market_id": "1.258548597",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 18:00"
     },
     {
       "match": "Gimnasia Jujuy v Belgrano",
@@ -636,8 +636,8 @@
     {
       "match": "TPS v VPS",
       "campionato": "Finnish Veikkausliiga",
-      "volume": 19,
-      "quota": 3.1,
+      "volume": 50,
+      "quota": 10.0,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
