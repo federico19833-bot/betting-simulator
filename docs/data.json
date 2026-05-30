@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 18:59:57",
+  "last_update": "30/05/2026 19:00:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,8 +51,8 @@
     {
       "match": "Academia de Balompie Boliviano v Always Ready",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 10820,
-      "quota": 1.11,
+      "volume": 8506,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,7 +66,7 @@
     {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 7056,
+      "volume": 7235,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-30 20:30"
     },
     {
+      "match": "Santos v EC Vitoria Salvador",
+      "campionato": "Brazilian Serie A",
+      "volume": 1493,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624949",
+      "market_id": "1.258659683",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:00"
+    },
+    {
       "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1412,
@@ -182,6 +197,21 @@
       "market_id": "1.258579435",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "Ponferradina v Atletico Madrid II",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 1391,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657921",
+      "market_id": "1.258671838",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Defensores de Belgrano v San Telmo",
@@ -212,36 +242,6 @@
       "market_id": "1.258574307",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:30"
-    },
-    {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1307,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Santos v EC Vitoria Salvador",
-      "campionato": "Brazilian Serie A",
-      "volume": 1268,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624949",
-      "market_id": "1.258659683",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:00"
     },
     {
       "match": "Avai v Criciuma",
@@ -1230,7 +1230,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 1307,
+      "volume": 1391,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
