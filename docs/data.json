@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:54:58",
+  "last_update": "30/05/2026 11:55:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Taby FK v Skiljebo",
       "campionato": "Swedish Division 2",
-      "volume": 11683,
+      "volume": 11688,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -244,21 +244,6 @@
       "open_date": "2026-05-30 13:30"
     },
     {
-      "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 2104,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662040",
-      "market_id": "1.258712277",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
       "match": "IF Karlstad v Sollentuna FF",
       "campionato": "Swedish Division 1",
       "volume": 2000,
@@ -396,7 +381,7 @@
     {
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
-      "volume": 1309,
+      "volume": 1313,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -407,6 +392,21 @@
       "market_id": "1.258659294",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 1308,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662040",
+      "market_id": "1.258712277",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "FK Auda v Ogre United",
@@ -426,7 +426,7 @@
     {
       "match": "Eskilsminne v Trelleborgs",
       "campionato": "Swedish Division 1",
-      "volume": 1260,
+      "volume": 1263,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -754,6 +754,21 @@
       "open_date": "2026-05-30 22:00"
     },
     {
+      "match": "Gimhae City v Gimpo Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 585,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649136",
+      "market_id": "1.258660325",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "Gimnasia Jujuy v Belgrano",
       "campionato": "Argentinian Cup",
       "volume": 582,
@@ -872,21 +887,6 @@
       "market_id": "1.258712256",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Gimhae City v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 324,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649136",
-      "market_id": "1.258660325",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Osters v Norrby IF",
@@ -1189,21 +1189,6 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "Sociedad B v Leonesa",
-      "campionato": "Spanish Segunda Division",
-      "volume": 48,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648064",
-      "market_id": "1.258575447",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:15"
-    },
-    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 26,
@@ -1322,6 +1307,21 @@
       "market_id": "1.258603215",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Sociedad B v Leonesa",
+      "campionato": "Spanish Segunda Division",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648064",
+      "market_id": "1.258575447",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:15"
     },
     {
       "match": "Paris St-G v Arsenal",
@@ -2020,9 +2020,9 @@
       "match": "Gimhae City v Gimpo Citizen",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-30 12:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 324,
+      "volume": 585,
       "best_volume": 3123,
       "whale_max": 0,
       "entered": false
@@ -2298,7 +2298,7 @@
       "open_date": "2026-05-30 16:15",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 48,
+      "volume": 10,
       "best_volume": 2709,
       "whale_max": 0,
       "entered": false
@@ -2596,9 +2596,9 @@
       "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-30 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 2104,
+      "volume": 1308,
       "best_volume": 2104,
       "whale_max": 0,
       "entered": false
@@ -2742,7 +2742,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 11683,
+      "volume": 11688,
       "best_volume": 12896,
       "whale_max": 0,
       "entered": false
@@ -2910,7 +2910,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 1260,
+      "volume": 1263,
       "best_volume": 27166,
       "whale_max": 0,
       "entered": false
