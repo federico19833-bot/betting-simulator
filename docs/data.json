@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 10:47:14",
+  "last_update": "30/05/2026 10:47:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,6 +184,36 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "KuPS v FC Inter",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 2445,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644277",
+      "market_id": "1.258603171",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 2222,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "BFA Vilnius v FK Jonava",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 2170,
@@ -212,21 +242,6 @@
       "market_id": "1.258712277",
       "_is_inplay": false,
       "open_date": "2026-05-30 14:00"
-    },
-    {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 2012,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Hassleholms IF v Utsiktens",
@@ -319,21 +334,6 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "KuPS v FC Inter",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 1509,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644277",
-      "market_id": "1.258603171",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
       "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
       "volume": 1502,
@@ -409,6 +409,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Hammarby TFF v AFC Eskilstuna",
+      "campionato": "Swedish Division 1",
+      "volume": 1337,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657042",
+      "market_id": "1.258667483",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "HNK Orijent 1919 v NK Dugopolje",
       "campionato": "Croatian Prva NL",
       "volume": 1302,
@@ -452,21 +467,6 @@
       "market_id": "1.258659294",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Hammarby TFF v AFC Eskilstuna",
-      "campionato": "Swedish Division 1",
-      "volume": 1231,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657042",
-      "market_id": "1.258667483",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "TPS v VPS",
@@ -2215,9 +2215,9 @@
       "match": "KuPS v FC Inter",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1509,
+      "volume": 2445,
       "best_volume": 3235,
       "whale_max": 0,
       "entered": false
@@ -2229,7 +2229,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1231,
+      "volume": 1337,
       "best_volume": 3275,
       "whale_max": 0,
       "entered": false
@@ -2481,8 +2481,8 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 2012,
-      "best_volume": 2103,
+      "volume": 2222,
+      "best_volume": 2222,
       "whale_max": 0,
       "entered": false
     },
