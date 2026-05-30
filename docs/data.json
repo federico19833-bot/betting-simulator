@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 23:37:16",
+  "last_update": "30/05/2026 23:37:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -9,19 +9,19 @@
   },
   "stats": {
     "total": 170,
-    "wins": 156,
+    "wins": 157,
     "losses": 12,
-    "in_corso": 2,
+    "in_corso": 1,
     "winrate": 92.9,
-    "profit": -65.76,
-    "roi": -0.39,
-    "balance": 934.24
+    "profit": -58.16,
+    "roi": -0.34,
+    "balance": 941.84
   },
   "live_events": [
     {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 3371,
+      "volume": 3608,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-30 23:30"
     },
     {
-      "match": "Sport Recife v Nautico PE",
-      "campionato": "Brazilian Serie B",
-      "volume": 918,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645724",
-      "market_id": "1.258574307",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:30"
-    },
-    {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
       "volume": 819,
@@ -92,6 +77,21 @@
       "market_id": "1.258576330",
       "_is_inplay": false,
       "open_date": "2026-05-31 00:30"
+    },
+    {
+      "match": "Sport Recife v Nautico PE",
+      "campionato": "Brazilian Serie B",
+      "volume": 767,
+      "quota": 1.32,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645724",
+      "market_id": "1.258574307",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:30"
     }
   ],
   "tracked_matches": [
@@ -1614,7 +1614,7 @@
       "open_date": "2026-05-31 01:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 3371,
+      "volume": 3608,
       "best_volume": 3608,
       "whale_max": 0,
       "entered": false
@@ -1964,9 +1964,9 @@
       "campionato": "Argentinian Cup",
       "quota": 1.08,
       "volume": 26515,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
-      "risultato": "",
+      "esito": "VINTA",
+      "profitto": 7.6,
+      "risultato": "1-0",
       "risultato_ht": "",
       "whale_max": 0.0,
       "whale_tot": 0.0
