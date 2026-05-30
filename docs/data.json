@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:15:10",
+  "last_update": "30/05/2026 11:15:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -469,21 +469,6 @@
       "open_date": "2026-05-30 20:15"
     },
     {
-      "match": "BFA Vilnius v FK Jonava",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 1034,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662041",
-      "market_id": "1.258712125",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
       "match": "Academia de Balompie Boliviano v Always Ready",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 1001,
@@ -499,17 +484,32 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Chongqing Tonglianglong v Beijing Guoan",
-      "campionato": "Chinese Super League",
-      "volume": 955,
+      "match": "FC Helsingor v Brabrand",
+      "campionato": "Danish 2nd Division",
+      "volume": 999,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656540",
+      "market_id": "1.258664266",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "BFA Vilnius v FK Jonava",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 972,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35646525",
-      "market_id": "1.258665250",
+      "event_id": "35662041",
+      "market_id": "1.258712125",
       "_is_inplay": false,
       "open_date": "2026-05-30 14:00"
     },
@@ -531,7 +531,7 @@
     {
       "match": "Ulsan Citizen FC v Pocheon FC",
       "campionato": "South Korean K3 League",
-      "volume": 929,
+      "volume": 930,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -572,6 +572,21 @@
       "market_id": "1.258581559",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
+    },
+    {
+      "match": "Chongqing Tonglianglong v Beijing Guoan",
+      "campionato": "Chinese Super League",
+      "volume": 870,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646525",
+      "market_id": "1.258665250",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -814,36 +829,6 @@
       "open_date": "2026-05-30 15:00"
     },
     {
-      "match": "Ishoj IF v VSK Aarhus FC",
-      "campionato": "Danish 2nd Division",
-      "volume": 374,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656534",
-      "market_id": "1.258664287",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "FC Helsingor v Brabrand",
-      "campionato": "Danish 2nd Division",
-      "volume": 353,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656540",
-      "market_id": "1.258664266",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Henan Songshan Longmen v Zhejiang Greentown",
       "campionato": "Chinese Super League",
       "volume": 342,
@@ -975,6 +960,21 @@
       "source": "Betfair",
       "event_id": "35656111",
       "market_id": "1.258662567",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Ishoj IF v VSK Aarhus FC",
+      "campionato": "Danish 2nd Division",
+      "volume": 241,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656534",
+      "market_id": "1.258664287",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2034,7 +2034,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 929,
+      "volume": 930,
       "best_volume": 6255,
       "whale_max": 0,
       "entered": false
@@ -2752,9 +2752,9 @@
       "match": "Ishoj IF v VSK Aarhus FC",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 374,
+      "volume": 241,
       "best_volume": 1845,
       "whale_max": 0,
       "entered": false
@@ -2920,9 +2920,9 @@
       "match": "FC Helsingor v Brabrand",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.01,
-      "volume": 353,
+      "volume": 999,
       "best_volume": 27166,
       "whale_max": 0,
       "entered": false
@@ -2958,7 +2958,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1034,
+      "volume": 972,
       "best_volume": 2180,
       "whale_max": 0,
       "entered": false
@@ -2970,7 +2970,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 955,
+      "volume": 870,
       "best_volume": 974,
       "whale_max": 0,
       "entered": false
