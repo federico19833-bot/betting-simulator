@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 18:04:49",
+  "last_update": "30/05/2026 18:05:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
-      "volume": 7616,
+      "volume": 7569,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -92,21 +92,6 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "MB Rouissat v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 6097,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665944",
-      "market_id": "1.258739596",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 17:00"
     },
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
@@ -139,21 +124,6 @@
       "open_date": "2026-05-30 18:00"
     },
     {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 1762,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Asociacion Deportiva Tarma v Cusco FC",
       "campionato": "Peruvian Primera Division",
       "volume": 1667,
@@ -184,6 +154,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 1439,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
       "volume": 1330,
@@ -201,7 +186,7 @@
     {
       "match": "CA Colegiales v Agropecuario",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 1284,
+      "volume": 1294,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -246,7 +231,7 @@
     {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 863,
+      "volume": 1047,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -364,6 +349,36 @@
       "open_date": "2026-05-30 19:30"
     },
     {
+      "match": "FUS Rabat v FAR Rabat",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 626,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665123",
+      "market_id": "1.258734375",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "MB Rouissat v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 595,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665944",
+      "market_id": "1.258739596",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 17:00"
+    },
+    {
       "match": "Bollstanas SK v Sunnersta AIF",
       "campionato": "Swedish Division 2",
       "volume": 487,
@@ -452,21 +467,6 @@
       "market_id": "1.258582478",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
-    },
-    {
-      "match": "FUS Rabat v FAR Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 274,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665123",
-      "market_id": "1.258734375",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Sport Recife v Nautico PE",
@@ -1293,7 +1293,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 1762,
+      "volume": 1439,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1305,7 +1305,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 863,
+      "volume": 1047,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1809,7 +1809,7 @@
       "open_date": "2026-05-30 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 6097,
+      "volume": 595,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1917,7 +1917,7 @@
       "open_date": "2026-05-30 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 7616,
+      "volume": 7569,
       "best_volume": 26459,
       "whale_max": 0,
       "entered": true
@@ -1953,7 +1953,7 @@
       "open_date": "2026-05-30 20:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 1284,
+      "volume": 1294,
       "best_volume": 26607,
       "whale_max": 0,
       "entered": true
