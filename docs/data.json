@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 09:15:19",
+  "last_update": "30/05/2026 09:15:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
-      "volume": 18374,
+      "volume": 18577,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "GAIS v Kalmar FF",
       "campionato": "Swedish Allsvenskan",
-      "volume": 6988,
+      "volume": 7079,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -454,21 +454,6 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "Paris St-G v Arsenal",
-      "campionato": "UEFA Champions League",
-      "volume": 1067,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35579868",
-      "market_id": "1.258548597",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 18:00"
-    },
-    {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "volume": 1059,
@@ -739,6 +724,21 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "Paris St-G v Arsenal",
+      "campionato": "UEFA Champions League",
+      "volume": 492,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35579868",
+      "market_id": "1.258548597",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 18:00"
+    },
+    {
       "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
       "volume": 476,
@@ -992,6 +992,21 @@
       "market_id": "1.258664266",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Universidad de Venezuela v Portuguesa FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 143,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663013",
+      "market_id": "1.258721765",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:00"
     },
     {
       "match": "Al Najma (BRN) v Manama Club",
@@ -1337,21 +1352,6 @@
       "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Universidad de Venezuela v Portuguesa FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 10,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663013",
-      "market_id": "1.258721765",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 22:00"
     },
     {
       "match": "Instituto v Lanus",
@@ -2277,7 +2277,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 18374,
+      "volume": 18577,
       "best_volume": 18757,
       "whale_max": 0,
       "entered": false
@@ -2313,8 +2313,8 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 6988,
-      "best_volume": 7034,
+      "volume": 7079,
+      "best_volume": 7079,
       "whale_max": 0,
       "entered": false
     },
@@ -2925,7 +2925,7 @@
       "open_date": "2026-05-30 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1067,
+      "volume": 492,
       "best_volume": 1067,
       "whale_max": 0,
       "entered": false
@@ -3021,7 +3021,7 @@
       "open_date": "2026-05-30 22:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 10,
+      "volume": 143,
       "best_volume": 258,
       "whale_max": 0,
       "entered": false
