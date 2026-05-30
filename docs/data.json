@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 15:24:25",
+  "last_update": "30/05/2026 15:25:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Falkenbergs v Oddevold",
-      "campionato": "Swedish Superettan",
-      "volume": 4192,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644275",
-      "market_id": "1.258548574",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "HNK Orijent 1919 v NK Dugopolje",
       "campionato": "Croatian Prva NL",
       "volume": 2000,
@@ -152,6 +137,21 @@
       "market_id": "1.258713821",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Falkenbergs v Oddevold",
+      "campionato": "Swedish Superettan",
+      "volume": 1259,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644275",
+      "market_id": "1.258548574",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Osterlen FF v Staffanstorp United FC",
@@ -916,9 +916,9 @@
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 4192,
+      "volume": 1259,
       "best_volume": 35033,
       "whale_max": 0,
       "entered": true
