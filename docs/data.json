@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:46:04",
+  "last_update": "30/05/2026 06:46:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -604,21 +604,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "MAS Taborsko v Banik Ostrava",
-      "campionato": "Czech 1 Liga",
-      "volume": 657,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657052",
-      "market_id": "1.258667296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "volume": 656,
@@ -647,6 +632,21 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
+    },
+    {
+      "match": "Chungnam Asan v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "volume": 622,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649128",
+      "market_id": "1.258658230",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 09:30"
     },
     {
       "match": "Kuwait SC v Kazma SC",
@@ -690,6 +690,21 @@
       "source": "Betfair",
       "event_id": "35656636",
       "market_id": "1.258664971",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "MAS Taborsko v Banik Ostrava",
+      "campionato": "Czech 1 Liga",
+      "volume": 567,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657052",
+      "market_id": "1.258667296",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -784,21 +799,6 @@
       "open_date": "2026-05-30 13:00"
     },
     {
-      "match": "Chungnam Asan v Suwon Bluewings",
-      "campionato": "South Korean K2 League",
-      "volume": 369,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649128",
-      "market_id": "1.258658230",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 09:30"
-    },
-    {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
       "volume": 349,
@@ -825,6 +825,21 @@
       "source": "Betfair",
       "event_id": "35653381",
       "market_id": "1.258667568",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2112,8 +2127,8 @@
       "open_date": "2026-05-30 09:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 369,
-      "best_volume": 386,
+      "volume": 622,
+      "best_volume": 622,
       "whale_max": 0,
       "entered": false
     },
@@ -2268,7 +2283,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 657,
+      "volume": 567,
       "best_volume": 1155,
       "whale_max": 0,
       "entered": false
@@ -2930,6 +2945,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
