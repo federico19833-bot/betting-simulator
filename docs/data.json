@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:20:39",
+  "last_update": "30/05/2026 06:21:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -165,36 +165,6 @@
       "source": "Betfair",
       "event_id": "35647030",
       "market_id": "1.258560969",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Onsala BK v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 1748,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662832",
-      "market_id": "1.258717621",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Fittja IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 1741,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656123",
-      "market_id": "1.258667696",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
     },
@@ -514,6 +484,21 @@
       "open_date": "2026-05-30 18:00"
     },
     {
+      "match": "Fittja IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 1001,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656123",
+      "market_id": "1.258667696",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
       "volume": 950,
@@ -795,6 +780,21 @@
       "source": "Betfair",
       "event_id": "35662042",
       "market_id": "1.258712256",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Onsala BK v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 374,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662832",
+      "market_id": "1.258717621",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2256,7 +2256,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1748,
+      "volume": 374,
       "best_volume": 2235,
       "whale_max": 0,
       "entered": false
@@ -2496,7 +2496,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1741,
+      "volume": 1001,
       "best_volume": 1741,
       "whale_max": 0,
       "entered": false
