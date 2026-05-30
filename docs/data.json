@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 10:50:10",
+  "last_update": "30/05/2026 10:50:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "GAIS v Kalmar FF",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 13907,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647030",
-      "market_id": "1.258560969",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "Fittja IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "volume": 10825,
@@ -90,6 +75,21 @@
       "source": "Betfair",
       "event_id": "35656123",
       "market_id": "1.258667696",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
+      "match": "GAIS v Kalmar FF",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 10325,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647030",
+      "market_id": "1.258560969",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
     },
@@ -319,6 +319,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Eskilsminne v Trelleborgs",
+      "campionato": "Swedish Division 1",
+      "volume": 1541,
+      "quota": 1.54,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657618",
+      "market_id": "1.258667270",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1516,
@@ -486,7 +501,7 @@
     {
       "match": "Hammarby TFF v AFC Eskilstuna",
       "campionato": "Swedish Division 1",
-      "volume": 1207,
+      "volume": 1206,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -557,6 +572,21 @@
       "market_id": "1.258575671",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "NK Jarun v Cibalia Vinkovci",
+      "campionato": "Croatian Prva NL",
+      "volume": 916,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662520",
+      "market_id": "1.258713758",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "Harju JK Laagri v Trans Narva",
@@ -754,21 +784,6 @@
       "open_date": "2026-05-30 12:00"
     },
     {
-      "match": "Eskilsminne v Trelleborgs",
-      "campionato": "Swedish Division 1",
-      "volume": 426,
-      "quota": 1.47,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657618",
-      "market_id": "1.258667270",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "AIK v Sirius",
       "campionato": "Swedish Allsvenskan",
       "volume": 413,
@@ -861,7 +876,7 @@
     {
       "match": "BK Forward v Ragsveds IF",
       "campionato": "Swedish Division 2",
-      "volume": 326,
+      "volume": 336,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -990,21 +1005,6 @@
       "source": "Betfair",
       "event_id": "35644276",
       "market_id": "1.258603194",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "NK Jarun v Cibalia Vinkovci",
-      "campionato": "Croatian Prva NL",
-      "volume": 203,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662520",
-      "market_id": "1.258713758",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2193,7 +2193,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 13907,
+      "volume": 10325,
       "best_volume": 13907,
       "whale_max": 0,
       "entered": false
@@ -2229,7 +2229,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1207,
+      "volume": 1206,
       "best_volume": 3275,
       "whale_max": 0,
       "entered": false
@@ -2625,7 +2625,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 203,
+      "volume": 916,
       "best_volume": 916,
       "whale_max": 0,
       "entered": false
@@ -2865,7 +2865,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 326,
+      "volume": 336,
       "best_volume": 9022,
       "whale_max": 0,
       "entered": false
