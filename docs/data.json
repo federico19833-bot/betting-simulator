@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 17:55:43",
+  "last_update": "30/05/2026 17:57:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 165,
+    "total": 166,
     "wins": 136,
     "losses": 9,
-    "in_corso": 20,
+    "in_corso": 21,
     "winrate": 93.8,
     "profit": 76.54,
     "roi": 0.46,
@@ -19,24 +19,39 @@
   },
   "live_events": [
     {
-      "match": "IF Karlstad v Sollentuna FF",
-      "campionato": "Swedish Division 1",
-      "volume": 35594,
+      "match": "MB Rouissat v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 35938,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657368",
-      "market_id": "1.258667654",
+      "event_id": "35665944",
+      "market_id": "1.258739596",
       "_is_inplay": true,
-      "open_date": "2026-05-30 16:00"
+      "open_date": "2026-05-30 17:00"
+    },
+    {
+      "match": "Defensores de Belgrano v San Telmo",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 26607,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648509",
+      "market_id": "1.258730291",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:30"
     },
     {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
       "campionato": "Kuwaiti Premier League",
-      "volume": 26607,
+      "volume": 20082,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -49,38 +64,23 @@
       "open_date": "2026-05-30 20:15"
     },
     {
-      "match": "Kuwait SC v Kazma SC",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 20082,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662837",
-      "market_id": "1.258717642",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:15"
-    },
-    {
-      "match": "Defensores de Belgrano v San Telmo",
+      "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 8506,
+      "volume": 8611,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648509",
-      "market_id": "1.258730291",
+      "event_id": "35648518",
+      "market_id": "1.258579435",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "Bollstanas SK v Sunnersta AIF",
-      "campionato": "Swedish Division 2",
+      "match": "Al Najma (BRN) v Manama Club",
+      "campionato": "Bahraini Premier",
       "volume": 7542,
       "quota": 1.07,
       "in_range": false,
@@ -88,13 +88,13 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656110",
-      "market_id": "1.258667547",
+      "event_id": "35660371",
+      "market_id": "1.258700082",
       "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
+      "open_date": "2026-05-30 18:00"
     },
     {
-      "match": "Almirante Brown v Colon",
+      "match": "All Boys v Los Andes",
       "campionato": "Argentinian Primera Nacional",
       "volume": 7051,
       "quota": 1.11,
@@ -103,8 +103,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648518",
-      "market_id": "1.258579435",
+      "event_id": "35648495",
+      "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
     },
@@ -139,7 +139,7 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Al Najma (BRN) v Manama Club",
+      "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
       "volume": 1667,
       "quota": 1.07,
@@ -148,8 +148,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35660371",
-      "market_id": "1.258700082",
+      "event_id": "35660368",
+      "market_id": "1.258700103",
       "_is_inplay": false,
       "open_date": "2026-05-30 18:00"
     },
@@ -184,7 +184,7 @@
       "open_date": "2026-05-31 01:00"
     },
     {
-      "match": "Estudiantes de Caseros v Godoy Cruz",
+      "match": "CA Colegiales v Agropecuario",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1294,
       "quota": 1.07,
@@ -193,8 +193,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648469",
-      "market_id": "1.258730159",
+      "event_id": "35648489",
+      "market_id": "1.258730178",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
     },
@@ -229,23 +229,8 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "All Boys v Los Andes",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 1217,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648495",
-      "market_id": "1.258730277",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "Al-Ittihad (BRN) v Al Budaiya",
-      "campionato": "Bahraini Premier",
+      "match": "Asociacion Deportiva Tarma v Cusco FC",
+      "campionato": "Peruvian Primera Division",
       "volume": 1192,
       "quota": 1.13,
       "in_range": false,
@@ -253,8 +238,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35660368",
-      "market_id": "1.258700103",
+      "event_id": "35647922",
+      "market_id": "1.258696928",
       "_is_inplay": false,
       "open_date": "2026-05-30 18:00"
     },
@@ -289,8 +274,8 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Danubio v Progreso",
-      "campionato": "Uruguayan Primera Division",
+      "match": "Estudiantes de Caseros v Godoy Cruz",
+      "campionato": "Argentinian Primera Nacional",
       "volume": 762,
       "quota": 1.14,
       "in_range": false,
@@ -298,8 +283,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648629",
-      "market_id": "1.258582478",
+      "event_id": "35648469",
+      "market_id": "1.258730159",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
     },
@@ -319,8 +304,8 @@
       "open_date": "2026-05-30 23:00"
     },
     {
-      "match": "CA Colegiales v Agropecuario",
-      "campionato": "Argentinian Primera Nacional",
+      "match": "Kuwait SC v Kazma SC",
+      "campionato": "Kuwaiti Premier League",
       "volume": 718,
       "quota": 1.08,
       "in_range": false,
@@ -328,14 +313,14 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648489",
-      "market_id": "1.258730178",
+      "event_id": "35662837",
+      "market_id": "1.258717642",
       "_is_inplay": false,
-      "open_date": "2026-05-30 20:00"
+      "open_date": "2026-05-30 20:15"
     },
     {
-      "match": "Paris St-G v Arsenal",
-      "campionato": "UEFA Champions League",
+      "match": "Cabofriense v Audax Rio",
+      "campionato": "Brazilian Carioca Matches",
       "volume": 658,
       "quota": 1.08,
       "in_range": false,
@@ -343,14 +328,14 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35579868",
-      "market_id": "1.258548597",
+      "event_id": "35663336",
+      "market_id": "1.258727998",
       "_is_inplay": false,
-      "open_date": "2026-05-30 18:00"
+      "open_date": "2026-05-30 19:45"
     },
     {
-      "match": "Asociacion Deportiva Tarma v Cusco FC",
-      "campionato": "Peruvian Primera Division",
+      "match": "Paris St-G v Arsenal",
+      "campionato": "UEFA Champions League",
       "volume": 487,
       "quota": 1.11,
       "in_range": false,
@@ -358,8 +343,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647922",
-      "market_id": "1.258696928",
+      "event_id": "35579868",
+      "market_id": "1.258548597",
       "_is_inplay": false,
       "open_date": "2026-05-30 18:00"
     },
@@ -379,8 +364,8 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "MB Rouissat v USM Alger",
-      "campionato": "Algerian Ligue 1",
+      "match": "Bollstanas SK v Sunnersta AIF",
+      "campionato": "Swedish Division 2",
       "volume": 384,
       "quota": 1.06,
       "in_range": false,
@@ -388,10 +373,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35665944",
-      "market_id": "1.258739596",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 17:00"
+      "event_id": "35656110",
+      "market_id": "1.258667547",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "LDU v Orense Sporting Club",
@@ -424,8 +409,8 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Cabofriense v Audax Rio",
-      "campionato": "Brazilian Carioca Matches",
+      "match": "Danubio v Progreso",
+      "campionato": "Uruguayan Primera Division",
       "volume": 337,
       "quota": 1.12,
       "in_range": false,
@@ -433,10 +418,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663336",
-      "market_id": "1.258727998",
+      "event_id": "35648629",
+      "market_id": "1.258582478",
       "_is_inplay": false,
-      "open_date": "2026-05-30 19:45"
+      "open_date": "2026-05-30 20:00"
     },
     {
       "match": "Union San Felipe v Puerto Montt",
@@ -456,7 +441,7 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 160,
+      "volume": 228,
       "quota": 1.45,
       "in_range": false,
       "monitored": false,
@@ -1642,9 +1627,9 @@
       "match": "Bollstanas SK v Sunnersta AIF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 7542,
+      "volume": 384,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1822,9 +1807,9 @@
       "match": "MB Rouissat v USM Alger",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-05-30 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 384,
+      "volume": 35938,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1872,7 +1857,7 @@
       "open_date": "2026-05-30 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1667,
+      "volume": 7542,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1932,7 +1917,7 @@
       "open_date": "2026-05-30 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 1294,
+      "volume": 1667,
       "best_volume": 26459,
       "whale_max": 0,
       "entered": true
@@ -1966,9 +1951,9 @@
       "match": "CA Colegiales v Agropecuario",
       "campionato": "Argentinian Primera Nacional",
       "open_date": "2026-05-30 20:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 718,
+      "volume": 1294,
       "best_volume": 26607,
       "whale_max": 0,
       "entered": true
@@ -1990,9 +1975,9 @@
       "match": "Kuwait SC v Kazma SC",
       "campionato": "Kuwaiti Premier League",
       "open_date": "2026-05-30 20:15",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 20082,
+      "volume": 718,
       "best_volume": 26607,
       "whale_max": 0,
       "entered": true
@@ -2002,10 +1987,10 @@
       "match": "Defensores de Belgrano v San Telmo",
       "campionato": "Argentinian Primera Nacional",
       "open_date": "2026-05-30 20:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1149,
-      "best_volume": 10251,
+      "volume": 26607,
+      "best_volume": 26607,
       "whale_max": 0,
       "entered": true
     },
@@ -2038,12 +2023,12 @@
       "match": "Cabofriense v Audax Rio",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-05-30 19:45",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 26607,
+      "volume": 658,
       "best_volume": 26607,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258582478",
@@ -2064,7 +2049,7 @@
       "open_date": "2026-05-30 20:15",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 26607,
+      "volume": 20082,
       "best_volume": 26607,
       "whale_max": 0,
       "entered": false
@@ -2083,6 +2068,20 @@
     }
   ],
   "giocate": [
+    {
+      "id": 177,
+      "orario": "2026-05-30 17:57:15",
+      "match": "Cabofriense v Audax Rio",
+      "campionato": "Brazilian Carioca Matches",
+      "quota": 1.08,
+      "volume": 26607,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 176,
       "orario": "2026-05-30 17:33:22",
