@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 10:24:16",
+  "last_update": "30/05/2026 10:24:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "KuPS v FC Inter",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 1871,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644277",
+      "market_id": "1.258603171",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "FC Dziugas v Panevezys",
       "campionato": "Lithuanian A Lyga",
       "volume": 1845,
@@ -347,21 +362,6 @@
       "market_id": "1.258730291",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "KuPS v FC Inter",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 1506,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644277",
-      "market_id": "1.258603171",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -739,6 +739,21 @@
       "open_date": "2026-05-30 20:30"
     },
     {
+      "match": "Avai v Criciuma",
+      "campionato": "Brazilian Serie B",
+      "volume": 550,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648445",
+      "market_id": "1.258576384",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Lahti v Ilves",
       "campionato": "Finnish Veikkausliiga",
       "volume": 546,
@@ -752,21 +767,6 @@
       "market_id": "1.258603215",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Avai v Criciuma",
-      "campionato": "Brazilian Serie B",
-      "volume": 540,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648445",
-      "market_id": "1.258576384",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Shenzhen Peng City v Qingdao Hainiu",
@@ -1282,7 +1282,7 @@
       "match": "Bollstanas SK v Sunnersta AIF",
       "campionato": "Swedish Division 2",
       "volume": 10,
-      "quota": 1.02,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2268,7 +2268,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1506,
+      "volume": 1871,
       "best_volume": 3235,
       "whale_max": 0,
       "entered": false
@@ -2676,8 +2676,8 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 540,
-      "best_volume": 540,
+      "volume": 550,
+      "best_volume": 550,
       "whale_max": 0,
       "entered": false
     },
@@ -3046,7 +3046,7 @@
       "match": "Bollstanas SK v Sunnersta AIF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
