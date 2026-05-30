@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:39:32",
+  "last_update": "30/05/2026 06:40:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Hobro v Middelfart",
       "campionato": "Danish 1st Division",
-      "volume": 6556,
+      "volume": 6917,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-30 09:30"
     },
     {
+      "match": "Onsala BK v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 1968,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662832",
+      "market_id": "1.258717621",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Gangneung City v Changwon City",
       "campionato": "South Korean K3 League",
       "volume": 1912,
@@ -152,21 +167,6 @@
       "market_id": "1.258713117",
       "_is_inplay": false,
       "open_date": "2026-05-30 07:00"
-    },
-    {
-      "match": "Onsala BK v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 1794,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662832",
-      "market_id": "1.258717621",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "B93 Copenhagen v Aarhus Fremad",
@@ -544,21 +544,6 @@
       "open_date": "2026-05-30 07:00"
     },
     {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 784,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "IK Kongahalla v Astorps FF",
       "campionato": "Swedish Division 2",
       "volume": 778,
@@ -570,6 +555,21 @@
       "source": "Betfair",
       "event_id": "35660165",
       "market_id": "1.258705373",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "TPS v VPS",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 769,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644282",
+      "market_id": "1.258603150",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -589,19 +589,19 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Chengdu Rongcheng v Shandong Taishan",
-      "campionato": "Chinese Super League",
-      "volume": 648,
-      "quota": 1.07,
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 656,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35646892",
-      "market_id": "1.258664621",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
       "_is_inplay": false,
-      "open_date": "2026-05-30 13:35"
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "LDU v Orense Sporting Club",
@@ -722,6 +722,21 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "Chengdu Rongcheng v Shandong Taishan",
+      "campionato": "Chinese Super League",
+      "volume": 472,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646892",
+      "market_id": "1.258664621",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:35"
     },
     {
       "match": "Defensores de Belgrano v San Telmo",
@@ -1024,6 +1039,21 @@
       "open_date": "2026-05-30 12:00"
     },
     {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 152,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "BFA Vilnius v FK Jonava",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 144,
@@ -1052,21 +1082,6 @@
       "market_id": "1.258696928",
       "_is_inplay": false,
       "open_date": "2026-05-30 18:00"
-    },
-    {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 134,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "FC Trollhattan v Aatvidabergs Ff",
@@ -1335,21 +1350,6 @@
       "source": "Betfair",
       "event_id": "35656612",
       "market_id": "1.258667526",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "TPS v VPS",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 10,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644282",
-      "market_id": "1.258603150",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2256,7 +2256,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1794,
+      "volume": 1968,
       "best_volume": 2722,
       "whale_max": 0,
       "entered": false
@@ -2338,9 +2338,9 @@
       "match": "Chengdu Rongcheng v Shandong Taishan",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-30 13:35",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 648,
+      "volume": 472,
       "best_volume": 648,
       "whale_max": 0,
       "entered": false
@@ -2460,8 +2460,8 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 6556,
-      "best_volume": 6556,
+      "volume": 6917,
+      "best_volume": 6917,
       "whale_max": 0,
       "entered": false
     },
@@ -2602,9 +2602,9 @@
       "match": "TPS v VPS",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 10,
+      "volume": 769,
       "best_volume": 1254,
       "whale_max": 0,
       "entered": false
@@ -2868,7 +2868,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 784,
+      "volume": 656,
       "best_volume": 784,
       "whale_max": 0,
       "entered": false
@@ -2916,8 +2916,8 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 150,
-      "best_volume": 150,
+      "volume": 152,
+      "best_volume": 152,
       "whale_max": 0,
       "entered": false
     },
