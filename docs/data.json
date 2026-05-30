@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 10:20:44",
+  "last_update": "30/05/2026 10:21:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Suwon FC v Seongnam FC",
+      "campionato": "South Korean K2 League",
+      "volume": 27166,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646673",
+      "market_id": "1.258660346",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 22503,
+      "volume": 22599,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -139,19 +154,19 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Suwon FC v Seongnam FC",
-      "campionato": "South Korean K2 League",
-      "volume": 3123,
-      "quota": 1.02,
+      "match": "FC Helsingor v Brabrand",
+      "campionato": "Danish 2nd Division",
+      "volume": 2779,
+      "quota": 1.27,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35646673",
-      "market_id": "1.258660346",
+      "event_id": "35656540",
+      "market_id": "1.258664266",
       "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Moss v Stabaek",
@@ -212,21 +227,6 @@
       "market_id": "1.258731170",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "FC Helsingor v Brabrand",
-      "campionato": "Danish 2nd Division",
-      "volume": 2045,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656540",
-      "market_id": "1.258664266",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Hassleholms IF v Utsiktens",
@@ -2520,7 +2520,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 22503,
+      "volume": 22599,
       "best_volume": 25362,
       "whale_max": 0,
       "entered": true
@@ -2914,10 +2914,10 @@
       "match": "Suwon FC v Seongnam FC",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-30 12:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
-      "volume": 3123,
-      "best_volume": 3256,
+      "volume": 27166,
+      "best_volume": 27166,
       "whale_max": 0,
       "entered": false
     },
