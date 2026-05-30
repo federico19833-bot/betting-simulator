@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:06:53",
+  "last_update": "30/05/2026 08:07:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -167,21 +167,6 @@
       "market_id": "1.258603171",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Busan IPark v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 1912,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649127",
-      "market_id": "1.258657993",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 09:30"
     },
     {
       "match": "MAS Taborsko v Banik Ostrava",
@@ -649,6 +634,21 @@
       "open_date": "2026-05-30 23:30"
     },
     {
+      "match": "Ulsan Citizen FC v Pocheon FC",
+      "campionato": "South Korean K3 League",
+      "volume": 631,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662067",
+      "market_id": "1.258713138",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "FC Neptunas Klaipeda v Be1 NFA",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 620,
@@ -677,21 +677,6 @@
       "market_id": "1.258730291",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "Ulsan Citizen FC v Pocheon FC",
-      "campionato": "South Korean K3 League",
-      "volume": 580,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662067",
-      "market_id": "1.258713138",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Danubio v Progreso",
@@ -767,6 +752,21 @@
       "market_id": "1.258579435",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "Busan IPark v Paju Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 456,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649127",
+      "market_id": "1.258657993",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 09:30"
     },
     {
       "match": "Enskede v Angby IF",
@@ -2017,9 +2017,9 @@
       "match": "Busan IPark v Paju Citizen",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-30 09:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 1912,
+      "volume": 456,
       "best_volume": 2060,
       "whale_max": 0,
       "entered": false
@@ -2079,7 +2079,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 580,
+      "volume": 631,
       "best_volume": 1554,
       "whale_max": 0,
       "entered": false
