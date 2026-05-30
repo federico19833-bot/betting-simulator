@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 15:44:51",
+  "last_update": "30/05/2026 15:45:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Hammarby TFF v AFC Eskilstuna",
+      "campionato": "Swedish Division 1",
+      "volume": 8352,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657042",
+      "market_id": "1.258667483",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Flamengo v Coritiba",
       "campionato": "Brazilian Serie A",
       "volume": 8173,
@@ -154,36 +169,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Hammarby TFF v AFC Eskilstuna",
-      "campionato": "Swedish Division 1",
-      "volume": 1001,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657042",
-      "market_id": "1.258667483",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Cabofriense v Audax Rio",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 637,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663336",
-      "market_id": "1.258727998",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 19:45"
-    },
-    {
       "match": "Hrvace v NK Dubrava Zagreb",
       "campionato": "Croatian Prva NL",
       "volume": 463,
@@ -212,6 +197,21 @@
       "market_id": "1.258575671",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Cabofriense v Audax Rio",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 382,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663336",
+      "market_id": "1.258727998",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 19:45"
     },
     {
       "match": "FK Auda v Ogre United",
@@ -319,6 +319,21 @@
       "open_date": "2026-05-30 20:30"
     },
     {
+      "match": "AD Ceuta FC v Albacete",
+      "campionato": "Spanish Segunda Division",
+      "volume": 55,
+      "quota": 2.96,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647505",
+      "market_id": "1.258566704",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:15"
+    },
+    {
       "match": "BSK Bijelo Brdo v NK Croatia Zmijavci",
       "campionato": "Croatian Prva NL",
       "volume": 52,
@@ -366,8 +381,8 @@
     {
       "match": "TPS v VPS",
       "campionato": "Finnish Veikkausliiga",
-      "volume": 33,
-      "quota": 1.03,
+      "volume": 46,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -377,6 +392,21 @@
       "market_id": "1.258603150",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Al-Ittihad (BRN) v Al Budaiya",
+      "campionato": "Bahraini Premier",
+      "volume": 36,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660368",
+      "market_id": "1.258700103",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 18:00"
     },
     {
       "match": "FC Trollhattan v Aatvidabergs Ff",
@@ -1372,9 +1402,9 @@
       "match": "Hammarby TFF v AFC Eskilstuna",
       "campionato": "Swedish Division 1",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 1001,
+      "volume": 8352,
       "best_volume": 43095,
       "whale_max": 0,
       "entered": true
@@ -1636,9 +1666,9 @@
       "match": "TPS v VPS",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 33,
+      "volume": 46,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1808,6 +1838,18 @@
       "quota_iniziale": 1.08,
       "volume": 637,
       "best_volume": 637,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258700103",
+      "match": "Al-Ittihad (BRN) v Al Budaiya",
+      "campionato": "Bahraini Premier",
+      "open_date": "2026-05-30 18:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 36,
+      "best_volume": 36,
       "whale_max": 0,
       "entered": false
     }
