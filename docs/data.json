@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:39:19",
+  "last_update": "30/05/2026 08:39:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Vorskla v Podillya",
       "campionato": "Ukrainian Persha Liga",
-      "volume": 4612,
+      "volume": 4552,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -1024,21 +1024,6 @@
       "open_date": "2026-05-30 12:00"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 155,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Al Najma (BRN) v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 142,
@@ -1067,6 +1052,21 @@
       "market_id": "1.258667718",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 130,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Sociedad B v Leonesa",
@@ -2877,7 +2877,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 4612,
+      "volume": 4552,
       "best_volume": 4612,
       "whale_max": 0,
       "entered": false
