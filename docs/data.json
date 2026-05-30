@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 23:37:48",
+  "last_update": "30/05/2026 23:38:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 3608,
+      "volume": 3371,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -51,8 +51,8 @@
     {
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
-      "volume": 1778,
-      "quota": 1.08,
+      "volume": 1506,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -62,6 +62,21 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
+    },
+    {
+      "match": "Sport Recife v Nautico PE",
+      "campionato": "Brazilian Serie B",
+      "volume": 931,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645724",
+      "market_id": "1.258574307",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:30"
     },
     {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
@@ -77,21 +92,6 @@
       "market_id": "1.258576330",
       "_is_inplay": false,
       "open_date": "2026-05-31 00:30"
-    },
-    {
-      "match": "Sport Recife v Nautico PE",
-      "campionato": "Brazilian Serie B",
-      "volume": 767,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645724",
-      "market_id": "1.258574307",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:30"
     }
   ],
   "tracked_matches": [
@@ -1264,9 +1264,9 @@
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-05-30 23:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1778,
+      "volume": 1506,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1614,7 +1614,7 @@
       "open_date": "2026-05-31 01:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 3608,
+      "volume": 3371,
       "best_volume": 3608,
       "whale_max": 0,
       "entered": false
