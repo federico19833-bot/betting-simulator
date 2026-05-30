@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 07:18:46",
+  "last_update": "30/05/2026 07:19:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Suwon FC v Seongnam FC",
       "campionato": "South Korean K2 League",
-      "volume": 3746,
+      "volume": 4420,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -754,21 +754,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "BFA Vilnius v FK Jonava",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 522,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662041",
-      "market_id": "1.258712125",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
       "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
       "volume": 466,
@@ -782,6 +767,21 @@
       "market_id": "1.258579435",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "BFA Vilnius v FK Jonava",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 433,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662041",
+      "market_id": "1.258712125",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Enskede v Angby IF",
@@ -1114,21 +1114,6 @@
       "open_date": "2026-05-30 16:15"
     },
     {
-      "match": "IK Kongahalla v Astorps FF",
-      "campionato": "Swedish Division 2",
-      "volume": 110,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660165",
-      "market_id": "1.258705373",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
       "match": "AD Ceuta FC v Albacete",
       "campionato": "Spanish Segunda Division",
       "volume": 110,
@@ -1305,6 +1290,21 @@
       "source": "Betfair",
       "event_id": "35662840",
       "market_id": "1.258717600",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "IK Kongahalla v Astorps FF",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660165",
+      "market_id": "1.258705373",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2430,7 +2430,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 110,
+      "volume": 10,
       "best_volume": 778,
       "whale_max": 0,
       "entered": false
@@ -2874,7 +2874,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 3746,
+      "volume": 4420,
       "best_volume": 4548,
       "whale_max": 0,
       "entered": false
