@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:28:10",
+  "last_update": "30/05/2026 08:28:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -904,21 +904,6 @@
       "open_date": "2026-05-30 18:00"
     },
     {
-      "match": "Shenzhen Peng City v Qingdao Hainiu",
-      "campionato": "Chinese Super League",
-      "volume": 220,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647243",
-      "market_id": "1.258665275",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
       "match": "FK Auda v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 220,
@@ -1037,6 +1022,21 @@
       "market_id": "1.258575405",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Shenzhen Peng City v Qingdao Hainiu",
+      "campionato": "Chinese Super League",
+      "volume": 144,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647243",
+      "market_id": "1.258665275",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Asociacion Deportiva Tarma v Cusco FC",
@@ -2971,9 +2971,9 @@
       "match": "Shenzhen Peng City v Qingdao Hainiu",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-30 14:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 220,
+      "volume": 144,
       "best_volume": 220,
       "whale_max": 0,
       "entered": false
