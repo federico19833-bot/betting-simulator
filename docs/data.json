@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 19:55:04",
+  "last_update": "30/05/2026 19:55:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -141,8 +141,8 @@
     {
       "match": "All Boys v Los Andes",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 1616,
-      "quota": 1.1,
+      "volume": 1640,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -152,6 +152,21 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "Ponferradina v Atletico Madrid II",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 1505,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657921",
+      "market_id": "1.258671838",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Kuwait SC v Kazma SC",
@@ -167,21 +182,6 @@
       "market_id": "1.258717642",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:15"
-    },
-    {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1424,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -216,7 +216,7 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 1312,
+      "volume": 1346,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -319,21 +319,6 @@
       "open_date": "2026-05-30 20:15"
     },
     {
-      "match": "Bahia v Botafogo FR",
-      "campionato": "Brazilian Serie A",
-      "volume": 534,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624930",
-      "market_id": "1.258659273",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 22:30"
-    },
-    {
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "volume": 432,
@@ -377,6 +362,21 @@
       "market_id": "1.258576330",
       "_is_inplay": false,
       "open_date": "2026-05-31 00:30"
+    },
+    {
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "volume": 339,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624930",
+      "market_id": "1.258659273",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:30"
     },
     {
       "match": "Manta FC v Libertad FC",
@@ -1230,7 +1230,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 1424,
+      "volume": 1505,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
