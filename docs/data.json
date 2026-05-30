@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:36:15",
+  "last_update": "30/05/2026 11:36:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Taby FK v Skiljebo",
       "campionato": "Swedish Division 2",
-      "volume": 6579,
+      "volume": 6216,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -64,9 +64,24 @@
       "open_date": "2026-05-30 15:00"
     },
     {
+      "match": "Vorskla v Podillya",
+      "campionato": "Ukrainian Persha Liga",
+      "volume": 4316,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665432",
+      "market_id": "1.258738432",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 3808,
+      "volume": 3801,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -304,21 +319,6 @@
       "open_date": "2026-05-30 19:45"
     },
     {
-      "match": "Vorskla v Podillya",
-      "campionato": "Ukrainian Persha Liga",
-      "volume": 1496,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665432",
-      "market_id": "1.258738432",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
-    },
-    {
       "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1437,
@@ -497,21 +497,6 @@
       "market_id": "1.258665317",
       "_is_inplay": false,
       "open_date": "2026-05-30 14:00"
-    },
-    {
-      "match": "FC Neptunas Klaipeda v Be1 NFA",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 1009,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662042",
-      "market_id": "1.258712256",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Flamengo v Coritiba",
@@ -799,21 +784,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "MAS Taborsko v Banik Ostrava",
-      "campionato": "Czech 1 Liga",
-      "volume": 503,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657052",
-      "market_id": "1.258667296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Al Najma (BRN) v Manama Club",
       "campionato": "Bahraini Premier",
       "volume": 489,
@@ -844,6 +814,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "MAS Taborsko v Banik Ostrava",
+      "campionato": "Czech 1 Liga",
+      "volume": 445,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657052",
+      "market_id": "1.258667296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Smedby v FOC Farsta",
       "campionato": "Swedish Division 2",
       "volume": 375,
@@ -855,6 +840,21 @@
       "source": "Betfair",
       "event_id": "35662845",
       "market_id": "1.258717579",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "FC Neptunas Klaipeda v Be1 NFA",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 353,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662042",
+      "market_id": "1.258712256",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2044,9 +2044,9 @@
       "match": "FC Neptunas Klaipeda v Be1 NFA",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 1009,
+      "volume": 353,
       "best_volume": 1009,
       "whale_max": 0,
       "entered": false
@@ -2070,7 +2070,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 503,
+      "volume": 445,
       "best_volume": 3229,
       "whale_max": 0,
       "entered": false
@@ -2466,7 +2466,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 3808,
+      "volume": 3801,
       "best_volume": 27046,
       "whale_max": 0,
       "entered": true
@@ -2742,7 +2742,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 6579,
+      "volume": 6216,
       "best_volume": 6950,
       "whale_max": 0,
       "entered": false
@@ -2826,8 +2826,8 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 1496,
-      "best_volume": 1496,
+      "volume": 4316,
+      "best_volume": 4316,
       "whale_max": 0,
       "entered": false
     },
