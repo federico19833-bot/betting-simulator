@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:34:17",
+  "last_update": "30/05/2026 06:34:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -141,7 +141,7 @@
     {
       "match": "Onsala BK v BK Astrio",
       "campionato": "Swedish Division 2",
-      "volume": 2004,
+      "volume": 1963,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -392,21 +392,6 @@
       "market_id": "1.258575671",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
-      "volume": 1208,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
     },
     {
       "match": "KuPS v FC Inter",
@@ -840,6 +825,21 @@
       "source": "Betfair",
       "event_id": "35653381",
       "market_id": "1.258667568",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2256,7 +2256,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 2004,
+      "volume": 1963,
       "best_volume": 2722,
       "whale_max": 0,
       "entered": false
@@ -2930,6 +2930,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
