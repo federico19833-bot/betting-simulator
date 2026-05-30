@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:54:20",
+  "last_update": "30/05/2026 06:54:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Hobro v Middelfart",
       "campionato": "Danish 1st Division",
-      "volume": 6827,
+      "volume": 6868,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -844,21 +844,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Osterlen FF v Staffanstorp United FC",
-      "campionato": "Swedish Division 2",
-      "volume": 298,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656636",
-      "market_id": "1.258664971",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
       "campionato": "Peruvian Primera Division",
       "volume": 256,
@@ -1007,21 +992,6 @@
       "market_id": "1.258713839",
       "_is_inplay": false,
       "open_date": "2026-05-30 10:00"
-    },
-    {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 184,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
@@ -1290,6 +1260,21 @@
       "source": "Betfair",
       "event_id": "35656534",
       "market_id": "1.258664287",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Osterlen FF v Staffanstorp United FC",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656636",
+      "market_id": "1.258664971",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2317,9 +2302,9 @@
       "match": "Osterlen FF v Staffanstorp United FC",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 298,
+      "volume": 10,
       "best_volume": 1699,
       "whale_max": 0,
       "entered": false
@@ -2475,7 +2460,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 6827,
+      "volume": 6868,
       "best_volume": 6917,
       "whale_max": 0,
       "entered": false
@@ -2921,18 +2906,6 @@
       "quota_iniziale": 1.06,
       "volume": 349,
       "best_volume": 349,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258659294",
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 184,
-      "best_volume": 184,
       "whale_max": 0,
       "entered": false
     },
