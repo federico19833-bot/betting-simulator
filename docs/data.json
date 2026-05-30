@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 10:21:18",
+  "last_update": "30/05/2026 10:21:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 22599,
+      "volume": 22503,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "FC Helsingor v Brabrand",
-      "campionato": "Danish 2nd Division",
-      "volume": 2779,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656540",
-      "market_id": "1.258664266",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Moss v Stabaek",
       "campionato": "Norwegian 1st Division",
       "volume": 2709,
@@ -227,6 +212,21 @@
       "market_id": "1.258731170",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "FC Helsingor v Brabrand",
+      "campionato": "Danish 2nd Division",
+      "volume": 2056,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656540",
+      "market_id": "1.258664266",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Hassleholms IF v Utsiktens",
@@ -291,7 +291,7 @@
     {
       "match": "Vorskla v Podillya",
       "campionato": "Ukrainian Persha Liga",
-      "volume": 1725,
+      "volume": 1788,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -1009,6 +1009,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Manta FC v Libertad FC",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 212,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648453",
+      "market_id": "1.258575671",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Henan Songshan Longmen v Zhejiang Greentown",
       "campionato": "Chinese Super League",
       "volume": 196,
@@ -1022,21 +1037,6 @@
       "market_id": "1.258662664",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Manta FC v Libertad FC",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 191,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648453",
-      "market_id": "1.258575671",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Taby FK v Skiljebo",
@@ -2520,7 +2520,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 22599,
+      "volume": 22503,
       "best_volume": 25362,
       "whale_max": 0,
       "entered": true
@@ -2662,9 +2662,9 @@
       "match": "Manta FC v Libertad FC",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 191,
+      "volume": 212,
       "best_volume": 752,
       "whale_max": 0,
       "entered": false
