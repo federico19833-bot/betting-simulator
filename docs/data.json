@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:16:20",
+  "last_update": "30/05/2026 08:16:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "B93 Copenhagen v Aarhus Fremad",
       "campionato": "Danish 1st Division",
-      "volume": 4222,
+      "volume": 4224,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -634,6 +634,21 @@
       "open_date": "2026-05-30 23:30"
     },
     {
+      "match": "Ulsan Citizen FC v Pocheon FC",
+      "campionato": "South Korean K3 League",
+      "volume": 631,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662067",
+      "market_id": "1.258713138",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "FC Neptunas Klaipeda v Be1 NFA",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 585,
@@ -692,21 +707,6 @@
       "market_id": "1.258563643",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Ulsan Citizen FC v Pocheon FC",
-      "campionato": "South Korean K3 League",
-      "volume": 560,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662067",
-      "market_id": "1.258713138",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "GAIS v Kalmar FF",
@@ -2079,7 +2079,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 560,
+      "volume": 631,
       "best_volume": 1554,
       "whale_max": 0,
       "entered": false
@@ -2235,7 +2235,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 4222,
+      "volume": 4224,
       "best_volume": 33867,
       "whale_max": 0,
       "entered": true
