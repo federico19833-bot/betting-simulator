@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 12:23:01",
+  "last_update": "30/05/2026 12:23:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,8 +126,8 @@
     {
       "match": "Landskrona v IK Brage",
       "campionato": "Swedish Superettan",
-      "volume": 3158,
-      "quota": 1.11,
+      "volume": 3217,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -274,6 +274,21 @@
       "open_date": "2026-05-30 20:30"
     },
     {
+      "match": "Falkenbergs v Oddevold",
+      "campionato": "Swedish Superettan",
+      "volume": 1911,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644275",
+      "market_id": "1.258548574",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
       "campionato": "Kuwaiti Premier League",
       "volume": 1672,
@@ -304,21 +319,6 @@
       "open_date": "2026-05-30 14:00"
     },
     {
-      "match": "Atletico GO v Goias",
-      "campionato": "Brazilian Serie B",
-      "volume": 1574,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648361",
-      "market_id": "1.258575405",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
       "volume": 1570,
@@ -330,6 +330,21 @@
       "source": "Betfair",
       "event_id": "35657921",
       "market_id": "1.258671838",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Atletico GO v Goias",
+      "campionato": "Brazilian Serie B",
+      "volume": 1514,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648361",
+      "market_id": "1.258575405",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -377,21 +392,6 @@
       "market_id": "1.258738432",
       "_is_inplay": true,
       "open_date": "2026-05-30 12:00"
-    },
-    {
-      "match": "Falkenbergs v Oddevold",
-      "campionato": "Swedish Superettan",
-      "volume": 1213,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644275",
-      "market_id": "1.258548574",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Almirante Brown v Colon",
@@ -1116,7 +1116,7 @@
     {
       "match": "Malmo FF v Halmstads",
       "campionato": "Swedish Allsvenskan",
-      "volume": 85,
+      "volume": 75,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -1144,21 +1144,6 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "CA Colegiales v Agropecuario",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 50,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648489",
-      "market_id": "1.258730178",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:00"
-    },
-    {
       "match": "Sociedad B v Leonesa",
       "campionato": "Spanish Segunda Division",
       "volume": 48,
@@ -1172,6 +1157,21 @@
       "market_id": "1.258575447",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:15"
+    },
+    {
+      "match": "CA Colegiales v Agropecuario",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 46,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648489",
+      "market_id": "1.258730178",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:00"
     },
     {
       "match": "Danubio v Progreso",
@@ -2031,7 +2031,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 85,
+      "volume": 75,
       "best_volume": 43107,
       "whale_max": 0,
       "entered": true
@@ -2163,7 +2163,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 1574,
+      "volume": 1514,
       "best_volume": 1574,
       "whale_max": 0,
       "entered": false
