@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 19:42:44",
+  "last_update": "30/05/2026 19:43:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -349,6 +349,21 @@
       "open_date": "2026-05-30 19:30"
     },
     {
+      "match": "Manta FC v Libertad FC",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 301,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648453",
+      "market_id": "1.258575671",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
       "volume": 254,
@@ -422,21 +437,6 @@
       "market_id": "1.258659273",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:30"
-    },
-    {
-      "match": "Manta FC v Libertad FC",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 96,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648453",
-      "market_id": "1.258575671",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Athletic Club v Fortaleza EC",
@@ -1240,9 +1240,9 @@
       "match": "Manta FC v Libertad FC",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.09,
-      "volume": 96,
+      "volume": 301,
       "best_volume": 26642,
       "whale_max": 0,
       "entered": true
