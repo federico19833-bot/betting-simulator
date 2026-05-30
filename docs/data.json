@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 18:09:52",
+  "last_update": "30/05/2026 18:10:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 8678,
+      "volume": 8611,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -124,25 +124,10 @@
       "open_date": "2026-05-30 18:00"
     },
     {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1788,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
-      "volume": 1751,
-      "quota": 1.08,
+      "volume": 1746,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -240,6 +225,21 @@
       "source": "Betfair",
       "event_id": "35624904",
       "market_id": "1.258659252",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 952,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -379,6 +379,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Ponferradina v Atletico Madrid II",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 446,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657921",
+      "market_id": "1.258671838",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Academia de Balompie Boliviano v Always Ready",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 432,
@@ -439,25 +454,10 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 244,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 221,
-      "quota": 1.47,
+      "volume": 279,
+      "quota": 1.42,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1276,9 +1276,9 @@
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1751,
+      "volume": 1746,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1288,9 +1288,9 @@
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 1788,
+      "volume": 446,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1504,9 +1504,9 @@
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 244,
+      "volume": 952,
       "best_volume": 29237,
       "whale_max": 0,
       "entered": true
