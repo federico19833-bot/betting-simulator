@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 12:10:29",
+  "last_update": "30/05/2026 12:11:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "GAIS v Kalmar FF",
       "campionato": "Swedish Allsvenskan",
-      "volume": 10218,
+      "volume": 10107,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Flamengo v Coritiba",
       "campionato": "Brazilian Serie A",
-      "volume": 7933,
+      "volume": 8021,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Sundsvall v Sandvikens IF",
-      "campionato": "Swedish Superettan",
-      "volume": 3311,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647555",
-      "market_id": "1.258567785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "Moss v Stabaek",
       "campionato": "Norwegian 1st Division",
       "volume": 2709,
@@ -182,21 +167,6 @@
       "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Eskilsminne v Trelleborgs",
-      "campionato": "Swedish Division 1",
-      "volume": 2481,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657618",
-      "market_id": "1.258667270",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "KuPS v FC Inter",
@@ -214,17 +184,17 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Taby FK v Skiljebo",
-      "campionato": "Swedish Division 2",
-      "volume": 2399,
-      "quota": 1.08,
+      "match": "Eskilsminne v Trelleborgs",
+      "campionato": "Swedish Division 1",
+      "volume": 2410,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656111",
-      "market_id": "1.258662567",
+      "event_id": "35657618",
+      "market_id": "1.258667270",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -272,6 +242,21 @@
       "market_id": "1.258705373",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Sundsvall v Sandvikens IF",
+      "campionato": "Swedish Superettan",
+      "volume": 2129,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647555",
+      "market_id": "1.258567785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Parnu JK Vaprus v Nomme Kalju",
@@ -347,6 +332,21 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "Taby FK v Skiljebo",
+      "campionato": "Swedish Division 2",
+      "volume": 1390,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656111",
+      "market_id": "1.258662567",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Ariana FC v Laholms",
@@ -456,7 +456,7 @@
     {
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
-      "volume": 1126,
+      "volume": 1128,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -495,21 +495,6 @@
       "source": "Betfair",
       "event_id": "35663028",
       "market_id": "1.258721734",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Atletico GO v Goias",
-      "campionato": "Brazilian Serie B",
-      "volume": 1027,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648361",
-      "market_id": "1.258575405",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -572,6 +557,21 @@
       "market_id": "1.258738432",
       "_is_inplay": true,
       "open_date": "2026-05-30 12:00"
+    },
+    {
+      "match": "Atletico GO v Goias",
+      "campionato": "Brazilian Serie B",
+      "volume": 922,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648361",
+      "market_id": "1.258575405",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "FC Neptunas Klaipeda v Be1 NFA",
@@ -846,7 +846,7 @@
     {
       "match": "BK Forward v Ragsveds IF",
       "campionato": "Swedish Division 2",
-      "volume": 525,
+      "volume": 535,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -874,10 +874,25 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Onsala BK v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 500,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662832",
+      "market_id": "1.258717621",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Henan Songshan Longmen v Zhejiang Greentown",
       "campionato": "Chinese Super League",
-      "volume": 375,
-      "quota": 1.03,
+      "volume": 353,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -887,21 +902,6 @@
       "market_id": "1.258662664",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Osters v Norrby IF",
-      "campionato": "Swedish Superettan",
-      "volume": 323,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660373",
-      "market_id": "1.258701785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 17:00"
     },
     {
       "match": "Al Najma (BRN) v Manama Club",
@@ -932,21 +932,6 @@
       "market_id": "1.258563643",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "B93 Copenhagen v Aarhus Fremad",
-      "campionato": "Danish 1st Division",
-      "volume": 277,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644265",
-      "market_id": "1.258666168",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Athletic Club v Fortaleza EC",
@@ -1084,6 +1069,21 @@
       "open_date": "2026-05-30 16:15"
     },
     {
+      "match": "Osters v Norrby IF",
+      "campionato": "Swedish Superettan",
+      "volume": 102,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660373",
+      "market_id": "1.258701785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 17:00"
+    },
+    {
       "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
       "volume": 98,
@@ -1097,21 +1097,6 @@
       "market_id": "1.258700103",
       "_is_inplay": false,
       "open_date": "2026-05-30 18:00"
-    },
-    {
-      "match": "Onsala BK v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 88,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662832",
-      "market_id": "1.258717621",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "FC Dziugas v Panevezys",
@@ -1157,6 +1142,21 @@
       "market_id": "1.258728043",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:15"
+    },
+    {
+      "match": "B93 Copenhagen v Aarhus Fremad",
+      "campionato": "Danish 1st Division",
+      "volume": 57,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644265",
+      "market_id": "1.258666168",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "CA Colegiales v Agropecuario",
@@ -2041,9 +2041,9 @@
       "match": "Henan Songshan Longmen v Zhejiang Greentown",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 375,
+      "volume": 353,
       "best_volume": 29654,
       "whale_max": 0,
       "entered": false
@@ -2077,9 +2077,9 @@
       "match": "B93 Copenhagen v Aarhus Fremad",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 277,
+      "volume": 57,
       "best_volume": 43107,
       "whale_max": 0,
       "entered": true
@@ -2127,7 +2127,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 10218,
+      "volume": 10107,
       "best_volume": 14212,
       "whale_max": 0,
       "entered": false
@@ -2271,7 +2271,7 @@
       "open_date": "2026-05-30 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 323,
+      "volume": 102,
       "best_volume": 323,
       "whale_max": 0,
       "entered": false
@@ -2379,7 +2379,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 1126,
+      "volume": 1128,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": false
@@ -2583,7 +2583,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 88,
+      "volume": 500,
       "best_volume": 1606,
       "whale_max": 0,
       "entered": false
@@ -2655,7 +2655,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 525,
+      "volume": 535,
       "best_volume": 9022,
       "whale_max": 0,
       "entered": false
@@ -2907,7 +2907,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 2100,
+      "volume": 2410,
       "best_volume": 2457,
       "whale_max": 0,
       "entered": false
@@ -2953,9 +2953,9 @@
       "match": "Taby FK v Skiljebo",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 2399,
+      "volume": 1390,
       "best_volume": 29654,
       "whale_max": 0,
       "entered": true
