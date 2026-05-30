@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:19:18",
+  "last_update": "30/05/2026 08:19:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
-      "volume": 2516,
+      "volume": 2525,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -621,7 +621,7 @@
     {
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
-      "volume": 646,
+      "volume": 636,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -1116,8 +1116,8 @@
     {
       "match": "Osters v Norrby IF",
       "campionato": "Swedish Superettan",
-      "volume": 86,
-      "quota": 1.04,
+      "volume": 74,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1127,6 +1127,21 @@
       "market_id": "1.258701785",
       "_is_inplay": false,
       "open_date": "2026-05-30 17:00"
+    },
+    {
+      "match": "Athletic Club v Fortaleza EC",
+      "campionato": "Brazilian Serie B",
+      "volume": 50,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649361",
+      "market_id": "1.258704951",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:00"
     },
     {
       "match": "Cabofriense v Audax Rio",
@@ -1337,21 +1352,6 @@
       "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Universidad de Venezuela v Portuguesa FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 10,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663013",
-      "market_id": "1.258721765",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 22:00"
     },
     {
       "match": "Instituto v Lanus",
@@ -2289,7 +2289,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 2516,
+      "volume": 2525,
       "best_volume": 8212,
       "whale_max": 0,
       "entered": false
@@ -2551,9 +2551,9 @@
       "match": "Osters v Norrby IF",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-30 17:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 86,
+      "volume": 74,
       "best_volume": 173,
       "whale_max": 0,
       "entered": false
@@ -3009,18 +3009,6 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258721765",
-      "match": "Universidad de Venezuela v Portuguesa FC",
-      "campionato": "Venezuelan Primera Division",
-      "open_date": "2026-05-30 22:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
       "volume": 10,
       "best_volume": 10,
       "whale_max": 0,
