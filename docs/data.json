@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 22:35:01",
+  "last_update": "30/05/2026 22:35:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,25 +19,10 @@
   },
   "live_events": [
     {
-      "match": "Bahia v Botafogo FR",
-      "campionato": "Brazilian Serie A",
-      "volume": 6475,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624930",
-      "market_id": "1.258659273",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 22:30"
-    },
-    {
       "match": "Athletic Club v Fortaleza EC",
       "campionato": "Brazilian Serie B",
-      "volume": 4655,
-      "quota": 1.11,
+      "volume": 11077,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -96,7 +81,7 @@
     {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 1122,
+      "volume": 1114,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -139,10 +124,25 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "volume": 210,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624930",
+      "market_id": "1.258659273",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 22:30"
+    },
+    {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
-      "volume": 622,
-      "quota": 1.79,
+      "volume": 103,
+      "quota": 1.94,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -156,8 +156,8 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 54,
-      "quota": 2.38,
+      "volume": 83,
+      "quota": 2.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -171,7 +171,7 @@
     {
       "match": "Instituto v Lanus",
       "campionato": "Argentinian Cup",
-      "volume": 29,
+      "volume": 40,
       "quota": 2.06,
       "in_range": false,
       "monitored": false,
@@ -1092,7 +1092,7 @@
       "open_date": "2026-05-30 22:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 6475,
+      "volume": 210,
       "best_volume": 31462,
       "whale_max": 0,
       "entered": true
