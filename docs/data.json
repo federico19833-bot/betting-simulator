@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 12:04:09",
+  "last_update": "30/05/2026 12:05:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,13 +8,13 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 130,
+    "total": 131,
     "wins": 112,
     "losses": 7,
-    "in_corso": 11,
+    "in_corso": 12,
     "winrate": 94.1,
     "profit": 93.19,
-    "roi": 0.72,
+    "roi": 0.71,
     "balance": 1093.19
   },
   "live_events": [
@@ -66,7 +66,7 @@
     {
       "match": "Atletico GO v Goias",
       "campionato": "Brazilian Serie B",
-      "volume": 7933,
+      "volume": 8020,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -139,6 +139,36 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "FC Helsingor v Brabrand",
+      "campionato": "Danish 2nd Division",
+      "volume": 3021,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656540",
+      "market_id": "1.258664266",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Racing Club (Uru) v Defensor Sporting",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 3008,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648576",
+      "market_id": "1.258581559",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Moss v Stabaek",
       "campionato": "Norwegian 1st Division",
       "volume": 2709,
@@ -167,21 +197,6 @@
       "market_id": "1.258567763",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Eskilsminne v Trelleborgs",
-      "campionato": "Swedish Division 1",
-      "volume": 2457,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657618",
-      "market_id": "1.258667270",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "HNK Orijent 1919 v NK Dugopolje",
@@ -334,21 +349,6 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "IK Kongahalla v Astorps FF",
-      "campionato": "Swedish Division 2",
-      "volume": 1364,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660165",
-      "market_id": "1.258705373",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
       "match": "Ariana FC v Laholms",
       "campionato": "Swedish Division 1",
       "volume": 1340,
@@ -362,21 +362,6 @@
       "market_id": "1.258677206",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "FC Helsingor v Brabrand",
-      "campionato": "Danish 2nd Division",
-      "volume": 1312,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656540",
-      "market_id": "1.258664266",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
@@ -407,6 +392,21 @@
       "market_id": "1.258667568",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Eskilsminne v Trelleborgs",
+      "campionato": "Swedish Division 1",
+      "volume": 1298,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657618",
+      "market_id": "1.258667270",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Bollstanas SK v Sunnersta AIF",
@@ -979,6 +979,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "BK Forward v Ragsveds IF",
+      "campionato": "Swedish Division 2",
+      "volume": 210,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656120",
+      "market_id": "1.258667675",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Hrvace v NK Dubrava Zagreb",
       "campionato": "Croatian Prva NL",
       "volume": 203,
@@ -1159,21 +1174,6 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "BK Forward v Ragsveds IF",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656120",
-      "market_id": "1.258667675",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "HJK Helsinki v IFK Mariehamn",
       "campionato": "Finnish Veikkausliiga",
       "volume": 10,
@@ -1264,6 +1264,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "IK Kongahalla v Astorps FF",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660165",
+      "market_id": "1.258705373",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Lahti v Ilves",
       "campionato": "Finnish Veikkausliiga",
       "volume": 10,
@@ -1307,21 +1322,6 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
-    },
-    {
-      "match": "Racing Club (Uru) v Defensor Sporting",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 9,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648576",
-      "market_id": "1.258581559",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     }
   ],
   "tracked_matches": [
@@ -1978,9 +1978,9 @@
       "match": "Racing Club (Uru) v Defensor Sporting",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 9,
+      "volume": 3008,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2688,7 +2688,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 10,
+      "volume": 210,
       "best_volume": 9022,
       "whale_max": 0,
       "entered": false
@@ -2782,12 +2782,12 @@
       "match": "FC Helsingor v Brabrand",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.01,
-      "volume": 1312,
+      "volume": 3021,
       "best_volume": 27166,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258717579",
@@ -2878,9 +2878,9 @@
       "match": "IK Kongahalla v Astorps FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1364,
+      "volume": 10,
       "best_volume": 1364,
       "whale_max": 0,
       "entered": false
@@ -2962,9 +2962,9 @@
       "match": "Eskilsminne v Trelleborgs",
       "campionato": "Swedish Division 1",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 2457,
+      "volume": 1298,
       "best_volume": 2457,
       "whale_max": 0,
       "entered": false
@@ -3019,6 +3019,20 @@
     }
   ],
   "giocate": [
+    {
+      "id": 142,
+      "orario": "2026-05-30 12:05:41",
+      "match": "FC Helsingor v Brabrand",
+      "campionato": "Danish 2nd Division",
+      "quota": 1.08,
+      "volume": 27166,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 141,
       "orario": "2026-05-30 12:04:03",
