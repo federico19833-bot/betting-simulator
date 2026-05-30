@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:22:40",
+  "last_update": "30/05/2026 04:23:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -139,6 +139,21 @@
       "open_date": "2026-05-30 09:30"
     },
     {
+      "match": "Onsala BK v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 2015,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662832",
+      "market_id": "1.258717621",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
       "volume": 2015,
@@ -184,21 +199,6 @@
       "open_date": "2026-05-30 15:00"
     },
     {
-      "match": "Onsala BK v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 1690,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662832",
-      "market_id": "1.258717621",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Granada v Sporting Gijon",
       "campionato": "Spanish Segunda Division",
       "volume": 1690,
@@ -240,21 +240,6 @@
       "source": "Betfair",
       "event_id": "35647030",
       "market_id": "1.258560969",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Sundsvall v Sandvikens IF",
-      "campionato": "Swedish Superettan",
-      "volume": 1609,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647555",
-      "market_id": "1.258567785",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
     },
@@ -317,6 +302,21 @@
       "market_id": "1.258660619",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
+    },
+    {
+      "match": "Sundsvall v Sandvikens IF",
+      "campionato": "Swedish Superettan",
+      "volume": 1448,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647555",
+      "market_id": "1.258567785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Danubio v Progreso",
@@ -484,6 +484,21 @@
       "open_date": "2026-05-30 07:00"
     },
     {
+      "match": "FUS Rabat v FAR Rabat",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 847,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665123",
+      "market_id": "1.258734375",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "CA Colegiales v Agropecuario",
       "campionato": "Argentinian Primera Nacional",
       "volume": 830,
@@ -497,21 +512,6 @@
       "market_id": "1.258730178",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
-    },
-    {
-      "match": "FUS Rabat v FAR Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 803,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665123",
-      "market_id": "1.258734375",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "IK Kongahalla v Astorps FF",
@@ -2089,9 +2089,9 @@
       "match": "Onsala BK v BK Astrio",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1690,
+      "volume": 2015,
       "best_volume": 2015,
       "whale_max": 0,
       "entered": false
@@ -2235,7 +2235,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1609,
+      "volume": 1448,
       "best_volume": 2363,
       "whale_max": 0,
       "entered": false
@@ -2595,7 +2595,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 803,
+      "volume": 847,
       "best_volume": 848,
       "whale_max": 0,
       "entered": false
