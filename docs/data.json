@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:46:36",
+  "last_update": "30/05/2026 04:47:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -244,6 +244,21 @@
       "open_date": "2026-05-30 15:00"
     },
     {
+      "match": "Sundsvall v Sandvikens IF",
+      "campionato": "Swedish Superettan",
+      "volume": 1609,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647555",
+      "market_id": "1.258567785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "FK Transinvest II v FK Kauno Zalgiris 2",
       "campionato": "Lithuanian 1 Lyga",
       "volume": 1522,
@@ -302,21 +317,6 @@
       "market_id": "1.258660619",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
-    },
-    {
-      "match": "Sundsvall v Sandvikens IF",
-      "campionato": "Swedish Superettan",
-      "volume": 1448,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647555",
-      "market_id": "1.258567785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Danubio v Progreso",
@@ -855,21 +855,6 @@
       "source": "Betfair",
       "event_id": "35653381",
       "market_id": "1.258667568",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Moss v Stabaek",
-      "campionato": "Norwegian 1st Division",
-      "volume": 306,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650592",
-      "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2265,7 +2250,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1448,
+      "volume": 1609,
       "best_volume": 2363,
       "whale_max": 0,
       "entered": false
@@ -2843,18 +2828,6 @@
       "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258667632",
-      "match": "Moss v Stabaek",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 306,
-      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
