@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:16:23",
+  "last_update": "30/05/2026 11:16:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Smedby v FOC Farsta",
       "campionato": "Swedish Division 2",
-      "volume": 7513,
+      "volume": 7512,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -366,7 +366,7 @@
     {
       "match": "FC Trollhattan v Aatvidabergs Ff",
       "campionato": "Swedish Division 1",
-      "volume": 1366,
+      "volume": 1364,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -497,6 +497,21 @@
       "market_id": "1.258721734",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "FC Helsingor v Brabrand",
+      "campionato": "Danish 2nd Division",
+      "volume": 999,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656540",
+      "market_id": "1.258664266",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Harju JK Laagri v Trans Narva",
@@ -726,7 +741,7 @@
     {
       "match": "Ariana FC v Laholms",
       "campionato": "Swedish Division 1",
-      "volume": 546,
+      "volume": 544,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -814,17 +829,17 @@
       "open_date": "2026-05-30 15:00"
     },
     {
-      "match": "FC Helsingor v Brabrand",
+      "match": "Ishoj IF v VSK Aarhus FC",
       "campionato": "Danish 2nd Division",
-      "volume": 353,
-      "quota": 1.02,
+      "volume": 374,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35656540",
-      "market_id": "1.258664266",
+      "event_id": "35656534",
+      "market_id": "1.258664287",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -960,21 +975,6 @@
       "source": "Betfair",
       "event_id": "35656111",
       "market_id": "1.258662567",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Ishoj IF v VSK Aarhus FC",
-      "campionato": "Danish 2nd Division",
-      "volume": 241,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656534",
-      "market_id": "1.258664287",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2298,7 +2298,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1366,
+      "volume": 1364,
       "best_volume": 1366,
       "whale_max": 0,
       "entered": false
@@ -2752,9 +2752,9 @@
       "match": "Ishoj IF v VSK Aarhus FC",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 241,
+      "volume": 374,
       "best_volume": 1845,
       "whale_max": 0,
       "entered": false
@@ -2920,9 +2920,9 @@
       "match": "FC Helsingor v Brabrand",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.01,
-      "volume": 353,
+      "volume": 999,
       "best_volume": 27166,
       "whale_max": 0,
       "entered": false
@@ -2934,7 +2934,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 7513,
+      "volume": 7512,
       "best_volume": 9520,
       "whale_max": 0,
       "entered": false
@@ -3042,7 +3042,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 546,
+      "volume": 544,
       "best_volume": 546,
       "whale_max": 0,
       "entered": false
