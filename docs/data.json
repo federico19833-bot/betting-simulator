@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:33:35",
+  "last_update": "30/05/2026 04:34:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -589,21 +589,6 @@
       "open_date": "2026-05-30 23:30"
     },
     {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 630,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "HIK Hellerup v Vendsyssel FF",
       "campionato": "Danish 2nd Division",
       "volume": 619,
@@ -722,6 +707,21 @@
       "market_id": "1.258560991",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
+    },
+    {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 549,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "All Boys v Los Andes",
@@ -855,21 +855,6 @@
       "source": "Betfair",
       "event_id": "35653381",
       "market_id": "1.258667568",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Moss v Stabaek",
-      "campionato": "Norwegian 1st Division",
-      "volume": 306,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650592",
-      "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -1217,6 +1202,21 @@
       "market_id": "1.258659315",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:30"
+    },
+    {
+      "match": "Dangjin FC v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662442",
+      "market_id": "1.258713741",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 09:00"
     },
     {
       "match": "Ishoj IF v VSK Aarhus FC",
@@ -2538,7 +2538,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 630,
+      "volume": 549,
       "best_volume": 630,
       "whale_max": 0,
       "entered": false
@@ -2820,14 +2820,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258667632",
-      "match": "Moss v Stabaek",
-      "campionato": "Norwegian 1st Division",
-      "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 306,
-      "best_volume": 306,
+      "event_id": "bf_1.258713741",
+      "match": "Dangjin FC v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-05-30 09:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
