@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 05:28:13",
+  "last_update": "30/05/2026 05:28:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -574,6 +574,21 @@
       "open_date": "2026-05-30 13:00"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 665,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Manta FC v Libertad FC",
       "campionato": "Ecuadorian Serie A",
       "volume": 652,
@@ -692,21 +707,6 @@
       "market_id": "1.258560991",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 549,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "All Boys v Los Andes",
@@ -2553,8 +2553,8 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 549,
-      "best_volume": 653,
+      "volume": 665,
+      "best_volume": 665,
       "whale_max": 0,
       "entered": false
     },
