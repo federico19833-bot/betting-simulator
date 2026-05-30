@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 05:00:09",
+  "last_update": "30/05/2026 05:00:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -589,6 +589,21 @@
       "open_date": "2026-05-30 23:30"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 630,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "HIK Hellerup v Vendsyssel FF",
       "campionato": "Danish 2nd Division",
       "volume": 619,
@@ -707,21 +722,6 @@
       "market_id": "1.258560991",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 549,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "All Boys v Los Andes",
@@ -859,6 +859,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Flamengo v Coritiba",
       "campionato": "Brazilian Serie A",
       "volume": 296,
@@ -872,21 +887,6 @@
       "market_id": "1.258659252",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "AD Ceuta FC v Albacete",
-      "campionato": "Spanish Segunda Division",
-      "volume": 261,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647505",
-      "market_id": "1.258566704",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:15"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -992,6 +992,21 @@
       "market_id": "1.258713138",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
+    },
+    {
+      "match": "AD Ceuta FC v Albacete",
+      "campionato": "Spanish Segunda Division",
+      "volume": 156,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647505",
+      "market_id": "1.258566704",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:15"
     },
     {
       "match": "Ljungskile v Varbergs BoIS",
@@ -2416,9 +2431,9 @@
       "match": "AD Ceuta FC v Albacete",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-05-30 16:15",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 261,
+      "volume": 156,
       "best_volume": 261,
       "whale_max": 0,
       "entered": false
@@ -2538,7 +2553,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 549,
+      "volume": 630,
       "best_volume": 630,
       "whale_max": 0,
       "entered": false
@@ -2828,6 +2843,18 @@
       "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
