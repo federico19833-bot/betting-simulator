@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 18:01:44",
+  "last_update": "30/05/2026 18:02:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "MB Rouissat v USM Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 29776,
+      "volume": 29985,
       "quota": 1.09,
       "in_range": true,
       "monitored": false,
@@ -349,21 +349,6 @@
       "open_date": "2026-05-30 18:00"
     },
     {
-      "match": "Avai v Criciuma",
-      "campionato": "Brazilian Serie B",
-      "volume": 449,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648445",
-      "market_id": "1.258576384",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Academia de Balompie Boliviano v Always Ready",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 432,
@@ -439,9 +424,24 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "Sport Recife v Nautico PE",
+      "campionato": "Brazilian Serie B",
+      "volume": 209,
+      "quota": 1.45,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645724",
+      "market_id": "1.258574307",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:30"
+    },
+    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 175,
+      "volume": 192,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -469,19 +469,19 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Sport Recife v Nautico PE",
+      "match": "Avai v Criciuma",
       "campionato": "Brazilian Serie B",
-      "volume": 121,
-      "quota": 1.45,
+      "volume": 96,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35645724",
-      "market_id": "1.258574307",
+      "event_id": "35648445",
+      "market_id": "1.258576384",
       "_is_inplay": false,
-      "open_date": "2026-05-31 01:30"
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Instituto v Lanus",
@@ -502,7 +502,7 @@
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "volume": 10,
-      "quota": 1.06,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1291,7 +1291,7 @@
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
       "volume": 10,
       "best_volume": 27829,
@@ -1305,7 +1305,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 175,
+      "volume": 192,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1809,7 +1809,7 @@
       "open_date": "2026-05-30 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 29776,
+      "volume": 29985,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1929,7 +1929,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 449,
+      "volume": 96,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
