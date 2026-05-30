@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 19:45:53",
+  "last_update": "30/05/2026 19:46:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -231,7 +231,7 @@
     {
       "match": "Gremio v Corinthians",
       "campionato": "Brazilian Serie A",
-      "volume": 1218,
+      "volume": 1208,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -364,21 +364,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
-      "volume": 254,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
-    },
-    {
       "match": "Instituto v Lanus",
       "campionato": "Argentinian Cup",
       "volume": 222,
@@ -437,6 +422,21 @@
       "market_id": "1.258659273",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:30"
+    },
+    {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 53,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 00:30"
     },
     {
       "match": "Athletic Club v Fortaleza EC",
@@ -1326,7 +1326,7 @@
       "open_date": "2026-05-30 22:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 1218,
+      "volume": 1208,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
