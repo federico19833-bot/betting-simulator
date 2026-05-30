@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 18:05:27",
+  "last_update": "30/05/2026 18:06:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
-      "volume": 7569,
+      "volume": 7616,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -92,6 +92,21 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "MB Rouissat v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 6802,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665944",
+      "market_id": "1.258739596",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 17:00"
     },
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
@@ -150,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35648361",
       "market_id": "1.258575405",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 1439,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -229,17 +229,17 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1047,
-      "quota": 1.05,
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 1132,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -272,21 +272,6 @@
       "market_id": "1.258730159",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
-    },
-    {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 747,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Athletic Club v Fortaleza EC",
@@ -349,34 +334,19 @@
       "open_date": "2026-05-30 19:30"
     },
     {
-      "match": "FUS Rabat v FAR Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 626,
-      "quota": 1.15,
+      "match": "Ponferradina v Atletico Madrid II",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 641,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35665123",
-      "market_id": "1.258734375",
+      "event_id": "35657921",
+      "market_id": "1.258671838",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "MB Rouissat v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 595,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665944",
-      "market_id": "1.258739596",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 17:00"
     },
     {
       "match": "Bollstanas SK v Sunnersta AIF",
@@ -454,6 +424,21 @@
       "open_date": "2026-05-30 23:30"
     },
     {
+      "match": "FUS Rabat v FAR Rabat",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 358,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665123",
+      "market_id": "1.258734375",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 337,
@@ -471,7 +456,7 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 171,
+      "volume": 195,
       "quota": 1.46,
       "in_range": false,
       "monitored": false,
@@ -495,6 +480,21 @@
       "source": "Betfair",
       "event_id": "35647975",
       "market_id": "1.258570645",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 117,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -1291,9 +1291,9 @@
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1439,
+      "volume": 1132,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1305,7 +1305,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 1047,
+      "volume": 641,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1519,9 +1519,9 @@
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 747,
+      "volume": 117,
       "best_volume": 29237,
       "whale_max": 0,
       "entered": true
@@ -1917,7 +1917,7 @@
       "open_date": "2026-05-30 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 7569,
+      "volume": 7616,
       "best_volume": 26459,
       "whale_max": 0,
       "entered": true
