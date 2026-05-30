@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 09:49:23",
+  "last_update": "30/05/2026 09:49:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-30 15:00"
     },
     {
+      "match": "Eskilsminne v Trelleborgs",
+      "campionato": "Swedish Division 1",
+      "volume": 6548,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657618",
+      "market_id": "1.258667270",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "volume": 6187,
@@ -94,21 +109,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Eskilsminne v Trelleborgs",
-      "campionato": "Swedish Division 1",
-      "volume": 4715,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657618",
-      "market_id": "1.258667270",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Malmo FF v Halmstads",
       "campionato": "Swedish Allsvenskan",
       "volume": 4335,
@@ -122,21 +122,6 @@
       "market_id": "1.258567763",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Ulsan Citizen FC v Pocheon FC",
-      "campionato": "South Korean K3 League",
-      "volume": 3344,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662067",
-      "market_id": "1.258713138",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Hammarby TFF v AFC Eskilstuna",
@@ -169,9 +154,24 @@
       "open_date": "2026-05-30 12:00"
     },
     {
+      "match": "Ulsan Citizen FC v Pocheon FC",
+      "campionato": "South Korean K3 League",
+      "volume": 3056,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662067",
+      "market_id": "1.258713138",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
-      "volume": 2714,
+      "volume": 2724,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -276,7 +276,7 @@
     {
       "match": "Fittja IF v Lindo FF",
       "campionato": "Swedish Division 2",
-      "volume": 1675,
+      "volume": 1781,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -302,21 +302,6 @@
       "market_id": "1.258659683",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:00"
-    },
-    {
-      "match": "Suwon FC v Seongnam FC",
-      "campionato": "South Korean K2 League",
-      "volume": 1671,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646673",
-      "market_id": "1.258660346",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "All Boys v Los Andes",
@@ -591,7 +576,7 @@
     {
       "match": "Osterlen FF v Staffanstorp United FC",
       "campionato": "Swedish Division 2",
-      "volume": 795,
+      "volume": 791,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -602,6 +587,21 @@
       "market_id": "1.258664971",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Suwon FC v Seongnam FC",
+      "campionato": "South Korean K2 League",
+      "volume": 761,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646673",
+      "market_id": "1.258660346",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Gnistan v SJK",
@@ -2098,9 +2098,9 @@
       "match": "Ulsan Citizen FC v Pocheon FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-05-30 12:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 5606,
+      "volume": 3056,
       "best_volume": 6255,
       "whale_max": 0,
       "entered": false
@@ -2160,7 +2160,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 795,
+      "volume": 791,
       "best_volume": 2070,
       "whale_max": 0,
       "entered": false
@@ -2292,8 +2292,8 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1675,
-      "best_volume": 1777,
+      "volume": 1781,
+      "best_volume": 1781,
       "whale_max": 0,
       "entered": false
     },
@@ -2904,8 +2904,8 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 4715,
-      "best_volume": 4729,
+      "volume": 6548,
+      "best_volume": 6548,
       "whale_max": 0,
       "entered": false
     },
@@ -3048,7 +3048,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 2714,
+      "volume": 2724,
       "best_volume": 3935,
       "whale_max": 0,
       "entered": false
