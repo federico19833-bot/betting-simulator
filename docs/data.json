@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 15:20:50",
+  "last_update": "30/05/2026 15:21:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,8 +19,8 @@
   },
   "live_events": [
     {
-      "match": "BFA Vilnius v FK Jonava",
-      "campionato": "Lithuanian 1 Lyga",
+      "match": "Racing Club (Uru) v Defensor Sporting",
+      "campionato": "Uruguayan Primera Division",
       "volume": 41929,
       "quota": 1.08,
       "in_range": true,
@@ -28,10 +28,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35662041",
-      "market_id": "1.258712125",
+      "event_id": "35648576",
+      "market_id": "1.258581559",
       "_is_inplay": true,
-      "open_date": "2026-05-30 14:00"
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Academia de Balompie Boliviano v Always Ready",
@@ -64,6 +64,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "KuPS v FC Inter",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 15393,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644277",
+      "market_id": "1.258603171",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 8173,
@@ -79,8 +94,8 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Hobro v Middelfart",
-      "campionato": "Danish 1st Division",
+      "match": "AIK v Sirius",
+      "campionato": "Swedish Allsvenskan",
       "volume": 7343,
       "quota": 1.05,
       "in_range": false,
@@ -88,8 +103,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647467",
-      "market_id": "1.258666147",
+      "event_id": "35647029",
+      "market_id": "1.258560991",
       "_is_inplay": true,
       "open_date": "2026-05-30 15:00"
     },
@@ -109,8 +124,8 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Falkenbergs v Oddevold",
-      "campionato": "Swedish Superettan",
+      "match": "Hobro v Middelfart",
+      "campionato": "Danish 1st Division",
       "volume": 4192,
       "quota": 1.04,
       "in_range": false,
@@ -118,16 +133,31 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35644275",
-      "market_id": "1.258548574",
+      "event_id": "35647467",
+      "market_id": "1.258666147",
       "_is_inplay": true,
       "open_date": "2026-05-30 15:00"
     },
     {
-      "match": "Osterlen FF v Staffanstorp United FC",
-      "campionato": "Swedish Division 2",
+      "match": "HNK Orijent 1919 v NK Dugopolje",
+      "campionato": "Croatian Prva NL",
       "volume": 2000,
       "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662518",
+      "market_id": "1.258713821",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Osterlen FF v Staffanstorp United FC",
+      "campionato": "Swedish Division 2",
+      "volume": 1001,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -139,24 +169,24 @@
       "open_date": "2026-05-30 13:00"
     },
     {
-      "match": "B93 Copenhagen v Aarhus Fremad",
-      "campionato": "Danish 1st Division",
-      "volume": 1001,
-      "quota": 1.07,
+      "match": "Gnistan v SJK",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 463,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35644265",
-      "market_id": "1.258666168",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 15:00"
+      "event_id": "35644276",
+      "market_id": "1.258603194",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "Bollstanas SK v Sunnersta AIF",
       "campionato": "Swedish Division 2",
-      "volume": 463,
+      "volume": 334,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -165,21 +195,6 @@
       "source": "Betfair",
       "event_id": "35656110",
       "market_id": "1.258667547",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "FC Trollhattan v Aatvidabergs Ff",
-      "campionato": "Swedish Division 1",
-      "volume": 334,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656552",
-      "market_id": "1.258667718",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -853,10 +868,10 @@
       "match": "Racing Club (Uru) v Defensor Sporting",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 4192,
-      "best_volume": 33984,
+      "volume": 41929,
+      "best_volume": 41929,
       "whale_max": 0,
       "entered": true
     },
@@ -913,9 +928,9 @@
       "match": "Hobro v Middelfart",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 7343,
+      "volume": 4192,
       "best_volume": 35033,
       "whale_max": 0,
       "entered": true
@@ -1153,9 +1168,9 @@
       "match": "HNK Orijent 1919 v NK Dugopolje",
       "campionato": "Croatian Prva NL",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 334,
+      "volume": 2000,
       "best_volume": 43095,
       "whale_max": 0,
       "entered": true
@@ -1165,9 +1180,9 @@
       "match": "KuPS v FC Inter",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 334,
+      "volume": 15393,
       "best_volume": 43095,
       "whale_max": 0,
       "entered": true
@@ -1299,7 +1314,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.07,
-      "volume": 463,
+      "volume": 334,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1345,9 +1360,9 @@
       "match": "Gnistan v SJK",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.07,
-      "volume": 1072,
+      "volume": 463,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1513,9 +1528,9 @@
       "match": "AIK v Sirius",
       "campionato": "Swedish Allsvenskan",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 1001,
+      "volume": 7343,
       "best_volume": 15393,
       "whale_max": 0,
       "entered": true
@@ -1561,9 +1576,9 @@
       "match": "Osterlen FF v Staffanstorp United FC",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 2000,
+      "volume": 1001,
       "best_volume": 2000,
       "whale_max": 0,
       "entered": false
