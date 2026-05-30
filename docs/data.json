@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 03:19:11",
+  "last_update": "30/05/2026 03:19:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -261,7 +261,7 @@
     {
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
-      "volume": 1496,
+      "volume": 1485,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -694,24 +694,9 @@
       "open_date": "2026-05-30 13:00"
     },
     {
-      "match": "AaB v HB Koge",
-      "campionato": "Danish 1st Division",
-      "volume": 560,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647465",
-      "market_id": "1.258666189",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "AIK v Sirius",
       "campionato": "Swedish Allsvenskan",
-      "volume": 546,
+      "volume": 556,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -720,6 +705,21 @@
       "source": "Betfair",
       "event_id": "35647029",
       "market_id": "1.258560991",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
+      "match": "AaB v HB Koge",
+      "campionato": "Danish 1st Division",
+      "volume": 550,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647465",
+      "market_id": "1.258666189",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
     },
@@ -1170,6 +1170,36 @@
       "source": "Betfair",
       "event_id": "35657042",
       "market_id": "1.258667483",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Hassleholms IF v Utsiktens",
+      "campionato": "Swedish Division 1",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656614",
+      "market_id": "1.258667611",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "IK Tord v Ahlafors IF",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662840",
+      "market_id": "1.258717600",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     }
@@ -2106,7 +2136,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 560,
+      "volume": 550,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2166,7 +2196,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1496,
+      "volume": 1485,
       "best_volume": 4579,
       "whale_max": 0,
       "entered": false
@@ -2190,7 +2220,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 546,
+      "volume": 556,
       "best_volume": 1613,
       "whale_max": 0,
       "entered": false
@@ -2610,6 +2640,30 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667611",
+      "match": "Hassleholms IF v Utsiktens",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258717600",
+      "match": "IK Tord v Ahlafors IF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
       "whale_max": 0,
