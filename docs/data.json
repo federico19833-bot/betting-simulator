@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 09:11:12",
+  "last_update": "30/05/2026 09:11:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "Ulsan Citizen FC v Pocheon FC",
       "campionato": "South Korean K3 League",
-      "volume": 3101,
+      "volume": 3038,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -261,7 +261,7 @@
     {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 1690,
+      "volume": 1693,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -634,21 +634,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Landskrona v IK Brage",
-      "campionato": "Swedish Superettan",
-      "volume": 589,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647554",
-      "market_id": "1.258567742",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 584,
@@ -677,6 +662,21 @@
       "market_id": "1.258730291",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "Landskrona v IK Brage",
+      "campionato": "Swedish Superettan",
+      "volume": 569,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647554",
+      "market_id": "1.258567742",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Chungnam Asan v Suwon Bluewings",
@@ -2097,7 +2097,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 3101,
+      "volume": 3038,
       "best_volume": 3177,
       "whale_max": 0,
       "entered": false
@@ -2613,7 +2613,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 1690,
+      "volume": 1693,
       "best_volume": 24458,
       "whale_max": 0,
       "entered": true
@@ -2877,7 +2877,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 589,
+      "volume": 569,
       "best_volume": 589,
       "whale_max": 0,
       "entered": false
