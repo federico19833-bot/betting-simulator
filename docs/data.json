@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:52:32",
+  "last_update": "30/05/2026 06:53:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Gimnasia Jujuy v Belgrano",
       "campionato": "Argentinian Cup",
-      "volume": 25278,
+      "volume": 20518,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
-      "volume": 4266,
+      "volume": 4270,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -122,21 +122,6 @@
       "market_id": "1.258657993",
       "_is_inplay": false,
       "open_date": "2026-05-30 09:30"
-    },
-    {
-      "match": "B93 Copenhagen v Aarhus Fremad",
-      "campionato": "Danish 1st Division",
-      "volume": 1919,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644265",
-      "market_id": "1.258666168",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Gangneung City v Changwon City",
@@ -514,21 +499,6 @@
       "open_date": "2026-05-30 23:00"
     },
     {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
-      "volume": 1083,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
-    },
-    {
       "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
       "volume": 1043,
@@ -572,6 +542,21 @@
       "market_id": "1.258667696",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
+    },
+    {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 940,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 00:30"
     },
     {
       "match": "Jeonbuk Hyundai Motors (Res) v Busan Transportatio",
@@ -812,6 +797,21 @@
       "market_id": "1.258659273",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:30"
+    },
+    {
+      "match": "B93 Copenhagen v Aarhus Fremad",
+      "campionato": "Danish 1st Division",
+      "volume": 333,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644265",
+      "market_id": "1.258666168",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "FK Auda v Ogre United",
@@ -1320,6 +1320,21 @@
       "source": "Betfair",
       "event_id": "35662840",
       "market_id": "1.258717600",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Bollstanas SK v Sunnersta AIF",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656110",
+      "market_id": "1.258667547",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2145,7 +2160,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 4266,
+      "volume": 4270,
       "best_volume": 4277,
       "whale_max": 0,
       "entered": false
@@ -2409,7 +2424,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1919,
+      "volume": 333,
       "best_volume": 2623,
       "whale_max": 0,
       "entered": false
@@ -2817,7 +2832,7 @@
       "open_date": "2026-05-30 20:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 25278,
+      "volume": 20518,
       "best_volume": 25278,
       "whale_max": 0,
       "entered": false
@@ -2903,6 +2918,18 @@
       "quota_iniziale": 1.09,
       "volume": 152,
       "best_volume": 152,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667547",
+      "match": "Bollstanas SK v Sunnersta AIF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
