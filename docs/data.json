@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 02:00:10",
+  "last_update": "30/05/2026 02:01:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 120,
+    "total": 121,
     "wins": 112,
     "losses": 8,
-    "in_corso": 0,
+    "in_corso": 1,
     "winrate": 93.3,
     "profit": -6.81,
     "roi": -0.06,
@@ -66,8 +66,8 @@
     {
       "match": "Gangneung City v Changwon City",
       "campionato": "South Korean K3 League",
-      "volume": 3654,
-      "quota": 1.13,
+      "volume": 2956,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2085,7 +2085,7 @@
       "volume": 33984,
       "best_volume": 33984,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258581559",
@@ -2461,6 +2461,20 @@
     }
   ],
   "giocate": [
+    {
+      "id": 132,
+      "orario": "2026-05-30 02:01:42",
+      "match": "AaB v HB Koge",
+      "campionato": "Danish 1st Division",
+      "quota": 1.08,
+      "volume": 33984,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 131,
       "orario": "2026-05-29 20:49:25",
