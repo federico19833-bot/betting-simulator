@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 03:54:03",
+  "last_update": "30/05/2026 03:54:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -334,6 +334,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Sundsvall v Sandvikens IF",
+      "campionato": "Swedish Superettan",
+      "volume": 1280,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647555",
+      "market_id": "1.258567785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
       "volume": 1280,
@@ -422,21 +437,6 @@
       "market_id": "1.258727998",
       "_is_inplay": false,
       "open_date": "2026-05-30 19:45"
-    },
-    {
-      "match": "Sundsvall v Sandvikens IF",
-      "campionato": "Swedish Superettan",
-      "volume": 1093,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647555",
-      "market_id": "1.258567785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
@@ -619,21 +619,6 @@
       "open_date": "2026-05-30 20:15"
     },
     {
-      "match": "Chungnam Asan v Suwon Bluewings",
-      "campionato": "South Korean K2 League",
-      "volume": 579,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649128",
-      "market_id": "1.258658230",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 09:30"
-    },
-    {
       "match": "Gnistan v SJK",
       "campionato": "Finnish Veikkausliiga",
       "volume": 576,
@@ -797,6 +782,36 @@
       "market_id": "1.258665296",
       "_is_inplay": false,
       "open_date": "2026-05-30 14:00"
+    },
+    {
+      "match": "Chungnam Asan v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "volume": 369,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649128",
+      "market_id": "1.258658230",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 09:30"
+    },
+    {
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "volume": 349,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624930",
+      "market_id": "1.258659273",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:30"
     },
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
@@ -1884,7 +1899,7 @@
       "open_date": "2026-05-30 09:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 579,
+      "volume": 369,
       "best_volume": 579,
       "whale_max": 0,
       "entered": false
@@ -2160,7 +2175,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1093,
+      "volume": 1280,
       "best_volume": 2363,
       "whale_max": 0,
       "entered": false
@@ -2666,6 +2681,18 @@
       "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258659273",
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "open_date": "2026-05-30 22:30",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 349,
+      "best_volume": 349,
       "whale_max": 0,
       "entered": false
     }
