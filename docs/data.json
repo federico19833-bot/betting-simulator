@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:17:10",
+  "last_update": "30/05/2026 06:17:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -289,21 +289,6 @@
       "open_date": "2026-05-30 09:30"
     },
     {
-      "match": "Sundsvall v Sandvikens IF",
-      "campionato": "Swedish Superettan",
-      "volume": 1447,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647555",
-      "market_id": "1.258567785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 1437,
@@ -332,6 +317,21 @@
       "market_id": "1.258667589",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Sundsvall v Sandvikens IF",
+      "campionato": "Swedish Superettan",
+      "volume": 1280,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647555",
+      "market_id": "1.258567785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -619,6 +619,21 @@
       "open_date": "2026-05-30 23:30"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 630,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "AaB v HB Koge",
       "campionato": "Danish 1st Division",
       "volume": 612,
@@ -677,21 +692,6 @@
       "market_id": "1.258560991",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 549,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "All Boys v Los Andes",
@@ -919,21 +919,6 @@
       "open_date": "2026-05-30 18:00"
     },
     {
-      "match": "Atletico GO v Goias",
-      "campionato": "Brazilian Serie B",
-      "volume": 232,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648361",
-      "market_id": "1.258575405",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Lahti v Ilves",
       "campionato": "Finnish Veikkausliiga",
       "volume": 213,
@@ -1009,6 +994,21 @@
       "open_date": "2026-05-30 13:00"
     },
     {
+      "match": "Chuncheon v Gyeongju Hydro & Nuclear Power",
+      "campionato": "South Korean K3 League",
+      "volume": 185,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662441",
+      "market_id": "1.258713839",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 10:00"
+    },
+    {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
       "campionato": "Kuwaiti Premier League",
       "volume": 182,
@@ -1024,19 +1024,19 @@
       "open_date": "2026-05-30 20:15"
     },
     {
-      "match": "Chuncheon v Gyeongju Hydro & Nuclear Power",
-      "campionato": "South Korean K3 League",
-      "volume": 175,
-      "quota": 1.08,
+      "match": "Atletico GO v Goias",
+      "campionato": "Brazilian Serie B",
+      "volume": 179,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35662441",
-      "market_id": "1.258713839",
+      "event_id": "35648361",
+      "market_id": "1.258575405",
       "_is_inplay": false,
-      "open_date": "2026-05-30 10:00"
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "AD Ceuta FC v Albacete",
@@ -2139,8 +2139,8 @@
       "open_date": "2026-05-30 10:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 175,
-      "best_volume": 175,
+      "volume": 185,
+      "best_volume": 185,
       "whale_max": 0,
       "entered": false
     },
@@ -2427,7 +2427,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1447,
+      "volume": 1280,
       "best_volume": 1447,
       "whale_max": 0,
       "entered": false
@@ -2907,8 +2907,8 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 549,
-      "best_volume": 549,
+      "volume": 630,
+      "best_volume": 630,
       "whale_max": 0,
       "entered": false
     },
