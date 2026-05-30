@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 15:09:14",
+  "last_update": "30/05/2026 15:11:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 155,
+    "total": 156,
     "wins": 116,
     "losses": 8,
-    "in_corso": 31,
+    "in_corso": 32,
     "winrate": 93.5,
     "profit": 24.54,
     "roi": 0.16,
@@ -1542,10 +1542,24 @@
       "volume": 41929,
       "best_volume": 41929,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     }
   ],
   "giocate": [
+    {
+      "id": 167,
+      "orario": "2026-05-30 15:10:46",
+      "match": "Asociacion Deportiva Tarma v Cusco FC",
+      "campionato": "Peruvian Primera Division",
+      "quota": 1.08,
+      "volume": 41929,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 166,
       "orario": "2026-05-30 15:04:46",
