@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:18:47",
+  "last_update": "30/05/2026 11:19:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Smedby v FOC Farsta",
       "campionato": "Swedish Division 2",
-      "volume": 7507,
+      "volume": 7509,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
-      "volume": 4557,
+      "volume": 4448,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -186,7 +186,7 @@
     {
       "match": "Hassleholms IF v Utsiktens",
       "campionato": "Swedish Division 1",
-      "volume": 2360,
+      "volume": 2206,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -454,6 +454,21 @@
       "open_date": "2026-05-30 14:00"
     },
     {
+      "match": "Defensores de Belgrano v San Telmo",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 1161,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648509",
+      "market_id": "1.258730291",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:30"
+    },
+    {
       "match": "Kuwait SC v Kazma SC",
       "campionato": "Kuwaiti Premier League",
       "volume": 1134,
@@ -527,21 +542,6 @@
       "market_id": "1.258713138",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
-    },
-    {
-      "match": "Defensores de Belgrano v San Telmo",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 901,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648509",
-      "market_id": "1.258730291",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:30"
     },
     {
       "match": "Racing Club (Uru) v Defensor Sporting",
@@ -2226,7 +2226,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 2360,
+      "volume": 2206,
       "best_volume": 2360,
       "whale_max": 0,
       "entered": false
@@ -2502,7 +2502,7 @@
       "open_date": "2026-05-30 20:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 901,
+      "volume": 1161,
       "best_volume": 1437,
       "whale_max": 0,
       "entered": false
@@ -2790,7 +2790,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 4557,
+      "volume": 4448,
       "best_volume": 4566,
       "whale_max": 0,
       "entered": false
@@ -2934,7 +2934,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 7507,
+      "volume": 7509,
       "best_volume": 9520,
       "whale_max": 0,
       "entered": false
