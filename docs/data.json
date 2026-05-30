@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 09:25:19",
+  "last_update": "30/05/2026 09:25:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "Ulsan Citizen FC v Pocheon FC",
       "campionato": "South Korean K3 League",
-      "volume": 3108,
+      "volume": 3104,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -244,21 +244,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Suwon FC v Seongnam FC",
-      "campionato": "South Korean K2 League",
-      "volume": 1847,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646673",
-      "market_id": "1.258660346",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
-    },
-    {
       "match": "Ishoj IF v VSK Aarhus FC",
       "campionato": "Danish 2nd Division",
       "volume": 1821,
@@ -302,6 +287,21 @@
       "market_id": "1.258659683",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:00"
+    },
+    {
+      "match": "Suwon FC v Seongnam FC",
+      "campionato": "South Korean K2 League",
+      "volume": 1624,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646673",
+      "market_id": "1.258660346",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "All Boys v Los Andes",
@@ -482,21 +482,6 @@
       "market_id": "1.258731170",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 932,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662040",
-      "market_id": "1.258712277",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Busan IPark v Paju Citizen",
@@ -1277,6 +1262,21 @@
       "market_id": "1.258664621",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:35"
+    },
+    {
+      "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662040",
+      "market_id": "1.258712277",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Hassleholms IF v Utsiktens",
@@ -2127,7 +2127,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 3108,
+      "volume": 3104,
       "best_volume": 3177,
       "whale_max": 0,
       "entered": false
@@ -2763,7 +2763,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 1847,
+      "volume": 1624,
       "best_volume": 4612,
       "whale_max": 0,
       "entered": false
@@ -2931,7 +2931,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 932,
+      "volume": 10,
       "best_volume": 932,
       "whale_max": 0,
       "entered": false
