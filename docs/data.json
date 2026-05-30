@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:22:59",
+  "last_update": "30/05/2026 06:23:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -381,7 +381,7 @@
     {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1168,
+      "volume": 1171,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -795,6 +795,21 @@
       "source": "Betfair",
       "event_id": "35653381",
       "market_id": "1.258667568",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2930,6 +2945,18 @@
       "quota_iniziale": 1.09,
       "volume": 150,
       "best_volume": 150,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
