@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 22:21:36",
+  "last_update": "30/05/2026 22:22:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-31 01:00"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 1233,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "volume": 1218,
@@ -107,6 +122,36 @@
       "market_id": "1.258659294",
       "_is_inplay": true,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 1124,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 00:30"
+    },
+    {
+      "match": "LDU v Orense Sporting Club",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 1069,
+      "quota": 1.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645621",
+      "market_id": "1.258548940",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:30"
     },
     {
       "match": "All Boys v Los Andes",
@@ -124,25 +169,10 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 778,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 211,
-      "quota": 1.75,
+      "volume": 348,
+      "quota": 1.71,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -154,40 +184,10 @@
       "open_date": "2026-05-31 01:30"
     },
     {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
-      "volume": 140,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
-    },
-    {
-      "match": "LDU v Orense Sporting Club",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 122,
-      "quota": 1.42,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645621",
-      "market_id": "1.258548940",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:30"
-    },
-    {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
-      "volume": 111,
-      "quota": 1.6,
+      "volume": 127,
+      "quota": 1.64,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -961,9 +961,9 @@
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 778,
+      "volume": 1233,
       "best_volume": 42657,
       "whale_max": 0,
       "entered": true
