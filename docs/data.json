@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 05:20:56",
+  "last_update": "30/05/2026 05:21:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -964,21 +964,6 @@
       "open_date": "2026-05-30 13:00"
     },
     {
-      "match": "AD Ceuta FC v Albacete",
-      "campionato": "Spanish Segunda Division",
-      "volume": 186,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647505",
-      "market_id": "1.258566704",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:15"
-    },
-    {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
       "campionato": "Kuwaiti Premier League",
       "volume": 182,
@@ -992,6 +977,21 @@
       "market_id": "1.258728043",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:15"
+    },
+    {
+      "match": "AD Ceuta FC v Albacete",
+      "campionato": "Spanish Segunda Division",
+      "volume": 176,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647505",
+      "market_id": "1.258566704",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:15"
     },
     {
       "match": "Ulsan Citizen FC v Pocheon FC",
@@ -1129,6 +1129,21 @@
       "open_date": "2026-05-30 16:15"
     },
     {
+      "match": "Osters v Norrby IF",
+      "campionato": "Swedish Superettan",
+      "volume": 111,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660373",
+      "market_id": "1.258701785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 17:00"
+    },
+    {
       "match": "Enskede v Angby IF",
       "campionato": "Swedish Division 2",
       "volume": 102,
@@ -1157,21 +1172,6 @@
       "market_id": "1.258597651",
       "_is_inplay": false,
       "open_date": "2026-05-30 14:00"
-    },
-    {
-      "match": "Osters v Norrby IF",
-      "campionato": "Swedish Superettan",
-      "volume": 73,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660373",
-      "market_id": "1.258701785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 17:00"
     },
     {
       "match": "Atletico GO v Goias",
@@ -2418,7 +2418,7 @@
       "open_date": "2026-05-30 16:15",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 186,
+      "volume": 176,
       "best_volume": 261,
       "whale_max": 0,
       "entered": false
@@ -2680,9 +2680,9 @@
       "match": "Osters v Norrby IF",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-30 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 73,
+      "volume": 111,
       "best_volume": 111,
       "whale_max": 0,
       "entered": false
