@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 22:33:43",
+  "last_update": "30/05/2026 22:34:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,36 +18,6 @@
     "balance": 911.44
   },
   "live_events": [
-    {
-      "match": "Bahia v Botafogo FR",
-      "campionato": "Brazilian Serie A",
-      "volume": 31462,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624930",
-      "market_id": "1.258659273",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 22:30"
-    },
-    {
-      "match": "Athletic Club v Fortaleza EC",
-      "campionato": "Brazilian Serie B",
-      "volume": 11443,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649361",
-      "market_id": "1.258704951",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:00"
-    },
     {
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
@@ -139,10 +109,40 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Athletic Club v Fortaleza EC",
+      "campionato": "Brazilian Serie B",
+      "volume": 951,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649361",
+      "market_id": "1.258704951",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:00"
+    },
+    {
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "volume": 922,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624930",
+      "market_id": "1.258659273",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 22:30"
+    },
+    {
       "match": "Instituto v Lanus",
       "campionato": "Argentinian Cup",
-      "volume": 655,
-      "quota": 2.02,
+      "volume": 719,
+      "quota": 2.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -156,8 +156,8 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 172,
-      "quota": 2.14,
+      "volume": 346,
+      "quota": 2.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -171,8 +171,8 @@
     {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
-      "volume": 48,
-      "quota": 1.92,
+      "volume": 12,
+      "quota": 1.88,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1090,9 +1090,9 @@
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 22:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 31462,
+      "volume": 922,
       "best_volume": 31462,
       "whale_max": 0,
       "entered": true
@@ -1258,9 +1258,9 @@
       "match": "Athletic Club v Fortaleza EC",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-05-30 23:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 957,
+      "volume": 951,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
