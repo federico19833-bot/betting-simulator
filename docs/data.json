@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:06:01",
+  "last_update": "30/05/2026 04:06:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -889,6 +889,21 @@
       "open_date": "2026-05-30 14:00"
     },
     {
+      "match": "AD Ceuta FC v Albacete",
+      "campionato": "Spanish Segunda Division",
+      "volume": 251,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647505",
+      "market_id": "1.258566704",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:15"
+    },
+    {
       "match": "Gimhae City v Gimpo Citizen",
       "campionato": "South Korean K2 League",
       "volume": 248,
@@ -1142,21 +1157,6 @@
       "market_id": "1.258575405",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "AD Ceuta FC v Albacete",
-      "campionato": "Spanish Segunda Division",
-      "volume": 48,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647505",
-      "market_id": "1.258566704",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:15"
     },
     {
       "match": "Gremio v Corinthians",
@@ -2356,9 +2356,9 @@
       "match": "AD Ceuta FC v Albacete",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-05-30 16:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 48,
+      "volume": 251,
       "best_volume": 251,
       "whale_max": 0,
       "entered": false
