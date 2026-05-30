@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:07:34",
+  "last_update": "30/05/2026 04:08:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -351,7 +351,7 @@
     {
       "match": "Odds BK v Lyn",
       "campionato": "Norwegian 1st Division",
-      "volume": 1356,
+      "volume": 1366,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -514,6 +514,21 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "IK Kongahalla v Astorps FF",
+      "campionato": "Swedish Division 2",
+      "volume": 778,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660165",
+      "market_id": "1.258705373",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Smedby v FOC Farsta",
       "campionato": "Swedish Division 2",
       "volume": 777,
@@ -527,21 +542,6 @@
       "market_id": "1.258717579",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "IK Kongahalla v Astorps FF",
-      "campionato": "Swedish Division 2",
-      "volume": 768,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660165",
-      "market_id": "1.258705373",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "Henan Songshan Longmen v Zhejiang Greentown",
@@ -934,6 +934,21 @@
       "open_date": "2026-05-30 13:15"
     },
     {
+      "match": "IF Karlstad v Sollentuna FF",
+      "campionato": "Swedish Division 1",
+      "volume": 203,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657368",
+      "market_id": "1.258667654",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Taby FK v Skiljebo",
       "campionato": "Swedish Division 2",
       "volume": 196,
@@ -947,21 +962,6 @@
       "market_id": "1.258662567",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "IF Karlstad v Sollentuna FF",
-      "campionato": "Swedish Division 1",
-      "volume": 193,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657368",
-      "market_id": "1.258667654",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
@@ -1230,6 +1230,21 @@
       "source": "Betfair",
       "event_id": "35662840",
       "market_id": "1.258717600",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Tvaakers v Kristianstads",
+      "campionato": "Swedish Division 1",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656612",
+      "market_id": "1.258667526",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     }
@@ -2298,8 +2313,8 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 768,
-      "best_volume": 768,
+      "volume": 778,
+      "best_volume": 778,
       "whale_max": 0,
       "entered": false
     },
@@ -2310,8 +2325,8 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 193,
-      "best_volume": 193,
+      "volume": 203,
+      "best_volume": 203,
       "whale_max": 0,
       "entered": false
     },
@@ -2322,8 +2337,8 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1356,
-      "best_volume": 1356,
+      "volume": 1366,
+      "best_volume": 1366,
       "whale_max": 0,
       "entered": false
     },
@@ -2720,6 +2735,18 @@
       "quota_iniziale": 1.05,
       "volume": 319,
       "best_volume": 319,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667526",
+      "match": "Tvaakers v Kristianstads",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
