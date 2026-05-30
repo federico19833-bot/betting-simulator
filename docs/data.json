@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 23:04:51",
+  "last_update": "30/05/2026 23:05:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,8 +19,8 @@
   },
   "live_events": [
     {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
+      "match": "Santos v EC Vitoria Salvador",
+      "campionato": "Brazilian Serie A",
       "volume": 3371,
       "quota": 1.08,
       "in_range": false,
@@ -28,16 +28,16 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
+      "event_id": "35624949",
+      "market_id": "1.258659683",
       "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
+      "open_date": "2026-05-31 01:00"
     },
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 2521,
-      "quota": 1.13,
+      "volume": 2068,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,10 +49,40 @@
       "open_date": "2026-05-31 01:30"
     },
     {
-      "match": "Instituto v Lanus",
-      "campionato": "Argentinian Cup",
+      "match": "Athletic Club v Fortaleza EC",
+      "campionato": "Brazilian Serie B",
       "volume": 1946,
       "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649361",
+      "market_id": "1.258704951",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 23:00"
+    },
+    {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 1218,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 00:30"
+    },
+    {
+      "match": "Instituto v Lanus",
+      "campionato": "Argentinian Cup",
+      "volume": 1038,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,7 +96,7 @@
     {
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
-      "volume": 1218,
+      "volume": 822,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -77,36 +107,6 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
-    },
-    {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1038,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Athletic Club v Fortaleza EC",
-      "campionato": "Brazilian Serie B",
-      "volume": 822,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649361",
-      "market_id": "1.258704951",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 23:00"
     }
   ],
   "tracked_matches": [
@@ -1147,9 +1147,9 @@
       "match": "Instituto v Lanus",
       "campionato": "Argentinian Cup",
       "open_date": "2026-05-30 23:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1946,
+      "volume": 1038,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1183,9 +1183,9 @@
       "match": "Athletic Club v Fortaleza EC",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-05-30 23:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 822,
+      "volume": 1946,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1243,9 +1243,9 @@
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-05-31 00:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 3371,
+      "volume": 1218,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1281,7 +1281,7 @@
       "open_date": "2026-05-30 23:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1218,
+      "volume": 822,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1621,6 +1621,18 @@
       "best_volume": 30423,
       "whale_max": 0,
       "entered": true
+    },
+    {
+      "event_id": "bf_1.258659683",
+      "match": "Santos v EC Vitoria Salvador",
+      "campionato": "Brazilian Serie A",
+      "open_date": "2026-05-31 01:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 3371,
+      "best_volume": 3371,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
