@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 21:50:40",
+  "last_update": "30/05/2026 21:51:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
       "campionato": "Peruvian Primera Division",
-      "volume": 16042,
+      "volume": 16039,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -94,19 +94,19 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "Universidad de Venezuela v Portuguesa FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 1417,
-      "quota": 1.33,
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "volume": 1265,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663013",
-      "market_id": "1.258721765",
+      "event_id": "35624930",
+      "market_id": "1.258659273",
       "_is_inplay": false,
-      "open_date": "2026-05-30 22:00"
+      "open_date": "2026-05-30 22:30"
     },
     {
       "match": "CA Colegiales v Agropecuario",
@@ -139,19 +139,19 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 802,
-      "quota": 1.48,
+      "match": "Universidad de Venezuela v Portuguesa FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 838,
+      "quota": 1.36,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 21:00"
+      "event_id": "35663013",
+      "market_id": "1.258721765",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:00"
     },
     {
       "match": "Union San Felipe v Puerto Montt",
@@ -169,6 +169,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 498,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 00:30"
+    },
+    {
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
       "volume": 486,
@@ -184,24 +199,9 @@
       "open_date": "2026-05-30 23:30"
     },
     {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
-      "volume": 400,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
-    },
-    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 230,
+      "volume": 228,
       "quota": 1.4,
       "in_range": false,
       "monitored": false,
@@ -229,25 +229,25 @@
       "open_date": "2026-05-30 23:00"
     },
     {
-      "match": "Bahia v Botafogo FR",
-      "campionato": "Brazilian Serie A",
-      "volume": 71,
-      "quota": 1.1,
+      "match": "Ponferradina v Atletico Madrid II",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 87,
+      "quota": 1.51,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624930",
-      "market_id": "1.258659273",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 22:30"
+      "event_id": "35657921",
+      "market_id": "1.258671838",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 12,
-      "quota": 8.2,
+      "volume": 17,
+      "quota": 8.0,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1393,9 +1393,9 @@
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-05-31 00:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 400,
+      "volume": 498,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
