@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:21:04",
+  "last_update": "30/05/2026 08:21:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-30 12:00"
     },
     {
-      "match": "B93 Copenhagen v Aarhus Fremad",
-      "campionato": "Danish 1st Division",
-      "volume": 4224,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644265",
-      "market_id": "1.258666168",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "Hammarby TFF v AFC Eskilstuna",
       "campionato": "Swedish Division 1",
       "volume": 3235,
@@ -122,6 +107,21 @@
       "market_id": "1.258658230",
       "_is_inplay": false,
       "open_date": "2026-05-30 09:30"
+    },
+    {
+      "match": "B93 Copenhagen v Aarhus Fremad",
+      "campionato": "Danish 1st Division",
+      "volume": 2874,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644265",
+      "market_id": "1.258666168",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Falkenbergs v Oddevold",
@@ -171,7 +171,7 @@
     {
       "match": "MAS Taborsko v Banik Ostrava",
       "campionato": "Czech 1 Liga",
-      "volume": 1778,
+      "volume": 1781,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -574,21 +574,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 713,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
       "volume": 676,
@@ -600,6 +585,21 @@
       "source": "Betfair",
       "event_id": "35657921",
       "market_id": "1.258671838",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 671,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -2196,7 +2196,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1778,
+      "volume": 1781,
       "best_volume": 3229,
       "whale_max": 0,
       "entered": false
@@ -2280,7 +2280,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 4224,
+      "volume": 2874,
       "best_volume": 33867,
       "whale_max": 0,
       "entered": true
@@ -2712,7 +2712,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 713,
+      "volume": 671,
       "best_volume": 783,
       "whale_max": 0,
       "entered": false
