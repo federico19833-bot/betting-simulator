@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 19:20:15",
+  "last_update": "30/05/2026 19:21:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -92,21 +92,6 @@
       "market_id": "1.258734375",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Gremio v Corinthians",
-      "campionato": "Brazilian Serie A",
-      "volume": 2245,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624960",
-      "market_id": "1.258659315",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 22:30"
     },
     {
       "match": "Flamengo v Coritiba",
@@ -274,6 +259,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Gremio v Corinthians",
+      "campionato": "Brazilian Serie A",
+      "volume": 1218,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624960",
+      "market_id": "1.258659315",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:30"
+    },
+    {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
       "volume": 1091,
@@ -426,7 +426,7 @@
     {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
-      "volume": 64,
+      "volume": 54,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -1326,7 +1326,7 @@
       "open_date": "2026-05-30 22:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 2245,
+      "volume": 1218,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
