@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:16:59",
+  "last_update": "30/05/2026 11:17:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -499,21 +499,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "FC Helsingor v Brabrand",
-      "campionato": "Danish 2nd Division",
-      "volume": 999,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656540",
-      "market_id": "1.258664266",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Harju JK Laagri v Trans Narva",
       "campionato": "Estonian Premier League",
       "volume": 934,
@@ -840,6 +825,21 @@
       "source": "Betfair",
       "event_id": "35656534",
       "market_id": "1.258664287",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "FC Helsingor v Brabrand",
+      "campionato": "Danish 2nd Division",
+      "volume": 353,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656540",
+      "market_id": "1.258664266",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2920,9 +2920,9 @@
       "match": "FC Helsingor v Brabrand",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 999,
+      "volume": 353,
       "best_volume": 27166,
       "whale_max": 0,
       "entered": false
