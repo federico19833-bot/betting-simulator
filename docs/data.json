@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:53:05",
+  "last_update": "30/05/2026 11:53:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,9 +49,24 @@
       "open_date": "2026-05-30 13:00"
     },
     {
+      "match": "Ponferradina v Atletico Madrid II",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 27829,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657921",
+      "market_id": "1.258671838",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Taby FK v Skiljebo",
       "campionato": "Swedish Division 2",
-      "volume": 12896,
+      "volume": 11683,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -122,21 +137,6 @@
       "market_id": "1.258738432",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
-    },
-    {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 3801,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Hammarby TFF v AFC Eskilstuna",
@@ -242,21 +242,6 @@
       "market_id": "1.258664663",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:30"
-    },
-    {
-      "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 2104,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662040",
-      "market_id": "1.258712277",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "IF Karlstad v Sollentuna FF",
@@ -407,6 +392,21 @@
       "market_id": "1.258659294",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 1308,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662040",
+      "market_id": "1.258712277",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "FK Auda v Ogre United",
@@ -1189,6 +1189,21 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "Sociedad B v Leonesa",
+      "campionato": "Spanish Segunda Division",
+      "volume": 48,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648064",
+      "market_id": "1.258575447",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:15"
+    },
+    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 26,
@@ -1307,21 +1322,6 @@
       "market_id": "1.258603215",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Sociedad B v Leonesa",
-      "campionato": "Spanish Segunda Division",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648064",
-      "market_id": "1.258575447",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:15"
     },
     {
       "match": "Paris St-G v Arsenal",
@@ -2298,7 +2298,7 @@
       "open_date": "2026-05-30 16:15",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 10,
+      "volume": 48,
       "best_volume": 2709,
       "whale_max": 0,
       "entered": false
@@ -2466,8 +2466,8 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 3801,
-      "best_volume": 27046,
+      "volume": 27829,
+      "best_volume": 27829,
       "whale_max": 0,
       "entered": true
     },
@@ -2596,9 +2596,9 @@
       "match": "FK Atmosfera v MFD Zalgiris Vilnius (Res)",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-30 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 2104,
+      "volume": 1308,
       "best_volume": 2104,
       "whale_max": 0,
       "entered": false
@@ -2742,7 +2742,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 12896,
+      "volume": 11683,
       "best_volume": 12896,
       "whale_max": 0,
       "entered": false
