@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 17:49:53",
+  "last_update": "30/05/2026 17:50:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -261,7 +261,7 @@
     {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1015,
+      "volume": 999,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -529,25 +529,10 @@
       "open_date": "2026-05-30 23:00"
     },
     {
-      "match": "All Boys v Los Andes",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 51,
-      "quota": 3.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648495",
-      "market_id": "1.258730277",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:30"
-    },
-    {
       "match": "Gimnasia Jujuy v Belgrano",
       "campionato": "Argentinian Cup",
-      "volume": 17,
-      "quota": 2.64,
+      "volume": 63,
+      "quota": 2.62,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -555,6 +540,21 @@
       "source": "Betfair",
       "event_id": "35644095",
       "market_id": "1.258673869",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:30"
+    },
+    {
+      "match": "All Boys v Los Andes",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 53,
+      "quota": 3.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648495",
+      "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
     },
@@ -1350,7 +1350,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 1015,
+      "volume": 999,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
