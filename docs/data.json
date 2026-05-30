@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 00:42:02",
+  "last_update": "31/05/2026 00:42:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 4555,
+      "volume": 4589,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -32,6 +32,21 @@
       "market_id": "1.258574307",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:30"
+    },
+    {
+      "match": "Santos v EC Vitoria Salvador",
+      "campionato": "Brazilian Serie A",
+      "volume": 2550,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624949",
+      "market_id": "1.258659683",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:00"
     },
     {
       "match": "LDU v Orense Sporting Club",
@@ -47,21 +62,6 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
-    },
-    {
-      "match": "Santos v EC Vitoria Salvador",
-      "campionato": "Brazilian Serie A",
-      "volume": 1557,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624949",
-      "market_id": "1.258659683",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:00"
     }
   ],
   "tracked_matches": [
@@ -1584,7 +1584,7 @@
       "open_date": "2026-05-31 01:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 4555,
+      "volume": 4589,
       "best_volume": 5824,
       "whale_max": 0,
       "entered": false
