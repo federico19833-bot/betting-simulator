@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 15:42:23",
+  "last_update": "30/05/2026 15:42:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "Avai v Criciuma",
       "campionato": "Brazilian Serie B",
-      "volume": 6815,
+      "volume": 6900,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -199,6 +199,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Manta FC v Libertad FC",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 442,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648453",
+      "market_id": "1.258575671",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "FK Auda v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 334,
@@ -214,19 +229,19 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Manta FC v Libertad FC",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 314,
-      "quota": 1.07,
+      "match": "Cabofriense v Audax Rio",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 318,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648453",
-      "market_id": "1.258575671",
+      "event_id": "35663336",
+      "market_id": "1.258727998",
       "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
+      "open_date": "2026-05-30 19:45"
     },
     {
       "match": "Sociedad B v Leonesa",
@@ -242,6 +257,36 @@
       "market_id": "1.258575447",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:15"
+    },
+    {
+      "match": "Lahti v Ilves",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 142,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644271",
+      "market_id": "1.258603215",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Al-Ittihad (BRN) v Al Budaiya",
+      "campionato": "Bahraini Premier",
+      "volume": 36,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660368",
+      "market_id": "1.258700103",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 18:00"
     },
     {
       "match": "Al Najma (BRN) v Manama Club",
@@ -1047,7 +1092,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 314,
+      "volume": 442,
       "best_volume": 26642,
       "whale_max": 0,
       "entered": true
@@ -1453,9 +1498,9 @@
       "match": "Lahti v Ilves",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.07,
-      "volume": 41929,
+      "volume": 142,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1649,6 +1694,18 @@
       "quota_iniziale": 1.07,
       "volume": 15393,
       "best_volume": 15393,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258700103",
+      "match": "Al-Ittihad (BRN) v Al Budaiya",
+      "campionato": "Bahraini Premier",
+      "open_date": "2026-05-30 18:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 36,
+      "best_volume": 36,
       "whale_max": 0,
       "entered": false
     }
