@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:48:33",
+  "last_update": "30/05/2026 11:49:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-05-30 15:00"
     },
     {
+      "match": "Taby FK v Skiljebo",
+      "campionato": "Swedish Division 2",
+      "volume": 9692,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656111",
+      "market_id": "1.258662567",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "GAIS v Kalmar FF",
       "campionato": "Swedish Allsvenskan",
       "volume": 4508,
@@ -47,21 +62,6 @@
       "market_id": "1.258560969",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Taby FK v Skiljebo",
-      "campionato": "Swedish Division 2",
-      "volume": 4467,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656111",
-      "market_id": "1.258662567",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Vorskla v Podillya",
@@ -379,21 +379,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 1313,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "FK Auda v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 1302,
@@ -422,6 +407,21 @@
       "market_id": "1.258667270",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 1243,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Bollstanas SK v Sunnersta AIF",
@@ -876,8 +876,8 @@
     {
       "match": "FC Neptunas Klaipeda v Be1 NFA",
       "campionato": "Lithuanian 1 Lyga",
-      "volume": 353,
-      "quota": 1.02,
+      "volume": 340,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2044,9 +2044,9 @@
       "match": "FC Neptunas Klaipeda v Be1 NFA",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 353,
+      "volume": 340,
       "best_volume": 1009,
       "whale_max": 0,
       "entered": false
@@ -2742,7 +2742,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 4467,
+      "volume": 9692,
       "best_volume": 12088,
       "whale_max": 0,
       "entered": false
