@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:24:49",
+  "last_update": "30/05/2026 06:25:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
-      "volume": 2924,
+      "volume": 2911,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "B93 Copenhagen v Aarhus Fremad",
       "campionato": "Danish 1st Division",
-      "volume": 2613,
+      "volume": 2623,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "GAIS v Kalmar FF",
       "campionato": "Swedish Allsvenskan",
-      "volume": 1753,
+      "volume": 1748,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-30 09:30"
     },
     {
+      "match": "Sundsvall v Sandvikens IF",
+      "campionato": "Swedish Superettan",
+      "volume": 1447,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647555",
+      "market_id": "1.258567785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 1437,
@@ -287,21 +302,6 @@
       "market_id": "1.258667589",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Sundsvall v Sandvikens IF",
-      "campionato": "Swedish Superettan",
-      "volume": 1280,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647555",
-      "market_id": "1.258567785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -810,6 +810,21 @@
       "source": "Betfair",
       "event_id": "35653381",
       "market_id": "1.258667568",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2160,7 +2175,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 2924,
+      "volume": 2911,
       "best_volume": 2924,
       "whale_max": 0,
       "entered": false
@@ -2412,7 +2427,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1280,
+      "volume": 1447,
       "best_volume": 1447,
       "whale_max": 0,
       "entered": false
@@ -2424,7 +2439,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 2613,
+      "volume": 2623,
       "best_volume": 2623,
       "whale_max": 0,
       "entered": false
@@ -2484,7 +2499,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1753,
+      "volume": 1748,
       "best_volume": 1753,
       "whale_max": 0,
       "entered": false
@@ -2930,6 +2945,18 @@
       "quota_iniziale": 1.09,
       "volume": 150,
       "best_volume": 150,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
