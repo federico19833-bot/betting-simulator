@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:36:00",
+  "last_update": "30/05/2026 06:36:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-30 15:00"
     },
     {
+      "match": "Onsala BK v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 1789,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662832",
+      "market_id": "1.258717621",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "GAIS v Kalmar FF",
       "campionato": "Swedish Allsvenskan",
       "volume": 1741,
@@ -197,21 +212,6 @@
       "market_id": "1.258570645",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Onsala BK v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 1629,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662832",
-      "market_id": "1.258717621",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Smedby v FOC Farsta",
@@ -619,21 +619,6 @@
       "open_date": "2026-05-30 13:00"
     },
     {
-      "match": "AaB v HB Koge",
-      "campionato": "Danish 1st Division",
-      "volume": 612,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647465",
-      "market_id": "1.258666189",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "TPS v VPS",
       "campionato": "Finnish Veikkausliiga",
       "volume": 606,
@@ -829,6 +814,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Eskilsminne v Trelleborgs",
       "campionato": "Swedish Division 1",
       "volume": 260,
@@ -872,6 +872,21 @@
       "market_id": "1.258660325",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
+    },
+    {
+      "match": "AaB v HB Koge",
+      "campionato": "Danish 1st Division",
+      "volume": 242,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647465",
+      "market_id": "1.258666189",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Al Najma (BRN) v Manama Club",
@@ -1305,21 +1320,6 @@
       "source": "Betfair",
       "event_id": "35662840",
       "market_id": "1.258717600",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Bollstanas SK v Sunnersta AIF",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656110",
-      "market_id": "1.258667547",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -2011,9 +2011,9 @@
       "match": "AaB v HB Koge",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 612,
+      "volume": 242,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2241,7 +2241,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1629,
+      "volume": 1789,
       "best_volume": 2722,
       "whale_max": 0,
       "entered": false
@@ -2907,14 +2907,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258667547",
-      "match": "Bollstanas SK v Sunnersta AIF",
-      "campionato": "Swedish Division 2",
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
