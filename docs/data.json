@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 10:53:43",
+  "last_update": "30/05/2026 10:54:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "GAIS v Kalmar FF",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 14212,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647030",
+      "market_id": "1.258560969",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Fittja IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "volume": 10825,
@@ -79,24 +94,9 @@
       "open_date": "2026-05-30 15:00"
     },
     {
-      "match": "GAIS v Kalmar FF",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 10325,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647030",
-      "market_id": "1.258560969",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "Smedby v FOC Farsta",
       "campionato": "Swedish Division 2",
-      "volume": 8417,
+      "volume": 8413,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -287,6 +287,21 @@
       "market_id": "1.258574307",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:30"
+    },
+    {
+      "match": "Eskilsminne v Trelleborgs",
+      "campionato": "Swedish Division 1",
+      "volume": 1714,
+      "quota": 1.71,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657618",
+      "market_id": "1.258667270",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -647,21 +662,6 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "Eskilsminne v Trelleborgs",
-      "campionato": "Swedish Division 1",
-      "volume": 684,
-      "quota": 1.67,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657618",
-      "market_id": "1.258667270",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Danubio v Progreso",
@@ -1114,21 +1114,6 @@
       "open_date": "2026-05-30 17:00"
     },
     {
-      "match": "Onsala BK v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 85,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662832",
-      "market_id": "1.258717621",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Asociacion Deportiva Tarma v Cusco FC",
       "campionato": "Peruvian Primera Division",
       "volume": 82,
@@ -1200,6 +1185,21 @@
       "source": "Betfair",
       "event_id": "35662042",
       "market_id": "1.258712256",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Onsala BK v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662832",
+      "market_id": "1.258717621",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2193,8 +2193,8 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 10325,
-      "best_volume": 13907,
+      "volume": 14212,
+      "best_volume": 14212,
       "whale_max": 0,
       "entered": false
     },
@@ -2755,9 +2755,9 @@
       "match": "Onsala BK v BK Astrio",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 85,
+      "volume": 10,
       "best_volume": 1606,
       "whale_max": 0,
       "entered": false
@@ -3009,7 +3009,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 8417,
+      "volume": 8413,
       "best_volume": 9010,
       "whale_max": 0,
       "entered": false
