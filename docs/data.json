@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 07:22:19",
+  "last_update": "30/05/2026 07:22:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-30 14:00"
     },
     {
+      "match": "Taby FK v Skiljebo",
+      "campionato": "Swedish Division 2",
+      "volume": 1610,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656111",
+      "market_id": "1.258662567",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "B93 Copenhagen v Aarhus Fremad",
       "campionato": "Danish 1st Division",
       "volume": 1609,
@@ -257,21 +272,6 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "Taby FK v Skiljebo",
-      "campionato": "Swedish Division 2",
-      "volume": 1560,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656111",
-      "market_id": "1.258662567",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -456,7 +456,7 @@
     {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
-      "volume": 1168,
+      "volume": 1171,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -602,21 +602,6 @@
       "market_id": "1.258664642",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:30"
-    },
-    {
-      "match": "Racing Club (Uru) v Defensor Sporting",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 782,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648576",
-      "market_id": "1.258581559",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Chuncheon v Gyeongju Hydro & Nuclear Power",
@@ -932,6 +917,21 @@
       "market_id": "1.258713138",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
+    },
+    {
+      "match": "Racing Club (Uru) v Defensor Sporting",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 242,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648576",
+      "market_id": "1.258581559",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Al Najma (BRN) v Manama Club",
@@ -2010,7 +2010,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 782,
+      "volume": 242,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2118,8 +2118,8 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1560,
-      "best_volume": 1560,
+      "volume": 1610,
+      "best_volume": 1610,
       "whale_max": 0,
       "entered": false
     },
