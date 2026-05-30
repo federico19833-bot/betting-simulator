@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:50:13",
+  "last_update": "30/05/2026 06:50:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "Sundsvall v Sandvikens IF",
       "campionato": "Swedish Superettan",
-      "volume": 2957,
+      "volume": 2817,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -154,6 +154,21 @@
       "open_date": "2026-05-30 13:00"
     },
     {
+      "match": "B93 Copenhagen v Aarhus Fremad",
+      "campionato": "Danish 1st Division",
+      "volume": 1919,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644265",
+      "market_id": "1.258666168",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Gangneung City v Changwon City",
       "campionato": "South Korean K3 League",
       "volume": 1912,
@@ -167,21 +182,6 @@
       "market_id": "1.258713117",
       "_is_inplay": false,
       "open_date": "2026-05-30 07:00"
-    },
-    {
-      "match": "B93 Copenhagen v Aarhus Fremad",
-      "campionato": "Danish 1st Division",
-      "volume": 1790,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644265",
-      "market_id": "1.258666168",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "GAIS v Kalmar FF",
@@ -574,21 +574,6 @@
       "open_date": "2026-05-30 07:00"
     },
     {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 783,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "IK Kongahalla v Astorps FF",
       "campionato": "Swedish Division 2",
       "volume": 778,
@@ -617,6 +602,36 @@
       "market_id": "1.258603194",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "HIK Hellerup v Vendsyssel FF",
+      "campionato": "Danish 2nd Division",
+      "volume": 658,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656407",
+      "market_id": "1.258665296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
+    },
+    {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 656,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "LDU v Orense Sporting Club",
@@ -887,21 +902,6 @@
       "market_id": "1.258700082",
       "_is_inplay": false,
       "open_date": "2026-05-30 18:00"
-    },
-    {
-      "match": "HIK Hellerup v Vendsyssel FF",
-      "campionato": "Danish 2nd Division",
-      "volume": 240,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656407",
-      "market_id": "1.258665296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Lahti v Ilves",
@@ -2364,7 +2364,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 240,
+      "volume": 658,
       "best_volume": 1579,
       "whale_max": 0,
       "entered": false
@@ -2412,7 +2412,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2957,
+      "volume": 2817,
       "best_volume": 2957,
       "whale_max": 0,
       "entered": false
@@ -2424,7 +2424,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1790,
+      "volume": 1919,
       "best_volume": 2623,
       "whale_max": 0,
       "entered": false
@@ -2868,7 +2868,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 783,
+      "volume": 656,
       "best_volume": 784,
       "whale_max": 0,
       "entered": false
