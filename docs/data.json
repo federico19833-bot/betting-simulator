@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:33:04",
+  "last_update": "30/05/2026 04:33:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -604,6 +604,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "HIK Hellerup v Vendsyssel FF",
+      "campionato": "Danish 2nd Division",
+      "volume": 619,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656407",
+      "market_id": "1.258665296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
+    },
+    {
       "match": "Al-Ittihad (BRN) v Al Budaiya",
       "campionato": "Bahraini Premier",
       "volume": 594,
@@ -844,6 +859,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Flamengo v Coritiba",
       "campionato": "Brazilian Serie A",
       "volume": 296,
@@ -872,21 +902,6 @@
       "market_id": "1.258566704",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:15"
-    },
-    {
-      "match": "HIK Hellerup v Vendsyssel FF",
-      "campionato": "Danish 2nd Division",
-      "volume": 256,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656407",
-      "market_id": "1.258665296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -2163,7 +2178,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 256,
+      "volume": 619,
       "best_volume": 1522,
       "whale_max": 0,
       "entered": false
@@ -2801,6 +2816,18 @@
       "quota_iniziale": 1.04,
       "volume": 110,
       "best_volume": 110,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
