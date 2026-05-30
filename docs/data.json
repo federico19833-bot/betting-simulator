@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 09:13:31",
+  "last_update": "30/05/2026 09:14:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
-      "volume": 18329,
+      "volume": 18374,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "GAIS v Kalmar FF",
       "campionato": "Swedish Allsvenskan",
-      "volume": 6988,
+      "volume": 6766,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -186,7 +186,7 @@
     {
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
-      "volume": 2287,
+      "volume": 2304,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -246,7 +246,7 @@
     {
       "match": "Ishoj IF v VSK Aarhus FC",
       "campionato": "Danish 2nd Division",
-      "volume": 1781,
+      "volume": 1816,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -649,21 +649,6 @@
       "open_date": "2026-05-30 23:30"
     },
     {
-      "match": "Danubio v Progreso",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 584,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648629",
-      "market_id": "1.258582478",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:00"
-    },
-    {
       "match": "Defensores de Belgrano v San Telmo",
       "campionato": "Argentinian Primera Nacional",
       "volume": 582,
@@ -737,6 +722,21 @@
       "market_id": "1.258659252",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Danubio v Progreso",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 524,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648629",
+      "market_id": "1.258582478",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:00"
     },
     {
       "match": "Almirante Brown v Colon",
@@ -2109,7 +2109,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 2287,
+      "volume": 2304,
       "best_volume": 4388,
       "whale_max": 0,
       "entered": false
@@ -2181,7 +2181,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 1781,
+      "volume": 1816,
       "best_volume": 1816,
       "whale_max": 0,
       "entered": false
@@ -2277,8 +2277,8 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 18329,
-      "best_volume": 18329,
+      "volume": 18374,
+      "best_volume": 18374,
       "whale_max": 0,
       "entered": false
     },
@@ -2313,7 +2313,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 6988,
+      "volume": 6766,
       "best_volume": 6988,
       "whale_max": 0,
       "entered": false
@@ -2551,9 +2551,9 @@
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-30 20:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 584,
+      "volume": 524,
       "best_volume": 1437,
       "whale_max": 0,
       "entered": false
