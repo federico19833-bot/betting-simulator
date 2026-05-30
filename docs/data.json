@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 21:53:29",
+  "last_update": "30/05/2026 21:54:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Atletico GO v Goias",
       "campionato": "Brazilian Serie B",
-      "volume": 32604,
+      "volume": 39051,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
       "campionato": "Peruvian Primera Division",
-      "volume": 13757,
+      "volume": 14989,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-30 23:00"
     },
     {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 1218,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Universidad de Venezuela v Portuguesa FC",
       "campionato": "Venezuelan Primera Division",
       "volume": 1114,
@@ -124,21 +139,6 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 1024,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "volume": 778,
@@ -150,21 +150,6 @@
       "source": "Betfair",
       "event_id": "35662858",
       "market_id": "1.258731170",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 699,
-      "quota": 1.5,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
       "_is_inplay": true,
       "open_date": "2026-05-30 21:00"
     },
@@ -201,7 +186,7 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 230,
+      "volume": 240,
       "quota": 1.41,
       "in_range": false,
       "monitored": false,
@@ -231,8 +216,8 @@
     {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
-      "volume": 102,
-      "quota": 1.29,
+      "volume": 126,
+      "quota": 1.27,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -244,10 +229,25 @@
       "open_date": "2026-05-30 22:30"
     },
     {
+      "match": "Ponferradina v Atletico Madrid II",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 115,
+      "quota": 1.52,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657921",
+      "market_id": "1.258671838",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 13,
-      "quota": 8.0,
+      "volume": 15,
+      "quota": 5.7,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1249,9 +1249,9 @@
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1024,
+      "volume": 1218,
       "best_volume": 33810,
       "whale_max": 0,
       "entered": true
@@ -1275,7 +1275,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 32604,
+      "volume": 39051,
       "best_volume": 39373,
       "whale_max": 0,
       "entered": true
