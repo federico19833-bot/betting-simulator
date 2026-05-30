@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 09:44:39",
+  "last_update": "30/05/2026 09:45:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Granada v Sporting Gijon",
       "campionato": "Spanish Segunda Division",
-      "volume": 20928,
+      "volume": 20921,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
-      "volume": 15819,
+      "volume": 11984,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Ulsan Citizen FC v Pocheon FC",
       "campionato": "South Korean K3 League",
-      "volume": 6255,
+      "volume": 6148,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -111,8 +111,8 @@
     {
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
-      "volume": 3663,
-      "quota": 1.06,
+      "volume": 3398,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Suwon FC v Seongnam FC",
+      "campionato": "South Korean K2 League",
+      "volume": 2706,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646673",
+      "market_id": "1.258660346",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "Hobro v Middelfart",
       "campionato": "Danish 1st Division",
       "volume": 2515,
@@ -197,21 +212,6 @@
       "market_id": "1.258666147",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
-    },
-    {
-      "match": "Suwon FC v Seongnam FC",
-      "campionato": "South Korean K2 League",
-      "volume": 2239,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646673",
-      "market_id": "1.258660346",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Harju JK Laagri v Trans Narva",
@@ -621,7 +621,7 @@
     {
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
-      "volume": 724,
+      "volume": 723,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -814,21 +814,6 @@
       "open_date": "2026-05-30 09:30"
     },
     {
-      "match": "Smedby v FOC Farsta",
-      "campionato": "Swedish Division 2",
-      "volume": 435,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662845",
-      "market_id": "1.258717579",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Onsala BK v BK Astrio",
       "campionato": "Swedish Division 2",
       "volume": 374,
@@ -889,19 +874,19 @@
       "open_date": "2026-05-30 14:00"
     },
     {
-      "match": "Universidad de Venezuela v Portuguesa FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 258,
+      "match": "Smedby v FOC Farsta",
+      "campionato": "Swedish Division 2",
+      "volume": 260,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663013",
-      "market_id": "1.258721765",
+      "event_id": "35662845",
+      "market_id": "1.258717579",
       "_is_inplay": false,
-      "open_date": "2026-05-30 22:00"
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Bahia v Botafogo FR",
@@ -1352,6 +1337,21 @@
       "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Universidad de Venezuela v Portuguesa FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663013",
+      "market_id": "1.258721765",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:00"
     },
     {
       "match": "Instituto v Lanus",
@@ -2085,7 +2085,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 6255,
+      "volume": 6148,
       "best_volume": 6255,
       "whale_max": 0,
       "entered": false
@@ -2229,7 +2229,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 15819,
+      "volume": 11984,
       "best_volume": 18757,
       "whale_max": 0,
       "entered": false
@@ -2553,7 +2553,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 20928,
+      "volume": 20921,
       "best_volume": 24458,
       "whale_max": 0,
       "entered": true
@@ -2601,7 +2601,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 724,
+      "volume": 723,
       "best_volume": 783,
       "whale_max": 0,
       "entered": false
@@ -2949,7 +2949,7 @@
       "open_date": "2026-05-30 22:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 258,
+      "volume": 10,
       "best_volume": 258,
       "whale_max": 0,
       "entered": false
@@ -2985,7 +2985,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 435,
+      "volume": 260,
       "best_volume": 435,
       "whale_max": 0,
       "entered": false
@@ -3021,7 +3021,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 2239,
+      "volume": 2706,
       "best_volume": 3256,
       "whale_max": 0,
       "entered": false
@@ -3031,9 +3031,9 @@
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-30 12:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 3663,
+      "volume": 3398,
       "best_volume": 3663,
       "whale_max": 0,
       "entered": false
