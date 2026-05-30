@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:29:17",
+  "last_update": "30/05/2026 11:29:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,6 +154,21 @@
       "open_date": "2026-05-30 16:15"
     },
     {
+      "match": "AIK v Sirius",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 2576,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647029",
+      "market_id": "1.258560991",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Hammarby TFF v AFC Eskilstuna",
       "campionato": "Swedish Division 1",
       "volume": 2445,
@@ -169,24 +184,9 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "AIK v Sirius",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 2435,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647029",
-      "market_id": "1.258560991",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "Harju JK Laagri v Trans Narva",
       "campionato": "Estonian Premier League",
-      "volume": 2382,
+      "volume": 2388,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -1099,6 +1099,21 @@
       "open_date": "2026-05-30 17:00"
     },
     {
+      "match": "Asociacion Deportiva Tarma v Cusco FC",
+      "campionato": "Peruvian Primera Division",
+      "volume": 98,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647922",
+      "market_id": "1.258696928",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 18:00"
+    },
+    {
       "match": "Osterlen FF v Staffanstorp United FC",
       "campionato": "Swedish Division 2",
       "volume": 88,
@@ -1144,19 +1159,19 @@
       "open_date": "2026-05-30 14:00"
     },
     {
-      "match": "Asociacion Deportiva Tarma v Cusco FC",
-      "campionato": "Peruvian Primera Division",
-      "volume": 82,
-      "quota": 1.08,
+      "match": "Al Arabi Kuwait v Al Nasar (KUW)",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 69,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647922",
-      "market_id": "1.258696928",
+      "event_id": "35663164",
+      "market_id": "1.258728043",
       "_is_inplay": false,
-      "open_date": "2026-05-30 18:00"
+      "open_date": "2026-05-30 20:15"
     },
     {
       "match": "Danubio v Progreso",
@@ -1322,21 +1337,6 @@
       "market_id": "1.258730159",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
-    },
-    {
-      "match": "Al Arabi Kuwait v Al Nasar (KUW)",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 10,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663164",
-      "market_id": "1.258728043",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:15"
     },
     {
       "match": "Gremio v Corinthians",
@@ -2166,7 +2166,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 2435,
+      "volume": 2576,
       "best_volume": 10325,
       "whale_max": 0,
       "entered": false
@@ -2658,8 +2658,8 @@
       "open_date": "2026-05-30 13:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 2382,
-      "best_volume": 2382,
+      "volume": 2388,
+      "best_volume": 2388,
       "whale_max": 0,
       "entered": false
     },
@@ -2860,9 +2860,9 @@
       "match": "Asociacion Deportiva Tarma v Cusco FC",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-05-30 18:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 82,
+      "volume": 98,
       "best_volume": 830,
       "whale_max": 0,
       "entered": false
