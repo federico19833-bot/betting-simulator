@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:47:39",
+  "last_update": "30/05/2026 04:48:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-30 15:00"
     },
     {
+      "match": "Qingdao Youth Island v Shanghai Shenhua",
+      "campionato": "Chinese Super League",
+      "volume": 1699,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647032",
+      "market_id": "1.258660619",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "Onsala BK v BK Astrio",
       "campionato": "Swedish Division 2",
       "volume": 1690,
@@ -287,21 +302,6 @@
       "market_id": "1.258667296",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Qingdao Youth Island v Shanghai Shenhua",
-      "campionato": "Chinese Super League",
-      "volume": 1449,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647032",
-      "market_id": "1.258660619",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Sundsvall v Sandvikens IF",
@@ -2020,10 +2020,10 @@
       "match": "Qingdao Youth Island v Shanghai Shenhua",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-30 12:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 1449,
-      "best_volume": 1449,
+      "volume": 1699,
+      "best_volume": 1699,
       "whale_max": 0,
       "entered": false
     },
