@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 09:22:23",
+  "last_update": "30/05/2026 09:22:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "Ulsan Citizen FC v Pocheon FC",
       "campionato": "South Korean K3 League",
-      "volume": 3108,
+      "volume": 3038,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -246,7 +246,7 @@
     {
       "match": "Suwon FC v Seongnam FC",
       "campionato": "South Korean K2 League",
-      "volume": 1853,
+      "volume": 1848,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -576,7 +576,7 @@
     {
       "match": "Osterlen FF v Staffanstorp United FC",
       "campionato": "Swedish Division 2",
-      "volume": 743,
+      "volume": 738,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -947,6 +947,21 @@
       "market_id": "1.258667568",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Deportivo Garcilaso v Juan Pablo II College",
+      "campionato": "Peruvian Primera Division",
+      "volume": 210,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648450",
+      "market_id": "1.258704474",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:00"
     },
     {
       "match": "FC Neptunas Klaipeda v Be1 NFA",
@@ -2097,7 +2112,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 3108,
+      "volume": 3038,
       "best_volume": 3177,
       "whale_max": 0,
       "entered": false
@@ -2193,7 +2208,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 743,
+      "volume": 738,
       "best_volume": 2070,
       "whale_max": 0,
       "entered": false
@@ -2733,7 +2748,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 1853,
+      "volume": 1848,
       "best_volume": 4612,
       "whale_max": 0,
       "entered": false
@@ -3023,6 +3038,18 @@
       "quota_iniziale": 1.04,
       "volume": 143,
       "best_volume": 258,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258704474",
+      "match": "Deportivo Garcilaso v Juan Pablo II College",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-30 22:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 210,
+      "best_volume": 210,
       "whale_max": 0,
       "entered": false
     }
