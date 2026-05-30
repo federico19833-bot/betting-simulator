@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 22:04:35",
+  "last_update": "30/05/2026 22:05:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-30 22:30"
     },
     {
+      "match": "LDU v Orense Sporting Club",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 3007,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645621",
+      "market_id": "1.258548940",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:30"
+    },
+    {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
       "campionato": "Peruvian Primera Division",
       "volume": 2697,
@@ -79,24 +94,9 @@
       "open_date": "2026-05-30 22:00"
     },
     {
-      "match": "LDU v Orense Sporting Club",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 2453,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645621",
-      "market_id": "1.258548940",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:30"
-    },
-    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1951,
+      "volume": 1946,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258671838",
       "_is_inplay": true,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Sport Recife v Nautico PE",
+      "campionato": "Brazilian Serie B",
+      "volume": 1346,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645724",
+      "market_id": "1.258574307",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:30"
     },
     {
       "match": "Atletico GO v Goias",
@@ -141,7 +156,7 @@
     {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 871,
+      "volume": 784,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -184,19 +199,19 @@
       "open_date": "2026-05-31 00:30"
     },
     {
-      "match": "Sport Recife v Nautico PE",
-      "campionato": "Brazilian Serie B",
-      "volume": 353,
-      "quota": 1.39,
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 695,
+      "quota": 1.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35645724",
-      "market_id": "1.258574307",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:30"
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Athletic Club v Fortaleza EC",
@@ -212,21 +227,6 @@
       "market_id": "1.258704951",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:00"
-    },
-    {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 118,
-      "quota": 1.52,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Instituto v Lanus",
@@ -1020,7 +1020,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1951,
+      "volume": 1946,
       "best_volume": 42995,
       "whale_max": 0,
       "entered": true
@@ -1414,9 +1414,9 @@
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-05-30 23:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.07,
-      "volume": 2453,
+      "volume": 3007,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1764,7 +1764,7 @@
       "open_date": "2026-05-31 01:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 871,
+      "volume": 784,
       "best_volume": 1211,
       "whale_max": 0,
       "entered": false
