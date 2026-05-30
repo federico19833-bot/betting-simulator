@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:20:02",
+  "last_update": "30/05/2026 11:20:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Smedby v FOC Farsta",
       "campionato": "Swedish Division 2",
-      "volume": 7507,
+      "volume": 7508,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -186,7 +186,7 @@
     {
       "match": "Hassleholms IF v Utsiktens",
       "campionato": "Swedish Division 1",
-      "volume": 2206,
+      "volume": 2360,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -514,36 +514,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Chongqing Tonglianglong v Beijing Guoan",
-      "campionato": "Chinese Super League",
-      "volume": 965,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646525",
-      "market_id": "1.258665250",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
-      "match": "Harju JK Laagri v Trans Narva",
-      "campionato": "Estonian Premier League",
-      "volume": 934,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649591",
-      "market_id": "1.258664642",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:30"
-    },
-    {
       "match": "Ulsan Citizen FC v Pocheon FC",
       "campionato": "South Korean K3 League",
       "volume": 929,
@@ -572,6 +542,21 @@
       "market_id": "1.258581559",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
+    },
+    {
+      "match": "Chongqing Tonglianglong v Beijing Guoan",
+      "campionato": "Chinese Super League",
+      "volume": 870,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646525",
+      "market_id": "1.258665250",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -632,6 +617,21 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
+    },
+    {
+      "match": "Harju JK Laagri v Trans Narva",
+      "campionato": "Estonian Premier League",
+      "volume": 755,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649591",
+      "market_id": "1.258664642",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:30"
     },
     {
       "match": "Moss v Stabaek",
@@ -2226,7 +2226,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 2206,
+      "volume": 2360,
       "best_volume": 2360,
       "whale_max": 0,
       "entered": false
@@ -2658,7 +2658,7 @@
       "open_date": "2026-05-30 13:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 934,
+      "volume": 755,
       "best_volume": 2104,
       "whale_max": 0,
       "entered": false
@@ -2934,7 +2934,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 7507,
+      "volume": 7508,
       "best_volume": 9520,
       "whale_max": 0,
       "entered": false
@@ -2970,7 +2970,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 965,
+      "volume": 870,
       "best_volume": 974,
       "whale_max": 0,
       "entered": false
