@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 17:22:28",
+  "last_update": "30/05/2026 17:23:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "TPS v VPS",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 6049,
+      "quota": 1.25,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644282",
+      "market_id": "1.258603150",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
       "match": "Tammeka Tartu v FCI Tallinn",
       "campionato": "Estonian Premier League",
       "volume": 5726,
@@ -109,21 +124,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Flamengo v Coritiba",
-      "campionato": "Brazilian Serie A",
-      "volume": 1952,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624904",
-      "market_id": "1.258659252",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Granada v Sporting Gijon",
       "campionato": "Spanish Segunda Division",
       "volume": 1770,
@@ -137,21 +137,6 @@
       "market_id": "1.258570645",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "TPS v VPS",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 1752,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644282",
-      "market_id": "1.258603150",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
@@ -349,6 +334,21 @@
       "open_date": "2026-05-30 20:30"
     },
     {
+      "match": "Flamengo v Coritiba",
+      "campionato": "Brazilian Serie A",
+      "volume": 1038,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624904",
+      "market_id": "1.258659252",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Gremio v Corinthians",
       "campionato": "Brazilian Serie A",
       "volume": 1005,
@@ -424,21 +424,6 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "Al-Ittihad (BRN) v Al Budaiya",
-      "campionato": "Bahraini Premier",
-      "volume": 706,
-      "quota": 1.51,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35660368",
-      "market_id": "1.258700103",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 18:00"
-    },
-    {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
       "volume": 658,
@@ -501,8 +486,8 @@
     {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 196,
-      "quota": 1.34,
+      "volume": 332,
+      "quota": 1.55,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -512,6 +497,51 @@
       "market_id": "1.258671838",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "CA Colegiales v Agropecuario",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 316,
+      "quota": 1.63,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648489",
+      "market_id": "1.258730178",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:00"
+    },
+    {
+      "match": "Al-Ittihad (BRN) v Al Budaiya",
+      "campionato": "Bahraini Premier",
+      "volume": 216,
+      "quota": 1.51,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660368",
+      "market_id": "1.258700103",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 18:00"
+    },
+    {
+      "match": "Al Arabi Kuwait v Al Nasar (KUW)",
+      "campionato": "Kuwaiti Premier League",
+      "volume": 183,
+      "quota": 1.52,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663164",
+      "market_id": "1.258728043",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:15"
     },
     {
       "match": "Defensores de Belgrano v San Telmo",
@@ -572,36 +602,6 @@
       "market_id": "1.258721765",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:00"
-    },
-    {
-      "match": "Al Arabi Kuwait v Al Nasar (KUW)",
-      "campionato": "Kuwaiti Premier League",
-      "volume": 79,
-      "quota": 1.5,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663164",
-      "market_id": "1.258728043",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:15"
-    },
-    {
-      "match": "CA Colegiales v Agropecuario",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 72,
-      "quota": 1.66,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648489",
-      "market_id": "1.258730178",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:00"
     },
     {
       "match": "Manta FC v Libertad FC",
@@ -1645,9 +1645,9 @@
       "match": "Flamengo v Coritiba",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 1952,
+      "volume": 1038,
       "best_volume": 26642,
       "whale_max": 0,
       "entered": true
