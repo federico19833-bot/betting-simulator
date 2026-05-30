@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:17:30",
+  "last_update": "30/05/2026 08:18:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -1129,21 +1129,6 @@
       "open_date": "2026-05-30 17:00"
     },
     {
-      "match": "Ishoj IF v VSK Aarhus FC",
-      "campionato": "Danish 2nd Division",
-      "volume": 62,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656534",
-      "market_id": "1.258664287",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Cabofriense v Audax Rio",
       "campionato": "Brazilian Carioca Matches",
       "volume": 26,
@@ -1185,6 +1170,21 @@
       "source": "Betfair",
       "event_id": "35647554",
       "market_id": "1.258567742",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Ishoj IF v VSK Aarhus FC",
+      "campionato": "Danish 2nd Division",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656534",
+      "market_id": "1.258664287",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2161,9 +2161,9 @@
       "match": "Ishoj IF v VSK Aarhus FC",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 62,
+      "volume": 10,
       "best_volume": 1778,
       "whale_max": 0,
       "entered": false
