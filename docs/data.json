@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 06:40:09",
+  "last_update": "30/05/2026 06:40:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -242,21 +242,6 @@
       "market_id": "1.258579435",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "HIK Hellerup v Vendsyssel FF",
-      "campionato": "Danish 2nd Division",
-      "volume": 1559,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656407",
-      "market_id": "1.258665296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "FK Transinvest II v FK Kauno Zalgiris 2",
@@ -649,6 +634,21 @@
       "open_date": "2026-05-30 20:15"
     },
     {
+      "match": "HIK Hellerup v Vendsyssel FF",
+      "campionato": "Danish 2nd Division",
+      "volume": 578,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656407",
+      "market_id": "1.258665296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
+    },
+    {
       "match": "Estudiantes de Caseros v Godoy Cruz",
       "campionato": "Argentinian Primera Nacional",
       "volume": 574,
@@ -722,21 +722,6 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "Chengdu Rongcheng v Shandong Taishan",
-      "campionato": "Chinese Super League",
-      "volume": 472,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646892",
-      "market_id": "1.258664621",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:35"
     },
     {
       "match": "Defensores de Belgrano v San Telmo",
@@ -1277,6 +1262,21 @@
       "market_id": "1.258664287",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Chengdu Rongcheng v Shandong Taishan",
+      "campionato": "Chinese Super League",
+      "volume": 10,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646892",
+      "market_id": "1.258664621",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:35"
     },
     {
       "match": "Hammarby TFF v AFC Eskilstuna",
@@ -2338,9 +2338,9 @@
       "match": "Chengdu Rongcheng v Shandong Taishan",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-30 13:35",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 472,
+      "volume": 10,
       "best_volume": 648,
       "whale_max": 0,
       "entered": false
@@ -2364,7 +2364,7 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1559,
+      "volume": 578,
       "best_volume": 1559,
       "whale_max": 0,
       "entered": false
