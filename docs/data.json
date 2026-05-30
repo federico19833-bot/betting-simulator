@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 22:03:56",
+  "last_update": "30/05/2026 22:04:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,9 +79,24 @@
       "open_date": "2026-05-30 22:00"
     },
     {
+      "match": "LDU v Orense Sporting Club",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 2453,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645621",
+      "market_id": "1.258548940",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:30"
+    },
+    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1946,
+      "volume": 1951,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -124,6 +139,21 @@
       "open_date": "2026-05-30 20:30"
     },
     {
+      "match": "Santos v EC Vitoria Salvador",
+      "campionato": "Brazilian Serie A",
+      "volume": 871,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624949",
+      "market_id": "1.258659683",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:00"
+    },
+    {
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "volume": 778,
@@ -154,25 +184,10 @@
       "open_date": "2026-05-31 00:30"
     },
     {
-      "match": "Santos v EC Vitoria Salvador",
-      "campionato": "Brazilian Serie A",
-      "volume": 713,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624949",
-      "market_id": "1.258659683",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:00"
-    },
-    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 646,
-      "quota": 1.36,
+      "volume": 353,
+      "quota": 1.39,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -182,21 +197,6 @@
       "market_id": "1.258574307",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:30"
-    },
-    {
-      "match": "LDU v Orense Sporting Club",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 245,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645621",
-      "market_id": "1.258548940",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:30"
     },
     {
       "match": "Athletic Club v Fortaleza EC",
@@ -1020,7 +1020,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1946,
+      "volume": 1951,
       "best_volume": 42995,
       "whale_max": 0,
       "entered": true
@@ -1414,9 +1414,9 @@
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-05-30 23:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 245,
+      "volume": 2453,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
@@ -1762,9 +1762,9 @@
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-31 01:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 713,
+      "volume": 871,
       "best_volume": 1211,
       "whale_max": 0,
       "entered": false
