@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 03:53:00",
+  "last_update": "30/05/2026 03:53:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-30 14:00"
     },
     {
+      "match": "MAS Taborsko v Banik Ostrava",
+      "campionato": "Czech 1 Liga",
+      "volume": 1498,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657052",
+      "market_id": "1.258667296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
       "volume": 1496,
@@ -287,21 +302,6 @@
       "market_id": "1.258660619",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
-    },
-    {
-      "match": "MAS Taborsko v Banik Ostrava",
-      "campionato": "Czech 1 Liga",
-      "volume": 1439,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657052",
-      "market_id": "1.258667296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Danubio v Progreso",
@@ -2028,7 +2028,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 1439,
+      "volume": 1498,
       "best_volume": 2361,
       "whale_max": 0,
       "entered": false
