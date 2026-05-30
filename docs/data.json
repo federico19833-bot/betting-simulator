@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 21:51:21",
+  "last_update": "30/05/2026 21:52:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
       "campionato": "Peruvian Primera Division",
-      "volume": 16039,
+      "volume": 16042,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -64,21 +64,6 @@
       "open_date": "2026-05-30 22:30"
     },
     {
-      "match": "Athletic Club v Fortaleza EC",
-      "campionato": "Brazilian Serie B",
-      "volume": 3283,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649361",
-      "market_id": "1.258704951",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:00"
-    },
-    {
       "match": "All Boys v Los Andes",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1944,
@@ -94,19 +79,19 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "Bahia v Botafogo FR",
-      "campionato": "Brazilian Serie A",
-      "volume": 1265,
-      "quota": 1.22,
+      "match": "Athletic Club v Fortaleza EC",
+      "campionato": "Brazilian Serie B",
+      "volume": 1548,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624930",
-      "market_id": "1.258659273",
+      "event_id": "35649361",
+      "market_id": "1.258704951",
       "_is_inplay": false,
-      "open_date": "2026-05-30 22:30"
+      "open_date": "2026-05-30 23:00"
     },
     {
       "match": "CA Colegiales v Agropecuario",
@@ -141,8 +126,8 @@
     {
       "match": "Universidad de Venezuela v Portuguesa FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 838,
-      "quota": 1.36,
+      "volume": 928,
+      "quota": 1.37,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -201,7 +186,7 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 228,
+      "volume": 230,
       "quota": 1.4,
       "in_range": false,
       "monitored": false,
@@ -231,8 +216,8 @@
     {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 87,
-      "quota": 1.51,
+      "volume": 115,
+      "quota": 1.52,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -244,9 +229,24 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "volume": 70,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624930",
+      "market_id": "1.258659273",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:30"
+    },
+    {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 17,
+      "volume": 7,
       "quota": 8.0,
       "in_range": false,
       "monitored": false,
@@ -1335,7 +1335,7 @@
       "open_date": "2026-05-30 23:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 3283,
+      "volume": 1548,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
