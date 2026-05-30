@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 15:29:39",
+  "last_update": "30/05/2026 15:31:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,13 +8,13 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 157,
+    "total": 158,
     "wins": 123,
     "losses": 8,
-    "in_corso": 26,
+    "in_corso": 27,
     "winrate": 93.9,
     "profit": 77.74,
-    "roi": 0.5,
+    "roi": 0.49,
     "balance": 1077.74
   },
   "live_events": [
@@ -34,9 +34,24 @@
       "open_date": "2026-05-30 15:00"
     },
     {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 25814,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
-      "volume": 25814,
+      "volume": 15584,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -49,23 +64,8 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Ponferradina v Atletico Madrid II",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 15584,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657921",
-      "market_id": "1.258671838",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "Hammarby TFF v AFC Eskilstuna",
-      "campionato": "Swedish Division 1",
+      "match": "NK Jarun v Cibalia Vinkovci",
+      "campionato": "Croatian Prva NL",
       "volume": 15393,
       "quota": 1.07,
       "in_range": false,
@@ -73,31 +73,16 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657042",
-      "market_id": "1.258667483",
+      "event_id": "35662520",
+      "market_id": "1.258713758",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 8173,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Atletico GO v Goias",
       "campionato": "Brazilian Serie B",
-      "volume": 6815,
-      "quota": 1.11,
+      "volume": 8173,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,7 +94,22 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "IF Karlstad v Sollentuna FF",
+      "match": "Flamengo v Coritiba",
+      "campionato": "Brazilian Serie A",
+      "volume": 6815,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624904",
+      "market_id": "1.258659252",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Hammarby TFF v AFC Eskilstuna",
       "campionato": "Swedish Division 1",
       "volume": 2000,
       "quota": 1.04,
@@ -118,8 +118,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657368",
-      "market_id": "1.258667654",
+      "event_id": "35657042",
+      "market_id": "1.258667483",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -139,8 +139,8 @@
       "open_date": "2026-05-30 15:00"
     },
     {
-      "match": "HNK Orijent 1919 v NK Dugopolje",
-      "campionato": "Croatian Prva NL",
+      "match": "KuPS v FC Inter",
+      "campionato": "Finnish Veikkausliiga",
       "volume": 1001,
       "quota": 1.07,
       "in_range": false,
@@ -148,14 +148,14 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35662518",
-      "market_id": "1.258713821",
+      "event_id": "35644277",
+      "market_id": "1.258603171",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "KuPS v FC Inter",
-      "campionato": "Finnish Veikkausliiga",
+      "match": "IF Karlstad v Sollentuna FF",
+      "campionato": "Swedish Division 1",
       "volume": 1001,
       "quota": 1.08,
       "in_range": false,
@@ -163,8 +163,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35644277",
-      "market_id": "1.258603171",
+      "event_id": "35657368",
+      "market_id": "1.258667654",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -199,8 +199,8 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Flamengo v Coritiba",
-      "campionato": "Brazilian Serie A",
+      "match": "Avai v Criciuma",
+      "campionato": "Brazilian Serie B",
       "volume": 314,
       "quota": 1.07,
       "in_range": false,
@@ -208,8 +208,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624904",
-      "market_id": "1.258659252",
+      "event_id": "35648445",
+      "market_id": "1.258576384",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     }
@@ -978,7 +978,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 25814,
+      "volume": 15584,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1012,9 +1012,9 @@
       "match": "NK Jarun v Cibalia Vinkovci",
       "campionato": "Croatian Prva NL",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 334,
+      "volume": 15393,
       "best_volume": 43095,
       "whale_max": 0,
       "entered": true
@@ -1180,7 +1180,7 @@
       "match": "KuPS v FC Inter",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
       "volume": 1001,
       "best_volume": 43095,
@@ -1192,9 +1192,9 @@
       "match": "Hammarby TFF v AFC Eskilstuna",
       "campionato": "Swedish Division 1",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 15393,
+      "volume": 2000,
       "best_volume": 43095,
       "whale_max": 0,
       "entered": true
@@ -1204,9 +1204,9 @@
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 314,
+      "volume": 25814,
       "best_volume": 29237,
       "whale_max": 0,
       "entered": true
@@ -1576,15 +1576,41 @@
       "match": "IF Karlstad v Sollentuna FF",
       "campionato": "Swedish Division 1",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 2000,
+      "volume": 1001,
       "best_volume": 15393,
+      "whale_max": 0,
+      "entered": true
+    },
+    {
+      "event_id": "bf_1.258576384",
+      "match": "Avai v Criciuma",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-30 21:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 314,
+      "best_volume": 314,
       "whale_max": 0,
       "entered": false
     }
   ],
   "giocate": [
+    {
+      "id": 169,
+      "orario": "2026-05-30 15:31:11",
+      "match": "IF Karlstad v Sollentuna FF",
+      "campionato": "Swedish Division 1",
+      "quota": 1.08,
+      "volume": 15393,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 168,
       "orario": "2026-05-30 15:15:20",
