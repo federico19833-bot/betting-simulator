@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 04:18:30",
+  "last_update": "30/05/2026 04:19:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Hobro v Middelfart",
       "campionato": "Danish 1st Division",
-      "volume": 5350,
+      "volume": 5126,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -304,6 +304,21 @@
       "open_date": "2026-05-30 12:00"
     },
     {
+      "match": "Sundsvall v Sandvikens IF",
+      "campionato": "Swedish Superettan",
+      "volume": 1448,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647555",
+      "market_id": "1.258567785",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 1437,
@@ -347,21 +362,6 @@
       "market_id": "1.258603171",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Sundsvall v Sandvikens IF",
-      "campionato": "Swedish Superettan",
-      "volume": 1280,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647555",
-      "market_id": "1.258567785",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -484,6 +484,21 @@
       "open_date": "2026-05-30 07:00"
     },
     {
+      "match": "FUS Rabat v FAR Rabat",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 847,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665123",
+      "market_id": "1.258734375",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "CA Colegiales v Agropecuario",
       "campionato": "Argentinian Primera Nacional",
       "volume": 830,
@@ -497,21 +512,6 @@
       "market_id": "1.258730178",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
-    },
-    {
-      "match": "FUS Rabat v FAR Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 803,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665123",
-      "market_id": "1.258734375",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "IK Kongahalla v Astorps FF",
@@ -2235,7 +2235,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1280,
+      "volume": 1448,
       "best_volume": 2363,
       "whale_max": 0,
       "entered": false
@@ -2283,7 +2283,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 5350,
+      "volume": 5126,
       "best_volume": 8666,
       "whale_max": 0,
       "entered": false
@@ -2595,7 +2595,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 803,
+      "volume": 847,
       "best_volume": 848,
       "whale_max": 0,
       "entered": false
