@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 15:50:31",
+  "last_update": "30/05/2026 15:51:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Racing Club (Uru) v Defensor Sporting",
       "campionato": "Uruguayan Primera Division",
-      "volume": 42447,
+      "volume": 43234,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Hammarby TFF v AFC Eskilstuna",
       "campionato": "Swedish Division 1",
-      "volume": 13453,
+      "volume": 12099,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "NK Jarun v Cibalia Vinkovci",
       "campionato": "Croatian Prva NL",
-      "volume": 4068,
+      "volume": 6025,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -169,19 +169,49 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Bahia v Botafogo FR",
-      "campionato": "Brazilian Serie A",
-      "volume": 1566,
-      "quota": 1.04,
+      "match": "BFA Vilnius v FK Jonava",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 2116,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624930",
-      "market_id": "1.258659273",
+      "event_id": "35662041",
+      "market_id": "1.258712125",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 14:00"
+    },
+    {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 1942,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
       "_is_inplay": false,
-      "open_date": "2026-05-30 22:30"
+      "open_date": "2026-05-31 00:30"
+    },
+    {
+      "match": "Gnistan v SJK",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 1500,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644276",
+      "market_id": "1.258603194",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "FUS Rabat v FAR Rabat",
@@ -210,6 +240,21 @@
       "source": "Betfair",
       "event_id": "35648453",
       "market_id": "1.258575671",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Granada v Sporting Gijon",
+      "campionato": "Spanish Segunda Division",
+      "volume": 940,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647975",
+      "market_id": "1.258570645",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
     },
@@ -244,6 +289,36 @@
       "open_date": "2026-05-30 20:15"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 708,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Almirante Brown v Colon",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 701,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648518",
+      "market_id": "1.258579435",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:30"
+    },
+    {
       "match": "All Boys v Los Andes",
       "campionato": "Argentinian Primera Nacional",
       "volume": 694,
@@ -257,21 +332,6 @@
       "market_id": "1.258730277",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "BFA Vilnius v FK Jonava",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 660,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662041",
-      "market_id": "1.258712125",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Hrvace v NK Dubrava Zagreb",
@@ -302,6 +362,21 @@
       "market_id": "1.258667568",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Sociedad B v Leonesa",
+      "campionato": "Spanish Segunda Division",
+      "volume": 152,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648064",
+      "market_id": "1.258575447",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:15"
     },
     {
       "match": "Lahti v Ilves",
@@ -390,21 +465,6 @@
       "source": "Betfair",
       "event_id": "35650592",
       "market_id": "1.258667632",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Gnistan v SJK",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 46,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644276",
-      "market_id": "1.258603194",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
     },
@@ -1140,8 +1200,8 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 42447,
-      "best_volume": 42615,
+      "volume": 43234,
+      "best_volume": 43234,
       "whale_max": 0,
       "entered": true
     },
@@ -1246,9 +1306,9 @@
       "match": "Union San Felipe v Puerto Montt",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 15584,
+      "volume": 708,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1284,7 +1344,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 4068,
+      "volume": 6025,
       "best_volume": 43095,
       "whale_max": 0,
       "entered": true
@@ -1464,7 +1524,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 13453,
+      "volume": 12099,
       "best_volume": 43095,
       "whale_max": 0,
       "entered": true
@@ -1620,7 +1680,7 @@
       "open_date": "2026-05-31 00:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1754,
+      "volume": 1942,
       "best_volume": 25814,
       "whale_max": 0,
       "entered": true
@@ -1630,9 +1690,9 @@
       "match": "Gnistan v SJK",
       "campionato": "Finnish Veikkausliiga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 46,
+      "volume": 1500,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
@@ -1922,6 +1982,18 @@
       "quota_iniziale": 1.06,
       "volume": 694,
       "best_volume": 694,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258579435",
+      "match": "Almirante Brown v Colon",
+      "campionato": "Argentinian Primera Nacional",
+      "open_date": "2026-05-30 20:30",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 701,
+      "best_volume": 701,
       "whale_max": 0,
       "entered": false
     }
