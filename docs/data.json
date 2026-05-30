@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 07:21:43",
+  "last_update": "30/05/2026 07:22:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Granada v Sporting Gijon",
       "campionato": "Spanish Segunda Division",
-      "volume": 24452,
+      "volume": 24458,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -604,6 +604,21 @@
       "open_date": "2026-05-30 13:30"
     },
     {
+      "match": "Racing Club (Uru) v Defensor Sporting",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 782,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648576",
+      "market_id": "1.258581559",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Chuncheon v Gyeongju Hydro & Nuclear Power",
       "campionato": "South Korean K3 League",
       "volume": 760,
@@ -771,8 +786,8 @@
     {
       "match": "BFA Vilnius v FK Jonava",
       "campionato": "Lithuanian 1 Lyga",
-      "volume": 442,
-      "quota": 1.14,
+      "volume": 424,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -917,21 +932,6 @@
       "market_id": "1.258713138",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
-    },
-    {
-      "match": "Racing Club (Uru) v Defensor Sporting",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 242,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648576",
-      "market_id": "1.258581559",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Al Najma (BRN) v Manama Club",
@@ -2010,7 +2010,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 242,
+      "volume": 782,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2718,7 +2718,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 24452,
+      "volume": 24458,
       "best_volume": 24458,
       "whale_max": 0,
       "entered": false
