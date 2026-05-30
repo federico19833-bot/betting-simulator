@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 05:24:03",
+  "last_update": "30/05/2026 05:24:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -411,7 +411,7 @@
     {
       "match": "BSK Bijelo Brdo v NK Croatia Zmijavci",
       "campionato": "Croatian Prva NL",
-      "volume": 1210,
+      "volume": 1200,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -452,21 +452,6 @@
       "market_id": "1.258727998",
       "_is_inplay": false,
       "open_date": "2026-05-30 19:45"
-    },
-    {
-      "match": "Osterlen FF v Staffanstorp United FC",
-      "campionato": "Swedish Division 2",
-      "volume": 1127,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656636",
-      "market_id": "1.258664971",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Sport Boys (Per) v Comerciantes Unidos",
@@ -677,6 +662,21 @@
       "market_id": "1.258730159",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:00"
+    },
+    {
+      "match": "Osterlen FF v Staffanstorp United FC",
+      "campionato": "Swedish Division 2",
+      "volume": 569,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656636",
+      "market_id": "1.258664971",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "AaB v HB Koge",
@@ -2142,7 +2142,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1127,
+      "volume": 569,
       "best_volume": 1127,
       "whale_max": 0,
       "entered": false
@@ -2718,7 +2718,7 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1210,
+      "volume": 1200,
       "best_volume": 1210,
       "whale_max": 0,
       "entered": false
