@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:39:53",
+  "last_update": "30/05/2026 08:40:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Vorskla v Podillya",
       "campionato": "Ukrainian Persha Liga",
-      "volume": 4552,
+      "volume": 4612,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -619,21 +619,6 @@
       "open_date": "2026-05-30 12:00"
     },
     {
-      "match": "FC Neptunas Klaipeda v Be1 NFA",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 589,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662042",
-      "market_id": "1.258712256",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Kuwait SC v Kazma SC",
       "campionato": "Kuwaiti Premier League",
       "volume": 582,
@@ -827,6 +812,21 @@
       "market_id": "1.258659273",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:30"
+    },
+    {
+      "match": "FC Neptunas Klaipeda v Be1 NFA",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 340,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662042",
+      "market_id": "1.258712256",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Malmo FF v Halmstads",
@@ -2157,7 +2157,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 589,
+      "volume": 340,
       "best_volume": 635,
       "whale_max": 0,
       "entered": false
@@ -2877,7 +2877,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 4552,
+      "volume": 4612,
       "best_volume": 4612,
       "whale_max": 0,
       "entered": false
