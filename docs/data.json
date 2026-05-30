@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 19:19:35",
+  "last_update": "30/05/2026 19:20:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "Instituto v Lanus",
-      "campionato": "Argentinian Cup",
-      "volume": 1551,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641098",
-      "market_id": "1.258676850",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:00"
-    },
-    {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
       "volume": 1529,
@@ -182,6 +167,21 @@
       "market_id": "1.258671838",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Instituto v Lanus",
+      "campionato": "Argentinian Cup",
+      "volume": 1514,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641098",
+      "market_id": "1.258676850",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:00"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -426,7 +426,7 @@
     {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
-      "volume": 54,
+      "volume": 64,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -1494,7 +1494,7 @@
       "open_date": "2026-05-30 23:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1551,
+      "volume": 1514,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
