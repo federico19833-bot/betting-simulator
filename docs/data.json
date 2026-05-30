@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:33:40",
+  "last_update": "30/05/2026 11:34:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -664,21 +664,6 @@
       "open_date": "2026-05-30 20:00"
     },
     {
-      "match": "MAS Taborsko v Banik Ostrava",
-      "campionato": "Czech 1 Liga",
-      "volume": 675,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657052",
-      "market_id": "1.258667296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
       "match": "Ishoj IF v VSK Aarhus FC",
       "campionato": "Danish 2nd Division",
       "volume": 675,
@@ -711,7 +696,7 @@
     {
       "match": "Eskilsminne v Trelleborgs",
       "campionato": "Swedish Division 1",
-      "volume": 615,
+      "volume": 609,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -814,19 +799,19 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "AIK v Sirius",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 470,
+      "match": "MAS Taborsko v Banik Ostrava",
+      "campionato": "Czech 1 Liga",
+      "volume": 445,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647029",
-      "market_id": "1.258560991",
+      "event_id": "35657052",
+      "market_id": "1.258667296",
       "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -977,6 +962,21 @@
       "market_id": "1.258664266",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "AIK v Sirius",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 241,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647029",
+      "market_id": "1.258560991",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Manta FC v Libertad FC",
@@ -2070,7 +2070,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 675,
+      "volume": 445,
       "best_volume": 3229,
       "whale_max": 0,
       "entered": false
@@ -2164,9 +2164,9 @@
       "match": "AIK v Sirius",
       "campionato": "Swedish Allsvenskan",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 470,
+      "volume": 241,
       "best_volume": 10325,
       "whale_max": 0,
       "entered": false
@@ -2910,7 +2910,7 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 615,
+      "volume": 609,
       "best_volume": 27166,
       "whale_max": 0,
       "entered": false
