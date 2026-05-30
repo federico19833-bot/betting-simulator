@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 07:28:12",
+  "last_update": "30/05/2026 07:28:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -634,21 +634,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 713,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "IK Kongahalla v Astorps FF",
       "campionato": "Swedish Division 2",
       "volume": 664,
@@ -677,6 +662,21 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
+    },
+    {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 586,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Defensores de Belgrano v San Telmo",
@@ -769,21 +769,6 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "FK Auda v Ogre United",
-      "campionato": "Latvian Virsliga",
-      "volume": 460,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653381",
-      "market_id": "1.258667568",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 16:00"
-    },
-    {
       "match": "Enskede v Angby IF",
       "campionato": "Swedish Division 2",
       "volume": 394,
@@ -842,6 +827,36 @@
       "market_id": "1.258567763",
       "_is_inplay": false,
       "open_date": "2026-05-30 15:00"
+    },
+    {
+      "match": "FK Auda v Ogre United",
+      "campionato": "Latvian Virsliga",
+      "volume": 329,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653381",
+      "market_id": "1.258667568",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "volume": 306,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650592",
+      "market_id": "1.258667632",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
     },
     {
       "match": "FC Neptunas Klaipeda v Be1 NFA",
@@ -2533,9 +2548,9 @@
       "match": "FK Auda v Ogre United",
       "campionato": "Latvian Virsliga",
       "open_date": "2026-05-30 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 460,
+      "volume": 329,
       "best_volume": 460,
       "whale_max": 0,
       "entered": false
@@ -2763,7 +2778,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 713,
+      "volume": 586,
       "best_volume": 783,
       "whale_max": 0,
       "entered": false
@@ -2921,6 +2936,18 @@
       "quota_iniziale": 1.07,
       "volume": 120,
       "best_volume": 120,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667632",
+      "match": "Moss v Stabaek",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 306,
+      "best_volume": 306,
       "whale_max": 0,
       "entered": false
     }
