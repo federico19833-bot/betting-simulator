@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 19:11:16",
+  "last_update": "30/05/2026 19:11:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Academia de Balompie Boliviano v Always Ready",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 11652,
+      "volume": 11650,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 7275,
+      "volume": 7397,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
-      "volume": 6106,
+      "volume": 6062,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "LDU v Orense Sporting Club",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 1368,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645621",
+      "market_id": "1.258548940",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:30"
+    },
+    {
       "match": "Defensores de Belgrano v San Telmo",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1320,
@@ -287,21 +302,6 @@
       "market_id": "1.258704474",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:00"
-    },
-    {
-      "match": "LDU v Orense Sporting Club",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 739,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645621",
-      "market_id": "1.258548940",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 23:30"
     },
     {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
@@ -1938,7 +1938,7 @@
       "open_date": "2026-05-30 20:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 6106,
+      "volume": 6062,
       "best_volume": 6124,
       "whale_max": 0,
       "entered": false
