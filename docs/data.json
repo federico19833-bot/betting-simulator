@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:09:36",
+  "last_update": "30/05/2026 11:10:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Fittja IF v Lindo FF",
       "campionato": "Swedish Division 2",
-      "volume": 10320,
+      "volume": 10325,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Smedby v FOC Farsta",
       "campionato": "Swedish Division 2",
-      "volume": 7804,
+      "volume": 9520,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -259,6 +259,21 @@
       "open_date": "2026-05-30 13:30"
     },
     {
+      "match": "Racing Club (Uru) v Defensor Sporting",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 1827,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648576",
+      "market_id": "1.258581559",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
+    },
+    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
       "volume": 1790,
@@ -424,21 +439,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Racing Club (Uru) v Defensor Sporting",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 1233,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648576",
-      "market_id": "1.258581559",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "HNK Orijent 1919 v NK Dugopolje",
       "campionato": "Croatian Prva NL",
       "volume": 1218,
@@ -529,6 +529,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Chongqing Tonglianglong v Beijing Guoan",
+      "campionato": "Chinese Super League",
+      "volume": 974,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35646525",
+      "market_id": "1.258665250",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
+    },
+    {
       "match": "Harju JK Laagri v Trans Narva",
       "campionato": "Estonian Premier League",
       "volume": 939,
@@ -572,21 +587,6 @@
       "market_id": "1.258730291",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "Chongqing Tonglianglong v Beijing Guoan",
-      "campionato": "Chinese Super League",
-      "volume": 870,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35646525",
-      "market_id": "1.258665250",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Gimhae City v Gimpo Citizen",
@@ -769,6 +769,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Ljungskile v Varbergs BoIS",
+      "campionato": "Swedish Superettan",
+      "volume": 439,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647358",
+      "market_id": "1.258563643",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
+    },
+    {
       "match": "GAIS v Kalmar FF",
       "campionato": "Swedish Allsvenskan",
       "volume": 423,
@@ -795,21 +810,6 @@
       "source": "Betfair",
       "event_id": "35656540",
       "market_id": "1.258664266",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Ljungskile v Varbergs BoIS",
-      "campionato": "Swedish Superettan",
-      "volume": 359,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647358",
-      "market_id": "1.258563643",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
     },
@@ -2008,9 +2008,9 @@
       "match": "Racing Club (Uru) v Defensor Sporting",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1233,
+      "volume": 1827,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2190,7 +2190,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 10320,
+      "volume": 10325,
       "best_volume": 10825,
       "whale_max": 0,
       "entered": false
@@ -2824,9 +2824,9 @@
       "match": "Ljungskile v Varbergs BoIS",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 359,
+      "volume": 439,
       "best_volume": 604,
       "whale_max": 0,
       "entered": false
@@ -2934,8 +2934,8 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 7804,
-      "best_volume": 9513,
+      "volume": 9520,
+      "best_volume": 9520,
       "whale_max": 0,
       "entered": false
     },
@@ -2970,8 +2970,8 @@
       "open_date": "2026-05-30 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 870,
-      "best_volume": 870,
+      "volume": 974,
+      "best_volume": 974,
       "whale_max": 0,
       "entered": false
     },
