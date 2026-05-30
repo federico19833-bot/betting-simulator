@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 03:17:37",
+  "last_update": "30/05/2026 03:18:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -261,7 +261,7 @@
     {
       "match": "Falkenbergs v Oddevold",
       "campionato": "Swedish Superettan",
-      "volume": 1485,
+      "volume": 1496,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -426,7 +426,7 @@
     {
       "match": "Sundsvall v Sandvikens IF",
       "campionato": "Swedish Superettan",
-      "volume": 1083,
+      "volume": 1093,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -696,7 +696,7 @@
     {
       "match": "AaB v HB Koge",
       "campionato": "Danish 1st Division",
-      "volume": 550,
+      "volume": 560,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -711,7 +711,7 @@
     {
       "match": "AIK v Sirius",
       "campionato": "Swedish Allsvenskan",
-      "volume": 546,
+      "volume": 556,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -1157,6 +1157,21 @@
       "market_id": "1.258664287",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Hammarby TFF v AFC Eskilstuna",
+      "campionato": "Swedish Division 1",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657042",
+      "market_id": "1.258667483",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 16:00"
     }
   ],
   "tracked_matches": [
@@ -2091,7 +2106,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 550,
+      "volume": 560,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2115,7 +2130,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1083,
+      "volume": 1093,
       "best_volume": 2363,
       "whale_max": 0,
       "entered": false
@@ -2151,7 +2166,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1485,
+      "volume": 1496,
       "best_volume": 4579,
       "whale_max": 0,
       "entered": false
@@ -2175,7 +2190,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 546,
+      "volume": 556,
       "best_volume": 1613,
       "whale_max": 0,
       "entered": false
@@ -2585,6 +2600,18 @@
       "quota_iniziale": 1.04,
       "volume": 1200,
       "best_volume": 1200,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258667483",
+      "match": "Hammarby TFF v AFC Eskilstuna",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-05-30 16:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
