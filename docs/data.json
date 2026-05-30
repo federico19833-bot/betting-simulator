@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:42:45",
+  "last_update": "30/05/2026 11:43:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -171,7 +171,7 @@
     {
       "match": "Chengdu Rongcheng v Shandong Taishan",
       "campionato": "Chinese Super League",
-      "volume": 2388,
+      "volume": 2382,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -364,21 +364,6 @@
       "open_date": "2026-05-30 16:00"
     },
     {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 1325,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "FK Auda v Ogre United",
       "campionato": "Latvian Virsliga",
       "volume": 1302,
@@ -454,6 +439,21 @@
       "open_date": "2026-05-30 14:00"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 1164,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Defensores de Belgrano v San Telmo",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1161,
@@ -501,7 +501,7 @@
     {
       "match": "Flamengo v Coritiba",
       "campionato": "Brazilian Serie A",
-      "volume": 1001,
+      "volume": 1046,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -647,6 +647,21 @@
       "market_id": "1.258704951",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:00"
+    },
+    {
+      "match": "MAS Taborsko v Banik Ostrava",
+      "campionato": "Czech 1 Liga",
+      "volume": 775,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657052",
+      "market_id": "1.258667296",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "TPS v VPS",
@@ -812,21 +827,6 @@
       "market_id": "1.258570645",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
-    },
-    {
-      "match": "MAS Taborsko v Banik Ostrava",
-      "campionato": "Czech 1 Liga",
-      "volume": 396,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657052",
-      "market_id": "1.258667296",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 13:00"
     },
     {
       "match": "Smedby v FOC Farsta",
@@ -2068,9 +2068,9 @@
       "match": "MAS Taborsko v Banik Ostrava",
       "campionato": "Czech 1 Liga",
       "open_date": "2026-05-30 13:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 396,
+      "volume": 775,
       "best_volume": 3229,
       "whale_max": 0,
       "entered": false
@@ -2094,7 +2094,7 @@
       "open_date": "2026-05-30 13:35",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 2388,
+      "volume": 2382,
       "best_volume": 2388,
       "whale_max": 0,
       "entered": false
@@ -2406,7 +2406,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 1325,
+      "volume": 1164,
       "best_volume": 27046,
       "whale_max": 0,
       "entered": false
@@ -2490,7 +2490,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1001,
+      "volume": 1046,
       "best_volume": 1046,
       "whale_max": 0,
       "entered": false
