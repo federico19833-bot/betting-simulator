@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 21:52:04",
+  "last_update": "30/05/2026 21:52:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Atletico GO v Goias",
       "campionato": "Brazilian Serie B",
-      "volume": 32477,
+      "volume": 39373,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
       "campionato": "Peruvian Primera Division",
-      "volume": 16042,
+      "volume": 18109,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-30 23:00"
     },
     {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 1218,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "CA Colegiales v Agropecuario",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1040,
@@ -107,21 +122,6 @@
       "market_id": "1.258730178",
       "_is_inplay": true,
       "open_date": "2026-05-30 20:00"
-    },
-    {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 1024,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Universidad de Venezuela v Portuguesa FC",
@@ -186,8 +186,8 @@
     {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 230,
-      "quota": 1.4,
+      "volume": 240,
+      "quota": 1.41,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -229,25 +229,10 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Bahia v Botafogo FR",
-      "campionato": "Brazilian Serie A",
-      "volume": 70,
-      "quota": 1.29,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624930",
-      "market_id": "1.258659273",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 22:30"
-    },
-    {
       "match": "Santos v EC Vitoria Salvador",
       "campionato": "Brazilian Serie A",
-      "volume": 7,
-      "quota": 8.0,
+      "volume": 107,
+      "quota": 3.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -257,6 +242,21 @@
       "market_id": "1.258659683",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:00"
+    },
+    {
+      "match": "Bahia v Botafogo FR",
+      "campionato": "Brazilian Serie A",
+      "volume": 97,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624930",
+      "market_id": "1.258659273",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:30"
     }
   ],
   "tracked_matches": [
@@ -1249,9 +1249,9 @@
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 1024,
+      "volume": 1218,
       "best_volume": 33810,
       "whale_max": 0,
       "entered": true
@@ -1275,8 +1275,8 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 32477,
-      "best_volume": 34614,
+      "volume": 39373,
+      "best_volume": 39373,
       "whale_max": 0,
       "entered": true
     },
