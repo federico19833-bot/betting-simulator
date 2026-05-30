@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 18:14:17",
+  "last_update": "30/05/2026 18:15:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Almirante Brown v Colon",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 26607,
+      "volume": 26057,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-30 16:00"
     },
     {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 1830,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Asociacion Deportiva Tarma v Cusco FC",
       "campionato": "Peruvian Primera Division",
       "volume": 1667,
@@ -139,24 +154,9 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 1511,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Gimnasia Jujuy v Belgrano",
       "campionato": "Argentinian Cup",
-      "volume": 1374,
+      "volume": 1377,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -289,21 +289,6 @@
       "open_date": "2026-05-30 20:15"
     },
     {
-      "match": "Athletico-PR v Mirassol",
-      "campionato": "Brazilian Serie A",
-      "volume": 679,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624955",
-      "market_id": "1.258659294",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
-    },
-    {
       "match": "Danubio v Progreso",
       "campionato": "Uruguayan Primera Division",
       "volume": 658,
@@ -409,10 +394,25 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "Athletico-PR v Mirassol",
+      "campionato": "Brazilian Serie A",
+      "volume": 257,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624955",
+      "market_id": "1.258659294",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
+    },
+    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 184,
-      "quota": 1.46,
+      "volume": 163,
+      "quota": 1.47,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1227,7 +1227,7 @@
       "open_date": "2026-05-30 20:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1374,
+      "volume": 1377,
       "best_volume": 25814,
       "whale_max": 0,
       "entered": true
@@ -1263,7 +1263,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 1511,
+      "volume": 1830,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1489,9 +1489,9 @@
       "match": "Athletico-PR v Mirassol",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-30 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 679,
+      "volume": 257,
       "best_volume": 29237,
       "whale_max": 0,
       "entered": true
@@ -1971,7 +1971,7 @@
       "open_date": "2026-05-30 20:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 26607,
+      "volume": 26057,
       "best_volume": 26607,
       "whale_max": 0,
       "entered": true
