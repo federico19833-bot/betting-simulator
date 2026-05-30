@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 17:39:35",
+  "last_update": "30/05/2026 17:40:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -122,21 +122,6 @@
       "market_id": "1.258721765",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:00"
-    },
-    {
-      "match": "Cabofriense v Audax Rio",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 1908,
-      "quota": 2.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663336",
-      "market_id": "1.258727998",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 19:45"
     },
     {
       "match": "Union San Felipe v Puerto Montt",
@@ -291,7 +276,7 @@
     {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 1062,
+      "volume": 864,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -499,21 +484,6 @@
       "open_date": "2026-05-30 20:30"
     },
     {
-      "match": "Almirante Brown v Colon",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 113,
-      "quota": 1.69,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648518",
-      "market_id": "1.258579435",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:30"
-    },
-    {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
       "campionato": "Peruvian Primera Division",
       "volume": 106,
@@ -557,6 +527,36 @@
       "market_id": "1.258659273",
       "_is_inplay": false,
       "open_date": "2026-05-30 22:30"
+    },
+    {
+      "match": "Cabofriense v Audax Rio",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 82,
+      "quota": 2.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663336",
+      "market_id": "1.258727998",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 19:45"
+    },
+    {
+      "match": "Almirante Brown v Colon",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 23,
+      "quota": 2.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648518",
+      "market_id": "1.258579435",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:30"
     },
     {
       "match": "Gremio v Corinthians",
@@ -1326,7 +1326,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 1062,
+      "volume": 864,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
