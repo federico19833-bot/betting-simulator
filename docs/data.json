@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 23:43:58",
+  "last_update": "30/05/2026 23:44:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,25 +34,10 @@
       "open_date": "2026-05-30 23:30"
     },
     {
-      "match": "Sport Boys (Per) v Comerciantes Unidos",
-      "campionato": "Peruvian Primera Division",
-      "volume": 2460,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648451",
-      "market_id": "1.258576330",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 00:30"
-    },
-    {
       "match": "Sport Recife v Nautico PE",
       "campionato": "Brazilian Serie B",
-      "volume": 1323,
-      "quota": 1.42,
+      "volume": 2304,
+      "quota": 1.43,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -62,6 +47,21 @@
       "market_id": "1.258574307",
       "_is_inplay": false,
       "open_date": "2026-05-31 01:30"
+    },
+    {
+      "match": "Sport Boys (Per) v Comerciantes Unidos",
+      "campionato": "Peruvian Primera Division",
+      "volume": 1539,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648451",
+      "market_id": "1.258576330",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 00:30"
     },
     {
       "match": "Santos v EC Vitoria Salvador",
@@ -1213,9 +1213,9 @@
       "match": "Sport Boys (Per) v Comerciantes Unidos",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-05-31 00:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 2460,
+      "volume": 1539,
       "best_volume": 26628,
       "whale_max": 0,
       "entered": true
