@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 07:07:38",
+  "last_update": "30/05/2026 07:08:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Gimnasia Jujuy v Belgrano",
       "campionato": "Argentinian Cup",
-      "volume": 24458,
+      "volume": 24452,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -589,21 +589,6 @@
       "open_date": "2026-05-30 14:00"
     },
     {
-      "match": "AaB v HB Koge",
-      "campionato": "Danish 1st Division",
-      "volume": 782,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647465",
-      "market_id": "1.258666189",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
-    },
-    {
       "match": "IK Kongahalla v Astorps FF",
       "campionato": "Swedish Division 2",
       "volume": 778,
@@ -632,6 +617,21 @@
       "market_id": "1.258603194",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Union San Felipe v Puerto Montt",
+      "campionato": "Chilean Primera B",
+      "volume": 713,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662858",
+      "market_id": "1.258731170",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "FC Dziugas v Panevezys",
@@ -677,21 +677,6 @@
       "market_id": "1.258658230",
       "_is_inplay": false,
       "open_date": "2026-05-30 09:30"
-    },
-    {
-      "match": "Union San Felipe v Puerto Montt",
-      "campionato": "Chilean Primera B",
-      "volume": 586,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662858",
-      "market_id": "1.258731170",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 21:00"
     },
     {
       "match": "Kuwait SC v Kazma SC",
@@ -932,6 +917,21 @@
       "market_id": "1.258660325",
       "_is_inplay": false,
       "open_date": "2026-05-30 12:00"
+    },
+    {
+      "match": "AaB v HB Koge",
+      "campionato": "Danish 1st Division",
+      "volume": 242,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647465",
+      "market_id": "1.258666189",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Al Najma (BRN) v Manama Club",
@@ -2028,7 +2028,7 @@
       "open_date": "2026-05-30 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 782,
+      "volume": 242,
       "best_volume": 33984,
       "whale_max": 0,
       "entered": true
@@ -2760,7 +2760,7 @@
       "open_date": "2026-05-30 20:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 24458,
+      "volume": 24452,
       "best_volume": 25278,
       "whale_max": 0,
       "entered": true
@@ -2796,7 +2796,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 586,
+      "volume": 713,
       "best_volume": 784,
       "whale_max": 0,
       "entered": false
