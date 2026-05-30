@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 17:46:42",
+  "last_update": "30/05/2026 17:47:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-30 20:00"
     },
     {
+      "match": "MB Rouissat v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 8868,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665944",
+      "market_id": "1.258739596",
+      "_is_inplay": true,
+      "open_date": "2026-05-30 17:00"
+    },
+    {
       "match": "Al Arabi Kuwait v Al Nasar (KUW)",
       "campionato": "Kuwaiti Premier League",
       "volume": 8506,
@@ -92,21 +107,6 @@
       "market_id": "1.258730291",
       "_is_inplay": false,
       "open_date": "2026-05-30 20:30"
-    },
-    {
-      "match": "MB Rouissat v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 5922,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665944",
-      "market_id": "1.258739596",
-      "_is_inplay": true,
-      "open_date": "2026-05-30 17:00"
     },
     {
       "match": "Deportivo Garcilaso v Juan Pablo II College",
@@ -261,7 +261,7 @@
     {
       "match": "Ponferradina v Atletico Madrid II",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1020,
+      "volume": 1015,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -439,21 +439,6 @@
       "open_date": "2026-05-30 21:00"
     },
     {
-      "match": "Sport Recife v Nautico PE",
-      "campionato": "Brazilian Serie B",
-      "volume": 279,
-      "quota": 1.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35645724",
-      "market_id": "1.258574307",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 01:30"
-    },
-    {
       "match": "FUS Rabat v FAR Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 264,
@@ -469,6 +454,21 @@
       "open_date": "2026-05-30 21:00"
     },
     {
+      "match": "Gimnasia Jujuy v Belgrano",
+      "campionato": "Argentinian Cup",
+      "volume": 195,
+      "quota": 2.96,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35644095",
+      "market_id": "1.258673869",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 20:30"
+    },
+    {
       "match": "Granada v Sporting Gijon",
       "campionato": "Spanish Segunda Division",
       "volume": 150,
@@ -482,6 +482,21 @@
       "market_id": "1.258570645",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Sport Recife v Nautico PE",
+      "campionato": "Brazilian Serie B",
+      "volume": 141,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35645724",
+      "market_id": "1.258574307",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 01:30"
     },
     {
       "match": "Gremio v Corinthians",
@@ -529,25 +544,10 @@
       "open_date": "2026-05-30 23:00"
     },
     {
-      "match": "Gimnasia Jujuy v Belgrano",
-      "campionato": "Argentinian Cup",
-      "volume": 72,
-      "quota": 2.62,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35644095",
-      "market_id": "1.258673869",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 20:30"
-    },
-    {
       "match": "All Boys v Los Andes",
       "campionato": "Argentinian Primera Nacional",
-      "volume": 61,
-      "quota": 2.8,
+      "volume": 70,
+      "quota": 2.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1350,7 +1350,7 @@
       "open_date": "2026-05-30 21:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 1020,
+      "volume": 1015,
       "best_volume": 27829,
       "whale_max": 0,
       "entered": true
@@ -1852,9 +1852,9 @@
       "match": "MB Rouissat v USM Alger",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-05-30 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 5922,
+      "volume": 8868,
       "best_volume": 41929,
       "whale_max": 0,
       "entered": true
