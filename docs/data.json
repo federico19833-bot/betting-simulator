@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 07:10:34",
+  "last_update": "30/05/2026 07:11:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -589,6 +589,21 @@
       "open_date": "2026-05-30 20:30"
     },
     {
+      "match": "Gimhae City v Gimpo Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 824,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649136",
+      "market_id": "1.258660325",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
+    },
+    {
       "match": "Racing Club (Uru) v Defensor Sporting",
       "campionato": "Uruguayan Primera Division",
       "volume": 782,
@@ -874,21 +889,6 @@
       "open_date": "2026-05-30 13:00"
     },
     {
-      "match": "BFA Vilnius v FK Jonava",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 268,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662041",
-      "market_id": "1.258712125",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 14:00"
-    },
-    {
       "match": "Bahia v Botafogo FR",
       "campionato": "Brazilian Serie A",
       "volume": 256,
@@ -932,6 +932,21 @@
       "market_id": "1.258700082",
       "_is_inplay": false,
       "open_date": "2026-05-30 18:00"
+    },
+    {
+      "match": "BFA Vilnius v FK Jonava",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 231,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662041",
+      "market_id": "1.258712125",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 14:00"
     },
     {
       "match": "Lahti v Ilves",
@@ -992,21 +1007,6 @@
       "market_id": "1.258667675",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
-    },
-    {
-      "match": "Gimhae City v Gimpo Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 185,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649136",
-      "market_id": "1.258660325",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "Kuwait SC v Kazma SC",
@@ -2080,10 +2080,10 @@
       "match": "Gimhae City v Gimpo Citizen",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-30 12:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 185,
-      "best_volume": 248,
+      "volume": 824,
+      "best_volume": 824,
       "whale_max": 0,
       "entered": false
     },
@@ -2272,9 +2272,9 @@
       "match": "BFA Vilnius v FK Jonava",
       "campionato": "Lithuanian 1 Lyga",
       "open_date": "2026-05-30 14:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 268,
+      "volume": 231,
       "best_volume": 1522,
       "whale_max": 0,
       "entered": false
