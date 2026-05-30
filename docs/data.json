@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 11:52:23",
+  "last_update": "30/05/2026 11:53:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Taby FK v Skiljebo",
       "campionato": "Swedish Division 2",
-      "volume": 11688,
+      "volume": 12896,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -77,6 +77,21 @@
       "market_id": "1.258575405",
       "_is_inplay": false,
       "open_date": "2026-05-30 21:00"
+    },
+    {
+      "match": "Fittja IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 7657,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656123",
+      "market_id": "1.258667696",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "GAIS v Kalmar FF",
@@ -212,21 +227,6 @@
       "market_id": "1.258603171",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
-    },
-    {
-      "match": "Fittja IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 2117,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656123",
-      "market_id": "1.258667696",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 15:00"
     },
     {
       "match": "Parnu JK Vaprus v Nomme Kalju",
@@ -2188,9 +2188,9 @@
       "match": "Fittja IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-30 15:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 2117,
+      "volume": 7657,
       "best_volume": 10825,
       "whale_max": 0,
       "entered": false
@@ -2742,8 +2742,8 @@
       "open_date": "2026-05-30 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 11688,
-      "best_volume": 12895,
+      "volume": 12896,
+      "best_volume": 12896,
       "whale_max": 0,
       "entered": false
     },
