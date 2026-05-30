@@ -1,5 +1,5 @@
 {
-  "last_update": "30/05/2026 08:18:07",
+  "last_update": "30/05/2026 08:18:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -621,7 +621,7 @@
     {
       "match": "LDU v Orense Sporting Club",
       "campionato": "Ecuadorian Serie A",
-      "volume": 636,
+      "volume": 646,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -632,21 +632,6 @@
       "market_id": "1.258548940",
       "_is_inplay": false,
       "open_date": "2026-05-30 23:30"
-    },
-    {
-      "match": "Ulsan Citizen FC v Pocheon FC",
-      "campionato": "South Korean K3 League",
-      "volume": 631,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662067",
-      "market_id": "1.258713138",
-      "_is_inplay": false,
-      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "FC Neptunas Klaipeda v Be1 NFA",
@@ -707,6 +692,21 @@
       "market_id": "1.258563643",
       "_is_inplay": false,
       "open_date": "2026-05-30 13:00"
+    },
+    {
+      "match": "Ulsan Citizen FC v Pocheon FC",
+      "campionato": "South Korean K3 League",
+      "volume": 560,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662067",
+      "market_id": "1.258713138",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 12:00"
     },
     {
       "match": "GAIS v Kalmar FF",
@@ -1129,6 +1129,21 @@
       "open_date": "2026-05-30 17:00"
     },
     {
+      "match": "Athletic Club v Fortaleza EC",
+      "campionato": "Brazilian Serie B",
+      "volume": 50,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649361",
+      "market_id": "1.258704951",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:00"
+    },
+    {
       "match": "Cabofriense v Audax Rio",
       "campionato": "Brazilian Carioca Matches",
       "volume": 26,
@@ -1337,6 +1352,36 @@
       "market_id": "1.258667632",
       "_is_inplay": false,
       "open_date": "2026-05-30 16:00"
+    },
+    {
+      "match": "Universidad de Venezuela v Portuguesa FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663013",
+      "market_id": "1.258721765",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 22:00"
+    },
+    {
+      "match": "Instituto v Lanus",
+      "campionato": "Argentinian Cup",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641098",
+      "market_id": "1.258676850",
+      "_is_inplay": false,
+      "open_date": "2026-05-30 23:00"
     }
   ],
   "tracked_matches": [
@@ -2079,7 +2124,7 @@
       "open_date": "2026-05-30 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 631,
+      "volume": 560,
       "best_volume": 1554,
       "whale_max": 0,
       "entered": false
@@ -2979,6 +3024,30 @@
       "open_date": "2026-05-30 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258721765",
+      "match": "Universidad de Venezuela v Portuguesa FC",
+      "campionato": "Venezuelan Primera Division",
+      "open_date": "2026-05-30 22:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258676850",
+      "match": "Instituto v Lanus",
+      "campionato": "Argentinian Cup",
+      "open_date": "2026-05-30 23:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
       "volume": 10,
       "best_volume": 10,
       "whale_max": 0,
