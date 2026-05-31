@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 04:09:17",
+  "last_update": "31/05/2026 04:09:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Real Sociedad (W) v Atletico Madrid (W)",
       "campionato": "Spanish Liga F",
-      "volume": 4061,
+      "volume": 4057,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -499,21 +499,6 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Club Atletico Mitre v Deportivo Moron",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 731,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648521",
-      "market_id": "1.258579421",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Paide Linnameeskond v Kuressaare",
       "campionato": "Estonian Premier League",
       "volume": 730,
@@ -527,6 +512,21 @@
       "market_id": "1.258693710",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Club Atletico Mitre v Deportivo Moron",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 728,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648521",
+      "market_id": "1.258579421",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -559,6 +559,21 @@
       "open_date": "2026-05-31 16:15"
     },
     {
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 618,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665205",
+      "market_id": "1.258734475",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:00"
+    },
+    {
       "match": "Ceara SC Fortaleza v Operario PR",
       "campionato": "Brazilian Serie B",
       "volume": 616,
@@ -587,6 +602,21 @@
       "market_id": "1.258694518",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:15"
+    },
+    {
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 554,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662997",
+      "market_id": "1.258752444",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Raufoss v Haugesund",
@@ -722,21 +752,6 @@
       "market_id": "1.258720594",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "Oriente Petrolero v Blooming Santa Cruz",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 277,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665205",
-      "market_id": "1.258734475",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "Njardvik v Grotta",
@@ -887,21 +902,6 @@
       "market_id": "1.258575279",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 132,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Quilmes v Atletico Rafaela",
@@ -2748,7 +2748,7 @@
       "open_date": "2026-05-31 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 731,
+      "volume": 728,
       "best_volume": 2072,
       "whale_max": 0,
       "entered": false
@@ -3456,8 +3456,20 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 4061,
+      "volume": 4057,
       "best_volume": 4061,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258734475",
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-31 22:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 618,
+      "best_volume": 618,
       "whale_max": 0,
       "entered": false
     }
