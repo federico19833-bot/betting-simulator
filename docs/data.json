@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:26:24",
+  "last_update": "31/05/2026 08:26:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -859,6 +859,21 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "Quilmes v Atletico Rafaela",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 288,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648519",
+      "market_id": "1.258579407",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:00"
+    },
+    {
       "match": "Paide Linnameeskond v Kuressaare",
       "campionato": "Estonian Premier League",
       "volume": 276,
@@ -1022,21 +1037,6 @@
       "market_id": "1.258752444",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
-    },
-    {
-      "match": "Quilmes v Atletico Rafaela",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 118,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648519",
-      "market_id": "1.258579407",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "FK Jelgava v BFC Daugavpils",
@@ -1380,6 +1380,21 @@
       "source": "Betfair",
       "event_id": "35647972",
       "market_id": "1.258575300",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647973",
+      "market_id": "1.258575565",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
     }
@@ -3768,8 +3783,8 @@
       "open_date": "2026-05-31 22:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 232,
-      "best_volume": 232,
+      "volume": 288,
+      "best_volume": 288,
       "whale_max": 0,
       "entered": false
     },
@@ -3926,6 +3941,18 @@
       "quota_iniziale": 1.06,
       "volume": 740,
       "best_volume": 740,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258575565",
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "open_date": "2026-05-31 18:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
