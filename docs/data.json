@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 23:02:53",
+  "last_update": "31/05/2026 23:03:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,8 +66,8 @@
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1505,
-      "quota": 1.57,
+      "volume": 1688,
+      "quota": 1.56,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -141,7 +141,7 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 297,
+      "volume": 292,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -154,9 +154,24 @@
       "open_date": "2026-06-01 01:30"
     },
     {
+      "match": "Emelec v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 241,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648452",
+      "market_id": "1.258706481",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:10"
+    },
+    {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
-      "volume": 96,
+      "volume": 106,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -2239,9 +2254,9 @@
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-06-01 01:10",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 200,
+      "volume": 241,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
