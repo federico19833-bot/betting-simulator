@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 04:03:02",
+  "last_update": "31/05/2026 04:03:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -364,21 +364,6 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "Toluca v Tigres",
-      "campionato": "CONCACAF Champions League",
-      "volume": 945,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630488",
-      "market_id": "1.258575485",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
-    },
-    {
       "match": "Ansan Greeners FC v Cheonan City",
       "campionato": "South Korean K2 League",
       "volume": 941,
@@ -469,21 +454,6 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Club Atletico Mitre v Deportivo Moron",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 731,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648521",
-      "market_id": "1.258579421",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
       "volume": 730,
@@ -499,6 +469,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Club Atletico Mitre v Deportivo Moron",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 728,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648521",
+      "market_id": "1.258579421",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
       "volume": 728,
@@ -512,6 +497,21 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Toluca v Tigres",
+      "campionato": "CONCACAF Champions League",
+      "volume": 706,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630488",
+      "market_id": "1.258575485",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "Helsingborgs v Norrkoping",
@@ -557,6 +557,21 @@
       "market_id": "1.258659746",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Real Sociedad (W) v Atletico Madrid (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 602,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666893",
+      "market_id": "1.258743028",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "CD Los Chankas v UTC Cajamarca",
@@ -917,21 +932,6 @@
       "market_id": "1.258694629",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "Real Sociedad (W) v Atletico Madrid (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 110,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666893",
-      "market_id": "1.258743028",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "Ceara SC Fortaleza v Operario PR",
@@ -2676,7 +2676,7 @@
       "open_date": "2026-05-31 02:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 945,
+      "volume": 706,
       "best_volume": 6271,
       "whale_max": 0,
       "entered": false
@@ -2772,7 +2772,7 @@
       "open_date": "2026-05-31 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 731,
+      "volume": 728,
       "best_volume": 2072,
       "whale_max": 0,
       "entered": false
@@ -2950,9 +2950,9 @@
       "match": "Real Sociedad (W) v Atletico Madrid (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 12:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 110,
+      "volume": 602,
       "best_volume": 4368,
       "whale_max": 0,
       "entered": false
