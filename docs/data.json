@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:08:14",
+  "last_update": "31/05/2026 22:08:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
-      "volume": 23452,
+      "volume": 23453,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -30,6 +30,36 @@
       "source": "Betfair",
       "event_id": "35663052",
       "market_id": "1.258721592",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "Defensores Unidos v Flandria",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 5597,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663041",
+      "market_id": "1.258720615",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 5550,
+      "quota": 1.34,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
     },
@@ -49,21 +79,6 @@
       "open_date": "2026-05-31 22:30"
     },
     {
-      "match": "Defensores Unidos v Flandria",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3226,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663041",
-      "market_id": "1.258720615",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:30"
-    },
-    {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1150,
@@ -77,21 +92,6 @@
       "market_id": "1.258720636",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Metropolitanos v Carabobo FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 1049,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663062",
-      "market_id": "1.258721606",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -124,9 +124,24 @@
       "open_date": "2026-05-31 23:30"
     },
     {
+      "match": "Cordoba v Huesca",
+      "campionato": "Spanish Segunda Division",
+      "volume": 551,
+      "quota": 1.3,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647968",
+      "market_id": "1.258575468",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "SE Palmeiras v Chapecoense",
       "campionato": "Brazilian Serie A",
-      "volume": 464,
+      "volume": 468,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -167,6 +182,21 @@
       "market_id": "1.258752444",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
+    },
+    {
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 284,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665205",
+      "market_id": "1.258734475",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "Leganes v Mirandes",
@@ -214,40 +244,10 @@
       "open_date": "2026-06-01 01:10"
     },
     {
-      "match": "Cordoba v Huesca",
-      "campionato": "Spanish Segunda Division",
-      "volume": 136,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647968",
-      "market_id": "1.258575468",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Oriente Petrolero v Blooming Santa Cruz",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 112,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665205",
-      "market_id": "1.258734475",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:00"
-    },
-    {
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
-      "volume": 93,
-      "quota": 2.88,
+      "volume": 118,
+      "quota": 2.84,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1914,7 +1914,7 @@
       "open_date": "2026-05-31 23:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 23452,
+      "volume": 23453,
       "best_volume": 23453,
       "whale_max": 0,
       "entered": true
