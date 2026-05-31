@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 07:20:43",
+  "last_update": "31/05/2026 07:21:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,24 +64,9 @@
       "open_date": "2026-05-31 20:30"
     },
     {
-      "match": "Ansan Greeners FC v Cheonan City",
-      "campionato": "South Korean K2 League",
-      "volume": 4847,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649138",
-      "market_id": "1.258687636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
-    },
-    {
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
       "campionato": "Spanish Liga F",
-      "volume": 4491,
+      "volume": 3143,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -274,6 +259,21 @@
       "open_date": "2026-05-31 14:30"
     },
     {
+      "match": "Ansan Greeners FC v Cheonan City",
+      "campionato": "South Korean K2 League",
+      "volume": 1270,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649138",
+      "market_id": "1.258687636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "CA Central Norte v Chaco For Ever",
       "campionato": "Argentinian Primera Nacional",
       "volume": 1265,
@@ -332,6 +332,21 @@
       "market_id": "1.258720463",
       "_is_inplay": false,
       "open_date": "2026-05-31 19:30"
+    },
+    {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 886,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Patronato v Tristan Suarez",
@@ -1305,6 +1320,21 @@
       "source": "Betfair",
       "event_id": "35647972",
       "market_id": "1.258575300",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647973",
+      "market_id": "1.258575565",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
     }
@@ -2901,7 +2931,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 4847,
+      "volume": 1270,
       "best_volume": 13037,
       "whale_max": 0,
       "entered": true
@@ -3333,7 +3363,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 4491,
+      "volume": 3143,
       "best_volume": 5249,
       "whale_max": 0,
       "entered": false
@@ -3815,6 +3845,30 @@
       "quota_iniziale": 1.09,
       "volume": 232,
       "best_volume": 232,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258575565",
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "open_date": "2026-05-31 18:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258721606",
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "open_date": "2026-05-31 23:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 886,
+      "best_volume": 886,
       "whale_max": 0,
       "entered": false
     }
