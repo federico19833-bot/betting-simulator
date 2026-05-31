@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 13:11:50",
+  "last_update": "31/05/2026 13:12:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Husqvarna v Stenungsunds IF",
-      "campionato": "Swedish Division 2",
-      "volume": 33067,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667742",
-      "market_id": "1.258754709",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
       "volume": 31478,
@@ -47,6 +32,21 @@
       "market_id": "1.258751941",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Husqvarna v Stenungsunds IF",
+      "campionato": "Swedish Division 2",
+      "volume": 29825,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667742",
+      "market_id": "1.258754709",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "IFK Haninge v IF Eker Örebro",
@@ -124,6 +124,21 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "CE Europa v Celta Vigo B",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 15597,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657917",
+      "market_id": "1.258671591",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:15"
+    },
+    {
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
       "volume": 11551,
@@ -199,6 +214,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Slovacko v SK Artis Brno",
+      "campionato": "Czech 1 Liga",
+      "volume": 4004,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659956",
+      "market_id": "1.258689697",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Real Oviedo II v CD Coria",
       "campionato": "Spanish Segunda Federación Playoffs",
       "volume": 3986,
@@ -216,8 +246,8 @@
     {
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
-      "volume": 3731,
-      "quota": 1.05,
+      "volume": 3958,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -274,21 +304,6 @@
       "open_date": "2026-05-31 22:30"
     },
     {
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 2116,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657917",
-      "market_id": "1.258671591",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:15"
-    },
-    {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 2072,
@@ -319,19 +334,19 @@
       "open_date": "2026-05-31 15:00"
     },
     {
-      "match": "Slovacko v SK Artis Brno",
-      "campionato": "Czech 1 Liga",
-      "volume": 2004,
-      "quota": 1.07,
+      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1889,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35659956",
-      "market_id": "1.258689697",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 13:00"
+      "event_id": "35663025",
+      "market_id": "1.258720657",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:30"
     },
     {
       "match": "Varnamo v United IK Nordic",
@@ -349,9 +364,24 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 1764,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Umea FC v IFK Stocksund",
       "campionato": "Swedish Division 1",
-      "volume": 1686,
+      "volume": 1681,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -362,21 +392,6 @@
       "market_id": "1.258672552",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:30"
-    },
-    {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 1578,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Metropolitanos v Carabobo FC",
@@ -452,21 +467,6 @@
       "market_id": "1.258734475",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
-    },
-    {
-      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1218,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663025",
-      "market_id": "1.258720657",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:30"
     },
     {
       "match": "Paide Linnameeskond v Kuressaare",
@@ -604,19 +604,34 @@
       "open_date": "2026-05-31 20:30"
     },
     {
-      "match": "KF Ferizaj v KF Llapi",
-      "campionato": "Kosovan Superliga",
-      "volume": 679,
-      "quota": 1.08,
+      "match": "Real Madrid FC (W) v Granada (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 608,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663015",
-      "market_id": "1.258726988",
+      "event_id": "35667246",
+      "market_id": "1.258747362",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
+      "match": "Degerfors v Brommapojkarna",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 608,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647423",
+      "market_id": "1.258575426",
       "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Espanyol (W) v Sevilla FC (W)",
@@ -664,21 +679,6 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "Real Madrid FC (W) v Granada (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 546,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667246",
-      "market_id": "1.258747362",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 12:00"
-    },
-    {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
       "volume": 542,
@@ -707,21 +707,6 @@
       "market_id": "1.258690294",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:35"
-    },
-    {
-      "match": "Athletic Bilbao (W) v Alhama CF (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 504,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667127",
-      "market_id": "1.258745864",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Kongsvinger v Asane",
@@ -769,6 +754,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "Athletic Bilbao (W) v Alhama CF (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 459,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667127",
+      "market_id": "1.258745864",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Ranheim IL v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
       "volume": 434,
@@ -812,21 +812,6 @@
       "market_id": "1.258575342",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 335,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667368",
-      "market_id": "1.258748004",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Cordoba v Huesca",
@@ -874,21 +859,6 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "IFK Lidingo v Falu FK",
-      "campionato": "Swedish Division 2",
-      "volume": 224,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656101",
-      "market_id": "1.258693655",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:45"
-    },
-    {
       "match": "Afturelding v Fylkir",
       "campionato": "Icelandic 1 Deild",
       "volume": 212,
@@ -902,6 +872,21 @@
       "market_id": "1.258737310",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:15"
+    },
+    {
+      "match": "IFK Lidingo v Falu FK",
+      "campionato": "Swedish Division 2",
+      "volume": 200,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656101",
+      "market_id": "1.258693655",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:45"
     },
     {
       "match": "Emelec v Univ Catolica (Ecu)",
@@ -1039,6 +1024,21 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "KF Ferizaj v KF Llapi",
+      "campionato": "Kosovan Superliga",
+      "volume": 64,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663015",
+      "market_id": "1.258726988",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
       "volume": 64,
@@ -1052,21 +1052,6 @@
       "market_id": "1.258694257",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Degerfors v Brommapojkarna",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 33,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647423",
-      "market_id": "1.258575426",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Magallanes v Deportes Iquique",
@@ -2833,9 +2818,9 @@
       "match": "CE Europa v Celta Vigo B",
       "campionato": "Spanish Segunda B Playoffs",
       "open_date": "2026-05-31 16:15",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 2116,
+      "volume": 15597,
       "best_volume": 31701,
       "whale_max": 0,
       "entered": false
@@ -2871,7 +2856,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 33067,
+      "volume": 29825,
       "best_volume": 33067,
       "whale_max": 0,
       "entered": false
@@ -3241,9 +3226,9 @@
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 3731,
+      "volume": 3958,
       "best_volume": 4742,
       "whale_max": 0,
       "entered": false
@@ -3277,9 +3262,9 @@
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 2004,
+      "volume": 4004,
       "best_volume": 17518,
       "whale_max": 0,
       "entered": false
@@ -3375,7 +3360,7 @@
       "open_date": "2026-05-31 14:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1686,
+      "volume": 1681,
       "best_volume": 3894,
       "whale_max": 0,
       "entered": false
@@ -3397,9 +3382,9 @@
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 504,
+      "volume": 459,
       "best_volume": 725,
       "whale_max": 0,
       "entered": false
@@ -3567,7 +3552,7 @@
       "open_date": "2026-05-31 17:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1218,
+      "volume": 1889,
       "best_volume": 1889,
       "whale_max": 0,
       "entered": false
@@ -3649,10 +3634,10 @@
       "match": "Degerfors v Brommapojkarna",
       "campionato": "Swedish Allsvenskan",
       "open_date": "2026-05-31 14:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 33,
-      "best_volume": 341,
+      "volume": 608,
+      "best_volume": 608,
       "whale_max": 0,
       "entered": false
     },
@@ -3663,20 +3648,8 @@
       "open_date": "2026-05-31 15:45",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 224,
+      "volume": 200,
       "best_volume": 224,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258748004",
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-05-31 14:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 335,
-      "best_volume": 335,
       "whale_max": 0,
       "entered": false
     }
