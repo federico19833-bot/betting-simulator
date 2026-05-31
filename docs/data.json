@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:28:54",
+  "last_update": "31/05/2026 10:29:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,21 +184,6 @@
       "open_date": "2026-05-31 15:00"
     },
     {
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 1993,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667368",
-      "market_id": "1.258748004",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
-    },
-    {
       "match": "Ranheim IL v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
       "volume": 1860,
@@ -212,6 +197,21 @@
       "market_id": "1.258694650",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 1858,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Jeonnam Dragons v Seoul E-Land FC",
@@ -272,6 +272,21 @@
       "market_id": "1.258743003",
       "_is_inplay": false,
       "open_date": "2026-05-31 12:00"
+    },
+    {
+      "match": "Degerfors v Brommapojkarna",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 1574,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647423",
+      "market_id": "1.258575426",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
@@ -381,7 +396,7 @@
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 909,
+      "volume": 922,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -737,21 +752,6 @@
       "market_id": "1.258575468",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Degerfors v Brommapojkarna",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 392,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647423",
-      "market_id": "1.258575426",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Esbjerg v Lyngby",
@@ -2943,7 +2943,7 @@
       "open_date": "2026-05-31 22:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 909,
+      "volume": 922,
       "best_volume": 3182,
       "whale_max": 0,
       "entered": false
@@ -3387,7 +3387,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1993,
+      "volume": 1858,
       "best_volume": 1993,
       "whale_max": 0,
       "entered": false
@@ -3673,9 +3673,9 @@
       "match": "Degerfors v Brommapojkarna",
       "campionato": "Swedish Allsvenskan",
       "open_date": "2026-05-31 14:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 392,
+      "volume": 1574,
       "best_volume": 2430,
       "whale_max": 0,
       "entered": false
