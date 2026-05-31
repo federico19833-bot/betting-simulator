@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:52:05",
+  "last_update": "31/05/2026 10:52:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "Real Oviedo II v CD Coria",
       "campionato": "Spanish Segunda Federación Playoffs",
-      "volume": 3543,
+      "volume": 3523,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -454,6 +454,21 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Slovacko v SK Artis Brno",
+      "campionato": "Czech 1 Liga",
+      "volume": 715,
+      "quota": 1.42,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659956",
+      "market_id": "1.258689697",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
       "volume": 700,
@@ -467,6 +482,21 @@
       "market_id": "1.258659768",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 687,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Raufoss v Haugesund",
@@ -512,21 +542,6 @@
       "market_id": "1.258770617",
       "_is_inplay": false,
       "open_date": "2026-05-31 12:00"
-    },
-    {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 595,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Varnamo v United IK Nordic",
@@ -1262,21 +1277,6 @@
       "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Slovacko v SK Artis Brno",
-      "campionato": "Czech 1 Liga",
-      "volume": 7,
-      "quota": 1.57,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659956",
-      "market_id": "1.258689697",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     }
   ],
   "tracked_matches": [
@@ -3265,9 +3265,9 @@
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 595,
+      "volume": 687,
       "best_volume": 3000,
       "whale_max": 0,
       "entered": false
@@ -3603,7 +3603,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 3543,
+      "volume": 3523,
       "best_volume": 3543,
       "whale_max": 0,
       "entered": false
