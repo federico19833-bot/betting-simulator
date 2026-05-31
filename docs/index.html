@@ -86,6 +86,7 @@ tr:hover { background:#1a2744; }
 <script>
 let chart = null;
 let fetchInterval = null;
+let historyExpanded = false;
 
 async function loadData() {
     try {
@@ -182,6 +183,13 @@ function render(data) {
                         Mostra altre ${data.giocate.length - maxVisible} giocate ▾
                     </button>
                 </td></tr>`;
+            // Restore expanded state
+            if (historyExpanded) {
+                const hidden = document.querySelectorAll('#tableBody .hidden-row');
+                hidden.forEach(r => r.style.display = 'table-row');
+                const btn = document.getElementById('toggleBtn');
+                if (btn) btn.textContent = `Mostra solo le ultime 25 ▴`;
+            }
         }
     } else {
         tbody.innerHTML = '<tr><td colspan="10" style="text-align:center;color:#64748b">Nessuna giocata</td></tr>';
@@ -277,7 +285,8 @@ function toggleHistory() {
     const btn = document.getElementById('toggleBtn');
     const isHidden = hidden[0].style.display !== 'table-row';
     hidden.forEach(r => r.style.display = isHidden ? 'table-row' : 'none');
-    btn.textContent = isHidden ? 'Mostra solo le ultime 20 ▴' : `Mostra altre ${hidden.length} giocate ▾`;
+    historyExpanded = isHidden;
+    btn.textContent = isHidden ? 'Mostra solo le ultime 25 ▴' : `Mostra altre ${hidden.length} giocate ▾`;
 }
 </script>
 </body>
