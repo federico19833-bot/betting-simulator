@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 06:14:41",
+  "last_update": "31/05/2026 06:15:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -274,6 +274,21 @@
       "open_date": "2026-05-31 07:00"
     },
     {
+      "match": "CA Central Norte v Chaco For Ever",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 1266,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648514",
+      "market_id": "1.258579523",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:30"
+    },
+    {
       "match": "Strommen v Sogndal",
       "campionato": "Norwegian 1st Division",
       "volume": 1208,
@@ -302,21 +317,6 @@
       "market_id": "1.258575503",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "CA Central Norte v Chaco For Ever",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 1208,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648514",
-      "market_id": "1.258579523",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:30"
     },
     {
       "match": "Metropolitanos v Carabobo FC",
@@ -377,6 +377,21 @@
       "market_id": "1.258694650",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Motala v Vanersborgs IF",
+      "campionato": "Swedish Division 2",
+      "volume": 862,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656349",
+      "market_id": "1.258690551",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Afturelding v Fylkir",
@@ -1009,21 +1024,6 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Albion FC v Torque",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 52,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648575",
-      "market_id": "1.258694587",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "CA Atlanta v Club Gimnasia y Tiro",
       "campionato": "Argentinian Primera Nacional",
       "volume": 44,
@@ -1140,6 +1140,21 @@
       "source": "Betfair",
       "event_id": "35648242",
       "market_id": "1.258575650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Albion FC v Torque",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 10,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648575",
+      "market_id": "1.258694587",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
     },
@@ -3036,7 +3051,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 52,
+      "volume": 10,
       "best_volume": 1208,
       "whale_max": 0,
       "entered": false
@@ -3180,7 +3195,7 @@
       "open_date": "2026-05-31 21:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 1208,
+      "volume": 1266,
       "best_volume": 1267,
       "whale_max": 0,
       "entered": false
@@ -3698,6 +3713,18 @@
       "quota_iniziale": 1.05,
       "volume": 212,
       "best_volume": 310,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258690551",
+      "match": "Motala v Vanersborgs IF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-31 14:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 862,
+      "best_volume": 862,
       "whale_max": 0,
       "entered": false
     }
