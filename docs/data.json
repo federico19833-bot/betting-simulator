@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 04:51:27",
+  "last_update": "31/05/2026 04:51:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -602,6 +602,21 @@
       "market_id": "1.258694545",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 542,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665205",
+      "market_id": "1.258734475",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "FC Cajamarca v Alianza Lima",
@@ -3563,6 +3578,18 @@
       "quota_iniziale": 1.06,
       "volume": 1013,
       "best_volume": 1013,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258734475",
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "open_date": "2026-05-31 22:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 542,
+      "best_volume": 542,
       "whale_max": 0,
       "entered": false
     }
