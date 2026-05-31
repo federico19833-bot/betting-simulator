@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 21:12:08",
+  "last_update": "31/05/2026 21:12:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
-      "volume": 12758,
+      "volume": 12846,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -49,25 +49,10 @@
       "open_date": "2026-05-31 22:15"
     },
     {
-      "match": "Mushuc Runa v Aucas",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 8111,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648455",
-      "market_id": "1.258575608",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:00"
-    },
-    {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 6383,
-      "quota": 1.07,
+      "volume": 5295,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -77,6 +62,21 @@
       "market_id": "1.258720594",
       "_is_inplay": true,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Mushuc Runa v Aucas",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 4839,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648455",
+      "market_id": "1.258575608",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:00"
     },
     {
       "match": "Cordoba v Huesca",
@@ -94,6 +94,21 @@
       "open_date": "2026-05-31 21:00"
     },
     {
+      "match": "Defensores Unidos v Flandria",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1390,
+      "quota": 1.42,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663041",
+      "market_id": "1.258720615",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:30"
+    },
+    {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 1150,
@@ -107,21 +122,6 @@
       "market_id": "1.258581454",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
-    },
-    {
-      "match": "Defensores Unidos v Flandria",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1081,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663041",
-      "market_id": "1.258720615",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Remo v Sao Paulo",
@@ -169,21 +169,6 @@
       "open_date": "2026-06-01 01:10"
     },
     {
-      "match": "Vasco da Gama v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "volume": 562,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624951",
-      "market_id": "1.258659746",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Guayaquil City v Independiente (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "volume": 552,
@@ -199,6 +184,21 @@
       "open_date": "2026-05-31 22:30"
     },
     {
+      "match": "Vasco da Gama v Atletico MG",
+      "campionato": "Brazilian Serie A",
+      "volume": 467,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624951",
+      "market_id": "1.258659746",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
       "volume": 398,
@@ -212,6 +212,21 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 360,
+      "quota": 1.39,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625075",
+      "market_id": "1.258659725",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Cuiaba v CRB",
@@ -246,8 +261,8 @@
     {
       "match": "Ceara SC Fortaleza v Operario PR",
       "campionato": "Brazilian Serie B",
-      "volume": 279,
-      "quota": 1.2,
+      "volume": 270,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -257,21 +272,6 @@
       "market_id": "1.258575342",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 263,
-      "quota": 1.38,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Leganes v Mirandes",
@@ -321,8 +321,8 @@
     {
       "match": "Cobreloa Calama v CSD Rangers",
       "campionato": "Chilean Primera B",
-      "volume": 163,
-      "quota": 1.33,
+      "volume": 127,
+      "quota": 1.34,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1965,7 +1965,7 @@
       "open_date": "2026-05-31 22:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 12758,
+      "volume": 12846,
       "best_volume": 21695,
       "whale_max": 0,
       "entered": true
@@ -2299,9 +2299,9 @@
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 20:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 6383,
+      "volume": 5295,
       "best_volume": 21538,
       "whale_max": 0,
       "entered": true
