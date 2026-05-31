@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 23:35:12",
+  "last_update": "31/05/2026 23:35:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,8 +66,8 @@
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
-      "volume": 2357,
-      "quota": 1.08,
+      "volume": 1734,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,6 +124,21 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "Remo v Sao Paulo",
+      "campionato": "Brazilian Serie A",
+      "volume": 715,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624962",
+      "market_id": "1.258659704",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "volume": 106,
@@ -141,8 +156,8 @@
     {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 64,
-      "quota": 1.73,
+      "volume": 50,
+      "quota": 1.8,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1792,9 +1807,9 @@
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
       "open_date": "2026-05-31 23:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 2357,
+      "volume": 1734,
       "best_volume": 23453,
       "whale_max": 0,
       "entered": true
