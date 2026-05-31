@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:11:05",
+  "last_update": "31/05/2026 12:11:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Egersund v Stromsgodset",
       "campionato": "Norwegian 1st Division",
-      "volume": 14453,
+      "volume": 14439,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -319,6 +319,36 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 1889,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Kongsvinger v Asane",
+      "campionato": "Norwegian 1st Division",
+      "volume": 1889,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650474",
+      "market_id": "1.258694566",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Pitea v FC Stockholm Internazionale",
       "campionato": "Swedish Division 1",
       "volume": 1880,
@@ -377,21 +407,6 @@
       "market_id": "1.258694518",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:15"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1495,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Ranheim IL v Sandnes Ulf",
@@ -557,21 +572,6 @@
       "market_id": "1.258575321",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Kongsvinger v Asane",
-      "campionato": "Norwegian 1st Division",
-      "volume": 681,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650474",
-      "market_id": "1.258694566",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Varnamo v United IK Nordic",
@@ -786,7 +786,7 @@
     {
       "match": "AC Oulu v Jaro",
       "campionato": "Finnish Veikkausliiga",
-      "volume": 376,
+      "volume": 310,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -2895,7 +2895,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 14453,
+      "volume": 14439,
       "best_volume": 21900,
       "whale_max": 0,
       "entered": true
@@ -3591,8 +3591,8 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 681,
-      "best_volume": 681,
+      "volume": 1889,
+      "best_volume": 1889,
       "whale_max": 0,
       "entered": false
     },
@@ -3869,6 +3869,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258745408",
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "open_date": "2026-05-31 13:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 1889,
+      "best_volume": 1889,
       "whale_max": 0,
       "entered": false
     }
