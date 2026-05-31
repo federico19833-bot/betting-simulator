@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 04:13:58",
+  "last_update": "31/05/2026 04:14:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -379,21 +379,6 @@
       "open_date": "2026-05-31 13:35"
     },
     {
-      "match": "IK Sleipner v Orebro Syrianska",
-      "campionato": "Swedish Division 2",
-      "volume": 1084,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663211",
-      "market_id": "1.258751941",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Leiknir R v HK Kopavogur",
       "campionato": "Icelandic 1 Deild",
       "volume": 1013,
@@ -407,6 +392,21 @@
       "market_id": "1.258737289",
       "_is_inplay": false,
       "open_date": "2026-05-31 19:00"
+    },
+    {
+      "match": "IK Sleipner v Orebro Syrianska",
+      "campionato": "Swedish Division 2",
+      "volume": 1008,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663211",
+      "market_id": "1.258751941",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Ansan Greeners FC v Cheonan City",
@@ -3223,9 +3223,9 @@
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1084,
+      "volume": 1008,
       "best_volume": 3855,
       "whale_max": 0,
       "entered": false
