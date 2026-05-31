@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:54:49",
+  "last_update": "31/05/2026 12:55:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -259,9 +259,24 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 3333,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 2872,
+      "volume": 2882,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -377,21 +392,6 @@
       "market_id": "1.258624989",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 1705,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Hacken v Hammarby",
@@ -561,7 +561,7 @@
     {
       "match": "Zaragoza v Malaga",
       "campionato": "Spanish Segunda Division",
-      "volume": 746,
+      "volume": 756,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -591,8 +591,8 @@
     {
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
-      "volume": 619,
-      "quota": 1.09,
+      "volume": 683,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3336,7 +3336,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 2872,
+      "volume": 2882,
       "best_volume": 2882,
       "whale_max": 0,
       "entered": false
