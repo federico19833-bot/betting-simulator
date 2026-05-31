@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:12:21",
+  "last_update": "31/05/2026 08:12:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
-      "volume": 11768,
+      "volume": 6417,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -319,21 +319,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Ranheim IL v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 1140,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650475",
-      "market_id": "1.258694650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1023,
@@ -570,6 +555,21 @@
       "source": "Betfair",
       "event_id": "35654042",
       "market_id": "1.258633084",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 658,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650475",
+      "market_id": "1.258694650",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
     },
@@ -814,6 +814,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "Egersund v Stromsgodset",
+      "campionato": "Norwegian 1st Division",
+      "volume": 290,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650608",
+      "market_id": "1.258694608",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Paide Linnameeskond v Kuressaare",
       "campionato": "Estonian Premier League",
       "volume": 266,
@@ -887,21 +902,6 @@
       "market_id": "1.258684487",
       "_is_inplay": false,
       "open_date": "2026-05-31 09:30"
-    },
-    {
-      "match": "Egersund v Stromsgodset",
-      "campionato": "Norwegian 1st Division",
-      "volume": 246,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650608",
-      "market_id": "1.258694608",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Quilmes v Atletico Rafaela",
@@ -1052,21 +1052,6 @@
       "market_id": "1.258747337",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Cienciano v Sporting Cristal",
-      "campionato": "Peruvian Primera Division",
-      "volume": 64,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648155",
-      "market_id": "1.258694257",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "CA Atlanta v Club Gimnasia y Tiro",
@@ -3340,9 +3325,9 @@
       "match": "Ranheim IL v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1140,
+      "volume": 658,
       "best_volume": 3990,
       "whale_max": 0,
       "entered": false
@@ -3438,7 +3423,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 11768,
+      "volume": 6417,
       "best_volume": 11768,
       "whale_max": 0,
       "entered": false
@@ -3860,18 +3845,6 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258694257",
-      "match": "Cienciano v Sporting Cristal",
-      "campionato": "Peruvian Primera Division",
-      "open_date": "2026-06-01 00:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 64,
-      "best_volume": 64,
       "whale_max": 0,
       "entered": false
     }
