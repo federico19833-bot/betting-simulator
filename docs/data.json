@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 18:29:47",
+  "last_update": "31/05/2026 18:30:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
-      "volume": 31799,
-      "quota": 1.03,
+      "volume": 28949,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,7 +51,7 @@
     {
       "match": "Deportivo v Las Palmas",
       "campionato": "Spanish Segunda Division",
-      "volume": 21159,
+      "volume": 21316,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -62,6 +62,21 @@
       "market_id": "1.258575321",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 20568,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667264",
+      "market_id": "1.258747496",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Burgos v FC Andorra",
@@ -96,7 +111,7 @@
     {
       "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 15407,
+      "volume": 15507,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -109,24 +124,9 @@
       "open_date": "2026-05-31 17:30"
     },
     {
-      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
-      "campionato": "Tunisian Cup",
-      "volume": 13992,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667264",
-      "market_id": "1.258747496",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Almeria v Valladolid",
       "campionato": "Spanish Segunda Division",
-      "volume": 12470,
+      "volume": 13571,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-31 18:00"
     },
     {
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "volume": 2835,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647973",
+      "market_id": "1.258575565",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
       "volume": 2441,
@@ -227,21 +242,6 @@
       "market_id": "1.258703211",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "Racing Santander v Cadiz",
-      "campionato": "Spanish Segunda Division",
-      "volume": 2386,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647973",
-      "market_id": "1.258575565",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "Sportivo Italiano v Argentino de Merlo",
@@ -2325,7 +2325,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 21159,
+      "volume": 21316,
       "best_volume": 33013,
       "whale_max": 0,
       "entered": true
@@ -2695,9 +2695,9 @@
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 31799,
+      "volume": 28949,
       "best_volume": 38372,
       "whale_max": 0,
       "entered": false
@@ -2793,7 +2793,7 @@
       "open_date": "2026-05-31 17:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 15407,
+      "volume": 15507,
       "best_volume": 38341,
       "whale_max": 0,
       "entered": true
@@ -2817,7 +2817,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 12470,
+      "volume": 13571,
       "best_volume": 32901,
       "whale_max": 0,
       "entered": true
@@ -2829,8 +2829,8 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 13992,
-      "best_volume": 20503,
+      "volume": 20568,
+      "best_volume": 20568,
       "whale_max": 0,
       "entered": false
     },
