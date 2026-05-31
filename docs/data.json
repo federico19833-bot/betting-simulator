@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 00:23:28",
+  "last_update": "01/06/2026 00:24:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -9,13 +9,13 @@
   },
   "stats": {
     "total": 221,
-    "wins": 198,
+    "wins": 199,
     "losses": 15,
-    "in_corso": 8,
+    "in_corso": 7,
     "winrate": 93.0,
-    "profit": -40.86,
-    "roi": -0.18,
-    "balance": 959.14
+    "profit": -33.26,
+    "roi": -0.15,
+    "balance": 966.74
   },
   "live_events": [
     {
@@ -51,9 +51,9 @@
     {
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
-      "volume": 8378,
-      "quota": 1.09,
-      "in_range": true,
+      "volume": 6324,
+      "quota": 1.08,
+      "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -66,7 +66,7 @@
     {
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
-      "volume": 1173,
+      "volume": 1163,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1106,
+      "volume": 1107,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -109,25 +109,10 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 969,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 676,
-      "quota": 1.23,
+      "volume": 593,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2209,9 +2194,9 @@
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "open_date": "2026-06-01 01:10",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 8378,
+      "volume": 6324,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2235,7 +2220,7 @@
       "open_date": "2026-06-01 01:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 1173,
+      "volume": 1163,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2909,9 +2894,9 @@
       "campionato": "Venezuelan Primera Division",
       "quota": 1.08,
       "volume": 20032,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
-      "risultato": "",
+      "esito": "VINTA",
+      "profitto": 7.6,
+      "risultato": "1-0",
       "risultato_ht": "",
       "whale_max": 0.0,
       "whale_tot": 0.0
