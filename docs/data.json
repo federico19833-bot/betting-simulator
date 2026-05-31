@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:36:32",
+  "last_update": "31/05/2026 11:37:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -261,7 +261,7 @@
     {
       "match": "Real Sociedad (W) v Atletico Madrid (W)",
       "campionato": "Spanish Liga F",
-      "volume": 1733,
+      "volume": 1728,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -842,6 +842,21 @@
       "market_id": "1.258687636",
       "_is_inplay": false,
       "open_date": "2026-05-31 12:00"
+    },
+    {
+      "match": "Camioneros v Talleres (RE)",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 240,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663088",
+      "market_id": "1.258721914",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 19:30"
     },
     {
       "match": "Madrid (W) v Barcelona (W)",
@@ -2991,7 +3006,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 1733,
+      "volume": 1728,
       "best_volume": 8445,
       "whale_max": 0,
       "entered": false
@@ -3749,6 +3764,18 @@
       "quota_iniziale": 1.05,
       "volume": 1160,
       "best_volume": 1160,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258721914",
+      "match": "Camioneros v Talleres (RE)",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-05-31 19:30",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 240,
+      "best_volume": 240,
       "whale_max": 0,
       "entered": false
     }
