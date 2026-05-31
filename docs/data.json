@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:43:07",
+  "last_update": "31/05/2026 12:43:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -244,21 +244,6 @@
       "open_date": "2026-05-31 12:00"
     },
     {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 3947,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
       "volume": 2872,
@@ -270,6 +255,21 @@
       "source": "Betfair",
       "event_id": "35667003",
       "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 2666,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -306,7 +306,7 @@
     {
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
-      "volume": 2074,
+      "volume": 2404,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -3145,9 +3145,9 @@
       "match": "Vastra Frolunda v Dalstorps IF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 3947,
+      "volume": 2666,
       "best_volume": 21016,
       "whale_max": 0,
       "entered": false
@@ -3231,7 +3231,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 2074,
+      "volume": 2404,
       "best_volume": 2410,
       "whale_max": 0,
       "entered": false
@@ -3449,6 +3449,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258753129",
+      "match": "Tallinna Kalev v Levadia Tallinn II",
+      "campionato": "Estonian Esiliiga",
+      "open_date": "2026-05-31 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 16633,
+      "best_volume": 16633,
       "whale_max": 0,
       "entered": false
     }
