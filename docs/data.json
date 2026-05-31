@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:18:45",
+  "last_update": "31/05/2026 22:19:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,9 +49,24 @@
       "open_date": "2026-05-31 23:00"
     },
     {
+      "match": "Leganes v Mirandes",
+      "campionato": "Spanish Segunda Division",
+      "volume": 1705,
+      "quota": 1.47,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647970",
+      "market_id": "1.258575503",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1495,
+      "volume": 1589,
       "quota": 1.25,
       "in_range": false,
       "monitored": false,
@@ -120,13 +135,13 @@
       "source": "Betfair",
       "event_id": "35648466",
       "market_id": "1.258694518",
-      "_is_inplay": false,
+      "_is_inplay": true,
       "open_date": "2026-05-31 22:15"
     },
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 427,
+      "volume": 321,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -184,40 +199,10 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Leganes v Mirandes",
-      "campionato": "Spanish Segunda Division",
-      "volume": 159,
-      "quota": 1.43,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647970",
-      "market_id": "1.258575503",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "San Martin de Burzaco v Arsenal de Sarandi",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 70,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663026",
-      "market_id": "1.258720636",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
-    },
-    {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 45,
-      "quota": 1.47,
+      "volume": 142,
+      "quota": 1.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2448,7 +2433,7 @@
       "open_date": "2026-06-01 01:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 427,
+      "volume": 321,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
