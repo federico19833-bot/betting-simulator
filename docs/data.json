@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 19:56:41",
+  "last_update": "31/05/2026 19:57:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Camioneros v Talleres (RE)",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 8913,
+      "volume": 8769,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -124,6 +124,21 @@
       "open_date": "2026-05-31 22:30"
     },
     {
+      "match": "Vasco da Gama v Atletico MG",
+      "campionato": "Brazilian Serie A",
+      "volume": 1224,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624951",
+      "market_id": "1.258659746",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 992,
@@ -186,8 +201,8 @@
     {
       "match": "Ceara SC Fortaleza v Operario PR",
       "campionato": "Brazilian Serie B",
-      "volume": 650,
-      "quota": 1.69,
+      "volume": 692,
+      "quota": 1.67,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -304,21 +319,6 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Racing Club v Defensa y Justicia",
-      "campionato": "Argentinian Cup",
-      "volume": 146,
-      "quota": 1.72,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641100",
-      "market_id": "1.258677964",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
-    },
-    {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
       "volume": 142,
@@ -334,34 +334,19 @@
       "open_date": "2026-05-31 22:15"
     },
     {
-      "match": "Vasco da Gama v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "volume": 126,
-      "quota": 1.08,
+      "match": "Racing Club v Defensa y Justicia",
+      "campionato": "Argentinian Cup",
+      "volume": 96,
+      "quota": 1.7,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624951",
-      "market_id": "1.258659746",
+      "event_id": "35641100",
+      "market_id": "1.258677964",
       "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 61,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
+      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
@@ -377,6 +362,21 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 36,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662997",
+      "market_id": "1.258752444",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Afturelding v Fylkir",
@@ -2289,7 +2289,7 @@
       "open_date": "2026-05-31 19:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 8913,
+      "volume": 8769,
       "best_volume": 21856,
       "whale_max": 0,
       "entered": true
@@ -2683,9 +2683,9 @@
       "match": "Vasco da Gama v Atletico MG",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-31 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 126,
+      "volume": 1224,
       "best_volume": 1935,
       "whale_max": 0,
       "entered": false
