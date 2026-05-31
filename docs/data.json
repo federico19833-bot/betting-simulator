@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:58:45",
+  "last_update": "31/05/2026 09:59:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
-      "volume": 16463,
-      "quota": 1.03,
+      "volume": 16581,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -105,6 +105,21 @@
       "source": "Betfair",
       "event_id": "35659956",
       "market_id": "1.258689697",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 2551,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -334,6 +349,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "CE Europa v Celta Vigo B",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 948,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657917",
+      "market_id": "1.258671591",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:15"
+    },
+    {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
       "volume": 886,
@@ -347,21 +377,6 @@
       "market_id": "1.258721606",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
-    },
-    {
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 879,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657917",
-      "market_id": "1.258671591",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:15"
     },
     {
       "match": "Afturelding v Fylkir",
@@ -1262,21 +1277,6 @@
       "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 8,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     }
   ],
   "tracked_matches": [
@@ -2821,9 +2821,9 @@
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 16463,
+      "volume": 16581,
       "best_volume": 29926,
       "whale_max": 0,
       "entered": true
@@ -3339,7 +3339,7 @@
       "open_date": "2026-05-31 16:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 879,
+      "volume": 948,
       "best_volume": 1293,
       "whale_max": 0,
       "entered": false
