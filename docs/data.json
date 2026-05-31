@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:08:57",
+  "last_update": "31/05/2026 08:09:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,21 +62,6 @@
       "market_id": "1.258756412",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "CA Central Norte v Chaco For Ever",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 4480,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648514",
-      "market_id": "1.258579523",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:30"
     },
     {
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
@@ -289,6 +274,21 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "CA Central Norte v Chaco For Ever",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 1254,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648514",
+      "market_id": "1.258579523",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:30"
+    },
+    {
       "match": "Strommen v Sogndal",
       "campionato": "Norwegian 1st Division",
       "volume": 1208,
@@ -317,21 +317,6 @@
       "market_id": "1.258575503",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Ranheim IL v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 1140,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650475",
-      "market_id": "1.258694650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Sportivo Italiano v Argentino de Merlo",
@@ -422,6 +407,21 @@
       "market_id": "1.258745408",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 801,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650475",
+      "market_id": "1.258694650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Villarreal B v Zamora",
@@ -1185,6 +1185,21 @@
       "source": "Betfair",
       "event_id": "35648363",
       "market_id": "1.258575587",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "IR Reykjavik v IF Vestri",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665588",
+      "market_id": "1.258737247",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -3069,7 +3084,7 @@
       "open_date": "2026-05-31 21:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 4480,
+      "volume": 1254,
       "best_volume": 4933,
       "whale_max": 0,
       "entered": false
@@ -3295,9 +3310,9 @@
       "match": "Ranheim IL v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1140,
+      "volume": 801,
       "best_volume": 3990,
       "whale_max": 0,
       "entered": false
@@ -3786,6 +3801,18 @@
       "event_id": "bf_1.258575587",
       "match": "Londrina v Vila Nova",
       "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-31 16:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258737247",
+      "match": "IR Reykjavik v IF Vestri",
+      "campionato": "Icelandic 1 Deild",
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
