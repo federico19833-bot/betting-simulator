@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:57:47",
+  "last_update": "31/05/2026 10:58:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -471,8 +471,8 @@
     {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
-      "volume": 699,
-      "quota": 1.65,
+      "volume": 667,
+      "quota": 1.55,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -480,21 +480,6 @@
       "source": "Betfair",
       "event_id": "35659956",
       "market_id": "1.258689697",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 695,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -512,6 +497,21 @@
       "market_id": "1.258694629",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 612,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Real Madrid FC (W) v Granada (W)",
@@ -3255,7 +3255,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 695,
+      "volume": 612,
       "best_volume": 3000,
       "whale_max": 0,
       "entered": false
