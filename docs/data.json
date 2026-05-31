@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 21:34:13",
+  "last_update": "31/05/2026 21:34:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
-      "volume": 10894,
-      "quota": 1.12,
+      "volume": 4328,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,24 +49,9 @@
       "open_date": "2026-05-31 22:15"
     },
     {
-      "match": "Mushuc Runa v Aucas",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 5612,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648455",
-      "market_id": "1.258575608",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:00"
-    },
-    {
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
-      "volume": 3835,
+      "volume": 4275,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -79,9 +64,24 @@
       "open_date": "2026-06-01 01:30"
     },
     {
+      "match": "Mushuc Runa v Aucas",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 3157,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648455",
+      "market_id": "1.258575608",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:00"
+    },
+    {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 2295,
+      "volume": 2405,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -111,8 +111,8 @@
     {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
-      "volume": 1721,
-      "quota": 1.16,
+      "volume": 1729,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -231,7 +231,7 @@
     {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 265,
+      "volume": 279,
       "quota": 1.52,
       "in_range": false,
       "monitored": false,
@@ -259,19 +259,19 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Cordoba v Huesca",
-      "campionato": "Spanish Segunda Division",
-      "volume": 200,
-      "quota": 1.36,
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 194,
+      "quota": 1.45,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647968",
-      "market_id": "1.258575468",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
+      "event_id": "35662997",
+      "market_id": "1.258752444",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -304,21 +304,6 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 127,
-      "quota": 1.46,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
-    },
-    {
       "match": "Afturelding v Fylkir",
       "campionato": "Icelandic 1 Deild",
       "volume": 112,
@@ -332,6 +317,21 @@
       "market_id": "1.258737310",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:15"
+    },
+    {
+      "match": "Cordoba v Huesca",
+      "campionato": "Spanish Segunda Division",
+      "volume": 100,
+      "quota": 1.35,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647968",
+      "market_id": "1.258575468",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
@@ -2460,7 +2460,7 @@
       "open_date": "2026-06-01 01:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 3835,
+      "volume": 4275,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
