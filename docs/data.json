@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 15:58:01",
+  "last_update": "31/05/2026 15:58:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
-      "volume": 31403,
-      "quota": 1.06,
+      "volume": 24223,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -141,7 +141,7 @@
     {
       "match": "AC Oulu v Jaro",
       "campionato": "Finnish Veikkausliiga",
-      "volume": 10373,
+      "volume": 10343,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -152,21 +152,6 @@
       "market_id": "1.258624989",
       "_is_inplay": true,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "Red Bull Bragantino v Internacional",
-      "campionato": "Brazilian Serie A",
-      "volume": 8200,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624944",
-      "market_id": "1.258659768",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Karlbergs BK v FBK Karlstad",
@@ -214,6 +199,21 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "Red Bull Bragantino v Internacional",
+      "campionato": "Brazilian Serie A",
+      "volume": 3844,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624944",
+      "market_id": "1.258659768",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Volsungur v Aegir",
       "campionato": "Icelandic 1 Deild",
       "volume": 3384,
@@ -225,6 +225,21 @@
       "source": "Betfair",
       "event_id": "35665593",
       "market_id": "1.258737331",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "KF Ferizaj v KF Llapi",
+      "campionato": "Kosovan Superliga",
+      "volume": 3100,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663015",
+      "market_id": "1.258726988",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -255,21 +270,6 @@
       "source": "Betfair",
       "event_id": "35665588",
       "market_id": "1.258737247",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "KF Ferizaj v KF Llapi",
-      "campionato": "Kosovan Superliga",
-      "volume": 2910,
-      "quota": 1.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663015",
-      "market_id": "1.258726988",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -336,7 +336,7 @@
     {
       "match": "Londrina v Vila Nova",
       "campionato": "Brazilian Serie B",
-      "volume": 2012,
+      "volume": 2034,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -559,21 +559,6 @@
       "open_date": "2026-05-31 23:30"
     },
     {
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 449,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657917",
-      "market_id": "1.258671591",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:15"
-    },
-    {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
       "volume": 442,
@@ -587,6 +572,21 @@
       "market_id": "1.258703211",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "CE Europa v Celta Vigo B",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 363,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657917",
+      "market_id": "1.258671591",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:15"
     },
     {
       "match": "Juventud De Las Piedras v Wanderers (Uru)",
@@ -649,21 +649,6 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "Madrid (W) v Barcelona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 321,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667248",
-      "market_id": "1.258747383",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
       "volume": 311,
@@ -677,6 +662,21 @@
       "market_id": "1.258575503",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Madrid (W) v Barcelona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 301,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667248",
+      "market_id": "1.258747383",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Vasco da Gama v Atletico MG",
@@ -739,6 +739,21 @@
       "open_date": "2026-05-31 19:30"
     },
     {
+      "match": "Sao Bernardo v Novorizontino",
+      "campionato": "Brazilian Serie B",
+      "volume": 257,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648192",
+      "market_id": "1.258575363",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Defensores Unidos v Flandria",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 222,
@@ -752,21 +767,6 @@
       "market_id": "1.258720615",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "Sao Bernardo v Novorizontino",
-      "campionato": "Brazilian Serie B",
-      "volume": 210,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648192",
-      "market_id": "1.258575363",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Njardvik v Grotta",
@@ -2589,7 +2589,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 321,
+      "volume": 301,
       "best_volume": 31619,
       "whale_max": 0,
       "entered": true
@@ -2841,7 +2841,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 10373,
+      "volume": 10343,
       "best_volume": 22334,
       "whale_max": 0,
       "entered": true
@@ -3225,7 +3225,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 8200,
+      "volume": 3844,
       "best_volume": 20766,
       "whale_max": 0,
       "entered": true
@@ -3235,9 +3235,9 @@
       "match": "Sao Bernardo v Novorizontino",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 210,
+      "volume": 257,
       "best_volume": 1840,
       "whale_max": 0,
       "entered": false
@@ -3285,7 +3285,7 @@
       "open_date": "2026-05-31 16:15",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 449,
+      "volume": 363,
       "best_volume": 1840,
       "whale_max": 0,
       "entered": false
@@ -3379,9 +3379,9 @@
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 31403,
+      "volume": 24223,
       "best_volume": 31667,
       "whale_max": 0,
       "entered": false
