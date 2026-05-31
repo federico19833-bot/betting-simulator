@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:19:48",
+  "last_update": "31/05/2026 10:20:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Real Madrid FC (W) v Granada (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 8445,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667246",
+      "market_id": "1.258747362",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 7133,
@@ -62,21 +77,6 @@
       "market_id": "1.258672594",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Real Madrid FC (W) v Granada (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 6926,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667246",
-      "market_id": "1.258747362",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "Red Bull Bragantino v Internacional",
@@ -212,21 +212,6 @@
       "market_id": "1.258694629",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1743,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Jeonnam Dragons v Seoul E-Land FC",
@@ -902,6 +887,21 @@
       "market_id": "1.258575300",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 143,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Londrina v Vila Nova",
@@ -2979,7 +2979,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 6926,
+      "volume": 8445,
       "best_volume": 8852,
       "whale_max": 0,
       "entered": false
