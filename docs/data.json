@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 23:42:39",
+  "last_update": "31/05/2026 23:43:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 23379,
+      "volume": 22963,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 1708,
+      "volume": 1688,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -126,8 +126,8 @@
     {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 466,
-      "quota": 1.22,
+      "volume": 533,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -135,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35625075",
       "market_id": "1.258659725",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Remo v Sao Paulo",
+      "campionato": "Brazilian Serie A",
+      "volume": 141,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624962",
+      "market_id": "1.258659704",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
     },
@@ -2274,7 +2289,7 @@
       "open_date": "2026-06-01 00:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 23379,
+      "volume": 22963,
       "best_volume": 23379,
       "whale_max": 0,
       "entered": true
