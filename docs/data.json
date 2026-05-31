@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 23:40:23",
+  "last_update": "31/05/2026 23:41:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,8 +66,8 @@
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
-      "volume": 1785,
-      "quota": 1.09,
+      "volume": 1680,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,10 +109,40 @@
       "open_date": "2026-05-31 22:00"
     },
     {
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 908,
+      "quota": 2.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625075",
+      "market_id": "1.258659725",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Cuiaba v CRB",
+      "campionato": "Brazilian Serie B",
+      "volume": 774,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648545",
+      "market_id": "1.258579707",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 843,
-      "quota": 1.1,
+      "volume": 641,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -126,7 +156,7 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 435,
+      "volume": 533,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -135,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35624962",
       "market_id": "1.258659704",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Cuiaba v CRB",
-      "campionato": "Brazilian Serie B",
-      "volume": 125,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648545",
-      "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
     },
@@ -167,21 +182,6 @@
       "market_id": "1.258706481",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:10"
-    },
-    {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 30,
-      "quota": 2.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
     }
   ],
   "tracked_matches": [
