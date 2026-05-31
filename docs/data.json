@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 19:39:53",
+  "last_update": "31/05/2026 19:40:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,17 +49,17 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Camioneros v Talleres (RE)",
+      "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 8738,
+      "volume": 8913,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663088",
-      "market_id": "1.258721914",
+      "event_id": "35663037",
+      "market_id": "1.258720463",
       "_is_inplay": true,
       "open_date": "2026-05-31 19:30"
     },
@@ -94,9 +94,24 @@
       "open_date": "2026-06-01 01:10"
     },
     {
+      "match": "Vasco da Gama v Atletico MG",
+      "campionato": "Brazilian Serie A",
+      "volume": 4500,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624951",
+      "market_id": "1.258659746",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Almeria v Valladolid",
       "campionato": "Spanish Segunda Division",
-      "volume": 2228,
+      "volume": 4064,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -139,18 +154,18 @@
       "open_date": "2026-05-31 21:15"
     },
     {
-      "match": "Sportivo Italiano v Argentino de Merlo",
+      "match": "Camioneros v Talleres (RE)",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1351,
+      "volume": 1350,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663037",
-      "market_id": "1.258720463",
-      "_is_inplay": false,
+      "event_id": "35663088",
+      "market_id": "1.258721914",
+      "_is_inplay": true,
       "open_date": "2026-05-31 19:30"
     },
     {
@@ -167,6 +182,21 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "San Martin de Burzaco v Arsenal de Sarandi",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 945,
+      "quota": 1.46,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663026",
+      "market_id": "1.258720636",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "Mushuc Runa v Aucas",
@@ -227,6 +257,21 @@
       "market_id": "1.258659704",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 447,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "FC Cajamarca v Alianza Lima",
@@ -362,36 +407,6 @@
       "market_id": "1.258734475",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
-    },
-    {
-      "match": "San Martin de Burzaco v Arsenal de Sarandi",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 126,
-      "quota": 1.49,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663026",
-      "market_id": "1.258720636",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Vasco da Gama v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "volume": 84,
-      "quota": 1.26,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624951",
-      "market_id": "1.258659746",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "CD Los Chankas v UTC Cajamarca",
@@ -2284,9 +2299,9 @@
       "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 19:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 1351,
+      "volume": 8913,
       "best_volume": 19984,
       "whale_max": 0,
       "entered": true
@@ -2332,9 +2347,9 @@
       "match": "Camioneros v Talleres (RE)",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 19:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 8738,
+      "volume": 1350,
       "best_volume": 21856,
       "whale_max": 0,
       "entered": true
