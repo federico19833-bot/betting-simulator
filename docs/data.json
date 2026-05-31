@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 20:20:14",
+  "last_update": "31/05/2026 20:21:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,21 +79,6 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "CD Los Chankas v UTC Cajamarca",
-      "campionato": "Peruvian Primera Division",
-      "volume": 2462,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648466",
-      "market_id": "1.258694518",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:15"
-    },
-    {
       "match": "Guayaquil City v Independiente (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "volume": 1376,
@@ -107,6 +92,21 @@
       "market_id": "1.258575629",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:30"
+    },
+    {
+      "match": "Deportivo Tachira v Estudiantes de Merida",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 1215,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663052",
+      "market_id": "1.258721592",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Metropolitanos v Carabobo FC",
@@ -126,7 +126,7 @@
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 892,
+      "volume": 959,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -137,21 +137,6 @@
       "market_id": "1.258581454",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
-    },
-    {
-      "match": "Deportivo Tachira v Estudiantes de Merida",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 886,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663052",
-      "market_id": "1.258721592",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Remo v Sao Paulo",
@@ -227,6 +212,21 @@
       "market_id": "1.258734475",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
+    },
+    {
+      "match": "CD Los Chankas v UTC Cajamarca",
+      "campionato": "Peruvian Primera Division",
+      "volume": 502,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648466",
+      "market_id": "1.258694518",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:15"
     },
     {
       "match": "Cordoba v Huesca",
@@ -2538,7 +2538,7 @@
       "open_date": "2026-05-31 23:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 892,
+      "volume": 959,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
