@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:46:13",
+  "last_update": "31/05/2026 08:46:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -141,7 +141,7 @@
     {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
-      "volume": 2317,
+      "volume": 2309,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -484,6 +484,21 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 692,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625075",
+      "market_id": "1.258659725",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
       "match": "Raufoss v Haugesund",
       "campionato": "Norwegian 1st Division",
       "volume": 689,
@@ -497,21 +512,6 @@
       "market_id": "1.258694629",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 682,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Ostersunds FK v Orebro",
@@ -996,7 +996,7 @@
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
-      "volume": 26,
+      "volume": 36,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -3465,7 +3465,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 2317,
+      "volume": 2309,
       "best_volume": 3086,
       "whale_max": 0,
       "entered": false
