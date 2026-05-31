@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 20:21:46",
+  "last_update": "31/05/2026 20:22:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
-      "volume": 1212,
+      "volume": 1215,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-31 22:00"
     },
     {
+      "match": "CD Los Chankas v UTC Cajamarca",
+      "campionato": "Peruvian Primera Division",
+      "volume": 294,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648466",
+      "market_id": "1.258694518",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:15"
+    },
+    {
       "match": "Cordoba v Huesca",
       "campionato": "Spanish Segunda Division",
       "volume": 284,
@@ -287,21 +302,6 @@
       "market_id": "1.258575503",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "CD Los Chankas v UTC Cajamarca",
-      "campionato": "Peruvian Primera Division",
-      "volume": 220,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648466",
-      "market_id": "1.258694518",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:15"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -2008,9 +2008,9 @@
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-05-31 22:15",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 1790,
+      "volume": 294,
       "best_volume": 21695,
       "whale_max": 0,
       "entered": true
