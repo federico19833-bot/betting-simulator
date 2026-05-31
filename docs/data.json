@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:41:14",
+  "last_update": "31/05/2026 22:41:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 2188,
+      "quota": 1.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665205",
+      "market_id": "1.258734475",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 22:00"
+    },
+    {
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
       "volume": 1150,
@@ -77,21 +92,6 @@
       "market_id": "1.258694257",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Remo v Sao Paulo",
-      "campionato": "Brazilian Serie A",
-      "volume": 947,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624962",
-      "market_id": "1.258659704",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -111,8 +111,8 @@
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
-      "volume": 460,
-      "quota": 1.06,
+      "volume": 318,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -154,19 +154,19 @@
       "open_date": "2026-06-01 01:10"
     },
     {
-      "match": "Oriente Petrolero v Blooming Santa Cruz",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 114,
-      "quota": 1.4,
+      "match": "Remo v Sao Paulo",
+      "campionato": "Brazilian Serie A",
+      "volume": 139,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35665205",
-      "market_id": "1.258734475",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 22:00"
+      "event_id": "35624962",
+      "market_id": "1.258659704",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -1822,9 +1822,9 @@
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
       "open_date": "2026-05-31 23:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 460,
+      "volume": 318,
       "best_volume": 23453,
       "whale_max": 0,
       "entered": true
