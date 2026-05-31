@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 02:21:32",
+  "last_update": "31/05/2026 02:22:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "Toluca v Tigres",
+      "campionato": "CONCACAF Champions League",
+      "volume": 3821,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630488",
+      "market_id": "1.258575485",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
+    },
+    {
       "match": "Esbjerg v Lyngby",
       "campionato": "Danish 1st Division",
       "volume": 3424,
@@ -92,21 +107,6 @@
       "market_id": "1.258707711",
       "_is_inplay": false,
       "open_date": "2026-05-31 03:00"
-    },
-    {
-      "match": "Toluca v Tigres",
-      "campionato": "CONCACAF Champions League",
-      "volume": 2321,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630488",
-      "market_id": "1.258575485",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "SE Palmeiras v Chapecoense",
@@ -951,8 +951,8 @@
     {
       "match": "Deportivo La Guaira v Puerto Cabello",
       "campionato": "Venezuelan Primera Division",
-      "volume": 146,
-      "quota": 1.19,
+      "volume": 147,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2731,9 +2731,9 @@
       "match": "Toluca v Tigres",
       "campionato": "CONCACAF Champions League",
       "open_date": "2026-05-31 02:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 2321,
+      "volume": 3821,
       "best_volume": 6271,
       "whale_max": 0,
       "entered": false
