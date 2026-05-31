@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 18:39:38",
+  "last_update": "31/05/2026 18:40:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,24 +64,9 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "Almeria v Valladolid",
-      "campionato": "Spanish Segunda Division",
-      "volume": 6450,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647974",
-      "market_id": "1.258575279",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 18:30"
-    },
-    {
       "match": "Magallanes v Deportes Iquique",
       "campionato": "Chilean Primera B",
-      "volume": 6228,
+      "volume": 7038,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -94,19 +79,34 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 5251,
-      "quota": 1.05,
+      "match": "Almeria v Valladolid",
+      "campionato": "Spanish Segunda Division",
+      "volume": 5473,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663025",
-      "market_id": "1.258720657",
+      "event_id": "35647974",
+      "market_id": "1.258575279",
       "_is_inplay": true,
-      "open_date": "2026-05-31 17:30"
+      "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Villa San Carlos v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 5251,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663036",
+      "market_id": "1.258720594",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
@@ -124,24 +124,9 @@
       "open_date": "2026-05-31 23:30"
     },
     {
-      "match": "Villa San Carlos v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 4144,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663036",
-      "market_id": "1.258720594",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
-    },
-    {
       "match": "Zaragoza v Malaga",
       "campionato": "Spanish Segunda Division",
-      "volume": 3435,
+      "volume": 3357,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -169,10 +154,25 @@
       "open_date": "2026-05-31 18:00"
     },
     {
+      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 2225,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663025",
+      "market_id": "1.258720657",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 17:30"
+    },
+    {
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
-      "volume": 2033,
-      "quota": 1.03,
+      "volume": 1995,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -197,6 +197,21 @@
       "market_id": "1.258706502",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:45"
+    },
+    {
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1645,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665205",
+      "market_id": "1.258734475",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "Camioneros v Talleres (RE)",
@@ -257,21 +272,6 @@
       "market_id": "1.258677964",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Oriente Petrolero v Blooming Santa Cruz",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 787,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665205",
-      "market_id": "1.258734475",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -2337,7 +2337,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 6228,
+      "volume": 7038,
       "best_volume": 33612,
       "whale_max": 0,
       "entered": true
@@ -2373,7 +2373,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 3435,
+      "volume": 3357,
       "best_volume": 33343,
       "whale_max": 0,
       "entered": true
@@ -2539,9 +2539,9 @@
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 20:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 4144,
+      "volume": 5251,
       "best_volume": 21538,
       "whale_max": 0,
       "entered": true
@@ -2695,9 +2695,9 @@
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 2033,
+      "volume": 1995,
       "best_volume": 38372,
       "whale_max": 0,
       "entered": false
@@ -2769,7 +2769,7 @@
       "open_date": "2026-05-31 17:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 5251,
+      "volume": 2225,
       "best_volume": 38341,
       "whale_max": 0,
       "entered": true
@@ -2779,9 +2779,9 @@
       "match": "Almeria v Valladolid",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-05-31 18:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 7569,
+      "volume": 5473,
       "best_volume": 32901,
       "whale_max": 0,
       "entered": true
