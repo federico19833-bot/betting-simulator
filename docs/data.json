@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 20:54:18",
+  "last_update": "31/05/2026 20:55:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 20542,
+      "volume": 20812,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 15424,
+      "volume": 12391,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Afturelding v Fylkir",
       "campionato": "Icelandic 1 Deild",
-      "volume": 4539,
+      "volume": 4542,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -81,8 +81,8 @@
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 2461,
-      "quota": 1.05,
+      "volume": 2849,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -199,21 +199,6 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Defensores Unidos v Flandria",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 683,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663041",
-      "market_id": "1.258720615",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:30"
-    },
-    {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
       "volume": 552,
@@ -227,21 +212,6 @@
       "market_id": "1.258694518",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:15"
-    },
-    {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 514,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Metropolitanos v Carabobo FC",
@@ -287,6 +257,21 @@
       "market_id": "1.258659746",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 234,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625075",
+      "market_id": "1.258659725",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Cordoba v Huesca",
@@ -347,6 +332,21 @@
       "market_id": "1.258694257",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
+    },
+    {
+      "match": "Defensores Unidos v Flandria",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 149,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663041",
+      "market_id": "1.258720615",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
@@ -2079,7 +2079,7 @@
       "open_date": "2026-05-31 22:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 20542,
+      "volume": 20812,
       "best_volume": 21306,
       "whale_max": 0,
       "entered": true
@@ -2331,7 +2331,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 15424,
+      "volume": 12391,
       "best_volume": 21538,
       "whale_max": 0,
       "entered": true
@@ -2509,9 +2509,9 @@
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-31 23:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 2461,
+      "volume": 2849,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2619,7 +2619,7 @@
       "open_date": "2026-05-31 21:15",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 4539,
+      "volume": 4542,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
