@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:47:55",
+  "last_update": "31/05/2026 09:48:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 8430,
+      "volume": 7086,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -96,8 +96,8 @@
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 6327,
-      "quota": 1.1,
+      "volume": 3993,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -105,21 +105,6 @@
       "source": "Betfair",
       "event_id": "35667003",
       "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 3728,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -182,21 +167,6 @@
       "market_id": "1.258666256",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "SE Palmeiras v Chapecoense",
-      "campionato": "Brazilian Serie A",
-      "volume": 1880,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624948",
-      "market_id": "1.258659789",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Hwaseong FC v Gyeongnam",
@@ -289,6 +259,21 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "SE Palmeiras v Chapecoense",
+      "campionato": "Brazilian Serie A",
+      "volume": 1306,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624948",
+      "market_id": "1.258659789",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Karlskrona v Lilla Torg",
       "campionato": "Swedish Division 2",
       "volume": 1208,
@@ -302,6 +287,21 @@
       "market_id": "1.258748004",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 1169,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Husqvarna v Stenungsunds IF",
@@ -2862,7 +2862,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 8430,
+      "volume": 7086,
       "best_volume": 11271,
       "whale_max": 0,
       "entered": false
@@ -3484,9 +3484,9 @@
       "match": "SE Palmeiras v Chapecoense",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-31 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1880,
+      "volume": 1306,
       "best_volume": 1880,
       "whale_max": 0,
       "entered": false
@@ -3664,9 +3664,9 @@
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 1490,
+      "volume": 3993,
       "best_volume": 4607,
       "whale_max": 0,
       "entered": false
