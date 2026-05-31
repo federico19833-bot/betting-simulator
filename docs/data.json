@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:07:46",
+  "last_update": "31/05/2026 11:08:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Bryne v Hodd",
       "campionato": "Norwegian 1st Division",
-      "volume": 13295,
+      "volume": 13057,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Paide Linnameeskond v Kuressaare",
       "campionato": "Estonian Premier League",
-      "volume": 4539,
+      "volume": 4471,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-05-31 22:30"
     },
     {
-      "match": "Motala v Vanersborgs IF",
-      "campionato": "Swedish Division 2",
-      "volume": 2058,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656349",
-      "market_id": "1.258690551",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
-    },
-    {
       "match": "Hacken v Hammarby",
       "campionato": "Swedish Allsvenskan",
       "volume": 2008,
@@ -212,6 +197,21 @@
       "market_id": "1.258575363",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Motala v Vanersborgs IF",
+      "campionato": "Swedish Division 2",
+      "volume": 1834,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656349",
+      "market_id": "1.258690551",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Vasteras SK v IFK Goteborg",
@@ -291,8 +291,8 @@
     {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
-      "volume": 1424,
-      "quota": 2.02,
+      "volume": 1381,
+      "quota": 2.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -469,21 +469,6 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 695,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Raufoss v Haugesund",
       "campionato": "Norwegian 1st Division",
       "volume": 668,
@@ -497,6 +482,21 @@
       "market_id": "1.258694629",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 612,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Real Madrid FC (W) v Granada (W)",
@@ -3051,7 +3051,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 2058,
+      "volume": 1834,
       "best_volume": 2058,
       "whale_max": 0,
       "entered": false
@@ -3099,7 +3099,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 4539,
+      "volume": 4471,
       "best_volume": 31619,
       "whale_max": 0,
       "entered": true
@@ -3123,7 +3123,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 13295,
+      "volume": 13057,
       "best_volume": 13295,
       "whale_max": 0,
       "entered": false
@@ -3231,7 +3231,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 695,
+      "volume": 612,
       "best_volume": 3000,
       "whale_max": 0,
       "entered": false
