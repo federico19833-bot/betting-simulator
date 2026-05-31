@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 18:21:31",
+  "last_update": "31/05/2026 18:22:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,21 +32,6 @@
       "market_id": "1.258751583",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "IK Sleipner v Orebro Syrianska",
-      "campionato": "Swedish Division 2",
-      "volume": 26029,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663211",
-      "market_id": "1.258751941",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Deportivo v Las Palmas",
@@ -94,9 +79,24 @@
       "open_date": "2026-05-31 23:30"
     },
     {
+      "match": "IK Sleipner v Orebro Syrianska",
+      "campionato": "Swedish Division 2",
+      "volume": 16782,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663211",
+      "market_id": "1.258751941",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Esperance Sportive Zarzis v Sportive De Tunis",
       "campionato": "Tunisian Cup",
-      "volume": 12595,
+      "volume": 13318,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258747496",
       "_is_inplay": true,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 12214,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663025",
+      "market_id": "1.258720657",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 17:30"
     },
     {
       "match": "CD Castellon v Eibar",
@@ -122,21 +137,6 @@
       "market_id": "1.258575524",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 11156,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663025",
-      "market_id": "1.258720657",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 17:30"
     },
     {
       "match": "Almeria v Valladolid",
@@ -201,7 +201,7 @@
     {
       "match": "Racing Santander v Cadiz",
       "campionato": "Spanish Segunda Division",
-      "volume": 3455,
+      "volume": 3453,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -2424,7 +2424,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 3455,
+      "volume": 3453,
       "best_volume": 31478,
       "whale_max": 0,
       "entered": true
@@ -2712,7 +2712,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 26029,
+      "volume": 16782,
       "best_volume": 38372,
       "whale_max": 0,
       "entered": false
@@ -2808,7 +2808,7 @@
       "open_date": "2026-05-31 17:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 11156,
+      "volume": 12214,
       "best_volume": 38341,
       "whale_max": 0,
       "entered": true
@@ -2844,7 +2844,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 12595,
+      "volume": 13318,
       "best_volume": 20372,
       "whale_max": 0,
       "entered": false
