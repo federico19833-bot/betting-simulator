@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 23:26:22",
+  "last_update": "31/05/2026 23:27:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,19 +79,34 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Cuiaba v CRB",
-      "campionato": "Brazilian Serie B",
-      "volume": 1395,
-      "quota": 1.12,
+      "match": "Emelec v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 1256,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648545",
-      "market_id": "1.258579707",
+      "event_id": "35648452",
+      "market_id": "1.258706481",
       "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
+      "open_date": "2026-06-01 01:10"
+    },
+    {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 1225,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
@@ -109,19 +124,19 @@
       "open_date": "2026-05-31 22:00"
     },
     {
-      "match": "Emelec v Univ Catolica (Ecu)",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1082,
-      "quota": 1.08,
+      "match": "Cuiaba v CRB",
+      "campionato": "Brazilian Serie B",
+      "volume": 794,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648452",
-      "market_id": "1.258706481",
+      "event_id": "35648545",
+      "market_id": "1.258579707",
       "_is_inplay": false,
-      "open_date": "2026-06-01 01:10"
+      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -171,8 +186,8 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 52,
-      "quota": 1.47,
+      "volume": 46,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2256,7 +2271,7 @@
       "open_date": "2026-06-01 01:10",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1082,
+      "volume": 1256,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2434,9 +2449,9 @@
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
       "open_date": "2026-05-31 23:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
-      "volume": 490,
+      "volume": 1225,
       "best_volume": 23453,
       "whale_max": 0,
       "entered": true
