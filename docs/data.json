@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 06:04:47",
+  "last_update": "31/05/2026 06:05:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -319,21 +319,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Siheung Citizen v Mokpo City",
-      "campionato": "South Korean K3 League",
-      "volume": 1069,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662440",
-      "market_id": "1.258713180",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 07:00"
-    },
-    {
       "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1013,
@@ -529,21 +514,6 @@
       "open_date": "2026-05-31 13:35"
     },
     {
-      "match": "Ostersunds FK v Orebro",
-      "campionato": "Swedish Superettan",
-      "volume": 716,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35654042",
-      "market_id": "1.258633084",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Raufoss v Haugesund",
       "campionato": "Norwegian 1st Division",
       "volume": 689,
@@ -572,6 +542,21 @@
       "market_id": "1.258575342",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Siheung Citizen v Mokpo City",
+      "campionato": "South Korean K3 League",
+      "volume": 615,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662440",
+      "market_id": "1.258713180",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 07:00"
     },
     {
       "match": "CD Los Chankas v UTC Cajamarca",
@@ -1024,6 +1009,21 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "CA Atlanta v Club Gimnasia y Tiro",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 70,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648512",
+      "market_id": "1.258755058",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
       "match": "CA Temperley v San Martin de San Juan",
       "campionato": "Argentinian Primera Nacional",
       "volume": 68,
@@ -1052,21 +1052,6 @@
       "market_id": "1.258737268",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "CA Atlanta v Club Gimnasia y Tiro",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 44,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648512",
-      "market_id": "1.258755058",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "Almeria v Valladolid",
@@ -1202,6 +1187,21 @@
       "market_id": "1.258747337",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Ostersunds FK v Orebro",
+      "campionato": "Swedish Superettan",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654042",
+      "market_id": "1.258633084",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
@@ -2938,9 +2938,9 @@
       "match": "Siheung Citizen v Mokpo City",
       "campionato": "South Korean K3 League",
       "open_date": "2026-05-31 07:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 1069,
+      "volume": 615,
       "best_volume": 3309,
       "whale_max": 0,
       "entered": false
@@ -3576,7 +3576,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 716,
+      "volume": 10,
       "best_volume": 716,
       "whale_max": 0,
       "entered": false
@@ -3612,7 +3612,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 44,
+      "volume": 70,
       "best_volume": 154,
       "whale_max": 0,
       "entered": false
