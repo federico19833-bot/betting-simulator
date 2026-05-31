@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:42:30",
+  "last_update": "31/05/2026 12:43:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
-      "volume": 14996,
+      "volume": 15000,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Helsingborgs v Norrkoping",
+      "campionato": "Swedish Superettan",
+      "volume": 4624,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35654038",
+      "market_id": "1.258633105",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Bryne v Hodd",
       "campionato": "Norwegian 1st Division",
       "volume": 4285,
@@ -229,19 +244,19 @@
       "open_date": "2026-05-31 12:00"
     },
     {
-      "match": "Helsingborgs v Norrkoping",
-      "campionato": "Swedish Superettan",
-      "volume": 3146,
-      "quota": 1.06,
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 3947,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35654038",
-      "market_id": "1.258633105",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
       "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
@@ -285,21 +300,6 @@
       "source": "Betfair",
       "event_id": "35667371",
       "market_id": "1.258747983",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 2287,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -589,6 +589,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 625,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "FK Jelgava v BFC Daugavpils",
       "campionato": "Latvian Virsliga",
       "volume": 587,
@@ -662,21 +677,6 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
-    },
-    {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 533,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Leganes v Mirandes",
@@ -1022,6 +1022,21 @@
       "market_id": "1.258575524",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Hillerod Fodbold v Hvidovre",
@@ -2650,24 +2665,12 @@
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 3146,
+      "volume": 4624,
       "best_volume": 21992,
       "whale_max": 0,
       "entered": true
-    },
-    {
-      "event_id": "bf_1.258753129",
-      "match": "Tallinna Kalev v Levadia Tallinn II",
-      "campionato": "Estonian Esiliiga",
-      "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 16633,
-      "best_volume": 16633,
-      "whale_max": 0,
-      "entered": false
     },
     {
       "event_id": "bf_1.258671562",
@@ -3142,9 +3145,9 @@
       "match": "Vastra Frolunda v Dalstorps IF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 2287,
+      "volume": 3947,
       "best_volume": 21016,
       "whale_max": 0,
       "entered": false
@@ -3178,9 +3181,9 @@
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 533,
+      "volume": 625,
       "best_volume": 2375,
       "whale_max": 0,
       "entered": false
@@ -3276,7 +3279,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 14996,
+      "volume": 15000,
       "best_volume": 15041,
       "whale_max": 0,
       "entered": false
@@ -3430,6 +3433,18 @@
       "match": "Leiknir R v HK Kopavogur",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-05-31 19:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258748004",
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
