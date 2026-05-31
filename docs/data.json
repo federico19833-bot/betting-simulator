@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:06:41",
+  "last_update": "31/05/2026 08:07:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -1039,21 +1039,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 100,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "CA Atlanta v Club Gimnasia y Tiro",
       "campionato": "Argentinian Primera Nacional",
       "volume": 44,
@@ -1172,6 +1157,36 @@
       "market_id": "1.258624989",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Londrina v Vila Nova",
+      "campionato": "Brazilian Serie B",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648363",
+      "market_id": "1.258575587",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Espanyol (W) v Sevilla FC (W)",
@@ -3618,7 +3633,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 100,
+      "volume": 10,
       "best_volume": 100,
       "whale_max": 0,
       "entered": false
@@ -3764,6 +3779,18 @@
       "quota_iniziale": 1.07,
       "volume": 589,
       "best_volume": 589,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258575587",
+      "match": "Londrina v Vila Nova",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-05-31 16:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
