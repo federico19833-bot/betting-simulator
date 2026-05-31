@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 21:53:45",
+  "last_update": "31/05/2026 21:54:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Mushuc Runa v Aucas",
       "campionato": "Ecuadorian Serie A",
-      "volume": 7230,
+      "volume": 7804,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,21 @@
       "market_id": "1.258575608",
       "_is_inplay": true,
       "open_date": "2026-05-31 20:00"
+    },
+    {
+      "match": "Defensores Unidos v Flandria",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 4644,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663041",
+      "market_id": "1.258720615",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Guayaquil City v Independiente (Ecu)",
@@ -66,8 +81,8 @@
     {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 4211,
-      "quota": 1.32,
+      "volume": 4560,
+      "quota": 1.31,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -171,7 +186,7 @@
     {
       "match": "Cobreloa Calama v CSD Rangers",
       "campionato": "Chilean Primera B",
-      "volume": 398,
+      "volume": 418,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -214,6 +229,21 @@
       "open_date": "2026-05-31 21:00"
     },
     {
+      "match": "Cienciano v Sporting Cristal",
+      "campionato": "Peruvian Primera Division",
+      "volume": 210,
+      "quota": 1.94,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648155",
+      "market_id": "1.258694257",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 00:00"
+    },
+    {
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
       "volume": 188,
@@ -227,21 +257,6 @@
       "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Cienciano v Sporting Cristal",
-      "campionato": "Peruvian Primera Division",
-      "volume": 184,
-      "quota": 1.98,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648155",
-      "market_id": "1.258694257",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "Emelec v Univ Catolica (Ecu)",
@@ -259,36 +274,6 @@
       "open_date": "2026-06-01 01:10"
     },
     {
-      "match": "Defensores Unidos v Flandria",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 98,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663041",
-      "market_id": "1.258720615",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "Cordoba v Huesca",
-      "campionato": "Spanish Segunda Division",
-      "volume": 62,
-      "quota": 3.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647968",
-      "market_id": "1.258575468",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
       "volume": 37,
@@ -302,6 +287,21 @@
       "market_id": "1.258677964",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
+    },
+    {
+      "match": "Cordoba v Huesca",
+      "campionato": "Spanish Segunda Division",
+      "volume": 17,
+      "quota": 4.6,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647968",
+      "market_id": "1.258575468",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
     }
   ],
   "tracked_matches": [
@@ -2388,7 +2388,7 @@
       "open_date": "2026-05-31 23:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 398,
+      "volume": 418,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
