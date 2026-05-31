@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:52:59",
+  "last_update": "31/05/2026 12:53:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "UD Poblense v Aguilas",
       "campionato": "Spanish Segunda Federación Playoffs",
-      "volume": 15658,
+      "volume": 15653,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -259,21 +259,6 @@
       "open_date": "2026-05-31 12:00"
     },
     {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 3067,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
       "volume": 2872,
@@ -394,6 +379,21 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 1705,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Hacken v Hammarby",
       "campionato": "Swedish Allsvenskan",
       "volume": 1691,
@@ -422,6 +422,21 @@
       "market_id": "1.258721606",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "Umea FC v IFK Stocksund",
+      "campionato": "Swedish Division 1",
+      "volume": 1512,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653995",
+      "market_id": "1.258672552",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:30"
     },
     {
       "match": "Syrianska FC v Karlslunds IF Hfk",
@@ -467,21 +482,6 @@
       "market_id": "1.258747383",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Umea FC v IFK Stocksund",
-      "campionato": "Swedish Division 1",
-      "volume": 1173,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653995",
-      "market_id": "1.258672552",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:30"
     },
     {
       "match": "Juventud De Las Piedras v Wanderers (Uru)",
@@ -574,6 +574,21 @@
       "open_date": "2026-05-31 18:30"
     },
     {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 715,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
       "volume": 684,
@@ -587,21 +602,6 @@
       "market_id": "1.258703211",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 619,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "FK Jelgava v BFC Daugavpils",
@@ -3084,7 +3084,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 15658,
+      "volume": 15653,
       "best_volume": 19990,
       "whale_max": 0,
       "entered": true
@@ -3394,9 +3394,9 @@
       "match": "Umea FC v IFK Stocksund",
       "campionato": "Swedish Division 1",
       "open_date": "2026-05-31 14:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1173,
+      "volume": 1512,
       "best_volume": 1893,
       "whale_max": 0,
       "entered": false
