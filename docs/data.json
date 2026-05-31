@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:00:15",
+  "last_update": "31/05/2026 22:00:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,39 +34,9 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Mushuc Runa v Aucas",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 6530,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648455",
-      "market_id": "1.258575608",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:00"
-    },
-    {
-      "match": "Metropolitanos v Carabobo FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 5196,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663062",
-      "market_id": "1.258721606",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:00"
-    },
-    {
       "match": "Guayaquil City v Independiente (Ecu)",
       "campionato": "Ecuadorian Serie A",
-      "volume": 4585,
+      "volume": 4589,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -94,6 +64,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 2941,
+      "quota": 1.3,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
+    },
+    {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1150,
@@ -111,8 +96,8 @@
     {
       "match": "SE Palmeiras v Chapecoense",
       "campionato": "Brazilian Serie A",
-      "volume": 972,
-      "quota": 1.15,
+      "volume": 1130,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -122,6 +107,21 @@
       "market_id": "1.258659789",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Mushuc Runa v Aucas",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 755,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648455",
+      "market_id": "1.258575608",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:00"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -244,6 +244,21 @@
       "open_date": "2026-06-01 01:10"
     },
     {
+      "match": "Cienciano v Sporting Cristal",
+      "campionato": "Peruvian Primera Division",
+      "volume": 161,
+      "quota": 2.38,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648155",
+      "market_id": "1.258694257",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 00:00"
+    },
+    {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
       "volume": 37,
@@ -259,19 +274,19 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Cienciano v Sporting Cristal",
-      "campionato": "Peruvian Primera Division",
-      "volume": 33,
-      "quota": 2.2,
+      "match": "Cordoba v Huesca",
+      "campionato": "Spanish Segunda Division",
+      "volume": 12,
+      "quota": 14.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648155",
-      "market_id": "1.258694257",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
+      "event_id": "35647968",
+      "market_id": "1.258575468",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
     }
   ],
   "tracked_matches": [
@@ -1902,7 +1917,7 @@
       "open_date": "2026-05-31 22:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 4585,
+      "volume": 4589,
       "best_volume": 21695,
       "whale_max": 0,
       "entered": true
