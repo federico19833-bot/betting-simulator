@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 19:31:54",
+  "last_update": "31/05/2026 19:32:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Cordoba v Huesca",
       "campionato": "Spanish Segunda Division",
-      "volume": 5333,
+      "volume": 5539,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
-      "volume": 5261,
+      "volume": 5494,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Almeria v Valladolid",
       "campionato": "Spanish Segunda Division",
-      "volume": 3497,
+      "volume": 3377,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -152,6 +152,21 @@
       "market_id": "1.258737310",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:15"
+    },
+    {
+      "match": "Camioneros v Talleres (RE)",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1235,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663088",
+      "market_id": "1.258721914",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 19:30"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -259,21 +274,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Metropolitanos v Carabobo FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 300,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663062",
-      "market_id": "1.258721606",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:00"
-    },
-    {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
       "volume": 284,
@@ -364,21 +364,6 @@
       "open_date": "2026-05-31 22:30"
     },
     {
-      "match": "Camioneros v Talleres (RE)",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 166,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663088",
-      "market_id": "1.258721914",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 19:30"
-    },
-    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 142,
@@ -437,6 +422,21 @@
       "market_id": "1.258659789",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 10,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
@@ -2349,7 +2349,7 @@
       "open_date": "2026-05-31 19:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 166,
+      "volume": 1235,
       "best_volume": 21856,
       "whale_max": 0,
       "entered": true
@@ -2541,7 +2541,7 @@
       "open_date": "2026-06-01 01:10",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 5261,
+      "volume": 5494,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2709,8 +2709,8 @@
       "open_date": "2026-05-31 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 5333,
-      "best_volume": 5333,
+      "volume": 5539,
+      "best_volume": 5539,
       "whale_max": 0,
       "entered": false
     },
@@ -2747,6 +2747,18 @@
       "quota_iniziale": 1.08,
       "volume": 263,
       "best_volume": 263,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258721606",
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "open_date": "2026-05-31 23:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
