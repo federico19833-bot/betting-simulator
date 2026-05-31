@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 21:16:30",
+  "last_update": "31/05/2026 21:17:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 6457,
+      "volume": 6461,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -64,6 +64,21 @@
       "open_date": "2026-05-31 22:15"
     },
     {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 1902,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
+    },
+    {
       "match": "Cordoba v Huesca",
       "campionato": "Spanish Segunda Division",
       "volume": 1620,
@@ -81,8 +96,8 @@
     {
       "match": "Defensores Unidos v Flandria",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1240,
-      "quota": 1.45,
+      "volume": 1348,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -122,21 +137,6 @@
       "market_id": "1.258659704",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Metropolitanos v Carabobo FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 694,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663062",
-      "market_id": "1.258721606",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Leganes v Mirandes",
@@ -184,6 +184,36 @@
       "open_date": "2026-05-31 22:30"
     },
     {
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 488,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662997",
+      "market_id": "1.258752444",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
+    },
+    {
+      "match": "Vasco da Gama v Atletico MG",
+      "campionato": "Brazilian Serie A",
+      "volume": 464,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624951",
+      "market_id": "1.258659746",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
       "volume": 398,
@@ -214,24 +244,9 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Vasco da Gama v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "volume": 324,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624951",
-      "market_id": "1.258659746",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Ceara SC Fortaleza v Operario PR",
       "campionato": "Brazilian Serie B",
-      "volume": 299,
+      "volume": 297,
       "quota": 1.22,
       "in_range": false,
       "monitored": false,
@@ -259,25 +274,10 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 249,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
-    },
-    {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 229,
-      "quota": 1.42,
+      "volume": 249,
+      "quota": 1.43,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -336,8 +336,8 @@
     {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 62,
-      "quota": 1.15,
+      "volume": 52,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2301,7 +2301,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 6457,
+      "volume": 6461,
       "best_volume": 21538,
       "whale_max": 0,
       "entered": true
@@ -2601,8 +2601,8 @@
       "open_date": "2026-05-31 23:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 694,
-      "best_volume": 1150,
+      "volume": 1902,
+      "best_volume": 1902,
       "whale_max": 0,
       "entered": false
     },
