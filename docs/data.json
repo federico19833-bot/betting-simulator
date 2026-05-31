@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 05:26:18",
+  "last_update": "31/05/2026 05:26:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -319,21 +319,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Wuhan Three Towns v Yunnan Yukun",
-      "campionato": "Chinese Super League",
-      "volume": 1178,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647418",
-      "market_id": "1.258690294",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:35"
-    },
-    {
       "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1013,
@@ -347,6 +332,21 @@
       "market_id": "1.258720463",
       "_is_inplay": false,
       "open_date": "2026-05-31 19:30"
+    },
+    {
+      "match": "Wuhan Three Towns v Yunnan Yukun",
+      "campionato": "Chinese Super League",
+      "volume": 951,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647418",
+      "market_id": "1.258690294",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:35"
     },
     {
       "match": "SD Eibar (W) v EDF Logrono (W)",
@@ -3114,7 +3114,7 @@
       "open_date": "2026-05-31 13:35",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1178,
+      "volume": 951,
       "best_volume": 1428,
       "whale_max": 0,
       "entered": false
