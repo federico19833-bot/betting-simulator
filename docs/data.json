@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 14:45:02",
+  "last_update": "31/05/2026 14:45:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Albion FC v Torque",
       "campionato": "Uruguayan Primera Division",
-      "volume": 18096,
+      "volume": 18571,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -141,7 +141,7 @@
     {
       "match": "Wuhan Three Towns v Yunnan Yukun",
       "campionato": "Chinese Super League",
-      "volume": 8002,
+      "volume": 8054,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -167,6 +167,21 @@
       "market_id": "1.258575608",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:00"
+    },
+    {
+      "match": "KF Ferizaj v KF Llapi",
+      "campionato": "Kosovan Superliga",
+      "volume": 4585,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663015",
+      "market_id": "1.258726988",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Villarreal B v Zamora",
@@ -304,10 +319,25 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "Red Bull Bragantino v Internacional",
+      "campionato": "Brazilian Serie A",
+      "volume": 1796,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624944",
+      "market_id": "1.258659768",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Karlbergs BK v FBK Karlstad",
       "campionato": "Swedish Division 1",
-      "volume": 2008,
-      "quota": 1.07,
+      "volume": 1638,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -426,7 +456,7 @@
     {
       "match": "Londrina v Vila Nova",
       "campionato": "Brazilian Serie B",
-      "volume": 897,
+      "volume": 830,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -497,6 +527,21 @@
       "market_id": "1.258737268",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Magallanes v Deportes Iquique",
+      "campionato": "Chilean Primera B",
+      "volume": 566,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662998",
+      "market_id": "1.258751583",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "Gent v Genk",
@@ -604,21 +649,6 @@
       "open_date": "2026-05-31 19:00"
     },
     {
-      "match": "Magallanes v Deportes Iquique",
-      "campionato": "Chilean Primera B",
-      "volume": 405,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662998",
-      "market_id": "1.258751583",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
-    },
-    {
       "match": "Racing Santander v Cadiz",
       "campionato": "Spanish Segunda Division",
       "volume": 353,
@@ -645,21 +675,6 @@
       "source": "Betfair",
       "event_id": "35665588",
       "market_id": "1.258737247",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Red Bull Bragantino v Internacional",
-      "campionato": "Brazilian Serie A",
-      "volume": 332,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624944",
-      "market_id": "1.258659768",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -855,21 +870,6 @@
       "source": "Betfair",
       "event_id": "35665593",
       "market_id": "1.258737331",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "KF Ferizaj v KF Llapi",
-      "campionato": "Kosovan Superliga",
-      "volume": 83,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663015",
-      "market_id": "1.258726988",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -2856,7 +2856,7 @@
       "open_date": "2026-05-31 13:35",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 8002,
+      "volume": 8054,
       "best_volume": 33763,
       "whale_max": 0,
       "entered": false
@@ -2950,9 +2950,9 @@
       "match": "Magallanes v Deportes Iquique",
       "campionato": "Chilean Primera B",
       "open_date": "2026-05-31 18:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 405,
+      "volume": 566,
       "best_volume": 19792,
       "whale_max": 0,
       "entered": true
@@ -3012,7 +3012,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 18096,
+      "volume": 18571,
       "best_volume": 22334,
       "whale_max": 0,
       "entered": true
@@ -3274,9 +3274,9 @@
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 332,
+      "volume": 1796,
       "best_volume": 2008,
       "whale_max": 0,
       "entered": false
@@ -3348,7 +3348,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 897,
+      "volume": 830,
       "best_volume": 946,
       "whale_max": 0,
       "entered": false
@@ -3370,9 +3370,9 @@
       "match": "Karlbergs BK v FBK Karlstad",
       "campionato": "Swedish Division 1",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 2008,
+      "volume": 1638,
       "best_volume": 2008,
       "whale_max": 0,
       "entered": false
