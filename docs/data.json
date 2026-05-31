@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:14:27",
+  "last_update": "31/05/2026 09:15:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Egersund v Stromsgodset",
       "campionato": "Norwegian 1st Division",
-      "volume": 12822,
+      "volume": 12996,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 8535,
+      "volume": 8448,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
-      "volume": 5950,
+      "volume": 6000,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -227,21 +227,6 @@
       "market_id": "1.258684487",
       "_is_inplay": false,
       "open_date": "2026-05-31 09:30"
-    },
-    {
-      "match": "Tallinna Kalev v Levadia Tallinn II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 1674,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667032",
-      "market_id": "1.258753129",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Yeoju FC v Daejeon Korail FC",
@@ -469,6 +454,21 @@
       "open_date": "2026-05-31 18:30"
     },
     {
+      "match": "Tallinna Kalev v Levadia Tallinn II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 754,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667032",
+      "market_id": "1.258753129",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
       "volume": 740,
@@ -544,9 +544,24 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "Villa San Carlos v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 667,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663036",
+      "market_id": "1.258720594",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:30"
+    },
+    {
       "match": "FK Kauno Zalgiris v VMFD Zalgiris",
       "campionato": "Lithuanian A Lyga",
-      "volume": 663,
+      "volume": 662,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -572,21 +587,6 @@
       "market_id": "1.258575468",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Villa San Carlos v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 620,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663036",
-      "market_id": "1.258720594",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Esbjerg v Lyngby",
@@ -3084,7 +3084,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 5950,
+      "volume": 6000,
       "best_volume": 6398,
       "whale_max": 0,
       "entered": false
@@ -3144,7 +3144,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 8535,
+      "volume": 8448,
       "best_volume": 8535,
       "whale_max": 0,
       "entered": false
@@ -3180,7 +3180,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 12822,
+      "volume": 12996,
       "best_volume": 21900,
       "whale_max": 0,
       "entered": true
@@ -3192,8 +3192,8 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 620,
-      "best_volume": 620,
+      "volume": 667,
+      "best_volume": 667,
       "whale_max": 0,
       "entered": false
     },
@@ -3406,9 +3406,9 @@
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 1674,
+      "volume": 754,
       "best_volume": 1674,
       "whale_max": 0,
       "entered": false
@@ -3684,7 +3684,7 @@
       "open_date": "2026-05-31 13:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 663,
+      "volume": 662,
       "best_volume": 1438,
       "whale_max": 0,
       "entered": false
