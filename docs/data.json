@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 18:25:59",
+  "last_update": "31/05/2026 18:26:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Magallanes v Deportes Iquique",
       "campionato": "Chilean Primera B",
-      "volume": 33510,
+      "volume": 33612,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "Defensores Unidos v Flandria",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 5319,
+      "volume": 5409,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -184,21 +184,6 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Estudiantes v Rosario Central",
-      "campionato": "Argentinian Cup",
-      "volume": 3649,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659416",
-      "market_id": "1.258703211",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
-    },
-    {
       "match": "Afturelding v Fylkir",
       "campionato": "Icelandic 1 Deild",
       "volume": 3304,
@@ -214,6 +199,21 @@
       "open_date": "2026-05-31 21:15"
     },
     {
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "volume": 3075,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647973",
+      "market_id": "1.258575565",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
       "match": "Melgar v Alianza Atletico",
       "campionato": "Peruvian Primera Division",
       "volume": 2906,
@@ -227,6 +227,21 @@
       "market_id": "1.258576309",
       "_is_inplay": true,
       "open_date": "2026-05-31 18:00"
+    },
+    {
+      "match": "Estudiantes v Rosario Central",
+      "campionato": "Argentinian Cup",
+      "volume": 2441,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659416",
+      "market_id": "1.258703211",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Sportivo Italiano v Argentino de Merlo",
@@ -347,21 +362,6 @@
       "market_id": "1.258581538",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:00"
-    },
-    {
-      "match": "Racing Santander v Cadiz",
-      "campionato": "Spanish Segunda Division",
-      "volume": 614,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647973",
-      "market_id": "1.258575565",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "Cobreloa Calama v CSD Rangers",
@@ -555,21 +555,6 @@
       "source": "Betfair",
       "event_id": "35648443",
       "market_id": "1.258575342",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "SE Palmeiras v Chapecoense",
-      "campionato": "Brazilian Serie A",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624948",
-      "market_id": "1.258659789",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
     },
@@ -2352,8 +2337,8 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 33510,
-      "best_volume": 33606,
+      "volume": 33612,
+      "best_volume": 33612,
       "whale_max": 0,
       "entered": true
     },
@@ -2422,9 +2407,9 @@
       "match": "Racing Santander v Cadiz",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-05-31 18:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 344,
+      "volume": 3075,
       "best_volume": 31478,
       "whale_max": 0,
       "entered": true
@@ -2532,7 +2517,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 3649,
+      "volume": 2441,
       "best_volume": 19985,
       "whale_max": 0,
       "entered": true
@@ -2568,7 +2553,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 5319,
+      "volume": 5409,
       "best_volume": 20059,
       "whale_max": 0,
       "entered": true
@@ -2930,18 +2915,6 @@
       "quota_iniziale": 1.09,
       "volume": 282,
       "best_volume": 282,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258659789",
-      "match": "SE Palmeiras v Chapecoense",
-      "campionato": "Brazilian Serie A",
-      "open_date": "2026-05-31 21:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 10,
-      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
