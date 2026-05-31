@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:46:56",
+  "last_update": "31/05/2026 12:47:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-31 14:00"
     },
     {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 5394,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "volume": 4624,
@@ -182,21 +197,6 @@
       "market_id": "1.258633105",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 4586,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Bryne v Hodd",
@@ -514,21 +514,6 @@
       "open_date": "2026-05-31 22:00"
     },
     {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 974,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Cobreloa Calama v CSD Rangers",
       "campionato": "Chilean Primera B",
       "volume": 886,
@@ -677,6 +662,21 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 483,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Leganes v Mirandes",
@@ -1052,6 +1052,21 @@
       "market_id": "1.258666235",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "KF Ferizaj v KF Llapi",
+      "campionato": "Kosovan Superliga",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663015",
+      "market_id": "1.258726988",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Ostersunds FK v Orebro",
@@ -3162,7 +3177,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 4586,
+      "volume": 5394,
       "best_volume": 21016,
       "whale_max": 0,
       "entered": false
@@ -3198,7 +3213,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 974,
+      "volume": 483,
       "best_volume": 2375,
       "whale_max": 0,
       "entered": false
@@ -3486,6 +3501,18 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258726988",
+      "match": "KF Ferizaj v KF Llapi",
+      "campionato": "Kosovan Superliga",
+      "open_date": "2026-05-31 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
       "whale_max": 0,
