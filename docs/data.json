@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:25:24",
+  "last_update": "31/05/2026 22:26:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 3236,
+      "volume": 2798,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -62,6 +62,21 @@
       "market_id": "1.258659704",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Oriente Petrolero v Blooming Santa Cruz",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1525,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665205",
+      "market_id": "1.258734475",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "Cienciano v Sporting Cristal",
@@ -94,6 +109,21 @@
       "open_date": "2026-06-01 01:30"
     },
     {
+      "match": "Leganes v Mirandes",
+      "campionato": "Spanish Segunda Division",
+      "volume": 683,
+      "quota": 1.58,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647970",
+      "market_id": "1.258575503",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Cobreloa Calama v CSD Rangers",
       "campionato": "Chilean Primera B",
       "volume": 552,
@@ -107,21 +137,6 @@
       "market_id": "1.258752444",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
-    },
-    {
-      "match": "Leganes v Mirandes",
-      "campionato": "Spanish Segunda Division",
-      "volume": 500,
-      "quota": 1.57,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647970",
-      "market_id": "1.258575503",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Emelec v Univ Catolica (Ecu)",
@@ -154,36 +169,6 @@
       "open_date": "2026-05-31 22:15"
     },
     {
-      "match": "Oriente Petrolero v Blooming Santa Cruz",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 390,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665205",
-      "market_id": "1.258734475",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 22:00"
-    },
-    {
-      "match": "Deportivo Maldonado v Nacional (Uru)",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 262,
-      "quota": 1.64,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648579",
-      "market_id": "1.258581454",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
-    },
-    {
       "match": "SE Palmeiras v Chapecoense",
       "campionato": "Brazilian Serie A",
       "volume": 238,
@@ -212,6 +197,21 @@
       "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Deportivo Maldonado v Nacional (Uru)",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 160,
+      "quota": 1.63,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648579",
+      "market_id": "1.258581454",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -2433,7 +2433,7 @@
       "open_date": "2026-06-01 01:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 3236,
+      "volume": 2798,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
