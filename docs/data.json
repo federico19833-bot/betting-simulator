@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:44:01",
+  "last_update": "31/05/2026 09:44:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 3337,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
       "volume": 3000,
@@ -105,21 +120,6 @@
       "source": "Betfair",
       "event_id": "35659956",
       "market_id": "1.258689697",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 2867,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -319,21 +319,6 @@
       "open_date": "2026-05-31 13:00"
     },
     {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 1049,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "CE Europa v Celta Vigo B",
       "campionato": "Spanish Segunda B Playoffs",
       "volume": 1028,
@@ -426,7 +411,7 @@
     {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 813,
+      "volume": 818,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -572,6 +557,21 @@
       "market_id": "1.258688966",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:15"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 641,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Cordoba v Huesca",
@@ -2872,9 +2872,9 @@
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2867,
+      "volume": 3337,
       "best_volume": 5930,
       "whale_max": 0,
       "entered": false
@@ -3042,7 +3042,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 813,
+      "volume": 818,
       "best_volume": 960,
       "whale_max": 0,
       "entered": false
