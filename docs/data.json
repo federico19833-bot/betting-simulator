@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:48:30",
+  "last_update": "31/05/2026 09:49:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,8 +96,8 @@
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 3993,
-      "quota": 1.07,
+      "volume": 6213,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -289,21 +289,6 @@
       "open_date": "2026-05-31 14:00"
     },
     {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 1169,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Husqvarna v Stenungsunds IF",
       "campionato": "Swedish Division 2",
       "volume": 1130,
@@ -319,19 +304,19 @@
       "open_date": "2026-05-31 13:00"
     },
     {
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1042,
-      "quota": 1.05,
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 1114,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657917",
-      "market_id": "1.258671591",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
       "_is_inplay": false,
-      "open_date": "2026-05-31 16:15"
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Camioneros v Talleres (RE)",
@@ -377,6 +362,21 @@
       "market_id": "1.258721606",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "CE Europa v Celta Vigo B",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 879,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657917",
+      "market_id": "1.258671591",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:15"
     },
     {
       "match": "Vasteras SK v IFK Goteborg",
@@ -589,6 +589,21 @@
       "open_date": "2026-05-31 21:00"
     },
     {
+      "match": "Villa San Carlos v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 596,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663036",
+      "market_id": "1.258720594",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:30"
+    },
+    {
       "match": "Esbjerg v Lyngby",
       "campionato": "Danish 1st Division",
       "volume": 587,
@@ -647,21 +662,6 @@
       "market_id": "1.258633105",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "Villa San Carlos v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 548,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663036",
-      "market_id": "1.258720594",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Ansan Greeners FC v Cheonan City",
@@ -2910,7 +2910,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 548,
+      "volume": 596,
       "best_volume": 960,
       "whale_max": 0,
       "entered": false
@@ -3354,7 +3354,7 @@
       "open_date": "2026-05-31 16:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1042,
+      "volume": 879,
       "best_volume": 1293,
       "whale_max": 0,
       "entered": false
