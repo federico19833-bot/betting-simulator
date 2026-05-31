@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 02:52:28",
+  "last_update": "31/05/2026 02:52:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Karlskrona v Lilla Torg",
       "campionato": "Swedish Division 2",
-      "volume": 2580,
+      "volume": 2408,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Universitario de Deportes v Sport Huancayo",
       "campionato": "Peruvian Primera Division",
-      "volume": 2187,
+      "volume": 2162,
       "quota": 1.42,
       "in_range": false,
       "monitored": false,
@@ -107,21 +107,6 @@
       "market_id": "1.258707711",
       "_is_inplay": false,
       "open_date": "2026-05-31 03:00"
-    },
-    {
-      "match": "Toluca v Tigres",
-      "campionato": "CONCACAF Champions League",
-      "volume": 2114,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630488",
-      "market_id": "1.258575485",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "CE Europa v Celta Vigo B",
@@ -182,6 +167,21 @@
       "market_id": "1.258747983",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Toluca v Tigres",
+      "campionato": "CONCACAF Champions League",
+      "volume": 1784,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630488",
+      "market_id": "1.258575485",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -3174,7 +3174,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 2580,
+      "volume": 2408,
       "best_volume": 2580,
       "whale_max": 0,
       "entered": false
