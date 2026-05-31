@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:49:41",
+  "last_update": "31/05/2026 11:50:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Syrianska FC v Karlslunds IF Hfk",
       "campionato": "Swedish Division 2",
-      "volume": 14423,
+      "volume": 14450,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -139,21 +139,6 @@
       "open_date": "2026-05-31 13:00"
     },
     {
-      "match": "IK Sleipner v Orebro Syrianska",
-      "campionato": "Swedish Division 2",
-      "volume": 3068,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663211",
-      "market_id": "1.258751941",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
       "volume": 3000,
@@ -212,6 +197,21 @@
       "market_id": "1.258597115",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
+    },
+    {
+      "match": "IK Sleipner v Orebro Syrianska",
+      "campionato": "Swedish Division 2",
+      "volume": 1860,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663211",
+      "market_id": "1.258751941",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Vasteras SK v IFK Goteborg",
@@ -351,7 +351,7 @@
     {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
       "campionato": "Chinese Super League",
-      "volume": 946,
+      "volume": 934,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -559,6 +559,21 @@
       "open_date": "2026-05-31 22:15"
     },
     {
+      "match": "SD Eibar (W) v EDF Logrono (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 560,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666892",
+      "market_id": "1.258743003",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "Juventud De Las Piedras v Wanderers (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 554,
@@ -587,21 +602,6 @@
       "market_id": "1.258633105",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "SD Eibar (W) v EDF Logrono (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 550,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666892",
-      "market_id": "1.258743003",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "Pitea v FC Stockholm Internazionale",
@@ -3162,7 +3162,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 3068,
+      "volume": 1860,
       "best_volume": 5173,
       "whale_max": 0,
       "entered": false
@@ -3402,7 +3402,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 14423,
+      "volume": 14450,
       "best_volume": 14463,
       "whale_max": 0,
       "entered": false
@@ -3438,7 +3438,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 550,
+      "volume": 560,
       "best_volume": 8272,
       "whale_max": 0,
       "entered": false
@@ -3666,7 +3666,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 946,
+      "volume": 934,
       "best_volume": 2057,
       "whale_max": 0,
       "entered": false
