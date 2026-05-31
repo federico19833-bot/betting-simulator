@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:02:44",
+  "last_update": "31/05/2026 10:03:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Madrid (W) v Barcelona (W)",
       "campionato": "Spanish Liga F",
-      "volume": 31619,
-      "quota": 1.02,
+      "volume": 16463,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -94,6 +94,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 4591,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Husqvarna v Stenungsunds IF",
       "campionato": "Swedish Division 2",
       "volume": 3499,
@@ -137,21 +152,6 @@
       "market_id": "1.258734475",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
-    },
-    {
-      "match": "Volsungur v Aegir",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 2194,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665593",
-      "market_id": "1.258737331",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
@@ -392,6 +392,21 @@
       "market_id": "1.258721914",
       "_is_inplay": false,
       "open_date": "2026-05-31 19:30"
+    },
+    {
+      "match": "Volsungur v Aegir",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 986,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665593",
+      "market_id": "1.258737331",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
@@ -934,19 +949,19 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 77,
-      "quota": 1.13,
+      "match": "IFK Lidingo v Falu FK",
+      "campionato": "Swedish Division 2",
+      "volume": 98,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
+      "event_id": "35656101",
+      "market_id": "1.258693655",
       "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
+      "open_date": "2026-05-31 15:45"
     },
     {
       "match": "Albion FC v Torque",
@@ -1067,21 +1082,6 @@
       "market_id": "1.258624989",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "IFK Lidingo v Falu FK",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656101",
-      "market_id": "1.258693655",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:45"
     },
     {
       "match": "Levante UD (W) v FC Badalona (W)",
@@ -3180,7 +3180,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 2194,
+      "volume": 986,
       "best_volume": 23577,
       "whale_max": 0,
       "entered": false
@@ -3274,9 +3274,9 @@
       "match": "Madrid (W) v Barcelona (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 31619,
+      "volume": 16463,
       "best_volume": 31619,
       "whale_max": 0,
       "entered": false
@@ -3334,9 +3334,9 @@
       "match": "IFK Lidingo v Falu FK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 15:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 98,
       "best_volume": 110,
       "whale_max": 0,
       "entered": false
@@ -3528,7 +3528,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 4606,
+      "volume": 4591,
       "best_volume": 5316,
       "whale_max": 0,
       "entered": false
