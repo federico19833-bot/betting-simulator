@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 05:46:35",
+  "last_update": "31/05/2026 05:47:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,8 +51,8 @@
     {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
-      "volume": 4822,
-      "quota": 1.08,
+      "volume": 6557,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -319,21 +319,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Ranheim IL v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 1074,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650475",
-      "market_id": "1.258694650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1013,
@@ -407,6 +392,21 @@
       "market_id": "1.258579551",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 867,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650475",
+      "market_id": "1.258694650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Afturelding v Fylkir",
@@ -3402,7 +3402,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1074,
+      "volume": 867,
       "best_volume": 3990,
       "whale_max": 0,
       "entered": false
@@ -3532,9 +3532,9 @@
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 4822,
+      "volume": 6557,
       "best_volume": 6557,
       "whale_max": 0,
       "entered": false
