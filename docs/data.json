@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 02:14:43",
+  "last_update": "31/05/2026 02:15:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-05-31 19:00"
     },
     {
-      "match": "Toluca v Tigres",
-      "campionato": "CONCACAF Champions League",
-      "volume": 6120,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630488",
-      "market_id": "1.258575485",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
-    },
-    {
       "match": "CA Atlanta v Club Gimnasia y Tiro",
       "campionato": "Argentinian Primera Nacional",
       "volume": 5337,
@@ -77,6 +62,21 @@
       "market_id": "1.258691869",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Toluca v Tigres",
+      "campionato": "CONCACAF Champions League",
+      "volume": 4792,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630488",
+      "market_id": "1.258575485",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "Esbjerg v Lyngby",
@@ -171,8 +171,8 @@
     {
       "match": "AC Oulu v Jaro",
       "campionato": "Finnish Veikkausliiga",
-      "volume": 1808,
-      "quota": 1.09,
+      "volume": 1822,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -379,6 +379,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Deportivo La Guaira v Puerto Cabello",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 1304,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663043",
+      "market_id": "1.258721751",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
+    },
+    {
       "match": "Umea FC v IFK Stocksund",
       "campionato": "Swedish Division 1",
       "volume": 1208,
@@ -484,6 +499,21 @@
       "open_date": "2026-05-31 02:00"
     },
     {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 887,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "Ceara SC Fortaleza v Operario PR",
       "campionato": "Brazilian Serie B",
       "volume": 877,
@@ -576,7 +606,7 @@
     {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
-      "volume": 728,
+      "volume": 731,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -647,21 +677,6 @@
       "market_id": "1.258672594",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 507,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667368",
-      "market_id": "1.258748004",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Racing Santander v Cadiz",
@@ -752,21 +767,6 @@
       "market_id": "1.258745408",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Deportivo La Guaira v Puerto Cabello",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 396,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663043",
-      "market_id": "1.258721751",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "Mushuc Runa v Aucas",
@@ -2733,7 +2733,7 @@
       "open_date": "2026-05-31 02:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 6120,
+      "volume": 4792,
       "best_volume": 6271,
       "whale_max": 0,
       "entered": false
@@ -3093,7 +3093,7 @@
       "open_date": "2026-06-01 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 728,
+      "volume": 731,
       "best_volume": 855,
       "whale_max": 0,
       "entered": false
