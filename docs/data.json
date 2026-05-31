@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:47:49",
+  "last_update": "31/05/2026 12:48:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "UD Poblense v Aguilas",
       "campionato": "Spanish Segunda Federación Playoffs",
-      "volume": 15652,
+      "volume": 15653,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-05-31 14:00"
     },
     {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 5394,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "volume": 4624,
@@ -212,21 +227,6 @@
       "market_id": "1.258693710",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 4025,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
@@ -499,21 +499,6 @@
       "open_date": "2026-05-31 20:00"
     },
     {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1066,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 1015,
@@ -587,6 +572,21 @@
       "market_id": "1.258575300",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 715,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Estudiantes v Rosario Central",
@@ -951,7 +951,7 @@
     {
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
       "campionato": "Spanish Liga F",
-      "volume": 90,
+      "volume": 100,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -3084,7 +3084,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 15652,
+      "volume": 15653,
       "best_volume": 19990,
       "whale_max": 0,
       "entered": true
@@ -3192,7 +3192,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 4025,
+      "volume": 5394,
       "best_volume": 21016,
       "whale_max": 0,
       "entered": false
@@ -3226,9 +3226,9 @@
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 1066,
+      "volume": 715,
       "best_volume": 2375,
       "whale_max": 0,
       "entered": false
@@ -3372,8 +3372,8 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 90,
-      "best_volume": 90,
+      "volume": 100,
+      "best_volume": 100,
       "whale_max": 0,
       "entered": false
     },
