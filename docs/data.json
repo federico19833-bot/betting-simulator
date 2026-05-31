@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:47:15",
+  "last_update": "31/05/2026 12:47:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -169,21 +169,6 @@
       "open_date": "2026-05-31 14:00"
     },
     {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 5394,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "volume": 4624,
@@ -227,6 +212,21 @@
       "market_id": "1.258693710",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 4025,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
@@ -499,6 +499,21 @@
       "open_date": "2026-05-31 20:00"
     },
     {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 1066,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 1015,
@@ -662,21 +677,6 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
-    },
-    {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 483,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Leganes v Mirandes",
@@ -1022,6 +1022,21 @@
       "market_id": "1.258575524",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Vasteras SK v IFK Goteborg",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649545",
+      "market_id": "1.258597138",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Karlskrona v Lilla Torg",
@@ -3177,7 +3192,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 5394,
+      "volume": 4025,
       "best_volume": 21016,
       "whale_max": 0,
       "entered": false
@@ -3211,9 +3226,9 @@
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 483,
+      "volume": 1066,
       "best_volume": 2375,
       "whale_max": 0,
       "entered": false
@@ -3513,6 +3528,18 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258597138",
+      "match": "Vasteras SK v IFK Goteborg",
+      "campionato": "Swedish Allsvenskan",
+      "open_date": "2026-05-31 14:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
       "whale_max": 0,
