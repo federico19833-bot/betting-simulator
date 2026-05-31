@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:35:30",
+  "last_update": "31/05/2026 09:36:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -349,21 +349,6 @@
       "open_date": "2026-05-31 19:30"
     },
     {
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 969,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657917",
-      "market_id": "1.258671591",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:15"
-    },
-    {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 940,
@@ -422,6 +407,21 @@
       "market_id": "1.258659789",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "CE Europa v Celta Vigo B",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 865,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657917",
+      "market_id": "1.258671591",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:15"
     },
     {
       "match": "Vasteras SK v IFK Goteborg",
@@ -3456,7 +3456,7 @@
       "open_date": "2026-05-31 16:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 969,
+      "volume": 865,
       "best_volume": 1293,
       "whale_max": 0,
       "entered": false
@@ -3686,6 +3686,42 @@
       "quota_iniziale": 1.08,
       "volume": 2497,
       "best_volume": 2497,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258684508",
+      "match": "Jeonnam Dragons v Seoul E-Land FC",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-05-31 09:30",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 246,
+      "best_volume": 246,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258688375",
+      "match": "Korsnas FF v Viggbyholms IK FF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-31 13:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 721,
+      "best_volume": 721,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258666235",
+      "match": "Hillerod Fodbold v Hvidovre",
+      "campionato": "Danish 1st Division",
+      "open_date": "2026-05-31 15:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 372,
+      "best_volume": 372,
       "whale_max": 0,
       "entered": false
     }
