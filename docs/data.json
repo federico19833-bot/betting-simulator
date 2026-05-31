@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:18:54",
+  "last_update": "31/05/2026 12:19:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Vastra Frolunda v Dalstorps IF",
       "campionato": "Swedish Division 2",
-      "volume": 14422,
+      "volume": 14300,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "Karlskrona v Lilla Torg",
       "campionato": "Swedish Division 2",
-      "volume": 4897,
+      "volume": 5526,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -171,7 +171,7 @@
     {
       "match": "Torslanda v Jonsereds IF",
       "campionato": "Swedish Division 2",
-      "volume": 4011,
+      "volume": 4207,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -784,6 +784,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "IR Reykjavik v IF Vestri",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 370,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665588",
+      "market_id": "1.258737247",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Korsnas FF v Viggbyholms IK FF",
       "campionato": "Swedish Division 2",
       "volume": 357,
@@ -844,36 +859,6 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "IR Reykjavik v IF Vestri",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 266,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665588",
-      "market_id": "1.258737247",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Real Madrid FC (W) v Granada (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 246,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667246",
-      "market_id": "1.258747362",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 12:00"
-    },
-    {
       "match": "Mushuc Runa v Aucas",
       "campionato": "Ecuadorian Serie A",
       "volume": 240,
@@ -887,6 +872,21 @@
       "market_id": "1.258575608",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:00"
+    },
+    {
+      "match": "Real Madrid FC (W) v Granada (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 236,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667246",
+      "market_id": "1.258747362",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "SE Palmeiras v Chapecoense",
@@ -3417,8 +3417,8 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 4011,
-      "best_volume": 4011,
+      "volume": 4207,
+      "best_volume": 4207,
       "whale_max": 0,
       "entered": false
     },
@@ -3439,10 +3439,10 @@
       "match": "IR Reykjavik v IF Vestri",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 266,
-      "best_volume": 266,
+      "volume": 370,
+      "best_volume": 370,
       "whale_max": 0,
       "entered": false
     },
@@ -3477,7 +3477,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 14422,
+      "volume": 14300,
       "best_volume": 14462,
       "whale_max": 0,
       "entered": false
@@ -3645,7 +3645,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 246,
+      "volume": 236,
       "best_volume": 560,
       "whale_max": 0,
       "entered": false
@@ -3669,8 +3669,8 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 4897,
-      "best_volume": 4897,
+      "volume": 5526,
+      "best_volume": 5526,
       "whale_max": 0,
       "entered": false
     },
