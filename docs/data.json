@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:49:04",
+  "last_update": "31/05/2026 11:49:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,9 +34,24 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Torrevieja v Benidorm",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 17662,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669789",
+      "market_id": "1.258770194",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 11:30"
+    },
+    {
       "match": "Syrianska FC v Karlslunds IF Hfk",
       "campionato": "Swedish Division 2",
-      "volume": 14422,
+      "volume": 14423,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -124,6 +139,21 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "IK Sleipner v Orebro Syrianska",
+      "campionato": "Swedish Division 2",
+      "volume": 3068,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663211",
+      "market_id": "1.258751941",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
       "volume": 3000,
@@ -141,7 +171,7 @@
     {
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
-      "volume": 2680,
+      "volume": 2736,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -152,21 +182,6 @@
       "market_id": "1.258753129",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Torrevieja v Benidorm",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 2103,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669789",
-      "market_id": "1.258770194",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 11:30"
     },
     {
       "match": "Guayaquil City v Independiente (Ecu)",
@@ -197,21 +212,6 @@
       "market_id": "1.258597115",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
-    },
-    {
-      "match": "IK Sleipner v Orebro Syrianska",
-      "campionato": "Swedish Division 2",
-      "volume": 1860,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663211",
-      "market_id": "1.258751941",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Vasteras SK v IFK Goteborg",
@@ -276,7 +276,7 @@
     {
       "match": "Real Sociedad (W) v Atletico Madrid (W)",
       "campionato": "Spanish Liga F",
-      "volume": 1372,
+      "volume": 1387,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -351,7 +351,7 @@
     {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
       "campionato": "Chinese Super League",
-      "volume": 934,
+      "volume": 946,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -726,7 +726,7 @@
     {
       "match": "Real Oviedo II v CD Coria",
       "campionato": "Spanish Segunda Federación Playoffs",
-      "volume": 375,
+      "volume": 372,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -2898,7 +2898,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 2680,
+      "volume": 2736,
       "best_volume": 7008,
       "whale_max": 0,
       "entered": false
@@ -3006,7 +3006,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 1372,
+      "volume": 1387,
       "best_volume": 8445,
       "whale_max": 0,
       "entered": false
@@ -3162,7 +3162,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1860,
+      "volume": 3068,
       "best_volume": 5173,
       "whale_max": 0,
       "entered": false
@@ -3364,10 +3364,10 @@
       "match": "Torrevieja v Benidorm",
       "campionato": "Spanish Preferente Play-Offs",
       "open_date": "2026-05-31 11:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 2103,
-      "best_volume": 2103,
+      "volume": 17662,
+      "best_volume": 17662,
       "whale_max": 0,
       "entered": false
     },
@@ -3402,7 +3402,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 14422,
+      "volume": 14423,
       "best_volume": 14463,
       "whale_max": 0,
       "entered": false
@@ -3498,7 +3498,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 375,
+      "volume": 372,
       "best_volume": 3543,
       "whale_max": 0,
       "entered": false
@@ -3666,7 +3666,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 934,
+      "volume": 946,
       "best_volume": 2057,
       "whale_max": 0,
       "entered": false
