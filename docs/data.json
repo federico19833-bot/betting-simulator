@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:04:47",
+  "last_update": "31/05/2026 22:05:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 7646,
+      "volume": 6627,
       "quota": 1.32,
       "in_range": false,
       "monitored": false,
@@ -109,21 +109,6 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "SE Palmeiras v Chapecoense",
-      "campionato": "Brazilian Serie A",
-      "volume": 810,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624948",
-      "market_id": "1.258659789",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
       "volume": 708,
@@ -137,6 +122,21 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "SE Palmeiras v Chapecoense",
+      "campionato": "Brazilian Serie A",
+      "volume": 657,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624948",
+      "market_id": "1.258659789",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
@@ -186,7 +186,7 @@
     {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
-      "volume": 252,
+      "volume": 238,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -244,21 +244,6 @@
       "open_date": "2026-05-31 22:00"
     },
     {
-      "match": "Cienciano v Sporting Cristal",
-      "campionato": "Peruvian Primera Division",
-      "volume": 39,
-      "quota": 2.56,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648155",
-      "market_id": "1.258694257",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
-    },
-    {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
       "volume": 37,
@@ -270,6 +255,21 @@
       "source": "Betfair",
       "event_id": "35641100",
       "market_id": "1.258677964",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 00:00"
+    },
+    {
+      "match": "Cienciano v Sporting Cristal",
+      "campionato": "Peruvian Primera Division",
+      "volume": 26,
+      "quota": 2.46,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648155",
+      "market_id": "1.258694257",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
     }
@@ -2502,7 +2502,7 @@
       "open_date": "2026-05-31 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 252,
+      "volume": 238,
       "best_volume": 21807,
       "whale_max": 0,
       "entered": true
