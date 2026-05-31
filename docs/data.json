@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:56:02",
+  "last_update": "31/05/2026 11:56:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Syrianska FC v Karlslunds IF Hfk",
       "campionato": "Swedish Division 2",
-      "volume": 14409,
+      "volume": 14450,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -349,21 +349,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 979,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Afturelding v Fylkir",
       "campionato": "Icelandic 1 Deild",
       "volume": 965,
@@ -602,6 +587,21 @@
       "market_id": "1.258633105",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 546,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Pitea v FC Stockholm Internazionale",
@@ -3417,7 +3417,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 14409,
+      "volume": 14450,
       "best_volume": 14511,
       "whale_max": 0,
       "entered": false
@@ -3681,7 +3681,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 979,
+      "volume": 546,
       "best_volume": 2057,
       "whale_max": 0,
       "entered": false
