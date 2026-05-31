@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 06:00:37",
+  "last_update": "31/05/2026 06:01:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -334,21 +334,6 @@
       "open_date": "2026-05-31 19:30"
     },
     {
-      "match": "Wuhan Three Towns v Yunnan Yukun",
-      "campionato": "Chinese Super League",
-      "volume": 951,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647418",
-      "market_id": "1.258690294",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:35"
-    },
-    {
       "match": "SD Eibar (W) v EDF Logrono (W)",
       "campionato": "Spanish Liga F",
       "volume": 950,
@@ -529,9 +514,24 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Wuhan Three Towns v Yunnan Yukun",
+      "campionato": "Chinese Super League",
+      "volume": 717,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647418",
+      "market_id": "1.258690294",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:35"
+    },
+    {
       "match": "Ostersunds FK v Orebro",
       "campionato": "Swedish Superettan",
-      "volume": 706,
+      "volume": 716,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -859,21 +859,6 @@
       "open_date": "2026-05-31 15:00"
     },
     {
-      "match": "FK Jelgava v BFC Daugavpils",
-      "campionato": "Latvian Virsliga",
-      "volume": 218,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653387",
-      "market_id": "1.258691869",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "Albion FC v Torque",
       "campionato": "Uruguayan Primera Division",
       "volume": 172,
@@ -1007,21 +992,6 @@
       "market_id": "1.258575468",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Londrina v Vila Nova",
-      "campionato": "Brazilian Serie B",
-      "volume": 95,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648363",
-      "market_id": "1.258575587",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Hillerod Fodbold v Hvidovre",
@@ -1185,6 +1155,21 @@
       "source": "Betfair",
       "event_id": "35648242",
       "market_id": "1.258575650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "FK Jelgava v BFC Daugavpils",
+      "campionato": "Latvian Virsliga",
+      "volume": 10,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653387",
+      "market_id": "1.258691869",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
     },
@@ -3144,7 +3129,7 @@
       "open_date": "2026-05-31 13:35",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 951,
+      "volume": 717,
       "best_volume": 1428,
       "whale_max": 0,
       "entered": false
@@ -3516,20 +3501,8 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 218,
+      "volume": 10,
       "best_volume": 218,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258575587",
-      "match": "Londrina v Vila Nova",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 95,
-      "best_volume": 95,
       "whale_max": 0,
       "entered": false
     },
@@ -3588,8 +3561,8 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 706,
-      "best_volume": 706,
+      "volume": 716,
+      "best_volume": 716,
       "whale_max": 0,
       "entered": false
     },
