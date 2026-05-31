@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:10:48",
+  "last_update": "31/05/2026 22:11:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 9987,
-      "quota": 1.37,
+      "volume": 6655,
+      "quota": 1.38,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,8 +66,8 @@
     {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3326,
-      "quota": 1.06,
+      "volume": 3184,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -79,25 +79,10 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Cordoba v Huesca",
-      "campionato": "Spanish Segunda Division",
-      "volume": 1955,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647968",
-      "market_id": "1.258575468",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1844,
-      "quota": 1.18,
+      "volume": 2339,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,6 +109,21 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "Cordoba v Huesca",
+      "campionato": "Spanish Segunda Division",
+      "volume": 742,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647968",
+      "market_id": "1.258575468",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
       "volume": 708,
@@ -135,21 +135,6 @@
       "source": "Betfair",
       "event_id": "35625075",
       "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Remo v Sao Paulo",
-      "campionato": "Brazilian Serie A",
-      "volume": 609,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624962",
-      "market_id": "1.258659704",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
     },
@@ -171,8 +156,8 @@
     {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
-      "volume": 497,
-      "quota": 1.29,
+      "volume": 551,
+      "quota": 1.3,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -182,6 +167,36 @@
       "market_id": "1.258575503",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "CD Los Chankas v UTC Cajamarca",
+      "campionato": "Peruvian Primera Division",
+      "volume": 460,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648466",
+      "market_id": "1.258694518",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:15"
+    },
+    {
+      "match": "Remo v Sao Paulo",
+      "campionato": "Brazilian Serie A",
+      "volume": 250,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624962",
+      "market_id": "1.258659704",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "SE Palmeiras v Chapecoense",
@@ -201,7 +216,7 @@
     {
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
-      "volume": 188,
+      "volume": 178,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -227,21 +242,6 @@
       "market_id": "1.258706481",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:10"
-    },
-    {
-      "match": "CD Los Chankas v UTC Cajamarca",
-      "campionato": "Peruvian Primera Division",
-      "volume": 112,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648466",
-      "market_id": "1.258694518",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:15"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -1873,9 +1873,9 @@
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-05-31 22:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 112,
+      "volume": 460,
       "best_volume": 23453,
       "whale_max": 0,
       "entered": true
@@ -2377,9 +2377,9 @@
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-01 00:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 3326,
+      "volume": 3184,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2461,9 +2461,9 @@
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-06-01 01:30",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 609,
+      "volume": 250,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
