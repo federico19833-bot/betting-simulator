@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:27:46",
+  "last_update": "31/05/2026 10:28:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Karlbergs BK v FBK Karlstad",
       "campionato": "Swedish Division 1",
-      "volume": 4813,
+      "volume": 4771,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "IFK Haninge v IF Eker Örebro",
       "campionato": "Swedish Division 2",
-      "volume": 3545,
+      "volume": 3526,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -124,21 +124,6 @@
       "open_date": "2026-05-31 13:15"
     },
     {
-      "match": "Degerfors v Brommapojkarna",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 2430,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647423",
-      "market_id": "1.258575426",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
-    },
-    {
       "match": "Torslanda v Jonsereds IF",
       "campionato": "Swedish Division 2",
       "volume": 2315,
@@ -154,9 +139,24 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Njardvik v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 2194,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665589",
+      "market_id": "1.258737268",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 2072,
+      "volume": 2082,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -214,9 +214,24 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 1858,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "Jeonnam Dragons v Seoul E-Land FC",
       "campionato": "South Korean K2 League",
-      "volume": 1843,
+      "volume": 1730,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -240,21 +255,6 @@
       "source": "Betfair",
       "event_id": "35656349",
       "market_id": "1.258690551",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
-    },
-    {
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 1680,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667368",
-      "market_id": "1.258748004",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
     },
@@ -377,21 +377,6 @@
       "market_id": "1.258581538",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:00"
-    },
-    {
-      "match": "Njardvik v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 986,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665589",
-      "market_id": "1.258737268",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
@@ -752,6 +737,21 @@
       "market_id": "1.258575468",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Degerfors v Brommapojkarna",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 392,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647423",
+      "market_id": "1.258575426",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Esbjerg v Lyngby",
@@ -2823,7 +2823,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 986,
+      "volume": 2194,
       "best_volume": 29926,
       "whale_max": 0,
       "entered": true
@@ -2859,7 +2859,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 4813,
+      "volume": 4771,
       "best_volume": 7008,
       "whale_max": 0,
       "entered": false
@@ -3063,8 +3063,8 @@
       "open_date": "2026-05-31 23:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 2072,
-      "best_volume": 2072,
+      "volume": 2082,
+      "best_volume": 2082,
       "whale_max": 0,
       "entered": false
     },
@@ -3339,7 +3339,7 @@
       "open_date": "2026-05-31 09:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1843,
+      "volume": 1730,
       "best_volume": 1843,
       "whale_max": 0,
       "entered": false
@@ -3375,7 +3375,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 3545,
+      "volume": 3526,
       "best_volume": 3545,
       "whale_max": 0,
       "entered": false
@@ -3387,7 +3387,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1680,
+      "volume": 1858,
       "best_volume": 1858,
       "whale_max": 0,
       "entered": false
@@ -3673,9 +3673,9 @@
       "match": "Degerfors v Brommapojkarna",
       "campionato": "Swedish Allsvenskan",
       "open_date": "2026-05-31 14:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 2430,
+      "volume": 392,
       "best_volume": 2430,
       "whale_max": 0,
       "entered": false
