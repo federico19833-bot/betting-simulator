@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 20:58:32",
+  "last_update": "31/05/2026 20:59:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 20712,
+      "volume": 25462,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 12289,
+      "volume": 12165,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Afturelding v Fylkir",
       "campionato": "Icelandic 1 Deild",
-      "volume": 5747,
+      "volume": 7914,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Mushuc Runa v Aucas",
       "campionato": "Ecuadorian Serie A",
-      "volume": 5487,
+      "volume": 5488,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -81,8 +81,8 @@
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1992,
-      "quota": 1.06,
+      "volume": 1661,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -199,6 +199,21 @@
       "open_date": "2026-05-31 23:00"
     },
     {
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 571,
+      "quota": 1.26,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625075",
+      "market_id": "1.258659725",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
       "volume": 552,
@@ -212,36 +227,6 @@
       "market_id": "1.258694518",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:15"
-    },
-    {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 462,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 385,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Emelec v Univ Catolica (Ecu)",
@@ -259,19 +244,19 @@
       "open_date": "2026-06-01 01:10"
     },
     {
-      "match": "Vasco da Gama v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "volume": 322,
-      "quota": 1.17,
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 269,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35624951",
-      "market_id": "1.258659746",
+      "event_id": "35662997",
+      "market_id": "1.258752444",
       "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
+      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Cordoba v Huesca",
@@ -336,7 +321,7 @@
     {
       "match": "Defensores Unidos v Flandria",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 149,
+      "volume": 151,
       "quota": 1.37,
       "in_range": false,
       "monitored": false,
@@ -362,6 +347,21 @@
       "market_id": "1.258720636",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
+    },
+    {
+      "match": "Vasco da Gama v Atletico MG",
+      "campionato": "Brazilian Serie A",
+      "volume": 10,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624951",
+      "market_id": "1.258659746",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Guayaquil City v Independiente (Ecu)",
@@ -2079,8 +2079,8 @@
       "open_date": "2026-05-31 22:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 20712,
-      "best_volume": 21306,
+      "volume": 25462,
+      "best_volume": 25462,
       "whale_max": 0,
       "entered": true
     },
@@ -2331,7 +2331,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 12289,
+      "volume": 12165,
       "best_volume": 21538,
       "whale_max": 0,
       "entered": true
@@ -2509,9 +2509,9 @@
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-31 23:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 1992,
+      "volume": 1661,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2619,7 +2619,7 @@
       "open_date": "2026-05-31 21:15",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 5747,
+      "volume": 7914,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
