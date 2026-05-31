@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:57:19",
+  "last_update": "31/05/2026 08:57:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 2312,
+      "volume": 2472,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -349,6 +349,21 @@
       "open_date": "2026-05-31 23:00"
     },
     {
+      "match": "Real Madrid FC (W) v Granada (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 880,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667246",
+      "market_id": "1.258747362",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "SE Palmeiras v Chapecoense",
       "campionato": "Brazilian Serie A",
       "volume": 877,
@@ -362,21 +377,6 @@
       "market_id": "1.258659789",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Real Madrid FC (W) v Granada (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 817,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667246",
-      "market_id": "1.258747362",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "Defensores Unidos v Flandria",
@@ -542,21 +542,6 @@
       "market_id": "1.258575468",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Esbjerg v Lyngby",
-      "campionato": "Danish 1st Division",
-      "volume": 587,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651267",
-      "market_id": "1.258666277",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Strommen v Sogndal",
@@ -1080,6 +1065,21 @@
       "source": "Betfair",
       "event_id": "35647361",
       "market_id": "1.258624989",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Esbjerg v Lyngby",
+      "campionato": "Danish 1st Division",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651267",
+      "market_id": "1.258666277",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
     },
@@ -3009,7 +3009,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2312,
+      "volume": 2472,
       "best_volume": 2713,
       "whale_max": 0,
       "entered": false
@@ -3201,7 +3201,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 587,
+      "volume": 10,
       "best_volume": 1534,
       "whale_max": 0,
       "entered": false
@@ -3369,8 +3369,8 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 817,
-      "best_volume": 817,
+      "volume": 880,
+      "best_volume": 880,
       "whale_max": 0,
       "entered": false
     },
