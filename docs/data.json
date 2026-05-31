@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 21:05:50",
+  "last_update": "31/05/2026 21:06:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
-      "volume": 14663,
+      "volume": 7002,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Mushuc Runa v Aucas",
       "campionato": "Ecuadorian Serie A",
-      "volume": 8836,
+      "volume": 3894,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258575608",
       "_is_inplay": true,
       "open_date": "2026-05-31 20:00"
-    },
-    {
-      "match": "Villa San Carlos v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 6469,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663036",
-      "market_id": "1.258720594",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Defensores Unidos v Flandria",
@@ -94,8 +79,23 @@
       "open_date": "2026-05-31 20:30"
     },
     {
-      "match": "Ceara SC Fortaleza v Operario PR",
-      "campionato": "Brazilian Serie B",
+      "match": "Villa San Carlos v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1855,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663036",
+      "market_id": "1.258720594",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Cordoba v Huesca",
+      "campionato": "Spanish Segunda Division",
       "volume": 1620,
       "quota": 1.13,
       "in_range": false,
@@ -103,8 +103,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648443",
-      "market_id": "1.258575342",
+      "event_id": "35647968",
+      "market_id": "1.258575468",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:00"
     },
@@ -126,7 +126,7 @@
     {
       "match": "Vasco da Gama v Atletico MG",
       "campionato": "Brazilian Serie A",
-      "volume": 826,
+      "volume": 748,
       "quota": 1.19,
       "in_range": false,
       "monitored": false,
@@ -216,8 +216,8 @@
     {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 343,
-      "quota": 1.31,
+      "volume": 373,
+      "quota": 1.32,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -244,22 +244,22 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 275,
-      "quota": 1.31,
+      "match": "SE Palmeiras v Chapecoense",
+      "campionato": "Brazilian Serie A",
+      "volume": 238,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
+      "event_id": "35624948",
+      "market_id": "1.258659789",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "Cordoba v Huesca",
+      "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
       "volume": 226,
       "quota": 1.16,
@@ -268,8 +268,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647968",
-      "market_id": "1.258575468",
+      "event_id": "35647970",
+      "market_id": "1.258575503",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:00"
     },
@@ -289,21 +289,6 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "SE Palmeiras v Chapecoense",
-      "campionato": "Brazilian Serie A",
-      "volume": 179,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624948",
-      "market_id": "1.258659789",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
       "volume": 170,
@@ -317,6 +302,36 @@
       "market_id": "1.258694257",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
+    },
+    {
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 158,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662997",
+      "market_id": "1.258752444",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
+    },
+    {
+      "match": "Ceara SC Fortaleza v Operario PR",
+      "campionato": "Brazilian Serie B",
+      "volume": 64,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648443",
+      "market_id": "1.258575342",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
@@ -1950,7 +1965,7 @@
       "open_date": "2026-05-31 22:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 14663,
+      "volume": 7002,
       "best_volume": 21695,
       "whale_max": 0,
       "entered": true
@@ -2286,7 +2301,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 6469,
+      "volume": 1855,
       "best_volume": 21538,
       "whale_max": 0,
       "entered": true
