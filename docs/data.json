@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:06:09",
+  "last_update": "31/05/2026 22:06:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 6627,
+      "volume": 7482,
       "quota": 1.32,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Defensores Unidos v Flandria",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 4353,
+      "volume": 4052,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Cordoba v Huesca",
       "campionato": "Spanish Segunda Division",
-      "volume": 3552,
+      "volume": 3501,
       "quota": 1.27,
       "in_range": false,
       "monitored": false,
@@ -122,21 +122,6 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "SE Palmeiras v Chapecoense",
-      "campionato": "Brazilian Serie A",
-      "volume": 657,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624948",
-      "market_id": "1.258659789",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
@@ -195,6 +180,21 @@
       "source": "Betfair",
       "event_id": "35647970",
       "market_id": "1.258575503",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "SE Palmeiras v Chapecoense",
+      "campionato": "Brazilian Serie A",
+      "volume": 235,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624948",
+      "market_id": "1.258659789",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:00"
     },
@@ -261,8 +261,8 @@
     {
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
-      "volume": 26,
-      "quota": 2.46,
+      "volume": 16,
+      "quota": 2.78,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
