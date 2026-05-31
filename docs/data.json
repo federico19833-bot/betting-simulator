@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 04:24:54",
+  "last_update": "31/05/2026 04:25:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -332,21 +332,6 @@
       "market_id": "1.258575363",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "FK Jelgava v BFC Daugavpils",
-      "campionato": "Latvian Virsliga",
-      "volume": 1208,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653387",
-      "market_id": "1.258691869",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Leganes v Mirandes",
@@ -994,6 +979,21 @@
       "open_date": "2026-05-31 18:30"
     },
     {
+      "match": "Esbjerg v Lyngby",
+      "campionato": "Danish 1st Division",
+      "volume": 88,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651267",
+      "market_id": "1.258666277",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
       "volume": 77,
@@ -1022,21 +1022,6 @@
       "market_id": "1.258579565",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Esbjerg v Lyngby",
-      "campionato": "Danish 1st Division",
-      "volume": 67,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651267",
-      "market_id": "1.258666277",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "CA Central Norte v Chaco For Ever",
@@ -3562,22 +3547,10 @@
       "match": "Esbjerg v Lyngby",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 67,
+      "volume": 88,
       "best_volume": 88,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258691869",
-      "match": "FK Jelgava v BFC Daugavpils",
-      "campionato": "Latvian Virsliga",
-      "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 1208,
-      "best_volume": 1208,
       "whale_max": 0,
       "entered": false
     }
