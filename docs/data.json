@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:31:39",
+  "last_update": "31/05/2026 10:32:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Real Madrid FC (W) v Granada (W)",
       "campionato": "Spanish Liga F",
-      "volume": 8445,
+      "volume": 7895,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -135,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35647416",
       "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 2379,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -287,21 +302,6 @@
       "market_id": "1.258694545",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1607,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Ansan Greeners FC v Cheonan City",
@@ -2967,7 +2967,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 8445,
+      "volume": 7895,
       "best_volume": 8852,
       "whale_max": 0,
       "entered": false
