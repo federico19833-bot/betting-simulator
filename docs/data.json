@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:41:21",
+  "last_update": "31/05/2026 12:41:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -169,21 +169,6 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 4910,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Bryne v Hodd",
       "campionato": "Norwegian 1st Division",
       "volume": 4285,
@@ -304,9 +289,24 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 2226,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
-      "volume": 2404,
+      "volume": 2074,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -467,21 +467,6 @@
       "market_id": "1.258720636",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Madrid (W) v Barcelona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1209,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667248",
-      "market_id": "1.258747383",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Juventud De Las Piedras v Wanderers (Uru)",
@@ -707,6 +692,21 @@
       "market_id": "1.258671562",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Madrid (W) v Barcelona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 444,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667248",
+      "market_id": "1.258747383",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Sao Bernardo v Novorizontino",
@@ -3114,7 +3114,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 4910,
+      "volume": 2226,
       "best_volume": 21016,
       "whale_max": 0,
       "entered": false
@@ -3198,7 +3198,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 2404,
+      "volume": 2074,
       "best_volume": 2410,
       "whale_max": 0,
       "entered": false
