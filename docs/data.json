@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:43:22",
+  "last_update": "31/05/2026 08:43:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,6 +62,21 @@
       "market_id": "1.258745864",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Slovacko v SK Artis Brno",
+      "campionato": "Czech 1 Liga",
+      "volume": 3086,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659956",
+      "market_id": "1.258689697",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Real Sociedad (W) v Atletico Madrid (W)",
@@ -135,21 +150,6 @@
       "source": "Betfair",
       "event_id": "35647416",
       "market_id": "1.258688636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Slovacko v SK Artis Brno",
-      "campionato": "Czech 1 Liga",
-      "volume": 2317,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659956",
-      "market_id": "1.258689697",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -3463,9 +3463,9 @@
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 2317,
+      "volume": 3086,
       "best_volume": 3086,
       "whale_max": 0,
       "entered": false
@@ -3743,6 +3743,30 @@
       "quota_iniziale": 1.06,
       "volume": 740,
       "best_volume": 740,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258747383",
+      "match": "Madrid (W) v Barcelona (W)",
+      "campionato": "Spanish Liga F",
+      "open_date": "2026-05-31 16:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 434,
+      "best_volume": 434,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258737310",
+      "match": "Afturelding v Fylkir",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-05-31 21:15",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 855,
+      "best_volume": 855,
       "whale_max": 0,
       "entered": false
     }
