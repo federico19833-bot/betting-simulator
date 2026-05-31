@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:11:35",
+  "last_update": "31/05/2026 09:12:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 8448,
+      "volume": 8387,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 2382,
+      "volume": 2389,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -546,7 +546,7 @@
     {
       "match": "FK Kauno Zalgiris v VMFD Zalgiris",
       "campionato": "Lithuanian A Lyga",
-      "volume": 664,
+      "volume": 663,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -572,6 +572,21 @@
       "market_id": "1.258575468",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Villa San Carlos v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 620,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663036",
+      "market_id": "1.258720594",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Esbjerg v Lyngby",
@@ -722,21 +737,6 @@
       "market_id": "1.258659746",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Villa San Carlos v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 334,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663036",
-      "market_id": "1.258720594",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
@@ -1247,6 +1247,21 @@
       "market_id": "1.258575565",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Deportivo Maldonado v Nacional (Uru)",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648579",
+      "market_id": "1.258581454",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
     }
   ],
   "tracked_matches": [
@@ -3009,7 +3024,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2382,
+      "volume": 2389,
       "best_volume": 3940,
       "whale_max": 0,
       "entered": false
@@ -3129,7 +3144,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 8448,
+      "volume": 8387,
       "best_volume": 8525,
       "whale_max": 0,
       "entered": false
@@ -3175,10 +3190,10 @@
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 20:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 334,
-      "best_volume": 334,
+      "volume": 620,
+      "best_volume": 620,
       "whale_max": 0,
       "entered": false
     },
@@ -3669,7 +3684,7 @@
       "open_date": "2026-05-31 13:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 664,
+      "volume": 663,
       "best_volume": 1438,
       "whale_max": 0,
       "entered": false
@@ -3755,6 +3770,18 @@
       "quota_iniziale": 1.07,
       "volume": 877,
       "best_volume": 877,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258581454",
+      "match": "Deportivo Maldonado v Nacional (Uru)",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-05-31 23:30",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
