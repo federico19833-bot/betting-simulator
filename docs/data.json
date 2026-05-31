@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:53:36",
+  "last_update": "31/05/2026 12:54:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -141,7 +141,7 @@
     {
       "match": "Degerfors v Brommapojkarna",
       "campionato": "Swedish Allsvenskan",
-      "volume": 7239,
+      "volume": 7137,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -574,21 +574,6 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 715,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
       "volume": 684,
@@ -602,6 +587,21 @@
       "market_id": "1.258703211",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 619,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "FK Jelgava v BFC Daugavpils",
@@ -3096,7 +3096,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 7239,
+      "volume": 7137,
       "best_volume": 7239,
       "whale_max": 0,
       "entered": false
