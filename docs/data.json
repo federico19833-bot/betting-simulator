@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 13:34:06",
+  "last_update": "31/05/2026 13:34:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 30139,
+      "volume": 29864,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -201,7 +201,7 @@
     {
       "match": "Ostersunds FK v Orebro",
       "campionato": "Swedish Superettan",
-      "volume": 4469,
+      "volume": 4476,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -272,21 +272,6 @@
       "market_id": "1.258694672",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "Athletic Bilbao (W) v Alhama CF (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 2758,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667127",
-      "market_id": "1.258745864",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Albion FC v Torque",
@@ -542,21 +527,6 @@
       "market_id": "1.258720615",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "Njardvik v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 1068,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665589",
-      "market_id": "1.258737268",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Vasteras SK v IFK Goteborg",
@@ -919,6 +889,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Njardvik v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 138,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665589",
+      "market_id": "1.258737268",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "CD Castellon v Eibar",
       "campionato": "Spanish Segunda Division",
       "volume": 132,
@@ -947,6 +932,21 @@
       "market_id": "1.258575608",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:00"
+    },
+    {
+      "match": "Athletic Bilbao (W) v Alhama CF (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 109,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667127",
+      "market_id": "1.258745864",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "AC Horsens v Kolding IF",
@@ -3075,7 +3075,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 4469,
+      "volume": 4476,
       "best_volume": 4476,
       "whale_max": 0,
       "entered": false
@@ -3109,9 +3109,9 @@
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 2758,
+      "volume": 109,
       "best_volume": 4436,
       "whale_max": 0,
       "entered": false
@@ -3195,7 +3195,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 30139,
+      "volume": 29864,
       "best_volume": 30149,
       "whale_max": 0,
       "entered": false
