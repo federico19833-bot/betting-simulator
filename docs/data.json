@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:16:47",
+  "last_update": "31/05/2026 08:17:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
-      "volume": 16797,
+      "volume": 17423,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -94,21 +94,6 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "Vasteras SK v IFK Goteborg",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 2636,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649545",
-      "market_id": "1.258597138",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
-    },
-    {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
       "campionato": "Chinese Super League",
       "volume": 2553,
@@ -152,6 +137,21 @@
       "market_id": "1.258575426",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
+    },
+    {
+      "match": "Slovacko v SK Artis Brno",
+      "campionato": "Czech 1 Liga",
+      "volume": 2027,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659956",
+      "market_id": "1.258689697",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Umea FC v IFK Stocksund",
@@ -244,19 +244,19 @@
       "open_date": "2026-05-31 07:00"
     },
     {
-      "match": "Slovacko v SK Artis Brno",
-      "campionato": "Czech 1 Liga",
-      "volume": 1349,
-      "quota": 1.08,
+      "match": "Vasteras SK v IFK Goteborg",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 1428,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35659956",
-      "market_id": "1.258689697",
+      "event_id": "35649545",
+      "market_id": "1.258597138",
       "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Ansan Greeners FC v Cheonan City",
@@ -3186,7 +3186,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 2636,
+      "volume": 1428,
       "best_volume": 2636,
       "whale_max": 0,
       "entered": false
@@ -3438,8 +3438,8 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 16797,
-      "best_volume": 16797,
+      "volume": 17423,
+      "best_volume": 17423,
       "whale_max": 0,
       "entered": true
     },
@@ -3640,9 +3640,9 @@
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1349,
+      "volume": 2027,
       "best_volume": 2027,
       "whale_max": 0,
       "entered": false
