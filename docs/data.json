@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 03:32:48",
+  "last_update": "31/05/2026 03:33:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,6 +32,21 @@
       "market_id": "1.258745864",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Yeoju FC v Daejeon Korail FC",
+      "campionato": "South Korean K3 League",
+      "volume": 9963,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662443",
+      "market_id": "1.258713159",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 10:00"
     },
     {
       "match": "IR Reykjavik v IF Vestri",
@@ -94,6 +109,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Degerfors v Brommapojkarna",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 2200,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647423",
+      "market_id": "1.258575426",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "Karlskrona v Lilla Torg",
       "campionato": "Swedish Division 2",
       "volume": 2058,
@@ -152,21 +182,6 @@
       "market_id": "1.258579407",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
-    },
-    {
-      "match": "Degerfors v Brommapojkarna",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 1666,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647423",
-      "market_id": "1.258575426",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Torslanda v Jonsereds IF",
@@ -724,21 +739,6 @@
       "open_date": "2026-05-31 14:00"
     },
     {
-      "match": "Yeoju FC v Daejeon Korail FC",
-      "campionato": "South Korean K3 League",
-      "volume": 390,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662443",
-      "market_id": "1.258713159",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 10:00"
-    },
-    {
       "match": "Almagro BA v CA Guemes",
       "campionato": "Argentinian Primera Nacional",
       "volume": 353,
@@ -1026,8 +1026,8 @@
     {
       "match": "Deportivo Cuenca v Delfin",
       "campionato": "Ecuadorian Serie A",
-      "volume": 83,
-      "quota": 2.0,
+      "volume": 84,
+      "quota": 1.9,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3139,10 +3139,10 @@
       "match": "Yeoju FC v Daejeon Korail FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-05-31 10:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 390,
-      "best_volume": 682,
+      "volume": 9963,
+      "best_volume": 9963,
       "whale_max": 0,
       "entered": false
     },
