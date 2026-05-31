@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:17:52",
+  "last_update": "31/05/2026 09:18:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 8712,
+      "volume": 8621,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
-      "volume": 6000,
+      "volume": 6047,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -229,6 +229,21 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 1648,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650475",
+      "market_id": "1.258694650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Yeoju FC v Daejeon Korail FC",
       "campionato": "South Korean K3 League",
       "volume": 1580,
@@ -287,21 +302,6 @@
       "market_id": "1.258743003",
       "_is_inplay": false,
       "open_date": "2026-05-31 12:00"
-    },
-    {
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 1293,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657917",
-      "market_id": "1.258671591",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:15"
     },
     {
       "match": "Husqvarna v Stenungsunds IF",
@@ -424,6 +424,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "CE Europa v Celta Vigo B",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 769,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657917",
+      "market_id": "1.258671591",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:15"
+    },
+    {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
       "volume": 768,
@@ -527,21 +542,6 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Ranheim IL v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 689,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650475",
-      "market_id": "1.258694650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Kongsvinger v Asane",
@@ -3084,7 +3084,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 6000,
+      "volume": 6047,
       "best_volume": 6398,
       "whale_max": 0,
       "entered": false
@@ -3144,7 +3144,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 8712,
+      "volume": 8621,
       "best_volume": 8712,
       "whale_max": 0,
       "entered": false
@@ -3166,9 +3166,9 @@
       "match": "Ranheim IL v Sandnes Ulf",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 689,
+      "volume": 1648,
       "best_volume": 3990,
       "whale_max": 0,
       "entered": false
@@ -3636,7 +3636,7 @@
       "open_date": "2026-05-31 16:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1293,
+      "volume": 769,
       "best_volume": 1293,
       "whale_max": 0,
       "entered": false
