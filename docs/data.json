@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 00:18:27",
+  "last_update": "01/06/2026 00:19:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,9 +51,9 @@
     {
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
-      "volume": 11201,
+      "volume": 7020,
       "quota": 1.08,
-      "in_range": true,
+      "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -96,8 +96,8 @@
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1132,
-      "quota": 1.22,
+      "volume": 830,
+      "quota": 1.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -111,7 +111,7 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 256,
+      "volume": 262,
       "quota": 1.22,
       "in_range": false,
       "monitored": false,
@@ -120,6 +120,21 @@
       "source": "Betfair",
       "event_id": "35624962",
       "market_id": "1.258659704",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 59,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625075",
+      "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
     }
@@ -2196,7 +2211,7 @@
       "open_date": "2026-06-01 01:10",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 11201,
+      "volume": 7020,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2380,6 +2395,18 @@
       "best_volume": 23453,
       "whale_max": 0,
       "entered": true
+    },
+    {
+      "event_id": "bf_1.258659725",
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "open_date": "2026-06-01 01:30",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 59,
+      "best_volume": 59,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
