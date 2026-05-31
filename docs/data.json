@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:25:18",
+  "last_update": "31/05/2026 08:25:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -152,6 +152,21 @@
       "market_id": "1.258688636",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Wuhan Three Towns v Yunnan Yukun",
+      "campionato": "Chinese Super League",
+      "volume": 2488,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647418",
+      "market_id": "1.258690294",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:35"
     },
     {
       "match": "Guayaquil City v Independiente (Ecu)",
@@ -544,21 +559,6 @@
       "open_date": "2026-05-31 13:00"
     },
     {
-      "match": "Wuhan Three Towns v Yunnan Yukun",
-      "campionato": "Chinese Super League",
-      "volume": 717,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647418",
-      "market_id": "1.258690294",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:35"
-    },
-    {
       "match": "Raufoss v Haugesund",
       "campionato": "Norwegian 1st Division",
       "volume": 689,
@@ -737,21 +737,6 @@
       "market_id": "1.258666235",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "Racing Club v Defensa y Justicia",
-      "campionato": "Argentinian Cup",
-      "volume": 496,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35641100",
-      "market_id": "1.258677964",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "FC Cajamarca v Alianza Lima",
@@ -977,6 +962,21 @@
       "market_id": "1.258694587",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Racing Club v Defensa y Justicia",
+      "campionato": "Argentinian Cup",
+      "volume": 178,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641100",
+      "market_id": "1.258677964",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "CD Castellon v Eibar",
@@ -3673,10 +3673,10 @@
       "match": "Wuhan Three Towns v Yunnan Yukun",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-31 13:35",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 717,
-      "best_volume": 1140,
+      "volume": 2488,
+      "best_volume": 2488,
       "whale_max": 0,
       "entered": false
     },
