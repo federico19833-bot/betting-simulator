@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 05:29:57",
+  "last_update": "31/05/2026 05:30:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -229,21 +229,6 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "Esbjerg v Lyngby",
-      "campionato": "Danish 1st Division",
-      "volume": 1534,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651267",
-      "market_id": "1.258666277",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "Umea FC v IFK Stocksund",
       "campionato": "Swedish Division 1",
       "volume": 1491,
@@ -332,6 +317,21 @@
       "market_id": "1.258575503",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 1074,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650475",
+      "market_id": "1.258694650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Sportivo Italiano v Argentino de Merlo",
@@ -437,21 +437,6 @@
       "market_id": "1.258745408",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Ranheim IL v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 801,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650475",
-      "market_id": "1.258694650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Villarreal B v Zamora",
@@ -647,6 +632,21 @@
       "market_id": "1.258734475",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
+    },
+    {
+      "match": "Esbjerg v Lyngby",
+      "campionato": "Danish 1st Division",
+      "volume": 462,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651267",
+      "market_id": "1.258666277",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "FC Cajamarca v Alianza Lima",
@@ -934,21 +934,6 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "CA Atlanta v Club Gimnasia y Tiro",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 154,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648512",
-      "market_id": "1.258755058",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
-    },
-    {
       "match": "CD Castellon v Eibar",
       "campionato": "Spanish Segunda Division",
       "volume": 144,
@@ -1097,6 +1082,21 @@
       "market_id": "1.258737268",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "CA Atlanta v Club Gimnasia y Tiro",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 44,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648512",
+      "market_id": "1.258755058",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "Almeria v Valladolid",
@@ -3402,7 +3402,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 801,
+      "volume": 1074,
       "best_volume": 3990,
       "whale_max": 0,
       "entered": false
@@ -3460,9 +3460,9 @@
       "match": "Esbjerg v Lyngby",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1534,
+      "volume": 462,
       "best_volume": 1534,
       "whale_max": 0,
       "entered": false
@@ -3592,9 +3592,9 @@
       "match": "CA Atlanta v Club Gimnasia y Tiro",
       "campionato": "Argentinian Primera Nacional",
       "open_date": "2026-05-31 18:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 154,
+      "volume": 44,
       "best_volume": 154,
       "whale_max": 0,
       "entered": false
