@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 19:22:28",
+  "last_update": "31/05/2026 19:23:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
-      "volume": 21807,
+      "volume": 21590,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -81,7 +81,7 @@
     {
       "match": "Ceara SC Fortaleza v Operario PR",
       "campionato": "Brazilian Serie B",
-      "volume": 5449,
+      "volume": 5329,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -109,9 +109,24 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 2861,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
+    },
+    {
       "match": "Almeria v Valladolid",
       "campionato": "Spanish Segunda Division",
-      "volume": 3505,
+      "volume": 1765,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -122,21 +137,6 @@
       "market_id": "1.258575279",
       "_is_inplay": true,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Metropolitanos v Carabobo FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 2714,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663062",
-      "market_id": "1.258721606",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "SE Palmeiras v Chapecoense",
@@ -2490,7 +2490,7 @@
       "open_date": "2026-05-31 21:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 5449,
+      "volume": 5329,
       "best_volume": 21590,
       "whale_max": 0,
       "entered": true
@@ -2706,7 +2706,7 @@
       "open_date": "2026-05-31 21:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 21807,
+      "volume": 21590,
       "best_volume": 21807,
       "whale_max": 0,
       "entered": false
@@ -2728,9 +2728,9 @@
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
       "open_date": "2026-05-31 23:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 2714,
+      "volume": 2861,
       "best_volume": 4327,
       "whale_max": 0,
       "entered": false
