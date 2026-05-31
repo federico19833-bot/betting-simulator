@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 23:00:51",
+  "last_update": "31/05/2026 23:01:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Cobreloa Calama v CSD Rangers",
       "campionato": "Chilean Primera B",
-      "volume": 23436,
+      "volume": 23420,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1688,
+      "volume": 1533,
       "quota": 1.56,
       "in_range": false,
       "monitored": false,
@@ -92,21 +92,6 @@
       "market_id": "1.258694257",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Cuiaba v CRB",
-      "campionato": "Brazilian Serie B",
-      "volume": 914,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648545",
-      "market_id": "1.258579707",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -141,7 +126,7 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 215,
+      "volume": 296,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -150,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35624962",
       "market_id": "1.258659704",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Cuiaba v CRB",
+      "campionato": "Brazilian Serie B",
+      "volume": 240,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648545",
+      "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
     },
@@ -2268,7 +2268,7 @@
       "open_date": "2026-05-31 23:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 23436,
+      "volume": 23420,
       "best_volume": 23515,
       "whale_max": 0,
       "entered": true
@@ -2278,9 +2278,9 @@
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-01 01:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 914,
+      "volume": 240,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
