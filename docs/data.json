@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:04:27",
+  "last_update": "31/05/2026 10:05:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,6 +79,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 5628,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
       "volume": 4888,
@@ -92,21 +107,6 @@
       "market_id": "1.258659768",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 4379,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Husqvarna v Stenungsunds IF",
@@ -949,6 +949,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "IFK Lidingo v Falu FK",
+      "campionato": "Swedish Division 2",
+      "volume": 98,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656101",
+      "market_id": "1.258693655",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:45"
+    },
+    {
       "match": "Albion FC v Torque",
       "campionato": "Uruguayan Primera Division",
       "volume": 75,
@@ -1067,21 +1082,6 @@
       "market_id": "1.258624989",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "IFK Lidingo v Falu FK",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656101",
-      "market_id": "1.258693655",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:45"
     },
     {
       "match": "Levante UD (W) v FC Badalona (W)",
@@ -3286,9 +3286,9 @@
       "match": "IFK Lidingo v Falu FK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 15:45",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 98,
       "best_volume": 110,
       "whale_max": 0,
       "entered": false
@@ -3674,6 +3674,54 @@
       "quota_iniziale": 1.04,
       "volume": 768,
       "best_volume": 768,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258659768",
+      "match": "Red Bull Bragantino v Internacional",
+      "campionato": "Brazilian Serie A",
+      "open_date": "2026-05-31 16:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 4888,
+      "best_volume": 4888,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258694629",
+      "match": "Raufoss v Haugesund",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-31 17:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 1860,
+      "best_volume": 1860,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258694650",
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-05-31 17:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 1432,
+      "best_volume": 1432,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258720594",
+      "match": "Villa San Carlos v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-05-31 20:30",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 6879,
+      "best_volume": 6879,
       "whale_max": 0,
       "entered": false
     }
