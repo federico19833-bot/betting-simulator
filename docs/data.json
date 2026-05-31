@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 16:53:08",
+  "last_update": "31/05/2026 16:53:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "IR Reykjavik v IF Vestri",
       "campionato": "Icelandic 1 Deild",
-      "volume": 10663,
+      "volume": 10912,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -139,21 +139,6 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
-      "campionato": "Tunisian Cup",
-      "volume": 5583,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667264",
-      "market_id": "1.258747496",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "volume": 4794,
@@ -184,9 +169,24 @@
       "open_date": "2026-05-31 22:30"
     },
     {
+      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 4193,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667264",
+      "market_id": "1.258747496",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Syrianska FC v Karlslunds IF Hfk",
       "campionato": "Swedish Division 2",
-      "volume": 3232,
+      "volume": 3378,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -246,7 +246,7 @@
     {
       "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 2213,
+      "volume": 2209,
       "quota": 1.21,
       "in_range": false,
       "monitored": false,
@@ -334,21 +334,6 @@
       "open_date": "2026-05-31 21:00"
     },
     {
-      "match": "IK Sleipner v Orebro Syrianska",
-      "campionato": "Swedish Division 2",
-      "volume": 1356,
-      "quota": 1.38,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663211",
-      "market_id": "1.258751941",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "FC Cajamarca v Alianza Lima",
       "campionato": "Peruvian Primera Division",
       "volume": 1160,
@@ -362,6 +347,21 @@
       "market_id": "1.258694279",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:15"
+    },
+    {
+      "match": "IK Sleipner v Orebro Syrianska",
+      "campionato": "Swedish Division 2",
+      "volume": 1088,
+      "quota": 1.39,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663211",
+      "market_id": "1.258751941",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Vasco da Gama v Atletico MG",
@@ -546,7 +546,7 @@
     {
       "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 367,
+      "volume": 364,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -709,6 +709,21 @@
       "open_date": "2026-05-31 20:00"
     },
     {
+      "match": "Strommen v Sogndal",
+      "campionato": "Norwegian 1st Division",
+      "volume": 146,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650642",
+      "market_id": "1.258694672",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Racing Santander v Cadiz",
       "campionato": "Spanish Segunda Division",
       "volume": 142,
@@ -842,21 +857,6 @@
       "market_id": "1.258659704",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Strommen v Sogndal",
-      "campionato": "Norwegian 1st Division",
-      "volume": 4,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650642",
-      "market_id": "1.258694672",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     }
   ],
   "tracked_matches": [
@@ -2535,7 +2535,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 3232,
+      "volume": 3378,
       "best_volume": 20512,
       "whale_max": 0,
       "entered": true
@@ -3051,7 +3051,7 @@
       "open_date": "2026-05-31 17:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 367,
+      "volume": 364,
       "best_volume": 3329,
       "whale_max": 0,
       "entered": false
@@ -3123,7 +3123,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 10663,
+      "volume": 10912,
       "best_volume": 15812,
       "whale_max": 0,
       "entered": false
@@ -3219,7 +3219,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 5583,
+      "volume": 4193,
       "best_volume": 6211,
       "whale_max": 0,
       "entered": false
