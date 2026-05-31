@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 05:51:47",
+  "last_update": "31/05/2026 05:52:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -546,7 +546,7 @@
     {
       "match": "Raufoss v Haugesund",
       "campionato": "Norwegian 1st Division",
-      "volume": 679,
+      "volume": 689,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -904,6 +904,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 155,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667264",
+      "market_id": "1.258747496",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Burgos v FC Andorra",
       "campionato": "Spanish Segunda Division",
       "volume": 154,
@@ -917,21 +932,6 @@
       "market_id": "1.258575384",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
-      "campionato": "Tunisian Cup",
-      "volume": 145,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667264",
-      "market_id": "1.258747496",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "CD Castellon v Eibar",
@@ -1217,6 +1217,21 @@
       "market_id": "1.258720657",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:30"
+    },
+    {
+      "match": "Melgar v Alianza Atletico",
+      "campionato": "Peruvian Primera Division",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648465",
+      "market_id": "1.258576309",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:00"
     },
     {
       "match": "Deportivo v Las Palmas",
@@ -3405,8 +3420,8 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 679,
-      "best_volume": 679,
+      "volume": 689,
+      "best_volume": 689,
       "whale_max": 0,
       "entered": false
     },
@@ -3561,7 +3576,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 145,
+      "volume": 155,
       "best_volume": 155,
       "whale_max": 0,
       "entered": false
@@ -3667,6 +3682,18 @@
       "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 17:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258576309",
+      "match": "Melgar v Alianza Atletico",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-31 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
