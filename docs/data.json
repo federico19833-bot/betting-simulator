@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 21:29:59",
+  "last_update": "31/05/2026 21:30:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
-      "volume": 8703,
-      "quota": 1.09,
+      "volume": 9811,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,25 +49,10 @@
       "open_date": "2026-05-31 22:15"
     },
     {
-      "match": "Cuiaba v CRB",
-      "campionato": "Brazilian Serie B",
-      "volume": 5326,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648545",
-      "market_id": "1.258579707",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 4297,
-      "quota": 1.13,
+      "volume": 2889,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -77,6 +62,21 @@
       "market_id": "1.258720594",
       "_is_inplay": true,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Cuiaba v CRB",
+      "campionato": "Brazilian Serie B",
+      "volume": 2674,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648545",
+      "market_id": "1.258579707",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
     },
     {
       "match": "Metropolitanos v Carabobo FC",
@@ -96,8 +96,8 @@
     {
       "match": "Mushuc Runa v Aucas",
       "campionato": "Ecuadorian Serie A",
-      "volume": 1604,
-      "quota": 1.2,
+      "volume": 1422,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -171,8 +171,8 @@
     {
       "match": "Cordoba v Huesca",
       "campionato": "Spanish Segunda Division",
-      "volume": 613,
-      "quota": 1.36,
+      "volume": 636,
+      "quota": 1.34,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -246,7 +246,7 @@
     {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
-      "volume": 257,
+      "volume": 247,
       "quota": 1.33,
       "in_range": false,
       "monitored": false,
@@ -257,21 +257,6 @@
       "market_id": "1.258575503",
       "_is_inplay": true,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 214,
-      "quota": 1.46,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -304,10 +289,25 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 127,
+      "quota": 1.46,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662997",
+      "market_id": "1.258752444",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
+    },
+    {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 156,
-      "quota": 1.52,
+      "volume": 126,
+      "quota": 1.54,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -347,21 +347,6 @@
       "market_id": "1.258720636",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
-    },
-    {
-      "match": "Defensores Unidos v Flandria",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 30,
-      "quota": 1.65,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663041",
-      "market_id": "1.258720615",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 20:30"
     }
   ],
   "tracked_matches": [
@@ -2458,9 +2443,9 @@
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-01 01:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 5326,
+      "volume": 2674,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
