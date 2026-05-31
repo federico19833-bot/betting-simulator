@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 00:24:53",
+  "last_update": "01/06/2026 00:25:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,9 +36,9 @@
     {
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
-      "volume": 16828,
-      "quota": 1.07,
-      "in_range": false,
+      "volume": 20991,
+      "quota": 1.08,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -51,9 +51,9 @@
     {
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
-      "volume": 8009,
-      "quota": 1.08,
-      "in_range": true,
+      "volume": 5213,
+      "quota": 1.1,
+      "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -62,21 +62,6 @@
       "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "San Martin de Burzaco v Arsenal de Sarandi",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1693,
-      "quota": 1.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663026",
-      "market_id": "1.258720636",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "Remo v Sao Paulo",
@@ -92,6 +77,21 @@
       "market_id": "1.258659704",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "San Martin de Burzaco v Arsenal de Sarandi",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1107,
+      "quota": 1.31,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663026",
+      "market_id": "1.258720636",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "Deportivo Maldonado v Nacional (Uru)",
@@ -2314,9 +2314,9 @@
       "match": "Cienciano v Sporting Cristal",
       "campionato": "Peruvian Primera Division",
       "open_date": "2026-06-01 00:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 16828,
+      "volume": 20991,
       "best_volume": 24080,
       "whale_max": 0,
       "entered": true
