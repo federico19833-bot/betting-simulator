@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 03:41:11",
+  "last_update": "31/05/2026 03:42:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 171,
+    "total": 172,
     "wins": 158,
     "losses": 13,
-    "in_corso": 0,
+    "in_corso": 1,
     "winrate": 92.4,
     "profit": -150.56,
     "roi": -0.88,
@@ -21,9 +21,9 @@
     {
       "match": "Ansan Greeners FC v Cheonan City",
       "campionato": "South Korean K2 League",
-      "volume": 10550,
-      "quota": 1.07,
-      "in_range": false,
+      "volume": 9717,
+      "quota": 1.08,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -302,21 +302,6 @@
       "market_id": "1.258737268",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Deportivo Cuenca v Delfin",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1341,
-      "quota": 2.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648425",
-      "market_id": "1.258575692",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "Albion FC v Torque",
@@ -1097,6 +1082,21 @@
       "market_id": "1.258734475",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
+    },
+    {
+      "match": "Deportivo Cuenca v Delfin",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 24,
+      "quota": 2.44,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648425",
+      "market_id": "1.258575692",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "SD Eibar (W) v EDF Logrono (W)",
@@ -2893,12 +2893,12 @@
       "match": "Ansan Greeners FC v Cheonan City",
       "campionato": "South Korean K2 League",
       "open_date": "2026-05-31 12:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 10550,
+      "volume": 9717,
       "best_volume": 13037,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258672552",
@@ -3466,6 +3466,20 @@
     }
   ],
   "giocate": [
+    {
+      "id": 183,
+      "orario": "2026-05-31 03:42:44",
+      "match": "Ansan Greeners FC v Cheonan City",
+      "campionato": "South Korean K2 League",
+      "quota": 1.08,
+      "volume": 13037,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 182,
       "orario": "2026-05-31 01:37:28",
