@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 05:42:26",
+  "last_update": "31/05/2026 05:42:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
-      "volume": 4819,
+      "volume": 4052,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -904,6 +904,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
+      "campionato": "Tunisian Cup",
+      "volume": 155,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667264",
+      "market_id": "1.258747496",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
+    },
+    {
       "match": "Burgos v FC Andorra",
       "campionato": "Spanish Segunda Division",
       "volume": 154,
@@ -917,21 +932,6 @@
       "market_id": "1.258575384",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Esperance Sportive Zarzis v Sportive De Tunis",
-      "campionato": "Tunisian Cup",
-      "volume": 145,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667264",
-      "market_id": "1.258747496",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "CD Castellon v Eibar",
@@ -3534,7 +3534,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 4819,
+      "volume": 4052,
       "best_volume": 4819,
       "whale_max": 0,
       "entered": false
@@ -3546,7 +3546,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 145,
+      "volume": 155,
       "best_volume": 155,
       "whale_max": 0,
       "entered": false
