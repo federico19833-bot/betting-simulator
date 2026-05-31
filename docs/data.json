@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:15:49",
+  "last_update": "31/05/2026 10:16:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -514,21 +514,6 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "Villarreal B v Zamora",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 680,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657919",
-      "market_id": "1.258671562",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
-    },
-    {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "volume": 658,
@@ -557,6 +542,21 @@
       "market_id": "1.258743028",
       "_is_inplay": false,
       "open_date": "2026-05-31 12:00"
+    },
+    {
+      "match": "Villarreal B v Zamora",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 601,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657919",
+      "market_id": "1.258671562",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "Esbjerg v Lyngby",
@@ -3051,7 +3051,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 680,
+      "volume": 601,
       "best_volume": 839,
       "whale_max": 0,
       "entered": false
