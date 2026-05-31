@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 06:47:27",
+  "last_update": "31/05/2026 06:47:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -649,6 +649,21 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "Yeoju FC v Daejeon Korail FC",
+      "campionato": "South Korean K3 League",
+      "volume": 510,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662443",
+      "market_id": "1.258713159",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 10:00"
+    },
+    {
       "match": "FC Cajamarca v Alianza Lima",
       "campionato": "Peruvian Primera Division",
       "volume": 461,
@@ -722,21 +737,6 @@
       "market_id": "1.258748004",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
-    },
-    {
-      "match": "Yeoju FC v Daejeon Korail FC",
-      "campionato": "South Korean K3 League",
-      "volume": 410,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662443",
-      "market_id": "1.258713159",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 10:00"
     },
     {
       "match": "Ciudad de Bolivar v CA San Miguel",
@@ -3261,7 +3261,7 @@
       "open_date": "2026-05-31 10:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 410,
+      "volume": 510,
       "best_volume": 3550,
       "whale_max": 0,
       "entered": false
