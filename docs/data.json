@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:48:24",
+  "last_update": "31/05/2026 12:50:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 180,
+    "total": 181,
     "wins": 160,
     "losses": 12,
-    "in_corso": 8,
+    "in_corso": 9,
     "winrate": 93.0,
     "profit": -35.36,
     "roi": -0.2,
@@ -81,7 +81,7 @@
     {
       "match": "UD Poblense v Aguilas",
       "campionato": "Spanish Segunda Federación Playoffs",
-      "volume": 15653,
+      "volume": 15652,
       "quota": 1.08,
       "in_range": true,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "Degerfors v Brommapojkarna",
       "campionato": "Swedish Allsvenskan",
-      "volume": 6363,
+      "volume": 6273,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -167,21 +167,6 @@
       "market_id": "1.258575426",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
-    },
-    {
-      "match": "Vastra Frolunda v Dalstorps IF",
-      "campionato": "Swedish Division 2",
-      "volume": 5394,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656367",
-      "market_id": "1.258752072",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Helsingborgs v Norrkoping",
@@ -272,6 +257,21 @@
       "market_id": "1.258770638",
       "_is_inplay": true,
       "open_date": "2026-05-31 12:00"
+    },
+    {
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "volume": 2960,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656367",
+      "market_id": "1.258752072",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
@@ -574,21 +574,6 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 715,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
       "volume": 684,
@@ -844,6 +829,21 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 257,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Wieczysta Krakow v Chrobry Glogow",
       "campionato": "Polish I Liga",
       "volume": 253,
@@ -951,7 +951,7 @@
     {
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
       "campionato": "Spanish Liga F",
-      "volume": 100,
+      "volume": 90,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -3084,7 +3084,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 15653,
+      "volume": 15652,
       "best_volume": 19990,
       "whale_max": 0,
       "entered": true
@@ -3096,7 +3096,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 6363,
+      "volume": 6273,
       "best_volume": 6794,
       "whale_max": 0,
       "entered": false
@@ -3190,12 +3190,12 @@
       "match": "Vastra Frolunda v Dalstorps IF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 5394,
+      "volume": 2960,
       "best_volume": 21016,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258694566",
@@ -3372,7 +3372,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 100,
+      "volume": 90,
       "best_volume": 100,
       "whale_max": 0,
       "entered": false
@@ -3547,6 +3547,20 @@
     }
   ],
   "giocate": [
+    {
+      "id": 193,
+      "orario": "2026-05-31 12:49:56",
+      "match": "Vastra Frolunda v Dalstorps IF",
+      "campionato": "Swedish Division 2",
+      "quota": 1.08,
+      "volume": 21016,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 192,
       "orario": "2026-05-31 12:05:05",
