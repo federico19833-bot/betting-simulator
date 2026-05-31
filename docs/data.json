@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:13:18",
+  "last_update": "31/05/2026 09:13:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Egersund v Stromsgodset",
       "campionato": "Norwegian 1st Division",
-      "volume": 12914,
+      "volume": 12217,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 8387,
+      "volume": 8535,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
-      "volume": 5950,
+      "volume": 6000,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -229,6 +229,21 @@
       "open_date": "2026-05-31 09:30"
     },
     {
+      "match": "Tallinna Kalev v Levadia Tallinn II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 1674,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667032",
+      "market_id": "1.258753129",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Yeoju FC v Daejeon Korail FC",
       "campionato": "South Korean K3 League",
       "volume": 1580,
@@ -257,21 +272,6 @@
       "market_id": "1.258694518",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:15"
-    },
-    {
-      "match": "Tallinna Kalev v Levadia Tallinn II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 1552,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667032",
-      "market_id": "1.258753129",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Pitea v FC Stockholm Internazionale",
@@ -709,6 +709,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Athletic Bilbao (W) v Alhama CF (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 423,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667127",
+      "market_id": "1.258745864",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Motala v Vanersborgs IF",
       "campionato": "Swedish Division 2",
       "volume": 418,
@@ -1125,21 +1140,6 @@
       "source": "Betfair",
       "event_id": "35667232",
       "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Athletic Bilbao (W) v Alhama CF (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667127",
-      "market_id": "1.258745864",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -3069,7 +3069,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 5950,
+      "volume": 6000,
       "best_volume": 6398,
       "whale_max": 0,
       "entered": false
@@ -3115,9 +3115,9 @@
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 423,
       "best_volume": 5249,
       "whale_max": 0,
       "entered": false
@@ -3129,8 +3129,8 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 8387,
-      "best_volume": 8525,
+      "volume": 8535,
+      "best_volume": 8535,
       "whale_max": 0,
       "entered": false
     },
@@ -3165,7 +3165,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 12914,
+      "volume": 12217,
       "best_volume": 21900,
       "whale_max": 0,
       "entered": true
@@ -3393,8 +3393,8 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 1552,
-      "best_volume": 1552,
+      "volume": 1674,
+      "best_volume": 1674,
       "whale_max": 0,
       "entered": false
     },
