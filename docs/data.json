@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:20:57",
+  "last_update": "31/05/2026 10:21:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 3182,
+      "volume": 3124,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -227,6 +227,21 @@
       "market_id": "1.258684508",
       "_is_inplay": true,
       "open_date": "2026-05-31 09:30"
+    },
+    {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 1711,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Pitea v FC Stockholm Internazionale",
@@ -887,21 +902,6 @@
       "market_id": "1.258575300",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 151,
-      "quota": 1.27,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Londrina v Vila Nova",
@@ -2943,7 +2943,7 @@
       "open_date": "2026-05-31 22:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 3182,
+      "volume": 3124,
       "best_volume": 3182,
       "whale_max": 0,
       "entered": false
