@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 23:43:22",
+  "last_update": "31/05/2026 23:44:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 22963,
+      "volume": 23379,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -124,9 +124,24 @@
       "open_date": "2026-06-01 00:00"
     },
     {
+      "match": "Cuiaba v CRB",
+      "campionato": "Brazilian Serie B",
+      "volume": 106,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648545",
+      "market_id": "1.258579707",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
-      "volume": 533,
+      "volume": 48,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -141,8 +156,8 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 141,
-      "quota": 1.13,
+      "volume": 32,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -150,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35624962",
       "market_id": "1.258659704",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Cuiaba v CRB",
-      "campionato": "Brazilian Serie B",
-      "volume": 106,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648545",
-      "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
     }
@@ -2289,7 +2289,7 @@
       "open_date": "2026-06-01 00:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 22963,
+      "volume": 23379,
       "best_volume": 23379,
       "whale_max": 0,
       "entered": true
