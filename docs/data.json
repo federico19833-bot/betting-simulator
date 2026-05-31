@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 15:56:39",
+  "last_update": "31/05/2026 15:57:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-05-31 18:30"
     },
     {
+      "match": "Tallinna Kalev v Levadia Tallinn II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 31667,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667032",
+      "market_id": "1.258753129",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
       "volume": 22052,
@@ -47,21 +62,6 @@
       "market_id": "1.258666256",
       "_is_inplay": true,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "Tallinna Kalev v Levadia Tallinn II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 20780,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667032",
-      "market_id": "1.258753129",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Ceara SC Fortaleza v Operario PR",
@@ -124,6 +124,21 @@
       "open_date": "2026-05-31 18:30"
     },
     {
+      "match": "Wieczysta Krakow v Chrobry Glogow",
+      "campionato": "Polish I Liga",
+      "volume": 10444,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661817",
+      "market_id": "1.258706502",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:45"
+    },
+    {
       "match": "AC Oulu v Jaro",
       "campionato": "Finnish Veikkausliiga",
       "volume": 10343,
@@ -152,21 +167,6 @@
       "market_id": "1.258659768",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Wieczysta Krakow v Chrobry Glogow",
-      "campionato": "Polish I Liga",
-      "volume": 7313,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661817",
-      "market_id": "1.258706502",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:45"
     },
     {
       "match": "Karlbergs BK v FBK Karlstad",
@@ -216,7 +216,7 @@
     {
       "match": "Volsungur v Aegir",
       "campionato": "Icelandic 1 Deild",
-      "volume": 3101,
+      "volume": 3380,
       "quota": 1.27,
       "in_range": false,
       "monitored": false,
@@ -225,6 +225,21 @@
       "source": "Betfair",
       "event_id": "35665593",
       "market_id": "1.258737331",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "KF Ferizaj v KF Llapi",
+      "campionato": "Kosovan Superliga",
+      "volume": 3100,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663015",
+      "market_id": "1.258726988",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -289,21 +304,6 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "KF Ferizaj v KF Llapi",
-      "campionato": "Kosovan Superliga",
-      "volume": 2768,
-      "quota": 1.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663015",
-      "market_id": "1.258726988",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
       "volume": 2204,
@@ -321,7 +321,7 @@
     {
       "match": "Varnamo v United IK Nordic",
       "campionato": "Swedish Superettan",
-      "volume": 2001,
+      "volume": 2051,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -336,7 +336,7 @@
     {
       "match": "Londrina v Vila Nova",
       "campionato": "Brazilian Serie B",
-      "volume": 1873,
+      "volume": 1922,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -3069,7 +3069,7 @@
       "open_date": "2026-05-31 20:45",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.01,
-      "volume": 7313,
+      "volume": 10444,
       "best_volume": 19693,
       "whale_max": 0,
       "entered": true
@@ -3379,10 +3379,10 @@
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 20780,
-      "best_volume": 20780,
+      "volume": 31667,
+      "best_volume": 31667,
       "whale_max": 0,
       "entered": false
     },
