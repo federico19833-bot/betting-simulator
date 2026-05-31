@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:46:17",
+  "last_update": "31/05/2026 09:46:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,9 +36,9 @@
     {
       "match": "Egersund v Stromsgodset",
       "campionato": "Norwegian 1st Division",
-      "volume": 16184,
-      "quota": 1.08,
-      "in_range": true,
+      "volume": 13040,
+      "quota": 1.07,
+      "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -47,21 +47,6 @@
       "market_id": "1.258694608",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "SD Eibar (W) v EDF Logrono (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 9882,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666892",
-      "market_id": "1.258743003",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "Estudiantes v Rosario Central",
@@ -79,9 +64,24 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "SD Eibar (W) v EDF Logrono (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 8662,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666892",
+      "market_id": "1.258743003",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 8430,
+      "volume": 7086,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -94,25 +94,10 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 4607,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
       "campionato": "Chinese Super League",
-      "volume": 4224,
-      "quota": 1.13,
+      "volume": 3727,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -287,6 +272,21 @@
       "market_id": "1.258694518",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:15"
+    },
+    {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 1490,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Raufoss v Haugesund",
@@ -2862,7 +2862,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 8430,
+      "volume": 7086,
       "best_volume": 11271,
       "whale_max": 0,
       "entered": false
@@ -2896,9 +2896,9 @@
       "match": "Egersund v Stromsgodset",
       "campionato": "Norwegian 1st Division",
       "open_date": "2026-05-31 17:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 16184,
+      "volume": 13040,
       "best_volume": 21900,
       "whale_max": 0,
       "entered": true
@@ -2946,7 +2946,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 9882,
+      "volume": 8662,
       "best_volume": 9882,
       "whale_max": 0,
       "entered": false
@@ -3664,9 +3664,9 @@
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 13:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 4607,
+      "volume": 1490,
       "best_volume": 4607,
       "whale_max": 0,
       "entered": false
