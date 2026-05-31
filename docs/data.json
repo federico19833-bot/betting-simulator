@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 05:30:28",
+  "last_update": "31/05/2026 05:30:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -934,6 +934,21 @@
       "open_date": "2026-05-31 18:30"
     },
     {
+      "match": "CA Atlanta v Club Gimnasia y Tiro",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 154,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648512",
+      "market_id": "1.258755058",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
       "match": "CD Castellon v Eibar",
       "campionato": "Spanish Segunda Division",
       "volume": 144,
@@ -1082,21 +1097,6 @@
       "market_id": "1.258737268",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "CA Atlanta v Club Gimnasia y Tiro",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 44,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648512",
-      "market_id": "1.258755058",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "Almeria v Valladolid",
@@ -3592,9 +3592,9 @@
       "match": "CA Atlanta v Club Gimnasia y Tiro",
       "campionato": "Argentinian Primera Nacional",
       "open_date": "2026-05-31 18:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 44,
+      "volume": 154,
       "best_volume": 154,
       "whale_max": 0,
       "entered": false
