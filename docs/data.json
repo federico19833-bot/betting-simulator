@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 01:18:58",
+  "last_update": "01/06/2026 01:19:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
-      "volume": 18155,
+      "volume": 17339,
       "quota": 1.09,
       "in_range": true,
       "monitored": false,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 1632,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "volume": 1205,
@@ -77,6 +62,21 @@
       "market_id": "1.258706481",
       "_is_inplay": true,
       "open_date": "2026-06-01 01:10"
+    },
+    {
+      "match": "Cruzeiro MG v Fluminense",
+      "campionato": "Brazilian Serie A",
+      "volume": 1111,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35625075",
+      "market_id": "1.258659725",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
     }
   ],
   "tracked_matches": [
@@ -2091,7 +2091,7 @@
       "open_date": "2026-06-01 00:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 18155,
+      "volume": 17339,
       "best_volume": 23041,
       "whale_max": 0,
       "entered": true
