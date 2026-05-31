@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 06:01:40",
+  "last_update": "31/05/2026 06:02:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Ansan Greeners FC v Cheonan City",
       "campionato": "South Korean K2 League",
-      "volume": 3536,
+      "volume": 3532,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -874,6 +874,21 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "Burgos v FC Andorra",
+      "campionato": "Spanish Segunda Division",
+      "volume": 164,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647969",
+      "market_id": "1.258575384",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
       "volume": 160,
@@ -902,21 +917,6 @@
       "market_id": "1.258747496",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "Burgos v FC Andorra",
-      "campionato": "Spanish Segunda Division",
-      "volume": 154,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647969",
-      "market_id": "1.258575384",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "CD Castellon v Eibar",
@@ -996,7 +996,7 @@
     {
       "match": "Hillerod Fodbold v Hvidovre",
       "campionato": "Danish 1st Division",
-      "volume": 102,
+      "volume": 92,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -1007,21 +1007,6 @@
       "market_id": "1.258666235",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "Londrina v Vila Nova",
-      "campionato": "Brazilian Serie B",
-      "volume": 95,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648363",
-      "market_id": "1.258575587",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Cienciano v Sporting Cristal",
@@ -1112,21 +1097,6 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
-    },
-    {
-      "match": "Real Madrid FC (W) v Granada (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667246",
-      "market_id": "1.258747362",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "Korsnas FF v Viggbyholms IK FF",
@@ -2907,7 +2877,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 3536,
+      "volume": 3532,
       "best_volume": 13037,
       "whale_max": 0,
       "entered": true
@@ -3171,7 +3141,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 102,
+      "volume": 92,
       "best_volume": 1534,
       "whale_max": 0,
       "entered": false
@@ -3701,30 +3671,6 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258747362",
-      "match": "Real Madrid FC (W) v Granada (W)",
-      "campionato": "Spanish Liga F",
-      "open_date": "2026-05-31 12:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 10,
-      "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258575587",
-      "match": "Londrina v Vila Nova",
-      "campionato": "Brazilian Serie B",
-      "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 95,
-      "best_volume": 95,
       "whale_max": 0,
       "entered": false
     }
