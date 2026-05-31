@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 17:51:43",
+  "last_update": "31/05/2026 17:52:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "Bryne v Hodd",
       "campionato": "Norwegian 1st Division",
-      "volume": 10460,
+      "volume": 10305,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -184,21 +184,6 @@
       "open_date": "2026-05-31 20:15"
     },
     {
-      "match": "Villa San Carlos v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 4456,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663036",
-      "market_id": "1.258720594",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
-    },
-    {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
       "volume": 3717,
@@ -214,19 +199,19 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Sportivo Italiano v Argentino de Merlo",
+      "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3552,
-      "quota": 1.23,
+      "volume": 3653,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663037",
-      "market_id": "1.258720463",
+      "event_id": "35663036",
+      "market_id": "1.258720594",
       "_is_inplay": false,
-      "open_date": "2026-05-31 19:30"
+      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "CD Castellon v Eibar",
@@ -244,6 +229,21 @@
       "open_date": "2026-05-31 18:30"
     },
     {
+      "match": "Cobreloa Calama v CSD Rangers",
+      "campionato": "Chilean Primera B",
+      "volume": 3020,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662997",
+      "market_id": "1.258752444",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:30"
+    },
+    {
       "match": "Helsingborgs v Norrkoping",
       "campionato": "Swedish Superettan",
       "volume": 2906,
@@ -259,9 +259,24 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "Sportivo Italiano v Argentino de Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 2742,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663037",
+      "market_id": "1.258720463",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 19:30"
+    },
+    {
       "match": "Camioneros v Talleres (RE)",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1967,
+      "volume": 1993,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -561,8 +576,8 @@
     {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
-      "volume": 114,
-      "quota": 2.5,
+      "volume": 58,
+      "quota": 3.35,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -602,21 +617,6 @@
       "market_id": "1.258575468",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Cobreloa Calama v CSD Rangers",
-      "campionato": "Chilean Primera B",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662997",
-      "market_id": "1.258752444",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -2268,7 +2268,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 10460,
+      "volume": 10305,
       "best_volume": 38372,
       "whale_max": 0,
       "entered": true
@@ -2748,7 +2748,7 @@
       "open_date": "2026-05-31 23:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 3020,
       "best_volume": 3020,
       "whale_max": 0,
       "entered": false
