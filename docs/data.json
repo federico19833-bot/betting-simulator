@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 20:03:35",
+  "last_update": "31/05/2026 20:04:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Gent v Genk",
       "campionato": "Belgian Pro League",
-      "volume": 22638,
+      "volume": 27367,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Juventud De Las Piedras v Wanderers (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1920,
+      "volume": 1945,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -274,6 +274,21 @@
       "open_date": "2026-05-31 20:00"
     },
     {
+      "match": "Racing Club v Defensa y Justicia",
+      "campionato": "Argentinian Cup",
+      "volume": 218,
+      "quota": 2.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35641100",
+      "market_id": "1.258677964",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 00:00"
+    },
+    {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 188,
@@ -319,19 +334,19 @@
       "open_date": "2026-05-31 22:15"
     },
     {
-      "match": "Racing Club v Defensa y Justicia",
-      "campionato": "Argentinian Cup",
-      "volume": 134,
-      "quota": 1.92,
+      "match": "Ceara SC Fortaleza v Operario PR",
+      "campionato": "Brazilian Serie B",
+      "volume": 75,
+      "quota": 2.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35641100",
-      "market_id": "1.258677964",
+      "event_id": "35648443",
+      "market_id": "1.258575342",
       "_is_inplay": false,
-      "open_date": "2026-06-01 00:00"
+      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
@@ -347,21 +362,6 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
-    },
-    {
-      "match": "Ceara SC Fortaleza v Operario PR",
-      "campionato": "Brazilian Serie B",
-      "volume": 50,
-      "quota": 1.87,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648443",
-      "market_id": "1.258575342",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Afturelding v Fylkir",
@@ -2154,7 +2154,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 22638,
+      "volume": 27367,
       "best_volume": 32086,
       "whale_max": 0,
       "entered": true
