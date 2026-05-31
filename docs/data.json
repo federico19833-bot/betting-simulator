@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:05:24",
+  "last_update": "31/05/2026 11:05:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -152,21 +152,6 @@
       "market_id": "1.258575629",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:30"
-    },
-    {
-      "match": "Motala v Vanersborgs IF",
-      "campionato": "Swedish Division 2",
-      "volume": 2058,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35656349",
-      "market_id": "1.258690551",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Hacken v Hammarby",
@@ -694,6 +679,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Slovacko v SK Artis Brno",
+      "campionato": "Czech 1 Liga",
+      "volume": 366,
+      "quota": 1.96,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35659956",
+      "market_id": "1.258689697",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
       "match": "Defensores Unidos v Flandria",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 353,
@@ -979,21 +979,6 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Slovacko v SK Artis Brno",
-      "campionato": "Czech 1 Liga",
-      "volume": 14,
-      "quota": 1.89,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35659956",
-      "market_id": "1.258689697",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Real Sociedad (W) v Atletico Madrid (W)",
       "campionato": "Spanish Liga F",
       "volume": 10,
@@ -1037,6 +1022,21 @@
       "market_id": "1.258688613",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Motala v Vanersborgs IF",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35656349",
+      "market_id": "1.258690551",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Degerfors v Brommapojkarna",
@@ -3049,9 +3049,9 @@
       "match": "Motala v Vanersborgs IF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 2058,
+      "volume": 10,
       "best_volume": 2058,
       "whale_max": 0,
       "entered": false
