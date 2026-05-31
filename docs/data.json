@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 22:29:36",
+  "last_update": "31/05/2026 22:30:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,8 +66,8 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 2034,
-      "quota": 1.06,
+      "volume": 2379,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -96,7 +96,7 @@
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1001,
+      "volume": 773,
       "quota": 1.3,
       "in_range": false,
       "monitored": false,
@@ -122,21 +122,6 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Leganes v Mirandes",
-      "campionato": "Spanish Segunda Division",
-      "volume": 540,
-      "quota": 1.58,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647970",
-      "market_id": "1.258575503",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Emelec v Univ Catolica (Ecu)",
@@ -212,6 +197,21 @@
       "market_id": "1.258677964",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
+    },
+    {
+      "match": "Leganes v Mirandes",
+      "campionato": "Spanish Segunda Division",
+      "volume": 23,
+      "quota": 1.61,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647970",
+      "market_id": "1.258575503",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 21:00"
     }
   ],
   "tracked_matches": [
@@ -2416,9 +2416,9 @@
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-06-01 01:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 2034,
+      "volume": 2379,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
