@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:16:09",
+  "last_update": "31/05/2026 09:16:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
-      "volume": 16550,
+      "volume": 16444,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 8535,
+      "volume": 8621,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
-      "volume": 6047,
+      "volume": 6000,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -77,6 +77,21 @@
       "market_id": "1.258703211",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 3648,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Slovacko v SK Artis Brno",
@@ -107,21 +122,6 @@
       "market_id": "1.258694629",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 2392,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Guayaquil City v Independiente (Ecu)",
@@ -169,21 +169,6 @@
       "open_date": "2026-05-31 15:00"
     },
     {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 2002,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
       "match": "Karlskrona v Lilla Torg",
       "campionato": "Swedish Division 2",
       "volume": 1895,
@@ -227,6 +212,36 @@
       "market_id": "1.258684487",
       "_is_inplay": false,
       "open_date": "2026-05-31 09:30"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 1704,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 1648,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650475",
+      "market_id": "1.258694650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Yeoju FC v Daejeon Korail FC",
@@ -302,21 +317,6 @@
       "market_id": "1.258671591",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:15"
-    },
-    {
-      "match": "Ranheim IL v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 1208,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650475",
-      "market_id": "1.258694650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Husqvarna v Stenungsunds IF",
@@ -514,6 +514,21 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Villa San Carlos v Excursionistas",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 709,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663036",
+      "market_id": "1.258720594",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:30"
+    },
+    {
       "match": "Cruzeiro MG v Fluminense",
       "campionato": "Brazilian Serie A",
       "volume": 692,
@@ -542,21 +557,6 @@
       "market_id": "1.258694566",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "Villa San Carlos v Excursionistas",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 677,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663036",
-      "market_id": "1.258720594",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:30"
     },
     {
       "match": "FK Kauno Zalgiris v VMFD Zalgiris",
@@ -2808,7 +2808,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 16550,
+      "volume": 16444,
       "best_volume": 29926,
       "whale_max": 0,
       "entered": true
@@ -3024,7 +3024,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2392,
+      "volume": 3648,
       "best_volume": 3940,
       "whale_max": 0,
       "entered": false
@@ -3084,7 +3084,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 6047,
+      "volume": 6000,
       "best_volume": 6398,
       "whale_max": 0,
       "entered": false
@@ -3144,8 +3144,8 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 8535,
-      "best_volume": 8535,
+      "volume": 8621,
+      "best_volume": 8621,
       "whale_max": 0,
       "entered": false
     },
@@ -3168,7 +3168,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 1208,
+      "volume": 1648,
       "best_volume": 3990,
       "whale_max": 0,
       "entered": false
@@ -3192,8 +3192,8 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 677,
-      "best_volume": 677,
+      "volume": 709,
+      "best_volume": 709,
       "whale_max": 0,
       "entered": false
     },
