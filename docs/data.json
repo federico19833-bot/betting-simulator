@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 13:39:43",
+  "last_update": "31/05/2026 13:40:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -246,7 +246,7 @@
     {
       "match": "Varnamo v United IK Nordic",
       "campionato": "Swedish Superettan",
-      "volume": 3867,
+      "volume": 3384,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -257,6 +257,21 @@
       "market_id": "1.258575650",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Vasteras SK v IFK Goteborg",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 2999,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649545",
+      "market_id": "1.258597138",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Strommen v Sogndal",
@@ -379,21 +394,6 @@
       "open_date": "2026-05-31 23:30"
     },
     {
-      "match": "Albion FC v Torque",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 1529,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648575",
-      "market_id": "1.258694587",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "Kongsvinger v Asane",
       "campionato": "Norwegian 1st Division",
       "volume": 1432,
@@ -514,6 +514,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "Hacken v Hammarby",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 1054,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649535",
+      "market_id": "1.258597115",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "Leganes v Mirandes",
       "campionato": "Spanish Segunda Division",
       "volume": 1050,
@@ -587,21 +602,6 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Vasteras SK v IFK Goteborg",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 747,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649545",
-      "market_id": "1.258597138",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "CD Los Chankas v UTC Cajamarca",
@@ -724,19 +724,19 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "Hacken v Hammarby",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 340,
-      "quota": 1.03,
+      "match": "Njardvik v Grotta",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 306,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35649535",
-      "market_id": "1.258597115",
+      "event_id": "35665589",
+      "market_id": "1.258737268",
       "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Melgar v Alianza Atletico",
@@ -932,21 +932,6 @@
       "market_id": "1.258666256",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "Njardvik v Grotta",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 79,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665589",
-      "market_id": "1.258737268",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Red Bull Bragantino v Internacional",
@@ -3274,9 +3259,9 @@
       "match": "Hacken v Hammarby",
       "campionato": "Swedish Allsvenskan",
       "open_date": "2026-05-31 14:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.01,
-      "volume": 340,
+      "volume": 1054,
       "best_volume": 1208,
       "whale_max": 0,
       "entered": false
@@ -3480,7 +3465,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 3867,
+      "volume": 3384,
       "best_volume": 4971,
       "whale_max": 0,
       "entered": false
@@ -3566,18 +3551,6 @@
       "quota_iniziale": 1.03,
       "volume": 72,
       "best_volume": 72,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258694587",
-      "match": "Albion FC v Torque",
-      "campionato": "Uruguayan Primera Division",
-      "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 1529,
-      "best_volume": 1529,
       "whale_max": 0,
       "entered": false
     }
