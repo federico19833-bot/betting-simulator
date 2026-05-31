@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 18:54:03",
+  "last_update": "31/05/2026 18:54:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,8 +66,8 @@
     {
       "match": "Burgos v FC Andorra",
       "campionato": "Spanish Segunda Division",
-      "volume": 6588,
-      "quota": 1.12,
+      "volume": 7247,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -79,39 +79,9 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 6422,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663025",
-      "market_id": "1.258720657",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 17:30"
-    },
-    {
-      "match": "IK Sleipner v Orebro Syrianska",
-      "campionato": "Swedish Division 2",
-      "volume": 4468,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663211",
-      "market_id": "1.258751941",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Defensores Unidos v Flandria",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3518,
+      "volume": 6540,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -122,6 +92,21 @@
       "market_id": "1.258720615",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "IK Sleipner v Orebro Syrianska",
+      "campionato": "Swedish Division 2",
+      "volume": 5640,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663211",
+      "market_id": "1.258751941",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Almeria v Valladolid",
@@ -137,6 +122,21 @@
       "market_id": "1.258575279",
       "_is_inplay": true,
       "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 2795,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663025",
+      "market_id": "1.258720657",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 17:30"
     },
     {
       "match": "Vasco da Gama v Atletico MG",
@@ -212,21 +212,6 @@
       "market_id": "1.258706481",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:10"
-    },
-    {
-      "match": "Guayaquil City v Independiente (Ecu)",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 751,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648365",
-      "market_id": "1.258575629",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:30"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -409,6 +394,21 @@
       "open_date": "2026-05-31 19:00"
     },
     {
+      "match": "Afturelding v Fylkir",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 239,
+      "quota": 1.98,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665592",
+      "market_id": "1.258737310",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:15"
+    },
+    {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 222,
@@ -422,6 +422,21 @@
       "market_id": "1.258581454",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
+    },
+    {
+      "match": "Guayaquil City v Independiente (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 202,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648365",
+      "market_id": "1.258575629",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:30"
     },
     {
       "match": "Remo v Sao Paulo",
@@ -452,21 +467,6 @@
       "market_id": "1.258659789",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Afturelding v Fylkir",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 100,
-      "quota": 2.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665592",
-      "market_id": "1.258737310",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:15"
     },
     {
       "match": "Cuiaba v CRB",
@@ -2637,7 +2637,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 4468,
+      "volume": 5640,
       "best_volume": 38372,
       "whale_max": 0,
       "entered": false
@@ -2707,9 +2707,9 @@
       "match": "CSD Liniers de Ciudad Evita v Villa Dalmine",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 17:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 6422,
+      "volume": 2795,
       "best_volume": 38341,
       "whale_max": 0,
       "entered": true
