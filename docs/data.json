@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 07:09:48",
+  "last_update": "31/05/2026 07:10:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -349,21 +349,6 @@
       "open_date": "2026-05-31 19:30"
     },
     {
-      "match": "Ranheim IL v Sandnes Ulf",
-      "campionato": "Norwegian 1st Division",
-      "volume": 998,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650475",
-      "market_id": "1.258694650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "Patronato v Tristan Suarez",
       "campionato": "Argentinian Primera Nacional",
       "volume": 877,
@@ -437,6 +422,21 @@
       "market_id": "1.258690294",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:35"
+    },
+    {
+      "match": "Ranheim IL v Sandnes Ulf",
+      "campionato": "Norwegian 1st Division",
+      "volume": 801,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650475",
+      "market_id": "1.258694650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Villarreal B v Zamora",
@@ -3393,7 +3393,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 998,
+      "volume": 801,
       "best_volume": 3990,
       "whale_max": 0,
       "entered": false
