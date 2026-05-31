@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 15:52:40",
+  "last_update": "31/05/2026 15:53:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Gent v Genk",
       "campionato": "Belgian Pro League",
-      "volume": 31478,
+      "volume": 31690,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -139,21 +139,6 @@
       "open_date": "2026-05-31 15:00"
     },
     {
-      "match": "Red Bull Bragantino v Internacional",
-      "campionato": "Brazilian Serie A",
-      "volume": 8105,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624944",
-      "market_id": "1.258659768",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Wieczysta Krakow v Chrobry Glogow",
       "campionato": "Polish I Liga",
       "volume": 7313,
@@ -180,6 +165,21 @@
       "source": "Betfair",
       "event_id": "35657047",
       "market_id": "1.258672594",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Red Bull Bragantino v Internacional",
+      "campionato": "Brazilian Serie A",
+      "volume": 6285,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624944",
+      "market_id": "1.258659768",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -214,21 +214,6 @@
       "open_date": "2026-05-31 15:00"
     },
     {
-      "match": "Espanyol (W) v Sevilla FC (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 3968,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667236",
-      "market_id": "1.258747206",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Volsungur v Aegir",
       "campionato": "Icelandic 1 Deild",
       "volume": 3291,
@@ -255,6 +240,21 @@
       "source": "Betfair",
       "event_id": "35667127",
       "market_id": "1.258745864",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Espanyol (W) v Sevilla FC (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 2959,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667236",
+      "market_id": "1.258747206",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
     },
@@ -2808,8 +2808,8 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 31478,
-      "best_volume": 31478,
+      "volume": 31690,
+      "best_volume": 31690,
       "whale_max": 0,
       "entered": true
     },
@@ -3214,9 +3214,9 @@
       "match": "Espanyol (W) v Sevilla FC (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 3968,
+      "volume": 2959,
       "best_volume": 19067,
       "whale_max": 0,
       "entered": true
@@ -3240,7 +3240,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 8105,
+      "volume": 6285,
       "best_volume": 20766,
       "whale_max": 0,
       "entered": true
