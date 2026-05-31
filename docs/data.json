@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 07:11:53",
+  "last_update": "31/05/2026 07:12:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -649,6 +649,21 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "Hillerod Fodbold v Hvidovre",
+      "campionato": "Danish 1st Division",
+      "volume": 510,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650090",
+      "market_id": "1.258666235",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
       "match": "FC Cajamarca v Alianza Lima",
       "campionato": "Peruvian Primera Division",
       "volume": 461,
@@ -737,21 +752,6 @@
       "market_id": "1.258579579",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Hillerod Fodbold v Hvidovre",
-      "campionato": "Danish 1st Division",
-      "volume": 372,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650090",
-      "market_id": "1.258666235",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Defensores Unidos v Flandria",
@@ -932,21 +932,6 @@
       "market_id": "1.258575384",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Quilmes v Atletico Rafaela",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 162,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648519",
-      "market_id": "1.258579407",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "Estudiantes v Rosario Central",
@@ -3063,18 +3048,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258579407",
-      "match": "Quilmes v Atletico Rafaela",
-      "campionato": "Argentinian Primera Nacional",
-      "open_date": "2026-05-31 22:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.08,
-      "volume": 1265,
-      "best_volume": 2072,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258684508",
       "match": "Jeonnam Dragons v Seoul E-Land FC",
       "campionato": "South Korean K2 League",
@@ -3117,7 +3090,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 372,
+      "volume": 510,
       "best_volume": 1534,
       "whale_max": 0,
       "entered": false
