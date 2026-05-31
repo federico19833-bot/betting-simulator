@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 06:33:24",
+  "last_update": "31/05/2026 06:33:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -694,6 +694,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 418,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "Sao Bernardo v Novorizontino",
       "campionato": "Brazilian Serie B",
       "volume": 416,
@@ -709,21 +724,6 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "Yeoju FC v Daejeon Korail FC",
-      "campionato": "South Korean K3 League",
-      "volume": 410,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35662443",
-      "market_id": "1.258713159",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 10:00"
-    },
-    {
       "match": "Ciudad de Bolivar v CA San Miguel",
       "campionato": "Argentinian Primera Nacional",
       "volume": 405,
@@ -737,6 +737,21 @@
       "market_id": "1.258579579",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Yeoju FC v Daejeon Korail FC",
+      "campionato": "South Korean K3 League",
+      "volume": 398,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35662443",
+      "market_id": "1.258713159",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 10:00"
     },
     {
       "match": "Hillerod Fodbold v Hvidovre",
@@ -767,21 +782,6 @@
       "market_id": "1.258720615",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
-    },
-    {
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 340,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667368",
-      "market_id": "1.258748004",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Paide Linnameeskond v Kuressaare",
@@ -3231,7 +3231,7 @@
       "open_date": "2026-05-31 10:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 410,
+      "volume": 398,
       "best_volume": 3550,
       "whale_max": 0,
       "entered": false
@@ -3279,8 +3279,8 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 340,
-      "best_volume": 402,
+      "volume": 418,
+      "best_volume": 418,
       "whale_max": 0,
       "entered": false
     },
