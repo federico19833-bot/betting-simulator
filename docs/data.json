@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 18:26:44",
+  "last_update": "31/05/2026 18:27:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Magallanes v Deportes Iquique",
       "campionato": "Chilean Primera B",
-      "volume": 33612,
+      "volume": 33123,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "IK Sleipner v Orebro Syrianska",
       "campionato": "Swedish Division 2",
-      "volume": 23219,
+      "volume": 29043,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Esperance Sportive Zarzis v Sportive De Tunis",
       "campionato": "Tunisian Cup",
-      "volume": 13994,
+      "volume": 13992,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -199,21 +199,6 @@
       "open_date": "2026-05-31 21:15"
     },
     {
-      "match": "Racing Santander v Cadiz",
-      "campionato": "Spanish Segunda Division",
-      "volume": 3075,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647973",
-      "market_id": "1.258575565",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 18:30"
-    },
-    {
       "match": "Melgar v Alianza Atletico",
       "campionato": "Peruvian Primera Division",
       "volume": 2906,
@@ -242,6 +227,21 @@
       "market_id": "1.258703211",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "volume": 2153,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647973",
+      "market_id": "1.258575565",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
     },
     {
       "match": "Sportivo Italiano v Argentino de Merlo",
@@ -2337,7 +2337,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 33612,
+      "volume": 33123,
       "best_volume": 33612,
       "whale_max": 0,
       "entered": true
@@ -2407,9 +2407,9 @@
       "match": "Racing Santander v Cadiz",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-05-31 18:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 3075,
+      "volume": 2153,
       "best_volume": 31478,
       "whale_max": 0,
       "entered": true
@@ -2697,7 +2697,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 23219,
+      "volume": 29043,
       "best_volume": 38372,
       "whale_max": 0,
       "entered": false
@@ -2829,7 +2829,7 @@
       "open_date": "2026-05-31 17:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 13994,
+      "volume": 13992,
       "best_volume": 20372,
       "whale_max": 0,
       "entered": false
