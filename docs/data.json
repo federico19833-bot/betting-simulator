@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 00:06:49",
+  "last_update": "01/06/2026 00:07:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Cienciano v Sporting Cristal",
-      "campionato": "Peruvian Primera Division",
-      "volume": 23041,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648155",
-      "market_id": "1.258694257",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 00:00"
-    },
-    {
       "match": "Deportivo Maldonado v Nacional (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 19897,
@@ -49,17 +34,17 @@
       "open_date": "2026-05-31 23:30"
     },
     {
-      "match": "Racing Club v Defensa y Justicia",
-      "campionato": "Argentinian Cup",
-      "volume": 11898,
+      "match": "San Martin de Burzaco v Arsenal de Sarandi",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 11975,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35641100",
-      "market_id": "1.258677964",
+      "event_id": "35663026",
+      "market_id": "1.258720636",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
     },
@@ -79,8 +64,8 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Emelec v Univ Catolica (Ecu)",
-      "campionato": "Ecuadorian Serie A",
+      "match": "Racing Club v Defensa y Justicia",
+      "campionato": "Argentinian Cup",
       "volume": 1000,
       "quota": 1.07,
       "in_range": false,
@@ -88,31 +73,16 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648452",
-      "market_id": "1.258706481",
+      "event_id": "35641100",
+      "market_id": "1.258677964",
       "_is_inplay": false,
-      "open_date": "2026-06-01 01:10"
-    },
-    {
-      "match": "Remo v Sao Paulo",
-      "campionato": "Brazilian Serie A",
-      "volume": 825,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624962",
-      "market_id": "1.258659704",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
+      "open_date": "2026-06-01 00:00"
     },
     {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 642,
-      "quota": 1.18,
+      "volume": 732,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,25 +94,10 @@
       "open_date": "2026-05-31 23:00"
     },
     {
-      "match": "Cruzeiro MG v Fluminense",
-      "campionato": "Brazilian Serie A",
-      "volume": 312,
-      "quota": 1.26,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35625075",
-      "market_id": "1.258659725",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 01:30"
-    },
-    {
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
-      "volume": 10,
-      "quota": 1.16,
+      "volume": 522,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -152,6 +107,36 @@
       "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Remo v Sao Paulo",
+      "campionato": "Brazilian Serie A",
+      "volume": 459,
+      "quota": 1.26,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624962",
+      "market_id": "1.258659704",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "Emelec v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 10,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648452",
+      "market_id": "1.258706481",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:10"
     }
   ],
   "tracked_matches": [
@@ -2164,9 +2149,9 @@
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
       "open_date": "2026-06-01 00:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 11898,
+      "volume": 1000,
       "best_volume": 18091,
       "whale_max": 0,
       "entered": true
@@ -2272,9 +2257,9 @@
       "match": "San Martin de Burzaco v Arsenal de Sarandi",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-01 00:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 23185,
+      "volume": 11975,
       "best_volume": 23713,
       "whale_max": 0,
       "entered": true
