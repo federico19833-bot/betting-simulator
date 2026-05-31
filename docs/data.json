@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:46:44",
+  "last_update": "31/05/2026 11:47:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 6855,
+      "volume": 6920,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -141,7 +141,7 @@
     {
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
-      "volume": 2680,
+      "volume": 2779,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -276,7 +276,7 @@
     {
       "match": "Real Sociedad (W) v Atletico Madrid (W)",
       "campionato": "Spanish Liga F",
-      "volume": 1372,
+      "volume": 1318,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -366,7 +366,7 @@
     {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
-      "volume": 887,
+      "volume": 892,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -814,21 +814,6 @@
       "open_date": "2026-05-31 20:30"
     },
     {
-      "match": "AC Oulu v Jaro",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 260,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647361",
-      "market_id": "1.258624989",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "Ansan Greeners FC v Cheonan City",
       "campionato": "South Korean K2 League",
       "volume": 246,
@@ -842,6 +827,21 @@
       "market_id": "1.258687636",
       "_is_inplay": false,
       "open_date": "2026-05-31 12:00"
+    },
+    {
+      "match": "AC Oulu v Jaro",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 241,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647361",
+      "market_id": "1.258624989",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Camioneros v Talleres (RE)",
@@ -1022,6 +1022,21 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 20,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "IFK Haninge v IF Eker Örebro",
@@ -2898,7 +2913,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 2680,
+      "volume": 2779,
       "best_volume": 7008,
       "whale_max": 0,
       "entered": false
@@ -3006,7 +3021,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 1372,
+      "volume": 1318,
       "best_volume": 8445,
       "whale_max": 0,
       "entered": false
@@ -3174,7 +3189,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 887,
+      "volume": 892,
       "best_volume": 8918,
       "whale_max": 0,
       "entered": false
@@ -3258,7 +3273,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 6855,
+      "volume": 6920,
       "best_volume": 7121,
       "whale_max": 0,
       "entered": false
@@ -3534,7 +3549,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 260,
+      "volume": 241,
       "best_volume": 622,
       "whale_max": 0,
       "entered": false
@@ -3776,6 +3791,18 @@
       "quota_iniziale": 1.01,
       "volume": 240,
       "best_volume": 240,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258747337",
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "open_date": "2026-05-31 16:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 20,
+      "best_volume": 20,
       "whale_max": 0,
       "entered": false
     }
