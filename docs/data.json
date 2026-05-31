@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 00:29:35",
+  "last_update": "01/06/2026 00:30:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Cuiaba v CRB",
+      "campionato": "Brazilian Serie B",
+      "volume": 23041,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648545",
+      "market_id": "1.258579707",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 01:30"
+    },
+    {
       "match": "Emelec v Univ Catolica (Ecu)",
       "campionato": "Ecuadorian Serie A",
-      "volume": 23041,
+      "volume": 16841,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -36,8 +51,8 @@
     {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
-      "volume": 16828,
-      "quota": 1.07,
+      "volume": 1232,
+      "quota": 1.3,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,19 +64,19 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Cienciano v Sporting Cristal",
-      "campionato": "Peruvian Primera Division",
-      "volume": 1232,
-      "quota": 1.3,
+      "match": "Deportivo Maldonado v Nacional (Uru)",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 1219,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648155",
-      "market_id": "1.258694257",
+      "event_id": "35648579",
+      "market_id": "1.258581454",
       "_is_inplay": true,
-      "open_date": "2026-06-01 00:00"
+      "open_date": "2026-05-31 23:30"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -77,21 +92,6 @@
       "market_id": "1.258659725",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
-    },
-    {
-      "match": "Deportivo Maldonado v Nacional (Uru)",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 1037,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648579",
-      "market_id": "1.258581454",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 23:30"
     }
   ],
   "tracked_matches": [
@@ -2166,7 +2166,7 @@
       "open_date": "2026-06-01 01:10",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 23041,
+      "volume": 16841,
       "best_volume": 23041,
       "whale_max": 0,
       "entered": true
@@ -2188,10 +2188,10 @@
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-01 01:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 8009,
-      "best_volume": 18091,
+      "volume": 23041,
+      "best_volume": 23041,
       "whale_max": 0,
       "entered": true
     },
