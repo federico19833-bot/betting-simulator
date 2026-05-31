@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:45:09",
+  "last_update": "31/05/2026 09:45:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "SD Eibar (W) v EDF Logrono (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 9882,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666892",
-      "market_id": "1.258743003",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
-    },
-    {
       "match": "Estudiantes v Rosario Central",
       "campionato": "Argentinian Cup",
       "volume": 8918,
@@ -94,10 +79,25 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "SD Eibar (W) v EDF Logrono (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 5990,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666892",
+      "market_id": "1.258743003",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 6497,
-      "quota": 1.09,
+      "volume": 4607,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -105,21 +105,6 @@
       "source": "Betfair",
       "event_id": "35667003",
       "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
-      "campionato": "Chinese Super League",
-      "volume": 3727,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647416",
-      "market_id": "1.258688636",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
     },
@@ -572,6 +557,21 @@
       "market_id": "1.258688966",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:15"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
+      "campionato": "Chinese Super League",
+      "volume": 641,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647416",
+      "market_id": "1.258688636",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Cordoba v Huesca",
@@ -2946,7 +2946,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 9882,
+      "volume": 5990,
       "best_volume": 9882,
       "whale_max": 0,
       "entered": false
@@ -3632,6 +3632,114 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258713159",
+      "match": "Yeoju FC v Daejeon Korail FC",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-05-31 10:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1580,
+      "best_volume": 1580,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258688613",
+      "match": "IFK Haninge v IF Eker Örebro",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-31 13:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258745408",
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "open_date": "2026-05-31 13:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 4607,
+      "best_volume": 4607,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258597138",
+      "match": "Vasteras SK v IFK Goteborg",
+      "campionato": "Swedish Allsvenskan",
+      "open_date": "2026-05-31 14:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 858,
+      "best_volume": 858,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258748004",
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-31 14:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1208,
+      "best_volume": 1208,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258751941",
+      "match": "IK Sleipner v Orebro Syrianska",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-31 17:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 740,
+      "best_volume": 740,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258703211",
+      "match": "Estudiantes v Rosario Central",
+      "campionato": "Argentinian Cup",
+      "open_date": "2026-05-31 20:30",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 8918,
+      "best_volume": 8918,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258694518",
+      "match": "CD Los Chankas v UTC Cajamarca",
+      "campionato": "Peruvian Primera Division",
+      "open_date": "2026-05-31 22:15",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1560,
+      "best_volume": 1560,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258575629",
+      "match": "Guayaquil City v Independiente (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "open_date": "2026-05-31 22:30",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 2072,
+      "best_volume": 2072,
       "whale_max": 0,
       "entered": false
     }
