@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 19:19:25",
+  "last_update": "31/05/2026 19:20:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Leiknir R v HK Kopavogur",
       "campionato": "Icelandic 1 Deild",
-      "volume": 9269,
+      "volume": 9191,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -109,24 +109,9 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Almeria v Valladolid",
-      "campionato": "Spanish Segunda Division",
-      "volume": 3186,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647974",
-      "market_id": "1.258575279",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 18:30"
-    },
-    {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
-      "volume": 3051,
+      "volume": 3545,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -319,21 +304,6 @@
       "open_date": "2026-06-01 00:00"
     },
     {
-      "match": "Wieczysta Krakow v Chrobry Glogow",
-      "campionato": "Polish I Liga",
-      "volume": 282,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661817",
-      "market_id": "1.258706502",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 20:45"
-    },
-    {
       "match": "Camioneros v Talleres (RE)",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 263,
@@ -407,6 +377,21 @@
       "market_id": "1.258734475",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:00"
+    },
+    {
+      "match": "Wieczysta Krakow v Chrobry Glogow",
+      "campionato": "Polish I Liga",
+      "volume": 10,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661817",
+      "market_id": "1.258706502",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 20:45"
     },
     {
       "match": "Deportivo Tachira v Estudiantes de Merida",
@@ -2310,7 +2295,7 @@
       "open_date": "2026-05-31 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 9269,
+      "volume": 9191,
       "best_volume": 31690,
       "whale_max": 0,
       "entered": true
@@ -2440,9 +2425,9 @@
       "match": "Wieczysta Krakow v Chrobry Glogow",
       "campionato": "Polish I Liga",
       "open_date": "2026-05-31 20:45",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.01,
-      "volume": 282,
+      "volume": 10,
       "best_volume": 21590,
       "whale_max": 0,
       "entered": true
@@ -2730,7 +2715,7 @@
       "open_date": "2026-05-31 23:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 3051,
+      "volume": 3545,
       "best_volume": 4327,
       "whale_max": 0,
       "entered": false
