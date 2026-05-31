@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 14:00:32",
+  "last_update": "31/05/2026 14:01:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "FK Kauno Zalgiris v VMFD Zalgiris",
       "campionato": "Lithuanian A Lyga",
-      "volume": 30200,
+      "volume": 30175,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -289,21 +289,6 @@
       "open_date": "2026-05-31 18:30"
     },
     {
-      "match": "Esbjerg v Lyngby",
-      "campionato": "Danish 1st Division",
-      "volume": 2249,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651267",
-      "market_id": "1.258666277",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "Vasteras SK v IFK Goteborg",
       "campionato": "Swedish Allsvenskan",
       "volume": 2232,
@@ -407,6 +392,21 @@
       "market_id": "1.258659746",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
+    },
+    {
+      "match": "Esbjerg v Lyngby",
+      "campionato": "Danish 1st Division",
+      "volume": 1260,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651267",
+      "market_id": "1.258666277",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Degerfors v Brommapojkarna",
@@ -542,6 +542,21 @@
       "market_id": "1.258752072",
       "_is_inplay": true,
       "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Pitea v FC Stockholm Internazionale",
+      "campionato": "Swedish Division 1",
+      "volume": 834,
+      "quota": 1.68,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653921",
+      "market_id": "1.258672531",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Cruzeiro MG v Fluminense",
@@ -726,7 +741,7 @@
     {
       "match": "Burgos v FC Andorra",
       "campionato": "Spanish Segunda Division",
-      "volume": 440,
+      "volume": 450,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -752,6 +767,21 @@
       "market_id": "1.258694672",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Sao Bernardo v Novorizontino",
+      "campionato": "Brazilian Serie B",
+      "volume": 402,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648192",
+      "market_id": "1.258575363",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Ostersunds FK v Orebro",
@@ -859,21 +889,6 @@
       "open_date": "2026-05-31 16:15"
     },
     {
-      "match": "Sao Bernardo v Novorizontino",
-      "campionato": "Brazilian Serie B",
-      "volume": 219,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648192",
-      "market_id": "1.258575363",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 212,
@@ -964,21 +979,6 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "Pitea v FC Stockholm Internazionale",
-      "campionato": "Swedish Division 1",
-      "volume": 107,
-      "quota": 1.69,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653921",
-      "market_id": "1.258672531",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
-    },
-    {
       "match": "Varnamo v United IK Nordic",
       "campionato": "Swedish Superettan",
       "volume": 100,
@@ -994,10 +994,25 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "Sportivo Italiano v Argentino de Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 88,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663037",
+      "market_id": "1.258720463",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 19:30"
+    },
+    {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 78,
-      "quota": 1.23,
+      "volume": 86,
+      "quota": 1.24,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -1097,21 +1112,6 @@
       "market_id": "1.258745864",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
-    },
-    {
-      "match": "Sportivo Italiano v Argentino de Merlo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663037",
-      "market_id": "1.258720463",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 19:30"
     },
     {
       "match": "Camioneros v Talleres (RE)",
@@ -3000,7 +3000,7 @@
       "open_date": "2026-05-31 13:15",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 30200,
+      "volume": 30175,
       "best_volume": 32556,
       "whale_max": 0,
       "entered": false
@@ -3070,9 +3070,9 @@
       "match": "Esbjerg v Lyngby",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 2249,
+      "volume": 1260,
       "best_volume": 2590,
       "whale_max": 0,
       "entered": false
@@ -3204,7 +3204,7 @@
       "open_date": "2026-05-31 18:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 440,
+      "volume": 450,
       "best_volume": 1208,
       "whale_max": 0,
       "entered": false
@@ -3490,9 +3490,9 @@
       "match": "Sportivo Italiano v Argentino de Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-05-31 19:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 10,
+      "volume": 88,
       "best_volume": 1208,
       "whale_max": 0,
       "entered": false
