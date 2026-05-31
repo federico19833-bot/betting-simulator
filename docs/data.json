@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 10:32:47",
+  "last_update": "31/05/2026 10:33:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,8 +96,8 @@
     {
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
-      "volume": 4771,
-      "quota": 1.07,
+      "volume": 4615,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -531,7 +531,7 @@
     {
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
-      "volume": 700,
+      "volume": 703,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -619,6 +619,21 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "SD Eibar (W) v EDF Logrono (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 598,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666892",
+      "market_id": "1.258743003",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "Hillerod Fodbold v Hvidovre",
       "campionato": "Danish 1st Division",
       "volume": 587,
@@ -694,21 +709,6 @@
       "open_date": "2026-05-31 14:00"
     },
     {
-      "match": "SD Eibar (W) v EDF Logrono (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 500,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666892",
-      "market_id": "1.258743003",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
-    },
-    {
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
       "volume": 440,
@@ -752,21 +752,6 @@
       "market_id": "1.258659746",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Albion FC v Torque",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 373,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648575",
-      "market_id": "1.258694587",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
@@ -975,6 +960,21 @@
       "source": "Betfair",
       "event_id": "35653387",
       "market_id": "1.258691869",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Albion FC v Torque",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 81,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648575",
+      "market_id": "1.258694587",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
     },
@@ -2847,7 +2847,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 500,
+      "volume": 598,
       "best_volume": 9882,
       "whale_max": 0,
       "entered": false
@@ -3505,9 +3505,9 @@
       "match": "Red Bull Bragantino v Internacional",
       "campionato": "Brazilian Serie A",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 4771,
+      "volume": 4615,
       "best_volume": 4888,
       "whale_max": 0,
       "entered": false
@@ -3675,7 +3675,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 373,
+      "volume": 81,
       "best_volume": 373,
       "whale_max": 0,
       "entered": false
