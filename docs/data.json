@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 08:22:29",
+  "last_update": "31/05/2026 08:23:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -141,7 +141,7 @@
     {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
       "campionato": "Chinese Super League",
-      "volume": 2559,
+      "volume": 2553,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -934,21 +934,6 @@
       "open_date": "2026-05-31 09:30"
     },
     {
-      "match": "Quilmes v Atletico Rafaela",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 232,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648519",
-      "market_id": "1.258579407",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 22:00"
-    },
-    {
       "match": "CA Temperley v San Martin de San Juan",
       "campionato": "Argentinian Primera Nacional",
       "volume": 212,
@@ -1037,6 +1022,21 @@
       "market_id": "1.258752444",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
+    },
+    {
+      "match": "Quilmes v Atletico Rafaela",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 118,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648519",
+      "market_id": "1.258579407",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 22:00"
     },
     {
       "match": "FK Jelgava v BFC Daugavpils",
@@ -1380,6 +1380,21 @@
       "source": "Betfair",
       "event_id": "35647972",
       "market_id": "1.258575300",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 18:30"
+    },
+    {
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647973",
+      "market_id": "1.258575565",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
     }
@@ -2934,18 +2949,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258671591",
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "open_date": "2026-05-31 16:15",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.05,
-      "volume": 740,
-      "best_volume": 3855,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258747383",
       "match": "Madrid (W) v Barcelona (W)",
       "campionato": "Spanish Liga F",
@@ -3096,7 +3099,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2559,
+      "volume": 2553,
       "best_volume": 2559,
       "whale_max": 0,
       "entered": false
@@ -3926,6 +3929,18 @@
       "quota_iniziale": 1.09,
       "volume": 496,
       "best_volume": 496,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258575565",
+      "match": "Racing Santander v Cadiz",
+      "campionato": "Spanish Segunda Division",
+      "open_date": "2026-05-31 18:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
