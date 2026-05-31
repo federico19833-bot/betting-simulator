@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 14:33:43",
+  "last_update": "31/05/2026 14:34:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -171,7 +171,7 @@
     {
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
-      "volume": 4579,
+      "volume": 4584,
       "quota": 1.18,
       "in_range": false,
       "monitored": false,
@@ -381,7 +381,7 @@
     {
       "match": "UD Poblense v Aguilas",
       "campionato": "Spanish Segunda Federación Playoffs",
-      "volume": 1340,
+      "volume": 1224,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -619,6 +619,21 @@
       "open_date": "2026-05-31 13:15"
     },
     {
+      "match": "Hillerod Fodbold v Hvidovre",
+      "campionato": "Danish 1st Division",
+      "volume": 364,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650090",
+      "market_id": "1.258666235",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
       "match": "Zaragoza v Malaga",
       "campionato": "Spanish Segunda Division",
       "volume": 353,
@@ -632,21 +647,6 @@
       "market_id": "1.258575300",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Hillerod Fodbold v Hvidovre",
-      "campionato": "Danish 1st Division",
-      "volume": 335,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650090",
-      "market_id": "1.258666235",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "IFK Lidingo v Falu FK",
@@ -709,21 +709,6 @@
       "open_date": "2026-05-31 19:30"
     },
     {
-      "match": "FK Jelgava v BFC Daugavpils",
-      "campionato": "Latvian Virsliga",
-      "volume": 274,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653387",
-      "market_id": "1.258691869",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "CD Los Chankas v UTC Cajamarca",
       "campionato": "Peruvian Primera Division",
       "volume": 274,
@@ -737,6 +722,21 @@
       "market_id": "1.258694518",
       "_is_inplay": false,
       "open_date": "2026-05-31 22:15"
+    },
+    {
+      "match": "FK Jelgava v BFC Daugavpils",
+      "campionato": "Latvian Virsliga",
+      "volume": 273,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653387",
+      "market_id": "1.258691869",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Gent v Genk",
@@ -814,21 +814,6 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Esbjerg v Lyngby",
-      "campionato": "Danish 1st Division",
-      "volume": 148,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651267",
-      "market_id": "1.258666277",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "Raufoss v Haugesund",
       "campionato": "Norwegian 1st Division",
       "volume": 142,
@@ -842,6 +827,21 @@
       "market_id": "1.258694629",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Esbjerg v Lyngby",
+      "campionato": "Danish 1st Division",
+      "volume": 138,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651267",
+      "market_id": "1.258666277",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Cordoba v Huesca",
@@ -3202,9 +3202,9 @@
       "match": "Hillerod Fodbold v Hvidovre",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 335,
+      "volume": 364,
       "best_volume": 1208,
       "whale_max": 0,
       "entered": false
@@ -3252,7 +3252,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 148,
+      "volume": 138,
       "best_volume": 2980,
       "whale_max": 0,
       "entered": false
@@ -3384,7 +3384,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 274,
+      "volume": 273,
       "best_volume": 388,
       "whale_max": 0,
       "entered": false
