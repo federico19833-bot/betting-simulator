@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:20:36",
+  "last_update": "31/05/2026 11:21:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
-      "volume": 31619,
+      "volume": 31507,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -156,7 +156,7 @@
     {
       "match": "Tallinna Kalev v Levadia Tallinn II",
       "campionato": "Estonian Esiliiga",
-      "volume": 1928,
+      "volume": 1914,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -456,7 +456,7 @@
     {
       "match": "Karlbergs BK v FBK Karlstad",
       "campionato": "Swedish Division 1",
-      "volume": 700,
+      "volume": 697,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -739,21 +739,6 @@
       "open_date": "2026-05-31 20:30"
     },
     {
-      "match": "AC Oulu v Jaro",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 306,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647361",
-      "market_id": "1.258624989",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "SE Palmeiras v Chapecoense",
       "campionato": "Brazilian Serie A",
       "volume": 300,
@@ -814,6 +799,21 @@
       "open_date": "2026-05-31 20:30"
     },
     {
+      "match": "AC Oulu v Jaro",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 260,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647361",
+      "market_id": "1.258624989",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
       "match": "Ansan Greeners FC v Cheonan City",
       "campionato": "South Korean K2 League",
       "volume": 246,
@@ -829,21 +829,6 @@
       "open_date": "2026-05-31 12:00"
     },
     {
-      "match": "Vasco da Gama v Atletico MG",
-      "campionato": "Brazilian Serie A",
-      "volume": 213,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35624951",
-      "market_id": "1.258659746",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
-    },
-    {
       "match": "Madrid (W) v Barcelona (W)",
       "campionato": "Spanish Liga F",
       "volume": 212,
@@ -857,6 +842,21 @@
       "market_id": "1.258747383",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Vasco da Gama v Atletico MG",
+      "campionato": "Brazilian Serie A",
+      "volume": 181,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35624951",
+      "market_id": "1.258659746",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Racing Club v Defensa y Justicia",
@@ -2823,7 +2823,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 31619,
+      "volume": 31507,
       "best_volume": 31619,
       "whale_max": 0,
       "entered": true
@@ -2883,7 +2883,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 1928,
+      "volume": 1914,
       "best_volume": 7008,
       "whale_max": 0,
       "entered": false
@@ -3567,7 +3567,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 306,
+      "volume": 260,
       "best_volume": 306,
       "whale_max": 0,
       "entered": false
