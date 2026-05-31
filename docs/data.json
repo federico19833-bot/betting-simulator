@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 14:39:47",
+  "last_update": "31/05/2026 14:40:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,8 +81,8 @@
     {
       "match": "Albion FC v Torque",
       "campionato": "Uruguayan Primera Division",
-      "volume": 18066,
-      "quota": 1.06,
+      "volume": 17442,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -139,19 +139,19 @@
       "open_date": "2026-05-31 17:00"
     },
     {
-      "match": "Wuhan Three Towns v Yunnan Yukun",
-      "campionato": "Chinese Super League",
-      "volume": 8006,
-      "quota": 1.03,
+      "match": "KF Ferizaj v KF Llapi",
+      "campionato": "Kosovan Superliga",
+      "volume": 8350,
+      "quota": 1.18,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35647418",
-      "market_id": "1.258690294",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 13:35"
+      "event_id": "35663015",
+      "market_id": "1.258726988",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Mushuc Runa v Aucas",
@@ -169,9 +169,24 @@
       "open_date": "2026-05-31 20:00"
     },
     {
+      "match": "Wuhan Three Towns v Yunnan Yukun",
+      "campionato": "Chinese Super League",
+      "volume": 6175,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647418",
+      "market_id": "1.258690294",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 13:35"
+    },
+    {
       "match": "Villarreal B v Zamora",
       "campionato": "Spanish Segunda B Playoffs",
-      "volume": 4376,
+      "volume": 4370,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -276,7 +291,7 @@
     {
       "match": "AC Oulu v Jaro",
       "campionato": "Finnish Veikkausliiga",
-      "volume": 2169,
+      "volume": 2185,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -827,21 +842,6 @@
       "market_id": "1.258575503",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "KF Ferizaj v KF Llapi",
-      "campionato": "Kosovan Superliga",
-      "volume": 108,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663015",
-      "market_id": "1.258726988",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Camioneros v Talleres (RE)",
@@ -2869,9 +2869,9 @@
       "match": "Wuhan Three Towns v Yunnan Yukun",
       "campionato": "Chinese Super League",
       "open_date": "2026-05-31 13:35",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 8006,
+      "volume": 6175,
       "best_volume": 33763,
       "whale_max": 0,
       "entered": false
@@ -3025,9 +3025,9 @@
       "match": "Albion FC v Torque",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 18066,
+      "volume": 17442,
       "best_volume": 22334,
       "whale_max": 0,
       "entered": true
@@ -3039,7 +3039,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2169,
+      "volume": 2185,
       "best_volume": 22334,
       "whale_max": 0,
       "entered": true
@@ -3267,7 +3267,7 @@
       "open_date": "2026-05-31 20:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 4376,
+      "volume": 4370,
       "best_volume": 4376,
       "whale_max": 0,
       "entered": false
