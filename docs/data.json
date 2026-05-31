@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 11:44:16",
+  "last_update": "31/05/2026 11:44:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -214,6 +214,21 @@
       "open_date": "2026-05-31 17:00"
     },
     {
+      "match": "Vasteras SK v IFK Goteborg",
+      "campionato": "Swedish Allsvenskan",
+      "volume": 1848,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649545",
+      "market_id": "1.258597138",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "Motala v Vanersborgs IF",
       "campionato": "Swedish Division 2",
       "volume": 1834,
@@ -242,21 +257,6 @@
       "market_id": "1.258690294",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:35"
-    },
-    {
-      "match": "Vasteras SK v IFK Goteborg",
-      "campionato": "Swedish Allsvenskan",
-      "volume": 1607,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649545",
-      "market_id": "1.258597138",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Raufoss v Haugesund",
@@ -351,7 +351,7 @@
     {
       "match": "Tianjin Jinmen Tiger FC v Dalian Yingbo",
       "campionato": "Chinese Super League",
-      "volume": 949,
+      "volume": 946,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -426,7 +426,7 @@
     {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 768,
+      "volume": 778,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -512,21 +512,6 @@
       "market_id": "1.258694545",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
-    },
-    {
-      "match": "AC Oulu v Jaro",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 622,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647361",
-      "market_id": "1.258624989",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "SD Eibar (W) v EDF Logrono (W)",
@@ -827,6 +812,21 @@
       "market_id": "1.258720594",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "AC Oulu v Jaro",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 260,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647361",
+      "market_id": "1.258624989",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Ansan Greeners FC v Cheonan City",
@@ -2982,7 +2982,7 @@
       "open_date": "2026-06-01 01:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 768,
+      "volume": 778,
       "best_volume": 778,
       "whale_max": 0,
       "entered": false
@@ -3378,7 +3378,7 @@
       "open_date": "2026-05-31 14:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 1607,
+      "volume": 1848,
       "best_volume": 2156,
       "whale_max": 0,
       "entered": false
@@ -3534,7 +3534,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 622,
+      "volume": 260,
       "best_volume": 622,
       "whale_max": 0,
       "entered": false
@@ -3666,7 +3666,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 949,
+      "volume": 946,
       "best_volume": 2057,
       "whale_max": 0,
       "entered": false
