@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 03:02:57",
+  "last_update": "31/05/2026 03:03:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -709,6 +709,21 @@
       "open_date": "2026-05-31 13:35"
     },
     {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 357,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "FC Cajamarca v Alianza Lima",
       "campionato": "Peruvian Primera Division",
       "volume": 353,
@@ -840,21 +855,6 @@
       "source": "Betfair",
       "event_id": "35656349",
       "market_id": "1.258690551",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
-    },
-    {
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 196,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667368",
-      "market_id": "1.258748004",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
     },
@@ -3172,9 +3172,9 @@
       "match": "Karlskrona v Lilla Torg",
       "campionato": "Swedish Division 2",
       "open_date": "2026-05-31 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 196,
+      "volume": 357,
       "best_volume": 2580,
       "whale_max": 0,
       "entered": false
