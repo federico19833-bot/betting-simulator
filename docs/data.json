@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 03:08:12",
+  "last_update": "31/05/2026 03:08:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -77,21 +77,6 @@
       "market_id": "1.258693655",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:45"
-    },
-    {
-      "match": "Universitario de Deportes v Sport Huancayo",
-      "campionato": "Peruvian Primera Division",
-      "volume": 2184,
-      "quota": 1.39,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648150",
-      "market_id": "1.258707711",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 03:00"
     },
     {
       "match": "CE Europa v Celta Vigo B",
@@ -210,6 +195,21 @@
       "source": "Betfair",
       "event_id": "35648425",
       "market_id": "1.258575692",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
+    },
+    {
+      "match": "Toluca v Tigres",
+      "campionato": "CONCACAF Champions League",
+      "volume": 1563,
+      "quota": 1.32,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630488",
+      "market_id": "1.258575485",
       "_is_inplay": true,
       "open_date": "2026-05-31 02:00"
     },
@@ -407,21 +407,6 @@
       "market_id": "1.258751583",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Toluca v Tigres",
-      "campionato": "CONCACAF Champions League",
-      "volume": 966,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630488",
-      "market_id": "1.258575485",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "Cordoba v Huesca",
@@ -722,6 +707,21 @@
       "market_id": "1.258690294",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:35"
+    },
+    {
+      "match": "Universitario de Deportes v Sport Huancayo",
+      "campionato": "Peruvian Primera Division",
+      "volume": 388,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648150",
+      "market_id": "1.258707711",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 03:00"
     },
     {
       "match": "FC Cajamarca v Alianza Lima",
@@ -1172,6 +1172,21 @@
       "market_id": "1.258666235",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
+    },
+    {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 4,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
     }
   ],
   "tracked_matches": [
@@ -3464,6 +3479,18 @@
       "quota_iniziale": 1.01,
       "volume": 45,
       "best_volume": 45,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258748004",
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-05-31 14:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 4,
+      "best_volume": 4,
       "whale_max": 0,
       "entered": false
     }
