@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 06:12:05",
+  "last_update": "31/05/2026 06:12:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,6 +184,21 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Metropolitanos v Carabobo FC",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 1784,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663062",
+      "market_id": "1.258721606",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 23:00"
+    },
+    {
       "match": "Slovacko v SK Artis Brno",
       "campionato": "Czech 1 Liga",
       "volume": 1594,
@@ -317,21 +332,6 @@
       "market_id": "1.258579523",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:30"
-    },
-    {
-      "match": "Metropolitanos v Carabobo FC",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 1076,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663062",
-      "market_id": "1.258721606",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 23:00"
     },
     {
       "match": "Sportivo Italiano v Argentino de Merlo",
@@ -754,6 +754,21 @@
       "open_date": "2026-05-31 14:00"
     },
     {
+      "match": "CA Temperley v San Martin de San Juan",
+      "campionato": "Argentinian Primera Nacional",
+      "volume": 310,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648515",
+      "market_id": "1.258579565",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 21:00"
+    },
+    {
       "match": "Villa San Carlos v Excursionistas",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 306,
@@ -844,21 +859,6 @@
       "open_date": "2026-05-31 22:00"
     },
     {
-      "match": "Egersund v Stromsgodset",
-      "campionato": "Norwegian 1st Division",
-      "volume": 231,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35650608",
-      "market_id": "1.258694608",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 17:00"
-    },
-    {
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
       "volume": 218,
@@ -872,21 +872,6 @@
       "market_id": "1.258666256",
       "_is_inplay": false,
       "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "CA Temperley v San Martin de San Juan",
-      "campionato": "Argentinian Primera Nacional",
-      "volume": 212,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648515",
-      "market_id": "1.258579565",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 21:00"
     },
     {
       "match": "Burgos v FC Andorra",
@@ -1022,6 +1007,21 @@
       "market_id": "1.258737268",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "Egersund v Stromsgodset",
+      "campionato": "Norwegian 1st Division",
+      "volume": 52,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35650608",
+      "market_id": "1.258694608",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 17:00"
     },
     {
       "match": "Almeria v Valladolid",
@@ -2988,7 +2988,7 @@
       "open_date": "2026-05-31 23:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1076,
+      "volume": 1784,
       "best_volume": 1784,
       "whale_max": 0,
       "entered": false
@@ -3694,9 +3694,9 @@
       "match": "CA Temperley v San Martin de San Juan",
       "campionato": "Argentinian Primera Nacional",
       "open_date": "2026-05-31 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 212,
+      "volume": 310,
       "best_volume": 310,
       "whale_max": 0,
       "entered": false
