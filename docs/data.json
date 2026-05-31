@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 01:39:36",
+  "last_update": "01/06/2026 01:40:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,9 +21,9 @@
     {
       "match": "Cuiaba v CRB",
       "campionato": "Brazilian Serie B",
-      "volume": 8292,
-      "quota": 1.09,
-      "in_range": true,
+      "volume": 6748,
+      "quota": 1.1,
+      "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -34,25 +34,10 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Emelec v Univ Catolica (Ecu)",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 5616,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648452",
-      "market_id": "1.258706481",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 01:10"
-    },
-    {
       "match": "Remo v Sao Paulo",
       "campionato": "Brazilian Serie A",
-      "volume": 5272,
-      "quota": 1.12,
+      "volume": 6034,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -64,9 +49,24 @@
       "open_date": "2026-06-01 01:30"
     },
     {
+      "match": "Emelec v Univ Catolica (Ecu)",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 3564,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648452",
+      "market_id": "1.258706481",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 01:10"
+    },
+    {
       "match": "Racing Club v Defensa y Justicia",
       "campionato": "Argentinian Cup",
-      "volume": 685,
+      "volume": 687,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
