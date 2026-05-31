@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 13:19:42",
+  "last_update": "31/05/2026 13:20:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "IFK Haninge v IF Eker Örebro",
       "campionato": "Swedish Division 2",
-      "volume": 33522,
+      "volume": 32669,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -214,10 +214,25 @@
       "open_date": "2026-05-31 12:00"
     },
     {
+      "match": "Karlbergs BK v FBK Karlstad",
+      "campionato": "Swedish Division 1",
+      "volume": 3674,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657047",
+      "market_id": "1.258672594",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
+    },
+    {
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
-      "volume": 3048,
-      "quota": 1.06,
+      "volume": 3052,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -227,6 +242,21 @@
       "market_id": "1.258747337",
       "_is_inplay": false,
       "open_date": "2026-05-31 16:00"
+    },
+    {
+      "match": "FK Kauno Zalgiris v VMFD Zalgiris",
+      "campionato": "Lithuanian A Lyga",
+      "volume": 2892,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35653469",
+      "market_id": "1.258688966",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 13:15"
     },
     {
       "match": "Wuhan Three Towns v Yunnan Yukun",
@@ -259,6 +289,21 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "AC Horsens v Kolding IF",
+      "campionato": "Danish 1st Division",
+      "volume": 2701,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651268",
+      "market_id": "1.258666256",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
       "match": "Deportivo Tachira v Estudiantes de Merida",
       "campionato": "Venezuelan Primera Division",
       "volume": 2593,
@@ -272,36 +317,6 @@
       "market_id": "1.258721592",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
-    },
-    {
-      "match": "AC Horsens v Kolding IF",
-      "campionato": "Danish 1st Division",
-      "volume": 2498,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651268",
-      "market_id": "1.258666256",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
-      "match": "FK Kauno Zalgiris v VMFD Zalgiris",
-      "campionato": "Lithuanian A Lyga",
-      "volume": 2427,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35653469",
-      "market_id": "1.258688966",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 13:15"
     },
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
@@ -587,21 +602,6 @@
       "market_id": "1.258721914",
       "_is_inplay": false,
       "open_date": "2026-05-31 19:30"
-    },
-    {
-      "match": "Karlbergs BK v FBK Karlstad",
-      "campionato": "Swedish Division 1",
-      "volume": 634,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657047",
-      "market_id": "1.258672594",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Real Madrid FC (W) v Granada (W)",
@@ -906,7 +906,7 @@
     {
       "match": "Umea FC v IFK Stocksund",
       "campionato": "Swedish Division 1",
-      "volume": 180,
+      "volume": 190,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -3225,7 +3225,7 @@
       "open_date": "2026-05-31 14:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 180,
+      "volume": 190,
       "best_volume": 3894,
       "whale_max": 0,
       "entered": false
@@ -3283,9 +3283,9 @@
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 3048,
+      "volume": 3052,
       "best_volume": 5186,
       "whale_max": 0,
       "entered": false
@@ -3321,7 +3321,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 33522,
+      "volume": 32669,
       "best_volume": 33522,
       "whale_max": 0,
       "entered": false
@@ -3547,9 +3547,9 @@
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
       "open_date": "2026-05-31 15:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 2498,
+      "volume": 2701,
       "best_volume": 5507,
       "whale_max": 0,
       "entered": false
@@ -3595,10 +3595,10 @@
       "match": "Karlbergs BK v FBK Karlstad",
       "campionato": "Swedish Division 1",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 634,
-      "best_volume": 634,
+      "volume": 3674,
+      "best_volume": 3674,
       "whale_max": 0,
       "entered": false
     },
