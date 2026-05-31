@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:51:50",
+  "last_update": "31/05/2026 12:52:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -261,8 +261,8 @@
     {
       "match": "Vastra Frolunda v Dalstorps IF",
       "campionato": "Swedish Division 2",
-      "volume": 2983,
-      "quota": 1.07,
+      "volume": 3716,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -306,7 +306,7 @@
     {
       "match": "AC Horsens v Kolding IF",
       "campionato": "Danish 1st Division",
-      "volume": 2074,
+      "volume": 2404,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -559,21 +559,6 @@
       "open_date": "2026-06-01 01:30"
     },
     {
-      "match": "Levante UD (W) v FC Badalona (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 757,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667232",
-      "market_id": "1.258747337",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
-    },
-    {
       "match": "Zaragoza v Malaga",
       "campionato": "Spanish Segunda Division",
       "volume": 746,
@@ -602,6 +587,21 @@
       "market_id": "1.258703211",
       "_is_inplay": false,
       "open_date": "2026-05-31 20:30"
+    },
+    {
+      "match": "Levante UD (W) v FC Badalona (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 619,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667232",
+      "market_id": "1.258747337",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "FK Jelgava v BFC Daugavpils",
@@ -692,21 +692,6 @@
       "market_id": "1.258575503",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Athletic Bilbao (W) v Alhama CF (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 461,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667127",
-      "market_id": "1.258745864",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Villarreal B v Zamora",
@@ -962,6 +947,21 @@
       "market_id": "1.258747496",
       "_is_inplay": false,
       "open_date": "2026-05-31 17:00"
+    },
+    {
+      "match": "Athletic Bilbao (W) v Alhama CF (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 90,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667127",
+      "market_id": "1.258745864",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "IK Sleipner v Orebro Syrianska",
@@ -3226,9 +3226,9 @@
       "match": "Levante UD (W) v FC Badalona (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 715,
+      "volume": 619,
       "best_volume": 2375,
       "whale_max": 0,
       "entered": false
@@ -3276,7 +3276,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 2074,
+      "volume": 2404,
       "best_volume": 2410,
       "whale_max": 0,
       "entered": false
@@ -3370,9 +3370,9 @@
       "match": "Athletic Bilbao (W) v Alhama CF (W)",
       "campionato": "Spanish Liga F",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 461,
+      "volume": 90,
       "best_volume": 461,
       "whale_max": 0,
       "entered": false
