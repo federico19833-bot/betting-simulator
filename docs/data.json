@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 04:32:12",
+  "last_update": "31/05/2026 04:32:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-05-31 16:00"
     },
     {
+      "match": "Real Sociedad (W) v Atletico Madrid (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 2686,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666893",
+      "market_id": "1.258743028",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 12:00"
+    },
+    {
       "match": "Guayaquil City v Independiente (Ecu)",
       "campionato": "Ecuadorian Serie A",
       "volume": 2072,
@@ -137,21 +152,6 @@
       "market_id": "1.258575426",
       "_is_inplay": false,
       "open_date": "2026-05-31 14:00"
-    },
-    {
-      "match": "Real Sociedad (W) v Atletico Madrid (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 1934,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666893",
-      "market_id": "1.258743028",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 12:00"
     },
     {
       "match": "Husqvarna v Stenungsunds IF",
@@ -829,6 +829,21 @@
       "open_date": "2026-05-31 15:00"
     },
     {
+      "match": "Esbjerg v Lyngby",
+      "campionato": "Danish 1st Division",
+      "volume": 208,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35651267",
+      "market_id": "1.258666277",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
       "match": "Varnamo v United IK Nordic",
       "campionato": "Swedish Superettan",
       "volume": 172,
@@ -1022,21 +1037,6 @@
       "market_id": "1.258579565",
       "_is_inplay": false,
       "open_date": "2026-05-31 21:00"
-    },
-    {
-      "match": "Esbjerg v Lyngby",
-      "campionato": "Danish 1st Division",
-      "volume": 67,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35651267",
-      "market_id": "1.258666277",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "CA Central Norte v Chaco For Ever",
@@ -3564,7 +3564,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 67,
+      "volume": 208,
       "best_volume": 208,
       "whale_max": 0,
       "entered": false
