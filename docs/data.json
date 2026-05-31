@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 02:12:37",
+  "last_update": "31/05/2026 02:13:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-05-31 19:00"
     },
     {
+      "match": "Toluca v Tigres",
+      "campionato": "CONCACAF Champions League",
+      "volume": 6271,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35630488",
+      "market_id": "1.258575485",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
+    },
+    {
       "match": "CA Atlanta v Club Gimnasia y Tiro",
       "campionato": "Argentinian Primera Nacional",
       "volume": 5337,
@@ -64,21 +79,6 @@
       "open_date": "2026-05-31 15:00"
     },
     {
-      "match": "Toluca v Tigres",
-      "campionato": "CONCACAF Champions League",
-      "volume": 4499,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35630488",
-      "market_id": "1.258575485",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
-    },
-    {
       "match": "Esbjerg v Lyngby",
       "campionato": "Danish 1st Division",
       "volume": 3424,
@@ -107,21 +107,6 @@
       "market_id": "1.258707711",
       "_is_inplay": false,
       "open_date": "2026-05-31 03:00"
-    },
-    {
-      "match": "Deportivo La Guaira v Puerto Cabello",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 2496,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663043",
-      "market_id": "1.258721751",
-      "_is_inplay": true,
-      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "SE Palmeiras v Chapecoense",
@@ -381,7 +366,7 @@
     {
       "match": "AC Oulu v Jaro",
       "campionato": "Finnish Veikkausliiga",
-      "volume": 1343,
+      "volume": 1321,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -544,6 +529,21 @@
       "open_date": "2026-05-31 13:00"
     },
     {
+      "match": "Karlskrona v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 838,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667368",
+      "market_id": "1.258748004",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 14:00"
+    },
+    {
       "match": "Juventud De Las Piedras v Wanderers (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 794,
@@ -572,21 +572,6 @@
       "market_id": "1.258752444",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:30"
-    },
-    {
-      "match": "Karlskrona v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 756,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667368",
-      "market_id": "1.258748004",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 14:00"
     },
     {
       "match": "Leganes v Mirandes",
@@ -767,6 +752,21 @@
       "market_id": "1.258745408",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
+    },
+    {
+      "match": "Deportivo La Guaira v Puerto Cabello",
+      "campionato": "Venezuelan Primera Division",
+      "volume": 396,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663043",
+      "market_id": "1.258721751",
+      "_is_inplay": true,
+      "open_date": "2026-05-31 02:00"
     },
     {
       "match": "Mushuc Runa v Aucas",
@@ -2733,8 +2733,8 @@
       "open_date": "2026-05-31 02:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 4499,
-      "best_volume": 5294,
+      "volume": 6271,
+      "best_volume": 6271,
       "whale_max": 0,
       "entered": false
     },
@@ -3369,7 +3369,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 1343,
+      "volume": 1321,
       "best_volume": 1654,
       "whale_max": 0,
       "entered": false
