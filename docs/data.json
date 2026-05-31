@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 09:58:10",
+  "last_update": "31/05/2026 09:58:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
-      "volume": 16581,
-      "quota": 1.02,
+      "volume": 16463,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -81,7 +81,7 @@
     {
       "match": "SD Eibar (W) v EDF Logrono (W)",
       "campionato": "Spanish Liga F",
-      "volume": 6546,
+      "volume": 6270,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -92,21 +92,6 @@
       "market_id": "1.258743003",
       "_is_inplay": false,
       "open_date": "2026-05-31 12:00"
-    },
-    {
-      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
-      "campionato": "Spanish Liga F",
-      "volume": 4374,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667003",
-      "market_id": "1.258745408",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 13:00"
     },
     {
       "match": "Slovacko v SK Artis Brno",
@@ -122,21 +107,6 @@
       "market_id": "1.258689697",
       "_is_inplay": false,
       "open_date": "2026-05-31 13:00"
-    },
-    {
-      "match": "Tallinna Kalev v Levadia Tallinn II",
-      "campionato": "Estonian Esiliiga",
-      "volume": 2194,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35667032",
-      "market_id": "1.258753129",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Guayaquil City v Independiente (Ecu)",
@@ -349,19 +319,19 @@
       "open_date": "2026-05-31 19:30"
     },
     {
-      "match": "CE Europa v Celta Vigo B",
-      "campionato": "Spanish Segunda B Playoffs",
-      "volume": 948,
-      "quota": 1.05,
+      "match": "Tallinna Kalev v Levadia Tallinn II",
+      "campionato": "Estonian Esiliiga",
+      "volume": 986,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657917",
-      "market_id": "1.258671591",
+      "event_id": "35667032",
+      "market_id": "1.258753129",
       "_is_inplay": false,
-      "open_date": "2026-05-31 16:15"
+      "open_date": "2026-05-31 16:00"
     },
     {
       "match": "Metropolitanos v Carabobo FC",
@@ -377,6 +347,21 @@
       "market_id": "1.258721606",
       "_is_inplay": false,
       "open_date": "2026-05-31 23:00"
+    },
+    {
+      "match": "CE Europa v Celta Vigo B",
+      "campionato": "Spanish Segunda B Playoffs",
+      "volume": 879,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657917",
+      "market_id": "1.258671591",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 16:15"
     },
     {
       "match": "Afturelding v Fylkir",
@@ -531,7 +516,7 @@
     {
       "match": "FK Kauno Zalgiris v VMFD Zalgiris",
       "campionato": "Lithuanian A Lyga",
-      "volume": 658,
+      "volume": 665,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -1277,6 +1262,21 @@
       "market_id": "1.258579707",
       "_is_inplay": false,
       "open_date": "2026-06-01 01:30"
+    },
+    {
+      "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
+      "campionato": "Spanish Liga F",
+      "volume": 8,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35667003",
+      "market_id": "1.258745408",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 13:00"
     }
   ],
   "tracked_matches": [
@@ -2821,9 +2821,9 @@
       "match": "Njardvik v Grotta",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-05-31 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.09,
-      "volume": 16581,
+      "volume": 16463,
       "best_volume": 29926,
       "whale_max": 0,
       "entered": true
@@ -2931,7 +2931,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 6546,
+      "volume": 6270,
       "best_volume": 9882,
       "whale_max": 0,
       "entered": false
@@ -3111,7 +3111,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.03,
-      "volume": 2194,
+      "volume": 986,
       "best_volume": 2194,
       "whale_max": 0,
       "entered": false
@@ -3339,7 +3339,7 @@
       "open_date": "2026-05-31 16:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 948,
+      "volume": 879,
       "best_volume": 1293,
       "whale_max": 0,
       "entered": false
@@ -3387,7 +3387,7 @@
       "open_date": "2026-05-31 13:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 658,
+      "volume": 665,
       "best_volume": 1438,
       "whale_max": 0,
       "entered": false
