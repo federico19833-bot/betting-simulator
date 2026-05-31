@@ -1,5 +1,5 @@
 {
-  "last_update": "31/05/2026 12:14:00",
+  "last_update": "31/05/2026 12:14:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Madrid (W) v Barcelona (W)",
       "campionato": "Spanish Liga F",
-      "volume": 31507,
+      "volume": 31454,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -171,7 +171,7 @@
     {
       "match": "SD Eibar (W) v EDF Logrono (W)",
       "campionato": "Spanish Liga F",
-      "volume": 3976,
+      "volume": 3986,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -201,7 +201,7 @@
     {
       "match": "Husqvarna v Stenungsunds IF",
       "campionato": "Swedish Division 2",
-      "volume": 3892,
+      "volume": 3219,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -469,6 +469,21 @@
       "open_date": "2026-05-31 21:15"
     },
     {
+      "match": "Varnamo v United IK Nordic",
+      "campionato": "Swedish Superettan",
+      "volume": 929,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648242",
+      "market_id": "1.258575650",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
+    },
+    {
       "match": "Metropolitanos v Carabobo FC",
       "campionato": "Venezuelan Primera Division",
       "volume": 886,
@@ -486,7 +501,7 @@
     {
       "match": "UDG Tenerife Sur (W) v Deportivo La Coruna (W)",
       "campionato": "Spanish Liga F",
-      "volume": 827,
+      "volume": 830,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -557,21 +572,6 @@
       "market_id": "1.258575321",
       "_is_inplay": false,
       "open_date": "2026-05-31 18:30"
-    },
-    {
-      "match": "Varnamo v United IK Nordic",
-      "campionato": "Swedish Superettan",
-      "volume": 644,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648242",
-      "market_id": "1.258575650",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "SE Palmeiras v Chapecoense",
@@ -769,21 +769,6 @@
       "open_date": "2026-05-31 16:00"
     },
     {
-      "match": "AC Oulu v Jaro",
-      "campionato": "Finnish Veikkausliiga",
-      "volume": 320,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35647361",
-      "market_id": "1.258624989",
-      "_is_inplay": false,
-      "open_date": "2026-05-31 15:00"
-    },
-    {
       "match": "Oriente Petrolero v Blooming Santa Cruz",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 301,
@@ -902,6 +887,21 @@
       "market_id": "1.258677964",
       "_is_inplay": false,
       "open_date": "2026-06-01 00:00"
+    },
+    {
+      "match": "AC Oulu v Jaro",
+      "campionato": "Finnish Veikkausliiga",
+      "volume": 167,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35647361",
+      "market_id": "1.258624989",
+      "_is_inplay": false,
+      "open_date": "2026-05-31 15:00"
     },
     {
       "match": "Magallanes v Deportes Iquique",
@@ -3051,7 +3051,7 @@
       "open_date": "2026-05-31 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.07,
-      "volume": 31507,
+      "volume": 31454,
       "best_volume": 31619,
       "whale_max": 0,
       "entered": true
@@ -3075,7 +3075,7 @@
       "open_date": "2026-05-31 13:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 3892,
+      "volume": 3219,
       "best_volume": 14577,
       "whale_max": 0,
       "entered": false
@@ -3279,7 +3279,7 @@
       "open_date": "2026-05-31 15:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 644,
+      "volume": 929,
       "best_volume": 2008,
       "whale_max": 0,
       "entered": false
@@ -3615,7 +3615,7 @@
       "open_date": "2026-05-31 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 3976,
+      "volume": 3986,
       "best_volume": 3986,
       "whale_max": 0,
       "entered": false
