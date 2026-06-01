@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 12:15:58",
+  "last_update": "01/06/2026 12:16:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-01 12:00"
     },
     {
-      "match": "Campos v CAAC Brasil FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 672,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672796",
-      "market_id": "1.258794932",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
       "campionato": "Chilean Primera B",
       "volume": 558,
@@ -77,6 +62,21 @@
       "market_id": "1.258672573",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:30"
+    },
+    {
+      "match": "Campos v CAAC Brasil FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 192,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672796",
+      "market_id": "1.258794932",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "CODM Meknes v Olympique Dcheira",
@@ -124,9 +124,24 @@
       "open_date": "2026-06-01 18:00"
     },
     {
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 76,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669942",
+      "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
+    },
+    {
       "match": "Argentino de Quilmes v CA Ituzaingo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 126,
+      "volume": 50,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -137,21 +152,6 @@
       "market_id": "1.258731756",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:30"
-    },
-    {
-      "match": "FC Atletico Cearense v Piaui EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 91,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669942",
-      "market_id": "1.258784228",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -167,6 +167,21 @@
       "market_id": "1.258767670",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
+    },
+    {
+      "match": "Tigres Do Brazil v Uni Souza FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 18,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673278",
+      "market_id": "1.258796619",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Inhulets Petrove v Livyi Bereh",
@@ -212,21 +227,6 @@
       "market_id": "1.258766174",
       "_is_inplay": false,
       "open_date": "2026-06-01 18:00"
-    },
-    {
-      "match": "Tigres Do Brazil v Uni Souza FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 10,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673278",
-      "market_id": "1.258796619",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Ponte Preta v Botafogo SP",
@@ -2670,7 +2670,7 @@
       "open_date": "2026-06-01 20:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 126,
+      "volume": 50,
       "best_volume": 126,
       "whale_max": 0,
       "entered": false
@@ -2704,9 +2704,9 @@
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
       "open_date": "2026-06-01 21:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 91,
+      "volume": 76,
       "best_volume": 91,
       "whale_max": 0,
       "entered": false
