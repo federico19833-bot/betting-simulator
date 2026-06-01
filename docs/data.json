@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 21:52:06",
+  "last_update": "01/06/2026 21:52:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 3150,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
+    },
+    {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
       "volume": 2051,
@@ -32,6 +47,21 @@
       "market_id": "1.258615175",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "Throttur v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 1322,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669231",
+      "market_id": "1.258766525",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 21:15"
     },
     {
       "match": "Marcilio v Azuriz FC",
@@ -49,49 +79,19 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1166,
-      "quota": 1.06,
+      "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
+      "campionato": "Brazilian Serie D",
+      "volume": 923,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 20:30"
-    },
-    {
-      "match": "Throttur v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 735,
-      "quota": 1.45,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669231",
-      "market_id": "1.258766525",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 21:15"
-    },
-    {
-      "match": "Ponte Preta v Botafogo SP",
-      "campionato": "Brazilian Serie B",
-      "volume": 647,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649498",
-      "market_id": "1.258764024",
+      "event_id": "35671027",
+      "market_id": "1.258796477",
       "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
+      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Maguary v Sousa EC",
@@ -154,8 +154,8 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
-      "campionato": "Brazilian Serie D",
+      "match": "CODM Meknes v Olympique Dcheira",
+      "campionato": "Moroccan Botola Pro 1",
       "volume": 10,
       "quota": 1.02,
       "in_range": false,
@@ -163,10 +163,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35671027",
-      "market_id": "1.258796477",
+      "event_id": "35669677",
+      "market_id": "1.258767649",
       "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
+      "open_date": "2026-06-01 22:00"
     }
   ],
   "tracked_matches": [
@@ -2475,18 +2475,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258731756",
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "open_date": "2026-06-01 20:30",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.03,
-      "volume": 1166,
-      "best_volume": 5894,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258796477",
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
       "campionato": "Brazilian Serie D",
@@ -2515,9 +2503,9 @@
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-02 00:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 647,
+      "volume": 3150,
       "best_volume": 5780,
       "whale_max": 0,
       "entered": false
@@ -2531,6 +2519,18 @@
       "quota_iniziale": 1.06,
       "volume": 98,
       "best_volume": 107,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258767649",
+      "match": "CODM Meknes v Olympique Dcheira",
+      "campionato": "Moroccan Botola Pro 1",
+      "open_date": "2026-06-01 22:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
