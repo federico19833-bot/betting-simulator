@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:26:21",
+  "last_update": "01/06/2026 18:26:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
-      "volume": 2220,
+      "volume": 2255,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -79,21 +79,6 @@
       "open_date": "2026-06-01 18:00"
     },
     {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1557,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
-    },
-    {
       "match": "Nomme Kalju II v FC Tallinn",
       "campionato": "Estonian Esiliiga",
       "volume": 1532,
@@ -107,6 +92,21 @@
       "market_id": "1.258766318",
       "_is_inplay": true,
       "open_date": "2026-06-01 18:00"
+    },
+    {
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 1393,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Campos v CAAC Brasil FC",
@@ -139,9 +139,24 @@
       "open_date": "2026-06-02 01:00"
     },
     {
+      "match": "Olympic Safi v MAS Maghrib A Fes",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 1004,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669680",
+      "market_id": "1.258767670",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:00"
+    },
+    {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
-      "volume": 977,
+      "volume": 996,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -150,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35648572",
       "market_id": "1.258581496",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:00"
-    },
-    {
-      "match": "Olympic Safi v MAS Maghrib A Fes",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 883,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669680",
-      "market_id": "1.258767670",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
     },
@@ -259,21 +259,6 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Mageense FC v Rio Barra FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 386,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
       "volume": 256,
@@ -287,6 +272,21 @@
       "market_id": "1.258764024",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 240,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "FC Atletico Cearense v Piaui EC",
@@ -2665,9 +2665,9 @@
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-01 20:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 883,
+      "volume": 1004,
       "best_volume": 3051,
       "whale_max": 0,
       "entered": false
@@ -2715,8 +2715,8 @@
       "open_date": "2026-06-01 20:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 977,
-      "best_volume": 977,
+      "volume": 996,
+      "best_volume": 996,
       "whale_max": 0,
       "entered": false
     },
@@ -2761,9 +2761,9 @@
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 386,
+      "volume": 240,
       "best_volume": 480,
       "whale_max": 0,
       "entered": false
