@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:43:52",
+  "last_update": "01/06/2026 18:44:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
-      "volume": 2314,
+      "volume": 2344,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,21 @@
       "market_id": "1.258581496",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
+    },
+    {
+      "match": "Campos v CAAC Brasil FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 1924,
+      "quota": 1.34,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672796",
+      "market_id": "1.258794932",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -124,21 +139,6 @@
       "open_date": "2026-06-01 21:15"
     },
     {
-      "match": "Campos v CAAC Brasil FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 657,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672796",
-      "market_id": "1.258794932",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
       "volume": 653,
@@ -165,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35672795",
       "market_id": "1.258795444",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
-      "match": "Tigres Do Brazil v Uni Souza FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 486,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673278",
-      "market_id": "1.258796619",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
     },
@@ -214,6 +199,21 @@
       "open_date": "2026-06-02 01:00"
     },
     {
+      "match": "Tigres Do Brazil v Uni Souza FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 445,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673278",
+      "market_id": "1.258796619",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
+    },
+    {
       "match": "Marcilio v Azuriz FC",
       "campionato": "Brazilian Serie D",
       "volume": 434,
@@ -246,8 +246,8 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 22,
-      "quota": 1.25,
+      "volume": 54,
+      "quota": 1.27,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2599,9 +2599,9 @@
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 486,
+      "volume": 445,
       "best_volume": 486,
       "whale_max": 0,
       "entered": false
