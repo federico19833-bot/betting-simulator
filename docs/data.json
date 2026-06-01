@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 01:58:35",
+  "last_update": "02/06/2026 01:59:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Ponte Preta v Botafogo SP",
-      "campionato": "Brazilian Serie B",
-      "volume": 3014,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649498",
-      "market_id": "1.258764024",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 00:00"
-    },
-    {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
       "volume": 1529,
@@ -49,10 +34,25 @@
       "open_date": "2026-06-02 01:00"
     },
     {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 1267,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": true,
+      "open_date": "2026-06-02 00:00"
+    },
+    {
       "match": "Marcilio v Azuriz FC",
       "campionato": "Brazilian Serie D",
-      "volume": 144,
-      "quota": 1.33,
+      "volume": 127,
+      "quota": 1.34,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
