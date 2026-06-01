@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:56:27",
+  "last_update": "01/06/2026 19:57:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -96,7 +96,7 @@
     {
       "match": "Skovde Aik v Jonkopings Sodra",
       "campionato": "Swedish Division 1",
-      "volume": 951,
+      "volume": 961,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Argentino de Quilmes v CA Ituzaingo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 928,
+      "volume": 865,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -167,6 +167,21 @@
       "market_id": "1.258581496",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
+    },
+    {
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 471,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669942",
+      "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Ponte Preta v Botafogo SP",
@@ -2586,7 +2601,7 @@
       "open_date": "2026-06-01 19:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 951,
+      "volume": 961,
       "best_volume": 7585,
       "whale_max": 0,
       "entered": false
@@ -2696,6 +2711,18 @@
       "quota_iniziale": 1.02,
       "volume": 1024,
       "best_volume": 1024,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258784228",
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "open_date": "2026-06-01 21:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 471,
+      "best_volume": 471,
       "whale_max": 0,
       "entered": false
     }
