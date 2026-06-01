@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 08:59:29",
+  "last_update": "01/06/2026 09:00:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -122,6 +122,21 @@
       "market_id": "1.258581517",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 664,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Campos v CAAC Brasil FC",
@@ -259,21 +274,6 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "FC Elva v JK Welco Elekter",
-      "campionato": "Estonian Esiliiga",
-      "volume": 10,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669142",
-      "market_id": "1.258766174",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 18:00"
-    },
-    {
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
       "volume": 10,
@@ -287,6 +287,21 @@
       "market_id": "1.258784228",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:00"
+    },
+    {
+      "match": "FC Elva v JK Welco Elekter",
+      "campionato": "Estonian Esiliiga",
+      "volume": 9,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669142",
+      "market_id": "1.258766174",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 18:00"
     }
   ],
   "tracked_matches": [
@@ -2723,6 +2738,18 @@
       "quota_iniziale": 1.05,
       "volume": 213,
       "best_volume": 213,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258764024",
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-06-02 00:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 664,
+      "best_volume": 664,
       "whale_max": 0,
       "entered": false
     }
