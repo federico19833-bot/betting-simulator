@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:08:16",
+  "last_update": "01/06/2026 18:08:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,9 +34,24 @@
       "open_date": "2026-06-01 18:00"
     },
     {
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 2702,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
+    },
+    {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 2314,
+      "volume": 2337,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -47,21 +62,6 @@
       "market_id": "1.258796619",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
-    },
-    {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1945,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Union de Touarga v Kawkab Marrakech",
@@ -81,7 +81,7 @@
     {
       "match": "Nomme Kalju II v FC Tallinn",
       "campionato": "Estonian Esiliiga",
-      "volume": 1532,
+      "volume": 1533,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -96,7 +96,7 @@
     {
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 1496,
+      "volume": 1430,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -167,21 +167,6 @@
       "market_id": "1.258796477",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:00"
-    },
-    {
-      "match": "Olympic Safi v MAS Maghrib A Fes",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 656,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669680",
-      "market_id": "1.258767670",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "CODM Meknes v Olympique Dcheira",
@@ -287,6 +272,21 @@
       "market_id": "1.258764024",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "Olympic Safi v MAS Maghrib A Fes",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 225,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669680",
+      "market_id": "1.258767670",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "FC Atletico Cearense v Piaui EC",
@@ -2679,7 +2679,7 @@
       "open_date": "2026-06-01 19:45",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1496,
+      "volume": 1430,
       "best_volume": 3970,
       "whale_max": 0,
       "entered": false
@@ -2703,7 +2703,7 @@
       "open_date": "2026-06-01 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 656,
+      "volume": 225,
       "best_volume": 656,
       "whale_max": 0,
       "entered": false
@@ -2789,6 +2789,18 @@
       "quota_iniziale": 1.09,
       "volume": 434,
       "best_volume": 434,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258766174",
+      "match": "FC Elva v JK Welco Elekter",
+      "campionato": "Estonian Esiliiga",
+      "open_date": "2026-06-01 18:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 7585,
+      "best_volume": 7585,
       "whale_max": 0,
       "entered": false
     }
