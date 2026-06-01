@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:06:01",
+  "last_update": "01/06/2026 20:06:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 6052,
-      "quota": 1.06,
+      "volume": 6743,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,8 +36,8 @@
     {
       "match": "Skovde Aik v Jonkopings Sodra",
       "campionato": "Swedish Division 1",
-      "volume": 3142,
-      "quota": 1.09,
+      "volume": 3182,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -184,6 +184,21 @@
       "open_date": "2026-06-02 00:00"
     },
     {
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 461,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
       "campionato": "Chilean Primera B",
       "volume": 450,
@@ -197,6 +212,21 @@
       "market_id": "1.258770947",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Boston River v Liverpool Montevideo",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 437,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648572",
+      "market_id": "1.258581496",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "Marcilio v Azuriz FC",
@@ -229,25 +259,10 @@
       "open_date": "2026-06-01 22:00"
     },
     {
-      "match": "Boston River v Liverpool Montevideo",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 146,
-      "quota": 1.29,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648572",
-      "market_id": "1.258581496",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 20:00"
-    },
-    {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 104,
-      "quota": 1.1,
+      "volume": 100,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -255,21 +270,6 @@
       "source": "Betfair",
       "event_id": "35670001",
       "market_id": "1.258770923",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 98,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
     },
@@ -2635,10 +2635,10 @@
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 6052,
-      "best_volume": 6181,
+      "volume": 6743,
+      "best_volume": 6743,
       "whale_max": 0,
       "entered": false
     },
@@ -2673,7 +2673,7 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.06,
-      "volume": 98,
+      "volume": 461,
       "best_volume": 518,
       "whale_max": 0,
       "entered": false
