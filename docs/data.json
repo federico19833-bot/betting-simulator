@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:27:46",
+  "last_update": "01/06/2026 19:28:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,19 +19,19 @@
   },
   "live_events": [
     {
-      "match": "Skovde Aik v Jonkopings Sodra",
+      "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
-      "volume": 7362,
+      "volume": 7602,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35658489",
-      "market_id": "1.258672400",
+      "event_id": "35657926",
+      "market_id": "1.258672573",
       "_is_inplay": true,
-      "open_date": "2026-06-01 19:00"
+      "open_date": "2026-06-01 19:30"
     },
     {
       "match": "Boston River v Liverpool Montevideo",
@@ -49,9 +49,24 @@
       "open_date": "2026-06-01 20:00"
     },
     {
+      "match": "Skovde Aik v Jonkopings Sodra",
+      "campionato": "Swedish Division 1",
+      "volume": 1798,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658489",
+      "market_id": "1.258672400",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 19:00"
+    },
+    {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 1117,
+      "volume": 1120,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -109,19 +124,19 @@
       "open_date": "2026-06-01 18:00"
     },
     {
-      "match": "FC Atletico Cearense v Piaui EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 764,
-      "quota": 1.14,
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 721,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35669942",
-      "market_id": "1.258784228",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
       "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
@@ -139,7 +154,7 @@
       "open_date": "2026-06-01 21:00"
     },
     {
-      "match": "Mageense FC v Rio Barra FC",
+      "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 702,
       "quota": 1.07,
@@ -148,8 +163,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
+      "event_id": "35672796",
+      "market_id": "1.258794932",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
     },
@@ -244,19 +259,19 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "FC Arlanda v Gefle",
-      "campionato": "Swedish Division 1",
-      "volume": 10,
-      "quota": 1.03,
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 78,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35657926",
-      "market_id": "1.258672573",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 19:30"
+      "event_id": "35669942",
+      "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Penarol v Central Espanol",
@@ -2565,7 +2580,7 @@
       "open_date": "2026-06-01 19:45",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 1117,
+      "volume": 1120,
       "best_volume": 1928,
       "whale_max": 0,
       "entered": false
@@ -2671,10 +2686,10 @@
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-01 19:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 10,
-      "best_volume": 1017,
+      "volume": 7602,
+      "best_volume": 7602,
       "whale_max": 0,
       "entered": false
     },
@@ -2735,6 +2750,18 @@
       "quota_iniziale": 1.01,
       "volume": 208,
       "best_volume": 208,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258794932",
+      "match": "Campos v CAAC Brasil FC",
+      "campionato": "Brazilian Carioca Matches",
+      "open_date": "2026-06-01 19:45",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 702,
+      "best_volume": 702,
       "whale_max": 0,
       "entered": false
     }
