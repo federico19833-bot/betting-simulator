@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:06:35",
+  "last_update": "01/06/2026 20:07:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 6743,
+      "volume": 6983,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Skovde Aik v Jonkopings Sodra",
       "campionato": "Swedish Division 1",
-      "volume": 3182,
+      "volume": 2898,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -154,6 +154,21 @@
       "open_date": "2026-06-02 00:00"
     },
     {
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 481,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
       "volume": 471,
@@ -182,21 +197,6 @@
       "market_id": "1.258764024",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
-    },
-    {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 461,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
@@ -246,7 +246,7 @@
     {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 335,
+      "volume": 307,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -261,7 +261,7 @@
     {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 100,
+      "volume": 104,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -2637,8 +2637,8 @@
       "open_date": "2026-06-01 19:45",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 6743,
-      "best_volume": 6743,
+      "volume": 6983,
+      "best_volume": 6983,
       "whale_max": 0,
       "entered": false
     },
@@ -2673,7 +2673,7 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.06,
-      "volume": 461,
+      "volume": 481,
       "best_volume": 518,
       "whale_max": 0,
       "entered": false
