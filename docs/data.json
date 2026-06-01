@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 17:59:47",
+  "last_update": "01/06/2026 18:00:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "FC Elva v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 7585,
+      "volume": 7588,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 2337,
+      "volume": 2338,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Nomme Kalju II v FC Tallinn",
       "campionato": "Estonian Esiliiga",
-      "volume": 1532,
+      "volume": 1533,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "Skovde Aik v Jonkopings Sodra",
       "campionato": "Swedish Division 1",
-      "volume": 725,
+      "volume": 726,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -169,9 +169,24 @@
       "open_date": "2026-06-01 21:15"
     },
     {
+      "match": "Boston River v Liverpool Montevideo",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 490,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648572",
+      "market_id": "1.258581496",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:00"
+    },
+    {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 466,
+      "volume": 467,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -201,7 +216,7 @@
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
       "campionato": "Chilean Primera B",
-      "volume": 450,
+      "volume": 451,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -216,7 +231,7 @@
     {
       "match": "Marcilio v Azuriz FC",
       "campionato": "Brazilian Serie D",
-      "volume": 433,
+      "volume": 434,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -246,8 +261,8 @@
     {
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 262,
-      "quota": 1.03,
+      "volume": 335,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2568,7 +2583,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 7585,
+      "volume": 7588,
       "best_volume": 9338,
       "whale_max": 0,
       "entered": false
@@ -2616,7 +2631,7 @@
       "open_date": "2026-06-01 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 725,
+      "volume": 726,
       "best_volume": 3203,
       "whale_max": 0,
       "entered": false
@@ -2652,7 +2667,7 @@
       "open_date": "2026-06-01 22:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 466,
+      "volume": 467,
       "best_volume": 1216,
       "whale_max": 0,
       "entered": false
@@ -2686,9 +2701,9 @@
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 262,
+      "volume": 335,
       "best_volume": 731,
       "whale_max": 0,
       "entered": false
@@ -2712,8 +2727,8 @@
       "open_date": "2026-06-02 01:15",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 433,
-      "best_volume": 433,
+      "volume": 434,
+      "best_volume": 434,
       "whale_max": 0,
       "entered": false
     },
@@ -2738,6 +2753,18 @@
       "quota_iniziale": 1.01,
       "volume": 1035,
       "best_volume": 1171,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258581496",
+      "match": "Boston River v Liverpool Montevideo",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-06-01 20:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 490,
+      "best_volume": 490,
       "whale_max": 0,
       "entered": false
     }
