@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 01:23:53",
+  "last_update": "02/06/2026 01:24:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
-      "volume": 3724,
+      "volume": 4567,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
-      "volume": 3213,
+      "volume": 2274,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -64,40 +64,10 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 775,
-      "quota": 1.54,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Marcilio v Azuriz FC",
-      "campionato": "Brazilian Serie D",
-      "volume": 499,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35671024",
-      "market_id": "1.258808728",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 01:15"
-    },
-    {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
       "campionato": "Chilean Primera B",
-      "volume": 117,
-      "quota": 1.19,
+      "volume": 510,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -105,6 +75,21 @@
       "source": "Betfair",
       "event_id": "35670000",
       "market_id": "1.258770947",
+      "_is_inplay": true,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 45,
+      "quota": 1.52,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
       "_is_inplay": true,
       "open_date": "2026-06-02 01:00"
     }
@@ -2409,7 +2394,7 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 3724,
+      "volume": 4567,
       "best_volume": 7841,
       "whale_max": 0,
       "entered": false
@@ -2423,18 +2408,6 @@
       "quota_iniziale": 1.09,
       "volume": 4044,
       "best_volume": 4044,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258808728",
-      "match": "Marcilio v Azuriz FC",
-      "campionato": "Brazilian Serie D",
-      "open_date": "2026-06-02 01:15",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 800,
-      "best_volume": 800,
       "whale_max": 0,
       "entered": false
     }
