@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 17:37:14",
+  "last_update": "01/06/2026 17:37:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "FC Elva v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 7409,
+      "volume": 3841,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -124,6 +124,21 @@
       "open_date": "2026-06-01 19:45"
     },
     {
+      "match": "Skovde Aik v Jonkopings Sodra",
+      "campionato": "Swedish Division 1",
+      "volume": 725,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658489",
+      "market_id": "1.258672400",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:00"
+    },
+    {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 675,
@@ -137,21 +152,6 @@
       "market_id": "1.258766525",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:15"
-    },
-    {
-      "match": "Skovde Aik v Jonkopings Sodra",
-      "campionato": "Swedish Division 1",
-      "volume": 560,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35658489",
-      "market_id": "1.258672400",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:00"
     },
     {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
@@ -246,7 +246,7 @@
     {
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
-      "volume": 363,
+      "volume": 353,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -261,7 +261,7 @@
     {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
-      "volume": 266,
+      "volume": 256,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -2583,7 +2583,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 7409,
+      "volume": 3841,
       "best_volume": 7409,
       "whale_max": 0,
       "entered": false
@@ -2631,7 +2631,7 @@
       "open_date": "2026-06-01 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 560,
+      "volume": 725,
       "best_volume": 3203,
       "whale_max": 0,
       "entered": false
@@ -2691,7 +2691,7 @@
       "open_date": "2026-06-01 19:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 363,
+      "volume": 353,
       "best_volume": 732,
       "whale_max": 0,
       "entered": false
@@ -2715,7 +2715,7 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 266,
+      "volume": 256,
       "best_volume": 266,
       "whale_max": 0,
       "entered": false
