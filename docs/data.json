@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 01:17:10",
+  "last_update": "02/06/2026 01:17:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 4498,
+      "volume": 6042,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -36,8 +36,8 @@
     {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
-      "volume": 2340,
-      "quota": 1.03,
+      "volume": 2629,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,24 +49,9 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Marcilio v Azuriz FC",
-      "campionato": "Brazilian Serie D",
-      "volume": 1414,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35671024",
-      "market_id": "1.258808728",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 01:15"
-    },
-    {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 1017,
+      "volume": 2082,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -79,25 +64,10 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
-      "campionato": "Chilean Primera B",
-      "volume": 157,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670000",
-      "market_id": "1.258770947",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 72,
-      "quota": 1.37,
+      "volume": 1320,
+      "quota": 1.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,10 +79,25 @@
       "open_date": "2026-06-02 01:00"
     },
     {
+      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
+      "campionato": "Chilean Primera B",
+      "volume": 861,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670000",
+      "market_id": "1.258770947",
+      "_is_inplay": true,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
-      "volume": 36,
-      "quota": 1.77,
+      "volume": 50,
+      "quota": 1.69,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -122,6 +107,21 @@
       "market_id": "1.258764024",
       "_is_inplay": true,
       "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "Marcilio v Azuriz FC",
+      "campionato": "Brazilian Serie D",
+      "volume": 10,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35671024",
+      "market_id": "1.258808728",
+      "_is_inplay": true,
+      "open_date": "2026-06-02 01:15"
     }
   ],
   "tracked_matches": [
@@ -2400,7 +2400,7 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 4498,
+      "volume": 6042,
       "best_volume": 6390,
       "whale_max": 0,
       "entered": false
@@ -2436,8 +2436,8 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 1017,
-      "best_volume": 2062,
+      "volume": 2082,
+      "best_volume": 2082,
       "whale_max": 0,
       "entered": false
     },
@@ -2446,10 +2446,10 @@
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
       "open_date": "2026-06-02 01:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 2340,
-      "best_volume": 2340,
+      "volume": 2629,
+      "best_volume": 2629,
       "whale_max": 0,
       "entered": false
     },
@@ -2460,7 +2460,7 @@
       "open_date": "2026-06-02 01:15",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 666,
+      "volume": 10,
       "best_volume": 666,
       "whale_max": 0,
       "entered": false
