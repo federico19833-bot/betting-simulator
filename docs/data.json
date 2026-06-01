@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 09:01:14",
+  "last_update": "01/06/2026 09:01:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1125,
+      "volume": 1126,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -122,6 +122,21 @@
       "market_id": "1.258581517",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 664,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Campos v CAAC Brasil FC",
@@ -139,6 +154,21 @@
       "open_date": "2026-06-01 19:45"
     },
     {
+      "match": "Inhulets Petrove v Livyi Bereh",
+      "campionato": "Ukrainian Persha Liga",
+      "volume": 433,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672778",
+      "market_id": "1.258788290",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 12:00"
+    },
+    {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 284,
@@ -152,21 +182,6 @@
       "market_id": "1.258767649",
       "_is_inplay": false,
       "open_date": "2026-06-01 22:00"
-    },
-    {
-      "match": "Inhulets Petrove v Livyi Bereh",
-      "campionato": "Ukrainian Persha Liga",
-      "volume": 245,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672778",
-      "market_id": "1.258788290",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 12:00"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -262,7 +277,7 @@
       "match": "FC Elva v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
       "volume": 10,
-      "quota": 1.1,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2551,9 +2566,9 @@
       "match": "Inhulets Petrove v Livyi Bereh",
       "campionato": "Ukrainian Persha Liga",
       "open_date": "2026-06-01 12:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 245,
+      "volume": 433,
       "best_volume": 444,
       "whale_max": 0,
       "entered": false
@@ -2723,6 +2738,18 @@
       "quota_iniziale": 1.05,
       "volume": 213,
       "best_volume": 213,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258764024",
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-06-02 00:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 664,
+      "best_volume": 664,
       "whale_max": 0,
       "entered": false
     }
