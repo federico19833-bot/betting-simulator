@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:10:32",
+  "last_update": "01/06/2026 20:11:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 6772,
-      "quota": 1.05,
+      "volume": 7341,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,8 +36,8 @@
     {
       "match": "Skovde Aik v Jonkopings Sodra",
       "campionato": "Swedish Division 1",
-      "volume": 3129,
-      "quota": 1.1,
+      "volume": 3145,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -156,7 +156,7 @@
     {
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 603,
+      "volume": 614,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -229,9 +229,24 @@
       "open_date": "2026-06-02 01:15"
     },
     {
+      "match": "Boston River v Liverpool Montevideo",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 397,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648572",
+      "market_id": "1.258581496",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 20:00"
+    },
+    {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 230,
+      "volume": 245,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -242,21 +257,6 @@
       "market_id": "1.258767649",
       "_is_inplay": false,
       "open_date": "2026-06-01 22:00"
-    },
-    {
-      "match": "Boston River v Liverpool Montevideo",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 229,
-      "quota": 1.3,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648572",
-      "market_id": "1.258581496",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "Curico Unido v Antofagasta",
@@ -2635,9 +2635,9 @@
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 6772,
+      "volume": 7341,
       "best_volume": 7367,
       "whale_max": 0,
       "entered": false
@@ -2673,8 +2673,8 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.06,
-      "volume": 603,
-      "best_volume": 603,
+      "volume": 614,
+      "best_volume": 614,
       "whale_max": 0,
       "entered": false
     },
