@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 14:16:29",
+  "last_update": "01/06/2026 14:17:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-01 19:30"
     },
     {
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 675,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669942",
+      "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
+    },
+    {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 478,
@@ -152,21 +167,6 @@
       "market_id": "1.258766525",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:15"
-    },
-    {
-      "match": "FC Atletico Cearense v Piaui EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 463,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669942",
-      "market_id": "1.258784228",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
@@ -201,8 +201,8 @@
     {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 74,
-      "quota": 1.59,
+      "volume": 43,
+      "quota": 1.72,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2571,7 +2571,7 @@
       "open_date": "2026-06-01 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 463,
+      "volume": 675,
       "best_volume": 810,
       "whale_max": 0,
       "entered": false
