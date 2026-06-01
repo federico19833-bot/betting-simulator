@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 01:05:23",
+  "last_update": "02/06/2026 01:05:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 2512,
+      "volume": 3459,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 2409,
+      "volume": 2377,
       "quota": 1.29,
       "in_range": false,
       "monitored": false,
@@ -45,6 +45,36 @@
       "source": "Betfair",
       "event_id": "35648573",
       "market_id": "1.258581517",
+      "_is_inplay": true,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 2147,
+      "quota": 1.44,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": true,
+      "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
+      "campionato": "Chilean Primera B",
+      "volume": 1757,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670000",
+      "market_id": "1.258770947",
       "_is_inplay": true,
       "open_date": "2026-06-02 01:00"
     },
@@ -64,39 +94,9 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
-      "campionato": "Chilean Primera B",
-      "volume": 1183,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670000",
-      "market_id": "1.258770947",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Ponte Preta v Botafogo SP",
-      "campionato": "Brazilian Serie B",
-      "volume": 886,
-      "quota": 1.43,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649498",
-      "market_id": "1.258764024",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 00:00"
-    },
-    {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 148,
+      "volume": 181,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -2400,7 +2400,7 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2512,
+      "volume": 3459,
       "best_volume": 5964,
       "whale_max": 0,
       "entered": false
@@ -2424,8 +2424,8 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1183,
-      "best_volume": 1229,
+      "volume": 1757,
+      "best_volume": 1757,
       "whale_max": 0,
       "entered": false
     },
@@ -2448,8 +2448,8 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 148,
-      "best_volume": 148,
+      "volume": 181,
+      "best_volume": 181,
       "whale_max": 0,
       "entered": false
     }
