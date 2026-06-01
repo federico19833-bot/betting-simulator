@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:37:06",
+  "last_update": "01/06/2026 18:37:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,21 +32,6 @@
       "market_id": "1.258766174",
       "_is_inplay": true,
       "open_date": "2026-06-01 18:00"
-    },
-    {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 2877,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -107,6 +92,21 @@
       "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Boston River v Liverpool Montevideo",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 974,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648572",
+      "market_id": "1.258581496",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "FC Arlanda v Gefle",
@@ -244,19 +244,19 @@
       "open_date": "2026-06-02 00:00"
     },
     {
-      "match": "Boston River v Liverpool Montevideo",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 155,
-      "quota": 1.09,
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 195,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648572",
-      "market_id": "1.258581496",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
       "_is_inplay": false,
-      "open_date": "2026-06-01 20:00"
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Skovde Aik v Jonkopings Sodra",
@@ -2736,7 +2736,7 @@
       "open_date": "2026-06-01 20:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 155,
+      "volume": 974,
       "best_volume": 1452,
       "whale_max": 0,
       "entered": false
