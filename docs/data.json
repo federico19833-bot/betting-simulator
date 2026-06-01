@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 21:08:46",
+  "last_update": "01/06/2026 21:09:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-06-01 19:45"
     },
     {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 971,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
       "match": "Marcilio v Azuriz FC",
       "campionato": "Brazilian Serie D",
       "volume": 964,
@@ -94,17 +79,17 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Curico Unido v Antofagasta",
-      "campionato": "Chilean Primera B",
-      "volume": 850,
-      "quota": 1.17,
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 891,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35670001",
-      "market_id": "1.258770923",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
     },
@@ -180,6 +165,21 @@
       "source": "Betfair",
       "event_id": "35670000",
       "market_id": "1.258770947",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Curico Unido v Antofagasta",
+      "campionato": "Chilean Primera B",
+      "volume": 85,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670001",
+      "market_id": "1.258770923",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
     },
@@ -2509,9 +2509,9 @@
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-02 01:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1192,
+      "volume": 891,
       "best_volume": 1646,
       "whale_max": 0,
       "entered": false
