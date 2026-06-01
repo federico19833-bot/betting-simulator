@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 21:49:51",
+  "last_update": "01/06/2026 21:50:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
-      "volume": 2410,
+      "volume": 2319,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -81,8 +81,8 @@
     {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 1057,
-      "quota": 1.45,
+      "volume": 923,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -96,7 +96,7 @@
     {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
-      "volume": 505,
+      "volume": 495,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -137,6 +137,21 @@
       "market_id": "1.258581517",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "CODM Meknes v Olympique Dcheira",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 321,
+      "quota": 1.56,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669677",
+      "market_id": "1.258767649",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 22:00"
     },
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
@@ -2517,7 +2532,7 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 2410,
+      "volume": 2319,
       "best_volume": 5780,
       "whale_max": 0,
       "entered": false
