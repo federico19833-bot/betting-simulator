@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:21:02",
+  "last_update": "01/06/2026 19:21:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Skovde Aik v Jonkopings Sodra",
       "campionato": "Swedish Division 1",
-      "volume": 7362,
+      "volume": 7585,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
-      "volume": 2341,
+      "volume": 1889,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -105,21 +105,6 @@
       "source": "Betfair",
       "event_id": "35673278",
       "market_id": "1.258796619",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
-      "match": "Mageense FC v Rio Barra FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 712,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
     },
@@ -199,6 +184,21 @@
       "open_date": "2026-06-02 01:15"
     },
     {
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 212,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
+    },
+    {
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 180,
@@ -231,8 +231,8 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 24,
-      "quota": 1.46,
+      "volume": 21,
+      "quota": 1.51,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2599,9 +2599,9 @@
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 712,
+      "volume": 212,
       "best_volume": 885,
       "whale_max": 0,
       "entered": false
@@ -2673,7 +2673,7 @@
       "open_date": "2026-06-01 19:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 7362,
+      "volume": 7585,
       "best_volume": 7585,
       "whale_max": 0,
       "entered": false
