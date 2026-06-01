@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:30:19",
+  "last_update": "01/06/2026 18:30:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "FC Elva v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 3129,
+      "volume": 3124,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -32,6 +32,21 @@
       "market_id": "1.258766174",
       "_is_inplay": true,
       "open_date": "2026-06-01 18:00"
+    },
+    {
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 3098,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -94,25 +109,10 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Mageense FC v Rio Barra FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 1010,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
-      "volume": 857,
-      "quota": 1.08,
+      "volume": 1001,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -246,8 +246,8 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 206,
-      "quota": 1.17,
+      "volume": 164,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2700,7 +2700,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 3129,
+      "volume": 3124,
       "best_volume": 7585,
       "whale_max": 0,
       "entered": false
@@ -2758,10 +2758,10 @@
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-01 20:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 857,
-      "best_volume": 996,
+      "volume": 1001,
+      "best_volume": 1001,
       "whale_max": 0,
       "entered": false
     },
