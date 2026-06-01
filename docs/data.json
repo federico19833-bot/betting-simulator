@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:04:43",
+  "last_update": "01/06/2026 19:05:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,39 @@
   },
   "live_events": [
     {
+      "match": "Skovde Aik v Jonkopings Sodra",
+      "campionato": "Swedish Division 1",
+      "volume": 7362,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658489",
+      "market_id": "1.258672400",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 19:00"
+    },
+    {
+      "match": "Campos v CAAC Brasil FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 4987,
+      "quota": 1.39,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672796",
+      "market_id": "1.258794932",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
+    },
+    {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
-      "volume": 2314,
+      "volume": 2341,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -32,21 +62,6 @@
       "market_id": "1.258581496",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
-    },
-    {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1879,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -94,19 +109,19 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Campos v CAAC Brasil FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 921,
-      "quota": 1.38,
+      "match": "FC Arlanda v Gefle",
+      "campionato": "Swedish Division 1",
+      "volume": 935,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35672796",
-      "market_id": "1.258794932",
+      "event_id": "35657926",
+      "market_id": "1.258672573",
       "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
+      "open_date": "2026-06-01 19:30"
     },
     {
       "match": "Mageense FC v Rio Barra FC",
@@ -124,21 +139,6 @@
       "open_date": "2026-06-01 19:45"
     },
     {
-      "match": "Union de Touarga v Kawkab Marrakech",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 709,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669629",
-      "market_id": "1.258767174",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 18:00"
-    },
-    {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
       "campionato": "Brazilian Serie D",
       "volume": 709,
@@ -154,6 +154,21 @@
       "open_date": "2026-06-01 21:00"
     },
     {
+      "match": "Union de Touarga v Kawkab Marrakech",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 708,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669629",
+      "market_id": "1.258767174",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 18:00"
+    },
+    {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 675,
@@ -167,21 +182,6 @@
       "market_id": "1.258766525",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:15"
-    },
-    {
-      "match": "FC Arlanda v Gefle",
-      "campionato": "Swedish Division 1",
-      "volume": 544,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657926",
-      "market_id": "1.258672573",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:30"
     },
     {
       "match": "CODM Meknes v Olympique Dcheira",
@@ -214,21 +214,6 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Skovde Aik v Jonkopings Sodra",
-      "campionato": "Swedish Division 1",
-      "volume": 445,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35658489",
-      "market_id": "1.258672400",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 19:00"
-    },
-    {
       "match": "Marcilio v Azuriz FC",
       "campionato": "Brazilian Serie D",
       "volume": 434,
@@ -255,6 +240,21 @@
       "source": "Betfair",
       "event_id": "35649498",
       "market_id": "1.258764024",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 251,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
     },
@@ -2566,9 +2566,9 @@
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-01 19:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 544,
+      "volume": 935,
       "best_volume": 3970,
       "whale_max": 0,
       "entered": false
@@ -2688,7 +2688,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 709,
+      "volume": 708,
       "best_volume": 1932,
       "whale_max": 0,
       "entered": false
@@ -2746,10 +2746,10 @@
       "match": "Skovde Aik v Jonkopings Sodra",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-01 19:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 445,
-      "best_volume": 3857,
+      "volume": 7362,
+      "best_volume": 7362,
       "whale_max": 0,
       "entered": false
     }
