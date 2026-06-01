@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 21:48:10",
+  "last_update": "01/06/2026 21:48:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1013.29
   },
   "live_events": [
-    {
-      "match": "Ponte Preta v Botafogo SP",
-      "campionato": "Brazilian Serie B",
-      "volume": 2970,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649498",
-      "market_id": "1.258764024",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
-    },
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
@@ -81,8 +66,8 @@
     {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 919,
-      "quota": 1.45,
+      "volume": 772,
+      "quota": 1.44,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -92,6 +77,21 @@
       "market_id": "1.258766525",
       "_is_inplay": true,
       "open_date": "2026-06-01 21:15"
+    },
+    {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 581,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Maguary v Sousa EC",
@@ -2517,7 +2517,7 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 2970,
+      "volume": 581,
       "best_volume": 5780,
       "whale_max": 0,
       "entered": false
