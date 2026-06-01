@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:13:20",
+  "last_update": "01/06/2026 20:13:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-02 01:00"
     },
     {
+      "match": "Argentino de Quilmes v CA Ituzaingo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 936,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663040",
+      "market_id": "1.258731756",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:30"
+    },
+    {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 709,
@@ -137,21 +152,6 @@
       "market_id": "1.258615175",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
-    },
-    {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 659,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:30"
     },
     {
       "match": "Ponte Preta v Botafogo SP",
@@ -216,8 +216,8 @@
     {
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 382,
-      "quota": 1.03,
+      "volume": 312,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -231,7 +231,7 @@
     {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 341,
+      "volume": 303,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -246,8 +246,8 @@
     {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 80,
-      "quota": 1.11,
+      "volume": 86,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2644,9 +2644,9 @@
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-02 01:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.06,
-      "volume": 382,
+      "volume": 312,
       "best_volume": 614,
       "whale_max": 0,
       "entered": false
