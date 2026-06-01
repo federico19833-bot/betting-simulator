@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:50:04",
+  "last_update": "01/06/2026 20:50:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 5669,
+      "volume": 2723,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -64,6 +64,21 @@
       "open_date": "2026-06-01 19:45"
     },
     {
+      "match": "Maguary v Sousa EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 1646,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669936",
+      "market_id": "1.258808714",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 1166,
@@ -77,21 +92,6 @@
       "market_id": "1.258795444",
       "_is_inplay": true,
       "open_date": "2026-06-01 19:45"
-    },
-    {
-      "match": "Maguary v Sousa EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 1024,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669936",
-      "market_id": "1.258808714",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Marcilio v Azuriz FC",
@@ -139,6 +139,21 @@
       "open_date": "2026-06-02 00:00"
     },
     {
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 471,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669942",
+      "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
+    },
+    {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
       "volume": 466,
@@ -152,21 +167,6 @@
       "market_id": "1.258764024",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
-    },
-    {
-      "match": "FC Atletico Cearense v Piaui EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 451,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669942",
-      "market_id": "1.258784228",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
@@ -184,25 +184,10 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Curico Unido v Antofagasta",
-      "campionato": "Chilean Primera B",
-      "volume": 217,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670001",
-      "market_id": "1.258770923",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
-      "volume": 140,
-      "quota": 1.11,
+      "volume": 108,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -210,6 +195,21 @@
       "source": "Betfair",
       "event_id": "35648573",
       "market_id": "1.258581517",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Curico Unido v Antofagasta",
+      "campionato": "Chilean Primera B",
+      "volume": 98,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670001",
+      "market_id": "1.258770923",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
     },
@@ -2575,10 +2575,10 @@
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
       "open_date": "2026-06-02 01:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1024,
-      "best_volume": 1024,
+      "volume": 1646,
+      "best_volume": 1646,
       "whale_max": 0,
       "entered": false
     },
@@ -2589,7 +2589,7 @@
       "open_date": "2026-06-01 20:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 5669,
+      "volume": 2723,
       "best_volume": 8075,
       "whale_max": 0,
       "entered": false
@@ -2601,7 +2601,7 @@
       "open_date": "2026-06-01 21:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 451,
+      "volume": 471,
       "best_volume": 471,
       "whale_max": 0,
       "entered": false
