@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 12:08:06",
+  "last_update": "01/06/2026 12:08:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,7 +19,7 @@
   },
   "live_events": [
     {
-      "match": "Chernomorets Odesa v FK Metal Kharkiv",
+      "match": "Probiy Gorodenka v Prykarpattya Ivano Frankivsk",
       "campionato": "Ukrainian Persha Liga",
       "volume": 1841,
       "quota": 1.06,
@@ -28,9 +28,9 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35672932",
-      "market_id": "1.258796491",
-      "_is_inplay": false,
+      "event_id": "35672784",
+      "market_id": "1.258795054",
+      "_is_inplay": true,
       "open_date": "2026-06-01 12:00"
     },
     {
@@ -75,6 +75,21 @@
       "source": "Betfair",
       "event_id": "35669942",
       "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
+    },
+    {
+      "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
+      "campionato": "Brazilian Serie D",
+      "volume": 291,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35671027",
+      "market_id": "1.258796477",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:00"
     },
@@ -152,21 +167,6 @@
       "market_id": "1.258766174",
       "_is_inplay": false,
       "open_date": "2026-06-01 18:00"
-    },
-    {
-      "match": "CODM Meknes v Olympique Dcheira",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 11,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669677",
-      "market_id": "1.258767649",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 22:00"
     },
     {
       "match": "Inhulets Petrove v Livyi Bereh",
@@ -2589,18 +2589,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258796491",
-      "match": "Chernomorets Odesa v FK Metal Kharkiv",
-      "campionato": "Ukrainian Persha Liga",
-      "open_date": "2026-06-01 12:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 1841,
-      "best_volume": 1841,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258784228",
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
@@ -2609,18 +2597,6 @@
       "quota_iniziale": 1.05,
       "volume": 422,
       "best_volume": 422,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258767649",
-      "match": "CODM Meknes v Olympique Dcheira",
-      "campionato": "Moroccan Botola Pro 1",
-      "open_date": "2026-06-01 22:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.05,
-      "volume": 11,
-      "best_volume": 11,
       "whale_max": 0,
       "entered": false
     },
@@ -2669,6 +2645,30 @@
       "quota_iniziale": 1.07,
       "volume": 20,
       "best_volume": 20,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258795054",
+      "match": "Probiy Gorodenka v Prykarpattya Ivano Frankivsk",
+      "campionato": "Ukrainian Persha Liga",
+      "open_date": "2026-06-01 12:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 1841,
+      "best_volume": 1841,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258796477",
+      "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
+      "campionato": "Brazilian Serie D",
+      "open_date": "2026-06-01 21:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 291,
+      "best_volume": 291,
       "whale_max": 0,
       "entered": false
     }
