@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:04:52",
+  "last_update": "01/06/2026 18:05:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,36 @@
       "open_date": "2026-06-01 18:00"
     },
     {
+      "match": "FC Arlanda v Gefle",
+      "campionato": "Swedish Division 1",
+      "volume": 3970,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657926",
+      "market_id": "1.258672573",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:30"
+    },
+    {
+      "match": "Skovde Aik v Jonkopings Sodra",
+      "campionato": "Swedish Division 1",
+      "volume": 3590,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658489",
+      "market_id": "1.258672400",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:00"
+    },
+    {
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 2337,
@@ -62,6 +92,21 @@
       "market_id": "1.258767174",
       "_is_inplay": true,
       "open_date": "2026-06-01 18:00"
+    },
+    {
+      "match": "Argentino de Quilmes v CA Ituzaingo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1516,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663040",
+      "market_id": "1.258731756",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:30"
     },
     {
       "match": "Mageense FC v Rio Barra FC",
@@ -94,36 +139,6 @@
       "open_date": "2026-06-02 00:00"
     },
     {
-      "match": "Skovde Aik v Jonkopings Sodra",
-      "campionato": "Swedish Division 1",
-      "volume": 767,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35658489",
-      "market_id": "1.258672400",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:00"
-    },
-    {
-      "match": "FC Arlanda v Gefle",
-      "campionato": "Swedish Division 1",
-      "volume": 727,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657926",
-      "market_id": "1.258672573",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:30"
-    },
-    {
       "match": "Nomme Kalju II v FC Tallinn",
       "campionato": "Estonian Esiliiga",
       "volume": 662,
@@ -152,21 +167,6 @@
       "market_id": "1.258770923",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Olympic Safi v MAS Maghrib A Fes",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 471,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669680",
-      "market_id": "1.258767670",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "Throttur v Grindavik",
@@ -231,7 +231,7 @@
     {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 242,
+      "volume": 204,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -244,9 +244,24 @@
       "open_date": "2026-06-01 22:00"
     },
     {
+      "match": "Olympic Safi v MAS Maghrib A Fes",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 168,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669680",
+      "market_id": "1.258767670",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:00"
+    },
+    {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 195,
+      "volume": 79,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -2647,9 +2662,9 @@
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-01 19:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 727,
+      "volume": 3970,
       "best_volume": 3970,
       "whale_max": 0,
       "entered": false
@@ -2683,9 +2698,9 @@
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-01 20:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 471,
+      "volume": 168,
       "best_volume": 490,
       "whale_max": 0,
       "entered": false
@@ -2697,7 +2712,7 @@
       "open_date": "2026-06-01 19:45",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 195,
+      "volume": 79,
       "best_volume": 195,
       "whale_max": 0,
       "entered": false
