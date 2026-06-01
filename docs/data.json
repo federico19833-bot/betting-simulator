@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:51:57",
+  "last_update": "01/06/2026 19:52:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
-      "volume": 1014,
+      "volume": 1024,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -122,6 +122,21 @@
       "market_id": "1.258764024",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "Olympic Safi v MAS Maghrib A Fes",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 855,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669680",
+      "market_id": "1.258767670",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "FC Atletico Cearense v Piaui EC",
@@ -199,25 +214,25 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Olympic Safi v MAS Maghrib A Fes",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 384,
-      "quota": 1.14,
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 240,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35669680",
-      "market_id": "1.258767670",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
       "_is_inplay": false,
-      "open_date": "2026-06-01 20:00"
+      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 292,
-      "quota": 1.27,
+      "volume": 207,
+      "quota": 1.28,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -229,17 +244,17 @@
       "open_date": "2026-06-01 19:45"
     },
     {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 231,
-      "quota": 1.06,
+      "match": "Maguary v Sousa EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 196,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
+      "event_id": "35669936",
+      "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
     },
@@ -261,8 +276,8 @@
     {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
       "campionato": "Brazilian Serie D",
-      "volume": 13,
-      "quota": 1.01,
+      "volume": 12,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2664,8 +2679,8 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1014,
-      "best_volume": 1014,
+      "volume": 1024,
+      "best_volume": 1024,
       "whale_max": 0,
       "entered": false
     },
@@ -2746,9 +2761,9 @@
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
       "campionato": "Brazilian Serie D",
       "open_date": "2026-06-01 21:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 13,
+      "volume": 12,
       "best_volume": 13,
       "whale_max": 0,
       "entered": false
@@ -2760,8 +2775,20 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 231,
+      "volume": 240,
       "best_volume": 240,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258808714",
+      "match": "Maguary v Sousa EC",
+      "campionato": "Brazilian Serie D",
+      "open_date": "2026-06-02 01:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 196,
+      "best_volume": 196,
       "whale_max": 0,
       "entered": false
     }
