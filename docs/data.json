@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:16:09",
+  "last_update": "01/06/2026 20:16:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 7629,
-      "quota": 1.06,
+      "volume": 8075,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -94,6 +94,21 @@
       "open_date": "2026-06-01 19:45"
     },
     {
+      "match": "Argentino de Quilmes v CA Ituzaingo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1121,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663040",
+      "market_id": "1.258731756",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:30"
+    },
+    {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
       "volume": 1014,
@@ -107,21 +122,6 @@
       "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 950,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:30"
     },
     {
       "match": "Throttur v Grindavik",
@@ -231,7 +231,7 @@
     {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 259,
+      "volume": 338,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -246,7 +246,7 @@
     {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 141,
+      "volume": 90,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -2668,10 +2668,10 @@
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-01 20:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 7629,
-      "best_volume": 7629,
+      "volume": 8075,
+      "best_volume": 8075,
       "whale_max": 0,
       "entered": false
     },
