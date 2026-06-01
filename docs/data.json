@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 08:04:25",
+  "last_update": "01/06/2026 08:04:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-01 18:00"
     },
     {
+      "match": "CODM Meknes v Olympique Dcheira",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 308,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669677",
+      "market_id": "1.258767649",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 22:00"
+    },
+    {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
       "volume": 284,
@@ -169,21 +184,6 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 214,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:30"
-    },
-    {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
       "volume": 213,
@@ -201,7 +201,7 @@
     {
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
-      "volume": 211,
+      "volume": 210,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -2633,18 +2633,6 @@
       "quota_iniziale": 1.09,
       "volume": 256,
       "best_volume": 257,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258731756",
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "open_date": "2026-06-01 20:30",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 214,
-      "best_volume": 214,
       "whale_max": 0,
       "entered": false
     }
