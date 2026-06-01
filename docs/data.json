@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 22:45:01",
+  "last_update": "01/06/2026 22:45:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,6 +49,21 @@
       "open_date": "2026-06-02 01:00"
     },
     {
+      "match": "Curico Unido v Antofagasta",
+      "campionato": "Chilean Primera B",
+      "volume": 1678,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670001",
+      "market_id": "1.258770923",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
       "volume": 1312,
@@ -79,19 +94,19 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Curico Unido v Antofagasta",
-      "campionato": "Chilean Primera B",
-      "volume": 466,
-      "quota": 1.07,
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 533,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35670001",
-      "market_id": "1.258770923",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
       "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Penarol v Central Espanol",
@@ -122,21 +137,6 @@
       "market_id": "1.258770947",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Ponte Preta v Botafogo SP",
-      "campionato": "Brazilian Serie B",
-      "volume": 198,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35649498",
-      "market_id": "1.258764024",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
     }
   ],
   "tracked_matches": [
@@ -2439,8 +2439,8 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 466,
-      "best_volume": 467,
+      "volume": 1678,
+      "best_volume": 1678,
       "whale_max": 0,
       "entered": false
     },
@@ -2451,7 +2451,7 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.09,
-      "volume": 198,
+      "volume": 533,
       "best_volume": 2296,
       "whale_max": 0,
       "entered": false
