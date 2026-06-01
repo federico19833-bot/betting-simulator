@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:31:09",
+  "last_update": "01/06/2026 19:31:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,25 +64,10 @@
       "open_date": "2026-06-01 19:00"
     },
     {
-      "match": "Campos v CAAC Brasil FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 1710,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672796",
-      "market_id": "1.258794932",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 1159,
-      "quota": 1.02,
+      "volume": 1181,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -92,6 +77,21 @@
       "market_id": "1.258796619",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
+    },
+    {
+      "match": "Union de Touarga v Kawkab Marrakech",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 1118,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669629",
+      "market_id": "1.258767174",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 18:00"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -126,7 +126,7 @@
     {
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 946,
+      "volume": 1001,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -135,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35672795",
       "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
+    },
+    {
+      "match": "Campos v CAAC Brasil FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 945,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672796",
+      "market_id": "1.258794932",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
     },
@@ -229,6 +244,21 @@
       "open_date": "2026-06-02 01:15"
     },
     {
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 220,
+      "quota": 1.65,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
+    },
+    {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
       "volume": 208,
@@ -242,36 +272,6 @@
       "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Union de Touarga v Kawkab Marrakech",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 127,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669629",
-      "market_id": "1.258767174",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 18:00"
-    },
-    {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 18,
-      "quota": 1.65,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Penarol v Central Espanol",
@@ -2578,9 +2578,9 @@
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 1159,
+      "volume": 1181,
       "best_volume": 1928,
       "whale_max": 0,
       "entered": false
@@ -2628,7 +2628,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 127,
+      "volume": 1118,
       "best_volume": 2197,
       "whale_max": 0,
       "entered": false
@@ -2758,9 +2758,9 @@
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1710,
+      "volume": 945,
       "best_volume": 1710,
       "whale_max": 0,
       "entered": false
