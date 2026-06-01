@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:02:37",
+  "last_update": "01/06/2026 18:03:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-06-01 18:00"
     },
     {
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 2782,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
+    },
+    {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 2337,
@@ -62,36 +77,6 @@
       "market_id": "1.258767174",
       "_is_inplay": true,
       "open_date": "2026-06-01 18:00"
-    },
-    {
-      "match": "Mageense FC v Rio Barra FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 1445,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1314,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Campos v CAAC Brasil FC",
@@ -156,7 +141,7 @@
     {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
-      "volume": 490,
+      "volume": 471,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -274,6 +259,21 @@
       "open_date": "2026-06-02 00:00"
     },
     {
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 204,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
+    },
+    {
       "match": "FC Elva v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
       "volume": 10,
@@ -291,7 +291,7 @@
     {
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
-      "volume": 9,
+      "volume": 10,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -2701,10 +2701,10 @@
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 1445,
-      "best_volume": 1445,
+      "volume": 2782,
+      "best_volume": 2782,
       "whale_max": 0,
       "entered": false
     },
@@ -2763,7 +2763,7 @@
       "open_date": "2026-06-01 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 490,
+      "volume": 471,
       "best_volume": 490,
       "whale_max": 0,
       "entered": false
