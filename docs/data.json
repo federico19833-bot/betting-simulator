@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 12:26:40",
+  "last_update": "01/06/2026 12:27:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,8 +66,8 @@
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 614,
-      "quota": 1.12,
+      "volume": 1037,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,6 +124,36 @@
       "open_date": "2026-06-01 20:30"
     },
     {
+      "match": "Throttur v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 345,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669231",
+      "market_id": "1.258766525",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:15"
+    },
+    {
+      "match": "Inhulets Petrove v Livyi Bereh",
+      "campionato": "Ukrainian Persha Liga",
+      "volume": 324,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672778",
+      "market_id": "1.258788290",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 12:00"
+    },
+    {
       "match": "Nomme Kalju II v FC Tallinn",
       "campionato": "Estonian Esiliiga",
       "volume": 303,
@@ -152,36 +182,6 @@
       "market_id": "1.258796619",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
-    },
-    {
-      "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
-      "campionato": "Brazilian Serie D",
-      "volume": 294,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35671027",
-      "market_id": "1.258796477",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
-    },
-    {
-      "match": "Throttur v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 277,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669231",
-      "market_id": "1.258766525",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:15"
     },
     {
       "match": "Mageense FC v Rio Barra FC",
@@ -214,21 +214,6 @@
       "open_date": "2026-06-01 20:00"
     },
     {
-      "match": "Inhulets Petrove v Livyi Bereh",
-      "campionato": "Ukrainian Persha Liga",
-      "volume": 10,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672778",
-      "market_id": "1.258788290",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 12:00"
-    },
-    {
       "match": "Chernomorets Odesa v FK Metal Kharkiv",
       "campionato": "Ukrainian Persha Liga",
       "volume": 10,
@@ -257,6 +242,21 @@
       "market_id": "1.258766174",
       "_is_inplay": false,
       "open_date": "2026-06-01 18:00"
+    },
+    {
+      "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
+      "campionato": "Brazilian Serie D",
+      "volume": 10,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35671027",
+      "market_id": "1.258796477",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Penarol v Central Espanol",
@@ -2565,7 +2565,7 @@
       "open_date": "2026-06-01 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 10,
+      "volume": 324,
       "best_volume": 446,
       "whale_max": 0,
       "entered": false
@@ -2673,7 +2673,7 @@
       "open_date": "2026-06-01 21:15",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 277,
+      "volume": 345,
       "best_volume": 360,
       "whale_max": 0,
       "entered": false
