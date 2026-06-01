@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 16:19:01",
+  "last_update": "01/06/2026 16:19:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-01 21:15"
     },
     {
+      "match": "Marcilio v Azuriz FC",
+      "campionato": "Brazilian Serie D",
+      "volume": 423,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35671024",
+      "market_id": "1.258808728",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:15"
+    },
+    {
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
       "volume": 363,
@@ -156,7 +171,7 @@
     {
       "match": "Union de Touarga v Kawkab Marrakech",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 323,
+      "volume": 324,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -2520,7 +2535,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 323,
+      "volume": 324,
       "best_volume": 2725,
       "whale_max": 0,
       "entered": false
@@ -2642,6 +2657,18 @@
       "quota_iniziale": 1.09,
       "volume": 266,
       "best_volume": 266,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258808728",
+      "match": "Marcilio v Azuriz FC",
+      "campionato": "Brazilian Serie D",
+      "open_date": "2026-06-02 01:15",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 423,
+      "best_volume": 423,
       "whale_max": 0,
       "entered": false
     }
