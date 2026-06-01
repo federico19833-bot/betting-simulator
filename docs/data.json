@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 14:05:12",
+  "last_update": "01/06/2026 14:05:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-06-01 18:00"
     },
     {
+      "match": "Argentino de Quilmes v CA Ituzaingo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1089,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663040",
+      "market_id": "1.258731756",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:30"
+    },
+    {
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 1088,
@@ -126,7 +141,7 @@
     {
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
-      "volume": 521,
+      "volume": 715,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -186,8 +201,8 @@
     {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 111,
-      "quota": 1.53,
+      "volume": 66,
+      "quota": 1.6,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -197,21 +212,6 @@
       "market_id": "1.258770923",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 103,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:30"
     },
     {
       "match": "FC Elva v JK Welco Elekter",
@@ -2571,7 +2571,7 @@
       "open_date": "2026-06-01 21:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.08,
-      "volume": 521,
+      "volume": 715,
       "best_volume": 810,
       "whale_max": 0,
       "entered": false
