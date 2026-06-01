@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:55:12",
+  "last_update": "01/06/2026 20:55:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,21 +94,6 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Curico Unido v Antofagasta",
-      "campionato": "Chilean Primera B",
-      "volume": 943,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670001",
-      "market_id": "1.258770923",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
       "volume": 709,
@@ -139,6 +124,36 @@
       "open_date": "2026-06-02 00:00"
     },
     {
+      "match": "Curico Unido v Antofagasta",
+      "campionato": "Chilean Primera B",
+      "volume": 554,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670001",
+      "market_id": "1.258770923",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "CODM Meknes v Olympique Dcheira",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 471,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669677",
+      "market_id": "1.258767649",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 22:00"
+    },
+    {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
       "volume": 466,
@@ -152,21 +167,6 @@
       "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "CODM Meknes v Olympique Dcheira",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 451,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669677",
-      "market_id": "1.258767649",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 22:00"
     },
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
@@ -2583,7 +2583,7 @@
       "open_date": "2026-06-01 22:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 451,
+      "volume": 471,
       "best_volume": 471,
       "whale_max": 0,
       "entered": false
