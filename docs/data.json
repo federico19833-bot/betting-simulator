@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 22:14:39",
+  "last_update": "01/06/2026 22:15:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "CODM Meknes v Olympique Dcheira",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 2504,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669677",
+      "market_id": "1.258767649",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 22:00"
+    },
+    {
       "match": "Ponte Preta v Botafogo SP",
       "campionato": "Brazilian Serie B",
       "volume": 2072,
@@ -34,8 +49,8 @@
       "open_date": "2026-06-02 00:00"
     },
     {
-      "match": "CODM Meknes v Olympique Dcheira",
-      "campionato": "Moroccan Botola Pro 1",
+      "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
+      "campionato": "Brazilian Serie D",
       "volume": 1312,
       "quota": 1.1,
       "in_range": false,
@@ -43,10 +58,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35669677",
-      "market_id": "1.258767649",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 22:00"
+      "event_id": "35671027",
+      "market_id": "1.258796477",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Marcilio v Azuriz FC",
@@ -66,7 +81,7 @@
     {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
-      "volume": 972,
+      "volume": 1088,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -2465,6 +2480,18 @@
       "quota_iniziale": 1.09,
       "volume": 2296,
       "best_volume": 2296,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258767649",
+      "match": "CODM Meknes v Olympique Dcheira",
+      "campionato": "Moroccan Botola Pro 1",
+      "open_date": "2026-06-01 22:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 2504,
+      "best_volume": 2504,
       "whale_max": 0,
       "entered": false
     }
