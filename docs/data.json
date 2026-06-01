@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 13:21:20",
+  "last_update": "01/06/2026 13:21:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-01 18:00"
     },
     {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1443,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:30"
-    },
-    {
       "match": "Nomme Kalju II v FC Tallinn",
       "campionato": "Estonian Esiliiga",
       "volume": 1436,
@@ -77,6 +62,21 @@
       "market_id": "1.258766318",
       "_is_inplay": false,
       "open_date": "2026-06-01 18:00"
+    },
+    {
+      "match": "Throttur v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 1216,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669231",
+      "market_id": "1.258766525",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:15"
     },
     {
       "match": "FC Arlanda v Gefle",
@@ -124,21 +124,6 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Throttur v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 429,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669231",
-      "market_id": "1.258766525",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:15"
-    },
-    {
       "match": "Chernomorets Odesa v FK Metal Kharkiv",
       "campionato": "Ukrainian Persha Liga",
       "volume": 324,
@@ -167,6 +152,21 @@
       "market_id": "1.258766174",
       "_is_inplay": false,
       "open_date": "2026-06-01 18:00"
+    },
+    {
+      "match": "Argentino de Quilmes v CA Ituzaingo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 274,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663040",
+      "market_id": "1.258731756",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:30"
     },
     {
       "match": "CODM Meknes v Olympique Dcheira",
@@ -199,6 +199,21 @@
       "open_date": "2026-06-01 21:00"
     },
     {
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 147,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
       "volume": 102,
@@ -212,21 +227,6 @@
       "market_id": "1.258581496",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
-    },
-    {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 23,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Skovde Aik v Jonkopings Sodra",
@@ -2571,8 +2571,8 @@
       "open_date": "2026-06-01 21:15",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 429,
-      "best_volume": 526,
+      "volume": 1216,
+      "best_volume": 1216,
       "whale_max": 0,
       "entered": false
     },
@@ -2677,10 +2677,10 @@
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-02 01:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 23,
-      "best_volume": 23,
+      "volume": 147,
+      "best_volume": 147,
       "whale_max": 0,
       "entered": false
     }
