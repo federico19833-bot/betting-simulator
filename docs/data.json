@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 18:54:32",
+  "last_update": "01/06/2026 18:55:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-06-01 20:00"
     },
     {
-      "match": "Union de Touarga v Kawkab Marrakech",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 1922,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669629",
-      "market_id": "1.258767174",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 18:00"
-    },
-    {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
       "volume": 1146,
@@ -137,6 +122,21 @@
       "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Union de Touarga v Kawkab Marrakech",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 711,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669629",
+      "market_id": "1.258767174",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 18:00"
     },
     {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
@@ -2673,7 +2673,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1922,
+      "volume": 711,
       "best_volume": 1932,
       "whale_max": 0,
       "entered": false
