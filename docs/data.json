@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 16:49:37",
+  "last_update": "01/06/2026 16:50:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 946,
+      "volume": 944,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -171,7 +171,7 @@
     {
       "match": "Union de Touarga v Kawkab Marrakech",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 324,
+      "volume": 322,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -244,21 +244,6 @@
       "open_date": "2026-06-01 19:45"
     },
     {
-      "match": "FC Atletico Cearense v Piaui EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 10,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669942",
-      "market_id": "1.258784228",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
-    },
-    {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
       "volume": 10,
@@ -272,6 +257,21 @@
       "market_id": "1.258770923",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 9,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669942",
+      "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
     }
   ],
   "tracked_matches": [
@@ -2550,7 +2550,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 324,
+      "volume": 322,
       "best_volume": 2725,
       "whale_max": 0,
       "entered": false
