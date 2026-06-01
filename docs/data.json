@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 17:46:51",
+  "last_update": "01/06/2026 17:47:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 1532,
+      "volume": 1531,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -92,21 +92,6 @@
       "market_id": "1.258615175",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
-    },
-    {
-      "match": "Maguary v Sousa EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 1171,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669936",
-      "market_id": "1.258808714",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Campos v CAAC Brasil FC",
@@ -122,6 +107,21 @@
       "market_id": "1.258794932",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
+    },
+    {
+      "match": "Maguary v Sousa EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 1035,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669936",
+      "market_id": "1.258808714",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Skovde Aik v Jonkopings Sodra",
@@ -199,6 +199,21 @@
       "open_date": "2026-06-01 20:00"
     },
     {
+      "match": "Boston River v Liverpool Montevideo",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 451,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648572",
+      "market_id": "1.258581496",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:00"
+    },
+    {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
       "campionato": "Chilean Primera B",
       "volume": 450,
@@ -227,21 +242,6 @@
       "market_id": "1.258808728",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:15"
-    },
-    {
-      "match": "Boston River v Liverpool Montevideo",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 431,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648572",
-      "market_id": "1.258581496",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "FC Arlanda v Gefle",
@@ -2751,7 +2751,7 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 1171,
+      "volume": 1035,
       "best_volume": 1171,
       "whale_max": 0,
       "entered": false
@@ -2763,8 +2763,8 @@
       "open_date": "2026-06-01 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 431,
-      "best_volume": 431,
+      "volume": 451,
+      "best_volume": 451,
       "whale_max": 0,
       "entered": false
     }
