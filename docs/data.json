@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 13:37:08",
+  "last_update": "01/06/2026 13:37:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,21 +124,6 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "FC Atletico Cearense v Piaui EC",
-      "campionato": "Brazilian Serie D",
-      "volume": 478,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669942",
-      "market_id": "1.258784228",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 21:00"
-    },
-    {
       "match": "Chernomorets Odesa v FK Metal Kharkiv",
       "campionato": "Ukrainian Persha Liga",
       "volume": 324,
@@ -199,19 +184,19 @@
       "open_date": "2026-06-01 22:00"
     },
     {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 141,
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 184,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
+      "event_id": "35669942",
+      "market_id": "1.258784228",
       "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
+      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Boston River v Liverpool Montevideo",
@@ -227,6 +212,21 @@
       "market_id": "1.258581496",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
+    },
+    {
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 52,
+      "quota": 1.31,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Skovde Aik v Jonkopings Sodra",
@@ -2593,9 +2593,9 @@
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
       "open_date": "2026-06-01 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 478,
+      "volume": 184,
       "best_volume": 478,
       "whale_max": 0,
       "entered": false
