@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:18:57",
+  "last_update": "01/06/2026 20:19:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 8075,
-      "quota": 1.05,
+      "volume": 6987,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +36,7 @@
     {
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
-      "volume": 3477,
+      "volume": 2731,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -79,6 +79,21 @@
       "open_date": "2026-06-01 19:45"
     },
     {
+      "match": "Argentino de Quilmes v CA Ituzaingo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1280,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663040",
+      "market_id": "1.258731756",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:30"
+    },
+    {
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 1166,
@@ -109,19 +124,34 @@
       "open_date": "2026-06-02 01:00"
     },
     {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 982,
-      "quota": 1.21,
+      "match": "Marcilio v Azuriz FC",
+      "campionato": "Brazilian Serie D",
+      "volume": 974,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
+      "event_id": "35671024",
+      "market_id": "1.258808728",
       "_is_inplay": false,
-      "open_date": "2026-06-01 20:30"
+      "open_date": "2026-06-02 01:15"
+    },
+    {
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 772,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Throttur v Grindavik",
@@ -184,24 +214,24 @@
       "open_date": "2026-06-01 21:00"
     },
     {
-      "match": "Marcilio v Azuriz FC",
-      "campionato": "Brazilian Serie D",
-      "volume": 433,
-      "quota": 1.09,
+      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
+      "campionato": "Chilean Primera B",
+      "volume": 450,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35671024",
-      "market_id": "1.258808728",
+      "event_id": "35670000",
+      "market_id": "1.258770947",
       "_is_inplay": false,
-      "open_date": "2026-06-02 01:15"
+      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 398,
+      "volume": 309,
       "quota": 1.19,
       "in_range": false,
       "monitored": false,
@@ -214,39 +244,9 @@
       "open_date": "2026-06-01 22:00"
     },
     {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 301,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
-      "campionato": "Chilean Primera B",
-      "volume": 229,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670000",
-      "market_id": "1.258770947",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
       "match": "Curico Unido v Antofagasta",
       "campionato": "Chilean Primera B",
-      "volume": 88,
+      "volume": 136,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -2646,8 +2646,8 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 301,
-      "best_volume": 614,
+      "volume": 772,
+      "best_volume": 772,
       "whale_max": 0,
       "entered": false
     },
@@ -2668,9 +2668,9 @@
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-01 20:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 8075,
+      "volume": 6987,
       "best_volume": 8075,
       "whale_max": 0,
       "entered": false
