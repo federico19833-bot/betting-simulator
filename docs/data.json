@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 16:26:54",
+  "last_update": "01/06/2026 16:27:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "FC Elva v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 3015,
+      "volume": 3023,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -64,21 +64,6 @@
       "open_date": "2026-06-01 19:45"
     },
     {
-      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
-      "campionato": "Chilean Primera B",
-      "volume": 1418,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670000",
-      "market_id": "1.258770947",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
-    },
-    {
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 1087,
@@ -96,7 +81,7 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 849,
+      "volume": 777,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -227,6 +212,21 @@
       "market_id": "1.258672400",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:00"
+    },
+    {
+      "match": "Club Deportes Santa Cruz v Deportes Copiapo",
+      "campionato": "Chilean Primera B",
+      "volume": 261,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670000",
+      "market_id": "1.258770947",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Mageense FC v Rio Barra FC",
@@ -2538,8 +2538,8 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 3015,
-      "best_volume": 3015,
+      "volume": 3023,
+      "best_volume": 3023,
       "whale_max": 0,
       "entered": false
     },
