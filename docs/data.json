@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:26:05",
+  "last_update": "01/06/2026 19:26:39",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-01 19:00"
     },
     {
-      "match": "Mageense FC v Rio Barra FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 3045,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "Boston River v Liverpool Montevideo",
       "campionato": "Uruguayan Primera Division",
       "volume": 1889,
@@ -62,6 +47,21 @@
       "market_id": "1.258581496",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
+    },
+    {
+      "match": "Tigres Do Brazil v Uni Souza FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 1120,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673278",
+      "market_id": "1.258796619",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Olympic Safi v MAS Maghrib A Fes",
@@ -109,21 +109,6 @@
       "open_date": "2026-06-01 18:00"
     },
     {
-      "match": "Tigres Do Brazil v Uni Souza FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 938,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673278",
-      "market_id": "1.258796619",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
       "campionato": "Brazilian Serie D",
       "volume": 709,
@@ -152,6 +137,21 @@
       "market_id": "1.258766525",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:15"
+    },
+    {
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 672,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "CODM Meknes v Olympique Dcheira",
@@ -242,21 +242,6 @@
       "market_id": "1.258784228",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:00"
-    },
-    {
-      "match": "Campos v CAAC Brasil FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 34,
-      "quota": 1.81,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672796",
-      "market_id": "1.258794932",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "FC Arlanda v Gefle",
@@ -2580,7 +2565,7 @@
       "open_date": "2026-06-01 19:45",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 938,
+      "volume": 1120,
       "best_volume": 1928,
       "whale_max": 0,
       "entered": false
@@ -2694,18 +2679,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258794932",
-      "match": "Campos v CAAC Brasil FC",
-      "campionato": "Brazilian Carioca Matches",
-      "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 1037,
-      "best_volume": 1037,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258784228",
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
@@ -2746,9 +2719,9 @@
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 3045,
+      "volume": 672,
       "best_volume": 3668,
       "whale_max": 0,
       "entered": false
