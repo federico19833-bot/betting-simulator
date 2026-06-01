@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 17:34:26",
+  "last_update": "01/06/2026 17:34:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,21 +32,6 @@
       "market_id": "1.258766174",
       "_is_inplay": false,
       "open_date": "2026-06-01 18:00"
-    },
-    {
-      "match": "Tigres Do Brazil v Uni Souza FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 2318,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673278",
-      "market_id": "1.258796619",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "CD Leones del Norte v Macara",
@@ -124,6 +109,21 @@
       "open_date": "2026-06-01 19:45"
     },
     {
+      "match": "Skovde Aik v Jonkopings Sodra",
+      "campionato": "Swedish Division 1",
+      "volume": 725,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658489",
+      "market_id": "1.258672400",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:00"
+    },
+    {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 675,
@@ -137,21 +137,6 @@
       "market_id": "1.258766525",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:15"
-    },
-    {
-      "match": "Skovde Aik v Jonkopings Sodra",
-      "campionato": "Swedish Division 1",
-      "volume": 560,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35658489",
-      "market_id": "1.258672400",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:00"
     },
     {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
@@ -244,21 +229,6 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Mageense FC v Rio Barra FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 430,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
-    },
-    {
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
       "volume": 363,
@@ -289,6 +259,21 @@
       "open_date": "2026-06-02 00:00"
     },
     {
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 250,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
+    },
+    {
       "match": "FC Atletico Cearense v Piaui EC",
       "campionato": "Brazilian Serie D",
       "volume": 114,
@@ -302,6 +287,21 @@
       "market_id": "1.258784228",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:00"
+    },
+    {
+      "match": "Tigres Do Brazil v Uni Souza FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 110,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673278",
+      "market_id": "1.258796619",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Curico Unido v Antofagasta",
@@ -2631,7 +2631,7 @@
       "open_date": "2026-06-01 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 560,
+      "volume": 725,
       "best_volume": 3203,
       "whale_max": 0,
       "entered": false
@@ -2701,9 +2701,9 @@
       "match": "Mageense FC v Rio Barra FC",
       "campionato": "Brazilian Carioca Matches",
       "open_date": "2026-06-01 19:45",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 430,
+      "volume": 250,
       "best_volume": 731,
       "whale_max": 0,
       "entered": false
