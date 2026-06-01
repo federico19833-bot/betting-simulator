@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 20:02:39",
+  "last_update": "01/06/2026 20:03:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,6 +79,21 @@
       "open_date": "2026-06-01 19:30"
     },
     {
+      "match": "Argentino de Quilmes v CA Ituzaingo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1122,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35663040",
+      "market_id": "1.258731756",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 20:30"
+    },
+    {
       "match": "Maguary v Sousa EC",
       "campionato": "Brazilian Serie D",
       "volume": 1024,
@@ -92,21 +107,6 @@
       "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
-    },
-    {
-      "match": "Argentino de Quilmes v CA Ituzaingo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 871,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35663040",
-      "market_id": "1.258731756",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 20:30"
     },
     {
       "match": "Skovde Aik v Jonkopings Sodra",
@@ -126,7 +126,7 @@
     {
       "match": "CODM Meknes v Olympique Dcheira",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 727,
+      "volume": 737,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -169,19 +169,19 @@
       "open_date": "2026-06-02 00:00"
     },
     {
-      "match": "Boston River v Liverpool Montevideo",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 551,
-      "quota": 1.28,
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "volume": 471,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35648572",
-      "market_id": "1.258581496",
-      "_is_inplay": true,
-      "open_date": "2026-06-01 20:00"
+      "event_id": "35669942",
+      "market_id": "1.258784228",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 21:00"
     },
     {
       "match": "Ponte Preta v Botafogo SP",
@@ -197,6 +197,21 @@
       "market_id": "1.258764024",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
+    },
+    {
+      "match": "Boston River v Liverpool Montevideo",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 460,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648572",
+      "market_id": "1.258581496",
+      "_is_inplay": true,
+      "open_date": "2026-06-01 20:00"
     },
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
@@ -216,7 +231,7 @@
     {
       "match": "Marcilio v Azuriz FC",
       "campionato": "Brazilian Serie D",
-      "volume": 434,
+      "volume": 433,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -2562,8 +2577,8 @@
       "open_date": "2026-06-01 22:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 727,
-      "best_volume": 727,
+      "volume": 737,
+      "best_volume": 737,
       "whale_max": 0,
       "entered": false
     },
@@ -2646,7 +2661,7 @@
       "open_date": "2026-06-02 01:15",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 434,
+      "volume": 433,
       "best_volume": 434,
       "whale_max": 0,
       "entered": false
@@ -2684,6 +2699,18 @@
       "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258784228",
+      "match": "FC Atletico Cearense v Piaui EC",
+      "campionato": "Brazilian Serie D",
+      "open_date": "2026-06-01 21:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 471,
+      "best_volume": 471,
       "whale_max": 0,
       "entered": false
     }
