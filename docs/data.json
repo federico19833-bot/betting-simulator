@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 19:06:24",
+  "last_update": "01/06/2026 19:06:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-01 20:00"
     },
     {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1877,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
-    },
-    {
       "match": "Olympic Safi v MAS Maghrib A Fes",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 1088,
@@ -77,21 +62,6 @@
       "market_id": "1.258767670",
       "_is_inplay": false,
       "open_date": "2026-06-01 20:00"
-    },
-    {
-      "match": "FC Arlanda v Gefle",
-      "campionato": "Swedish Division 1",
-      "volume": 1071,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657926",
-      "market_id": "1.258672573",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:30"
     },
     {
       "match": "Tigres Do Brazil v Uni Souza FC",
@@ -122,6 +92,21 @@
       "market_id": "1.258808714",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
+    },
+    {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 1014,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Mageense FC v Rio Barra FC",
@@ -186,8 +171,8 @@
     {
       "match": "Campos v CAAC Brasil FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 569,
-      "quota": 1.38,
+      "volume": 567,
+      "quota": 1.41,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -244,17 +229,32 @@
       "open_date": "2026-06-02 01:15"
     },
     {
-      "match": "Ponte Preta v Botafogo SP",
-      "campionato": "Brazilian Serie B",
-      "volume": 256,
-      "quota": 1.09,
+      "match": "FC Arlanda v Gefle",
+      "campionato": "Swedish Division 1",
+      "volume": 249,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35649498",
-      "market_id": "1.258764024",
+      "event_id": "35657926",
+      "market_id": "1.258672573",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:30"
+    },
+    {
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 186,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
     },
@@ -2568,7 +2568,7 @@
       "open_date": "2026-06-01 19:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 1071,
+      "volume": 249,
       "best_volume": 3970,
       "whale_max": 0,
       "entered": false
@@ -2580,7 +2580,7 @@
       "open_date": "2026-06-02 00:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 256,
+      "volume": 1014,
       "best_volume": 1035,
       "whale_max": 0,
       "entered": false
