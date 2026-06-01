@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 21:54:22",
+  "last_update": "01/06/2026 21:54:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 1013.29
   },
   "live_events": [
+    {
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "volume": 2296,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35649498",
+      "market_id": "1.258764024",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
+    },
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
@@ -66,8 +81,8 @@
     {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
       "campionato": "Brazilian Serie D",
-      "volume": 735,
-      "quota": 1.45,
+      "volume": 1050,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2504,6 +2519,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258764024",
+      "match": "Ponte Preta v Botafogo SP",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-06-02 00:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 2296,
+      "best_volume": 2296,
       "whale_max": 0,
       "entered": false
     }
