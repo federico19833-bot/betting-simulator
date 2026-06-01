@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 23:00:21",
+  "last_update": "01/06/2026 23:00:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,6 +49,21 @@
       "open_date": "2026-06-01 21:00"
     },
     {
+      "match": "Curico Unido v Antofagasta",
+      "campionato": "Chilean Primera B",
+      "volume": 1367,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670001",
+      "market_id": "1.258770923",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 01:00"
+    },
+    {
       "match": "Marcilio v Azuriz FC",
       "campionato": "Brazilian Serie D",
       "volume": 1289,
@@ -66,7 +81,7 @@
     {
       "match": "CD Leones del Norte v Macara",
       "campionato": "Ecuadorian Serie A",
-      "volume": 992,
+      "volume": 886,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -79,17 +94,17 @@
       "open_date": "2026-06-02 00:00"
     },
     {
-      "match": "Curico Unido v Antofagasta",
-      "campionato": "Chilean Primera B",
-      "volume": 640,
-      "quota": 1.07,
+      "match": "Penarol v Central Espanol",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 855,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35670001",
-      "market_id": "1.258770923",
+      "event_id": "35648573",
+      "market_id": "1.258581517",
       "_is_inplay": false,
       "open_date": "2026-06-02 01:00"
     },
@@ -107,21 +122,6 @@
       "market_id": "1.258764024",
       "_is_inplay": false,
       "open_date": "2026-06-02 00:00"
-    },
-    {
-      "match": "Penarol v Central Espanol",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 453,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648573",
-      "market_id": "1.258581517",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 01:00"
     },
     {
       "match": "Club Deportes Santa Cruz v Deportes Copiapo",
@@ -2425,9 +2425,9 @@
       "match": "Penarol v Central Espanol",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-02 01:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 453,
+      "volume": 855,
       "best_volume": 1646,
       "whale_max": 0,
       "entered": false
@@ -2439,7 +2439,7 @@
       "open_date": "2026-06-02 01:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 640,
+      "volume": 1367,
       "best_volume": 1678,
       "whale_max": 0,
       "entered": false
