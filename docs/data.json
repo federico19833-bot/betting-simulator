@@ -1,5 +1,5 @@
 {
-  "last_update": "01/06/2026 17:33:52",
+  "last_update": "01/06/2026 17:34:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "FC Elva v JK Welco Elekter",
       "campionato": "Estonian Esiliiga",
-      "volume": 4736,
+      "volume": 3841,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Tigres Do Brazil v Uni Souza FC",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 2345,
+      "volume": 2318,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,21 @@
       "market_id": "1.258796619",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:45"
+    },
+    {
+      "match": "CD Leones del Norte v Macara",
+      "campionato": "Ecuadorian Serie A",
+      "volume": 1534,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35648538",
+      "market_id": "1.258615175",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Nomme Kalju II v FC Tallinn",
@@ -62,21 +77,6 @@
       "market_id": "1.258766318",
       "_is_inplay": false,
       "open_date": "2026-06-01 18:00"
-    },
-    {
-      "match": "CD Leones del Norte v Macara",
-      "campionato": "Ecuadorian Serie A",
-      "volume": 1532,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35648538",
-      "market_id": "1.258615175",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 00:00"
     },
     {
       "match": "Union de Touarga v Kawkab Marrakech",
@@ -124,21 +124,6 @@
       "open_date": "2026-06-01 19:45"
     },
     {
-      "match": "Skovde Aik v Jonkopings Sodra",
-      "campionato": "Swedish Division 1",
-      "volume": 725,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35658489",
-      "market_id": "1.258672400",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:00"
-    },
-    {
       "match": "Throttur v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 675,
@@ -152,6 +137,21 @@
       "market_id": "1.258766525",
       "_is_inplay": false,
       "open_date": "2026-06-01 21:15"
+    },
+    {
+      "match": "Skovde Aik v Jonkopings Sodra",
+      "campionato": "Swedish Division 1",
+      "volume": 560,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35658489",
+      "market_id": "1.258672400",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:00"
     },
     {
       "match": "Centro de Formacao de Atletas Tirol v Ferroviario",
@@ -244,6 +244,21 @@
       "open_date": "2026-06-02 01:15"
     },
     {
+      "match": "Mageense FC v Rio Barra FC",
+      "campionato": "Brazilian Carioca Matches",
+      "volume": 430,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672795",
+      "market_id": "1.258795444",
+      "_is_inplay": false,
+      "open_date": "2026-06-01 19:45"
+    },
+    {
       "match": "FC Arlanda v Gefle",
       "campionato": "Swedish Division 1",
       "volume": 363,
@@ -257,21 +272,6 @@
       "market_id": "1.258672573",
       "_is_inplay": false,
       "open_date": "2026-06-01 19:30"
-    },
-    {
-      "match": "Mageense FC v Rio Barra FC",
-      "campionato": "Brazilian Carioca Matches",
-      "volume": 272,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672795",
-      "market_id": "1.258795444",
-      "_is_inplay": false,
-      "open_date": "2026-06-01 19:45"
     },
     {
       "match": "Ponte Preta v Botafogo SP",
@@ -2583,7 +2583,7 @@
       "open_date": "2026-06-01 18:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 4736,
+      "volume": 3841,
       "best_volume": 5115,
       "whale_max": 0,
       "entered": false
@@ -2631,7 +2631,7 @@
       "open_date": "2026-06-01 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 725,
+      "volume": 560,
       "best_volume": 3203,
       "whale_max": 0,
       "entered": false
@@ -2703,7 +2703,7 @@
       "open_date": "2026-06-01 19:45",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 272,
+      "volume": 430,
       "best_volume": 731,
       "whale_max": 0,
       "entered": false
