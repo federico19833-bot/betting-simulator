@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 03:07:33",
+  "last_update": "02/06/2026 03:08:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "JJK v VJS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1304,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673365",
+      "market_id": "1.258797353",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 17:30"
+    },
+    {
       "match": "RoPS v OLS",
       "campionato": "Finnish Ykkonen",
       "volume": 539,
@@ -32,21 +47,6 @@
       "market_id": "1.258800979",
       "_is_inplay": false,
       "open_date": "2026-06-02 18:00"
-    },
-    {
-      "match": "JJK v VJS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 421,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673365",
-      "market_id": "1.258797353",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 17:30"
     },
     {
       "match": "Deportivo Merlo v Deportivo Laferrere",
@@ -2356,9 +2356,9 @@
       "match": "JJK v VJS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-02 17:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 421,
+      "volume": 1304,
       "best_volume": 1304,
       "whale_max": 0,
       "entered": false
