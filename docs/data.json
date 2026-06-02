@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 18:12:25",
+  "last_update": "02/06/2026 18:13:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -17,7 +17,98 @@
     "roi": 0.06,
     "balance": 1013.29
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "RoPS v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 8982,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673428",
+      "market_id": "1.258800979",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 18:00"
+    },
+    {
+      "match": "Rosengard v Angelholms",
+      "campionato": "Swedish Division 1",
+      "volume": 1370,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660412",
+      "market_id": "1.258754688",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 19:00"
+    },
+    {
+      "match": "Ind Medellin v Cucuta Deportivo",
+      "campionato": "Colombian Cup",
+      "volume": 388,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673457",
+      "market_id": "1.258806818",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 23:00"
+    },
+    {
+      "match": "USM Alger v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 333,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673393",
+      "market_id": "1.258798084",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 21:00"
+    },
+    {
+      "match": "Assyriska FF v Enkopings SK",
+      "campionato": "Swedish Division 1",
+      "volume": 250,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35657912",
+      "market_id": "1.258672377",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 19:30"
+    },
+    {
+      "match": "Deportivo Merlo v Deportivo Laferrere",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 191,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35674665",
+      "market_id": "1.258811540",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 00:00"
+    }
+  ],
   "tracked_matches": [
     {
       "event_id": "bf_1.258405477",
@@ -2282,10 +2373,46 @@
       "open_date": "2026-06-02 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 10520,
+      "volume": 8982,
       "best_volume": 14132,
       "whale_max": 0,
       "entered": true
+    },
+    {
+      "event_id": "bf_1.258754688",
+      "match": "Rosengard v Angelholms",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-02 19:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 1370,
+      "best_volume": 1370,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258672377",
+      "match": "Assyriska FF v Enkopings SK",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-02 19:30",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 250,
+      "best_volume": 250,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258806818",
+      "match": "Ind Medellin v Cucuta Deportivo",
+      "campionato": "Colombian Cup",
+      "open_date": "2026-06-02 23:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 388,
+      "best_volume": 388,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
