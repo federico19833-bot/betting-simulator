@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 16:13:08",
+  "last_update": "02/06/2026 18:02:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 221,
+    "total": 222,
     "wins": 205,
     "losses": 15,
-    "in_corso": 1,
+    "in_corso": 2,
     "winrate": 93.2,
     "profit": 13.29,
     "roi": 0.06,
@@ -21,9 +21,9 @@
     {
       "match": "RoPS v OLS",
       "campionato": "Finnish Ykkonen",
-      "volume": 4803,
-      "quota": 1.06,
-      "in_range": false,
+      "volume": 8232,
+      "quota": 1.09,
+      "in_range": true,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
@@ -34,25 +34,25 @@
       "open_date": "2026-06-02 18:00"
     },
     {
-      "match": "JJK v VJS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 4360,
-      "quota": 1.09,
+      "match": "Assyriska FF v Enkopings SK",
+      "campionato": "Swedish Division 1",
+      "volume": 1473,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35673365",
-      "market_id": "1.258797353",
+      "event_id": "35657912",
+      "market_id": "1.258672377",
       "_is_inplay": false,
-      "open_date": "2026-06-02 17:30"
+      "open_date": "2026-06-02 19:30"
     },
     {
       "match": "Rosengard v Angelholms",
       "campionato": "Swedish Division 1",
-      "volume": 1222,
-      "quota": 1.03,
+      "volume": 1354,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,8 +66,8 @@
     {
       "match": "Ind Medellin v Cucuta Deportivo",
       "campionato": "Colombian Cup",
-      "volume": 422,
-      "quota": 1.06,
+      "volume": 388,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -79,24 +79,9 @@
       "open_date": "2026-06-02 23:00"
     },
     {
-      "match": "Assyriska FF v Enkopings SK",
-      "campionato": "Swedish Division 1",
-      "volume": 340,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35657912",
-      "market_id": "1.258672377",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 19:30"
-    },
-    {
       "match": "USM Alger v Belouizdad",
       "campionato": "Algerian Ligue 1",
-      "volume": 229,
+      "volume": 333,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -122,21 +107,6 @@
       "market_id": "1.258811540",
       "_is_inplay": false,
       "open_date": "2026-06-03 00:00"
-    },
-    {
-      "match": "Union Brescia v Ascoli",
-      "campionato": "Italian Serie C",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673434",
-      "market_id": "1.258799819",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 21:15"
     }
   ],
   "tracked_matches": [
@@ -2397,38 +2367,26 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258797353",
-      "match": "JJK v VJS",
-      "campionato": "Finnish Ykkonen",
-      "open_date": "2026-06-02 17:30",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
-      "volume": 4360,
-      "best_volume": 4360,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258800979",
       "match": "RoPS v OLS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-02 18:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 4803,
-      "best_volume": 4803,
+      "volume": 8232,
+      "best_volume": 8232,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258754688",
       "match": "Rosengard v Angelholms",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-02 19:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 1222,
-      "best_volume": 1222,
+      "volume": 1354,
+      "best_volume": 1354,
       "whale_max": 0,
       "entered": false
     },
@@ -2437,22 +2395,10 @@
       "match": "Assyriska FF v Enkopings SK",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-02 19:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 340,
-      "best_volume": 340,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258799819",
-      "match": "Union Brescia v Ascoli",
-      "campionato": "Italian Serie C",
-      "open_date": "2026-06-02 21:15",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 1473,
+      "best_volume": 1473,
       "whale_max": 0,
       "entered": false
     },
@@ -2461,15 +2407,29 @@
       "match": "Ind Medellin v Cucuta Deportivo",
       "campionato": "Colombian Cup",
       "open_date": "2026-06-02 23:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 422,
+      "volume": 388,
       "best_volume": 422,
       "whale_max": 0,
       "entered": false
     }
   ],
   "giocate": [
+    {
+      "id": 234,
+      "orario": "2026-06-02 18:01:35",
+      "match": "RoPS v OLS",
+      "campionato": "Finnish Ykkonen",
+      "quota": 1.09,
+      "volume": 8232,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 233,
       "orario": "2026-05-31 22:27:33",
