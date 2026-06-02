@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 12:03:59",
+  "last_update": "02/06/2026 12:05:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -30,13 +30,13 @@
       "source": "Betfair",
       "event_id": "35675814",
       "market_id": "1.258823032",
-      "_is_inplay": false,
+      "_is_inplay": true,
       "open_date": "2026-06-02 12:00"
     },
     {
       "match": "JJK v VJS",
       "campionato": "Finnish Ykkonen",
-      "volume": 1029,
+      "volume": 1027,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -2415,7 +2415,7 @@
       "open_date": "2026-06-02 17:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1029,
+      "volume": 1027,
       "best_volume": 1029,
       "whale_max": 0,
       "entered": false
