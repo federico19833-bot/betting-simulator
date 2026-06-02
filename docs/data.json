@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 21:03:54",
+  "last_update": "02/06/2026 21:04:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,25 +19,10 @@
   },
   "live_events": [
     {
-      "match": "USM Alger v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1824,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673393",
-      "market_id": "1.258798084",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 21:00"
-    },
-    {
       "match": "Union Brescia v Ascoli",
       "campionato": "Italian Serie C",
-      "volume": 1048,
-      "quota": 1.06,
+      "volume": 1904,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,8 +36,8 @@
     {
       "match": "Ind Medellin v Cucuta Deportivo",
       "campionato": "Colombian Cup",
-      "volume": 228,
-      "quota": 1.15,
+      "volume": 1048,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -62,6 +47,21 @@
       "market_id": "1.258806818",
       "_is_inplay": false,
       "open_date": "2026-06-02 23:00"
+    },
+    {
+      "match": "Deportivo Merlo v Deportivo Laferrere",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 228,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35674665",
+      "market_id": "1.258811540",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 00:00"
     }
   ],
   "tracked_matches": [
