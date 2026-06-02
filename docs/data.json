@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 15:09:01",
+  "last_update": "02/06/2026 15:10:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "RoPS v OLS",
       "campionato": "Finnish Ykkonen",
-      "volume": 2884,
+      "volume": 4095,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -47,6 +47,21 @@
       "market_id": "1.258800979",
       "_is_inplay": false,
       "open_date": "2026-06-02 18:00"
+    },
+    {
+      "match": "Deportivo Merlo v Deportivo Laferrere",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 425,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35674665",
+      "market_id": "1.258811540",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 00:00"
     },
     {
       "match": "Rosengard v Angelholms",
@@ -77,21 +92,6 @@
       "market_id": "1.258806818",
       "_is_inplay": false,
       "open_date": "2026-06-02 23:00"
-    },
-    {
-      "match": "Deportivo Merlo v Deportivo Laferrere",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 348,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35674665",
-      "market_id": "1.258811540",
-      "_is_inplay": false,
-      "open_date": "2026-06-03 00:00"
     },
     {
       "match": "Assyriska FF v Enkopings SK",
@@ -2415,8 +2415,8 @@
       "open_date": "2026-06-02 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2884,
-      "best_volume": 2884,
+      "volume": 4095,
+      "best_volume": 4095,
       "whale_max": 0,
       "entered": false
     },
