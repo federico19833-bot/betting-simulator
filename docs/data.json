@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 06:02:13",
+  "last_update": "02/06/2026 09:01:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "JJK v VJS",
       "campionato": "Finnish Ykkonen",
-      "volume": 3050,
+      "volume": 2452,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -34,24 +34,9 @@
       "open_date": "2026-06-02 17:30"
     },
     {
-      "match": "RoPS v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 539,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673428",
-      "market_id": "1.258800979",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 18:00"
-    },
-    {
       "match": "MFC Metalurh Zaporizhya v FC Bukovyna",
       "campionato": "Ukrainian Persha Liga",
-      "volume": 517,
+      "volume": 2057,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -64,25 +49,25 @@
       "open_date": "2026-06-02 12:00"
     },
     {
-      "match": "Ind Medellin v Cucuta Deportivo",
-      "campionato": "Colombian Cup",
-      "volume": 288,
-      "quota": 1.15,
+      "match": "RoPS v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1203,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35673457",
-      "market_id": "1.258806818",
+      "event_id": "35673428",
+      "market_id": "1.258800979",
       "_is_inplay": false,
-      "open_date": "2026-06-02 23:00"
+      "open_date": "2026-06-02 18:00"
     },
     {
       "match": "Union Brescia v Ascoli",
       "campionato": "Italian Serie C",
-      "volume": 162,
-      "quota": 1.08,
+      "volume": 386,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -96,7 +81,7 @@
     {
       "match": "Assyriska FF v Enkopings SK",
       "campionato": "Swedish Division 1",
-      "volume": 137,
+      "volume": 257,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -107,6 +92,36 @@
       "market_id": "1.258672377",
       "_is_inplay": false,
       "open_date": "2026-06-02 19:30"
+    },
+    {
+      "match": "Ind Medellin v Cucuta Deportivo",
+      "campionato": "Colombian Cup",
+      "volume": 166,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673457",
+      "market_id": "1.258806818",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 23:00"
+    },
+    {
+      "match": "USM Alger v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673393",
+      "market_id": "1.258798084",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 21:00"
     }
   ],
   "tracked_matches": [
@@ -2367,37 +2382,13 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258797353",
-      "match": "JJK v VJS",
-      "campionato": "Finnish Ykkonen",
-      "open_date": "2026-06-02 17:30",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.07,
-      "volume": 3050,
-      "best_volume": 3050,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258806818",
-      "match": "Ind Medellin v Cucuta Deportivo",
-      "campionato": "Colombian Cup",
-      "open_date": "2026-06-02 23:00",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 162,
-      "best_volume": 163,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258823032",
       "match": "MFC Metalurh Zaporizhya v FC Bukovyna",
       "campionato": "Ukrainian Persha Liga",
       "open_date": "2026-06-02 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 517,
+      "volume": 2057,
       "best_volume": 3050,
       "whale_max": 0,
       "entered": false
@@ -2409,8 +2400,8 @@
       "open_date": "2026-06-02 19:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 137,
-      "best_volume": 137,
+      "volume": 257,
+      "best_volume": 257,
       "whale_max": 0,
       "entered": false
     },
@@ -2419,10 +2410,10 @@
       "match": "Union Brescia v Ascoli",
       "campionato": "Italian Serie C",
       "open_date": "2026-06-02 21:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 162,
-      "best_volume": 162,
+      "volume": 386,
+      "best_volume": 386,
       "whale_max": 0,
       "entered": false
     },
@@ -2433,8 +2424,20 @@
       "open_date": "2026-06-02 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 539,
-      "best_volume": 539,
+      "volume": 1203,
+      "best_volume": 1203,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258798084",
+      "match": "USM Alger v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-06-02 21:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
