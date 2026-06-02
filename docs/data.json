@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 09:24:19",
+  "last_update": "02/06/2026 09:25:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-02 17:30"
     },
     {
-      "match": "RoPS v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 932,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673428",
-      "market_id": "1.258800979",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 18:00"
-    },
-    {
       "match": "MFC Metalurh Zaporizhya v FC Bukovyna",
       "campionato": "Ukrainian Persha Liga",
       "volume": 527,
@@ -62,6 +47,21 @@
       "market_id": "1.258823032",
       "_is_inplay": false,
       "open_date": "2026-06-02 12:00"
+    },
+    {
+      "match": "RoPS v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 288,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673428",
+      "market_id": "1.258800979",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 18:00"
     },
     {
       "match": "Union Brescia v Ascoli",
@@ -81,8 +81,8 @@
     {
       "match": "Assyriska FF v Enkopings SK",
       "campionato": "Swedish Division 1",
-      "volume": 267,
-      "quota": 1.09,
+      "volume": 232,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2412,7 +2412,7 @@
       "open_date": "2026-06-02 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 932,
+      "volume": 288,
       "best_volume": 932,
       "whale_max": 0,
       "entered": false
