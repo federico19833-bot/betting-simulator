@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 02:17:41",
+  "last_update": "02/06/2026 02:18:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,40 +19,10 @@
   },
   "live_events": [
     {
-      "match": "RoPS v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 4929,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673428",
-      "market_id": "1.258800979",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 18:00"
-    },
-    {
-      "match": "Universitario de Vinto v Aurora",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1205,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35665244",
-      "market_id": "1.258734767",
-      "_is_inplay": true,
-      "open_date": "2026-06-02 02:00"
-    },
-    {
       "match": "JJK v VJS",
       "campionato": "Finnish Ykkonen",
-      "volume": 539,
-      "quota": 1.07,
+      "volume": 1304,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,7 +36,7 @@
     {
       "match": "Tecnico Universitario v Barcelona (Ecu)",
       "campionato": "Ecuadorian Serie A",
-      "volume": 517,
+      "volume": 1205,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -77,6 +47,21 @@
       "market_id": "1.258645838",
       "_is_inplay": false,
       "open_date": "2026-06-02 02:30"
+    },
+    {
+      "match": "RoPS v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 539,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673428",
+      "market_id": "1.258800979",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 18:00"
     },
     {
       "match": "Deportivo Merlo v Deportivo Laferrere",
@@ -2388,7 +2373,7 @@
       "open_date": "2026-06-02 02:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 517,
+      "volume": 1205,
       "best_volume": 1205,
       "whale_max": 0,
       "entered": false
@@ -2398,9 +2383,9 @@
       "match": "JJK v VJS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-02 17:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 539,
+      "volume": 1304,
       "best_volume": 1304,
       "whale_max": 0,
       "entered": false
@@ -2412,7 +2397,7 @@
       "open_date": "2026-06-02 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 4929,
+      "volume": 539,
       "best_volume": 5757,
       "whale_max": 0,
       "entered": false
@@ -2426,18 +2411,6 @@
       "quota_iniziale": 1.08,
       "volume": 163,
       "best_volume": 163,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258734767",
-      "match": "Universitario de Vinto v Aurora",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-06-02 02:00",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 1205,
-      "best_volume": 1205,
       "whale_max": 0,
       "entered": false
     }
