@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 03:21:02",
+  "last_update": "02/06/2026 03:21:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "RoPS v OLS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 4641,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673428",
-      "market_id": "1.258800979",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 18:00"
-    },
-    {
       "match": "MFC Metalurh Zaporizhya v FC Bukovyna",
       "campionato": "Ukrainian Persha Liga",
       "volume": 3050,
@@ -47,6 +32,21 @@
       "market_id": "1.258823032",
       "_is_inplay": false,
       "open_date": "2026-06-02 12:00"
+    },
+    {
+      "match": "RoPS v OLS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1512,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673428",
+      "market_id": "1.258800979",
+      "_is_inplay": false,
+      "open_date": "2026-06-02 18:00"
     },
     {
       "match": "JJK v VJS",
@@ -2431,9 +2431,9 @@
       "match": "RoPS v OLS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-02 18:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 4641,
+      "volume": 1512,
       "best_volume": 4784,
       "whale_max": 0,
       "entered": false
