@@ -1,5 +1,5 @@
 {
-  "last_update": "02/06/2026 21:14:22",
+  "last_update": "02/06/2026 21:15:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -17,53 +17,7 @@
     "roi": 0.06,
     "balance": 1013.29
   },
-  "live_events": [
-    {
-      "match": "Ind Medellin v Cucuta Deportivo",
-      "campionato": "Colombian Cup",
-      "volume": 1214,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673457",
-      "market_id": "1.258806818",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 23:00"
-    },
-    {
-      "match": "Union Brescia v Ascoli",
-      "campionato": "Italian Serie C",
-      "volume": 959,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673434",
-      "market_id": "1.258799819",
-      "_is_inplay": false,
-      "open_date": "2026-06-02 21:15"
-    },
-    {
-      "match": "Deportivo Merlo v Deportivo Laferrere",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 196,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35674665",
-      "market_id": "1.258811540",
-      "_is_inplay": false,
-      "open_date": "2026-06-03 00:00"
-    }
-  ],
+  "live_events": [],
   "tracked_matches": [
     {
       "event_id": "bf_1.258405477",
@@ -2332,18 +2286,6 @@
       "best_volume": 14132,
       "whale_max": 0,
       "entered": true
-    },
-    {
-      "event_id": "bf_1.258806818",
-      "match": "Ind Medellin v Cucuta Deportivo",
-      "campionato": "Colombian Cup",
-      "open_date": "2026-06-02 23:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 1214,
-      "best_volume": 1214,
-      "whale_max": 0,
-      "entered": false
     }
   ],
   "giocate": [
