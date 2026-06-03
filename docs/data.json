@@ -1,5 +1,5 @@
 {
-  "last_update": "03/06/2026 08:29:51",
+  "last_update": "03/06/2026 09:01:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,25 +19,10 @@
   },
   "live_events": [
     {
-      "match": "Raja Casablanca v RSB Berkane",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 797,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675592",
-      "market_id": "1.258819830",
-      "_is_inplay": false,
-      "open_date": "2026-06-03 22:00"
-    },
-    {
       "match": "Viggbyholms IK FF v Sollentuna FF",
       "campionato": "Swedish Cup",
-      "volume": 451,
-      "quota": 1.12,
+      "volume": 4120,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,10 +34,25 @@
       "open_date": "2026-06-03 19:00"
     },
     {
+      "match": "Greece U19 v Serbia U19",
+      "campionato": "UEFA U19 Euro Qualifiers",
+      "volume": 2115,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681081",
+      "market_id": "1.258855268",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 17:00"
+    },
+    {
       "match": "IFK Umea v Taftea IK",
       "campionato": "Swedish Division 2",
-      "volume": 168,
-      "quota": 1.09,
+      "volume": 451,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,8 +66,8 @@
     {
       "match": "BK Olympic v Lunds BK",
       "campionato": "Swedish Division 1",
-      "volume": 130,
-      "quota": 1.08,
+      "volume": 168,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -77,21 +77,6 @@
       "market_id": "1.258783479",
       "_is_inplay": false,
       "open_date": "2026-06-03 19:00"
-    },
-    {
-      "match": "Club R Zemamra v Yacoub El Mansour",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673166",
-      "market_id": "1.258795093",
-      "_is_inplay": false,
-      "open_date": "2026-06-03 18:00"
     },
     {
       "match": "IRT Tanger v Wydad Casablanca",
@@ -109,19 +94,19 @@
       "open_date": "2026-06-03 20:00"
     },
     {
-      "match": "CD Gualberto Villarroel v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
+      "match": "Raja Casablanca v RSB Berkane",
+      "campionato": "Moroccan Botola Pro 1",
       "volume": 10,
-      "quota": 1.01,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35672478",
-      "market_id": "1.258787353",
+      "event_id": "35675592",
+      "market_id": "1.258819830",
       "_is_inplay": false,
-      "open_date": "2026-06-04 00:00"
+      "open_date": "2026-06-03 22:00"
     }
   ],
   "tracked_matches": [
@@ -2394,26 +2379,14 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258795093",
-      "match": "Club R Zemamra v Yacoub El Mansour",
-      "campionato": "Moroccan Botola Pro 1",
-      "open_date": "2026-06-03 18:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258783479",
       "match": "BK Olympic v Lunds BK",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-03 19:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 130,
-      "best_volume": 130,
+      "volume": 168,
+      "best_volume": 168,
       "whale_max": 0,
       "entered": false
     },
@@ -2446,22 +2419,34 @@
       "match": "Raja Casablanca v RSB Berkane",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-03 22:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.06,
-      "volume": 797,
+      "volume": 10,
       "best_volume": 797,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258787353",
-      "match": "CD Gualberto Villarroel v Real Tomayapo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "open_date": "2026-06-04 00:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 10,
-      "best_volume": 10,
+      "event_id": "bf_1.258855268",
+      "match": "Greece U19 v Serbia U19",
+      "campionato": "UEFA U19 Euro Qualifiers",
+      "open_date": "2026-06-03 17:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 2115,
+      "best_volume": 2115,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258836896",
+      "match": "Viggbyholms IK FF v Sollentuna FF",
+      "campionato": "Swedish Cup",
+      "open_date": "2026-06-03 19:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 4120,
+      "best_volume": 4120,
       "whale_max": 0,
       "entered": false
     }
