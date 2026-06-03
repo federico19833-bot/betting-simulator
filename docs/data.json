@@ -1,5 +1,5 @@
 {
-  "last_update": "03/06/2026 08:07:44",
+  "last_update": "03/06/2026 08:08:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-06-03 19:00"
     },
     {
+      "match": "IFK Umea v Taftea IK",
+      "campionato": "Swedish Division 2",
+      "volume": 438,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677870",
+      "market_id": "1.258842874",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 19:00"
+    },
+    {
       "match": "BK Olympic v Lunds BK",
       "campionato": "Swedish Division 1",
       "volume": 130,
@@ -47,36 +62,6 @@
       "market_id": "1.258783479",
       "_is_inplay": false,
       "open_date": "2026-06-03 19:00"
-    },
-    {
-      "match": "IFK Umea v Taftea IK",
-      "campionato": "Swedish Division 2",
-      "volume": 128,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677870",
-      "market_id": "1.258842874",
-      "_is_inplay": false,
-      "open_date": "2026-06-03 19:00"
-    },
-    {
-      "match": "Raja Casablanca v RSB Berkane",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 79,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675592",
-      "market_id": "1.258819830",
-      "_is_inplay": false,
-      "open_date": "2026-06-03 22:00"
     },
     {
       "match": "Club R Zemamra v Yacoub El Mansour",
@@ -107,6 +92,21 @@
       "market_id": "1.258795072",
       "_is_inplay": false,
       "open_date": "2026-06-03 20:00"
+    },
+    {
+      "match": "Raja Casablanca v RSB Berkane",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 10,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675592",
+      "market_id": "1.258819830",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 22:00"
     },
     {
       "match": "CD Gualberto Villarroel v Real Tomayapo",
@@ -2436,7 +2436,7 @@
       "open_date": "2026-06-03 22:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 79,
+      "volume": 10,
       "best_volume": 489,
       "whale_max": 0,
       "entered": false
