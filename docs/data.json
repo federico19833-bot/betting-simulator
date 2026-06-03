@@ -1,5 +1,5 @@
 {
-  "last_update": "03/06/2026 03:02:09",
+  "last_update": "03/06/2026 03:02:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -17,7 +17,98 @@
     "roi": 0.1,
     "balance": 1021.84
   },
-  "live_events": [],
+  "live_events": [
+    {
+      "match": "Barracas Central v CA Huracan",
+      "campionato": "Argentinian Cup",
+      "volume": 1120,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35665029",
+      "market_id": "1.258764881",
+      "_is_inplay": true,
+      "open_date": "2026-06-03 02:10"
+    },
+    {
+      "match": "Fortaleza EC v EC Vitoria Salvador",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 995,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673198",
+      "market_id": "1.258795465",
+      "_is_inplay": true,
+      "open_date": "2026-06-03 02:00"
+    },
+    {
+      "match": "IFK Umea v Taftea IK",
+      "campionato": "Swedish Division 2",
+      "volume": 523,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677870",
+      "market_id": "1.258842874",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 19:00"
+    },
+    {
+      "match": "Viggbyholms IK FF v Sollentuna FF",
+      "campionato": "Swedish Cup",
+      "volume": 295,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678031",
+      "market_id": "1.258836896",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 19:00"
+    },
+    {
+      "match": "IRT Tanger v Wydad Casablanca",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 190,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673165",
+      "market_id": "1.258795072",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 20:00"
+    },
+    {
+      "match": "BK Olympic v Lunds BK",
+      "campionato": "Swedish Division 1",
+      "volume": 82,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35660558",
+      "market_id": "1.258783479",
+      "_is_inplay": false,
+      "open_date": "2026-06-03 19:00"
+    }
+  ],
   "tracked_matches": [
     {
       "event_id": "bf_1.258405477",
@@ -2286,6 +2377,42 @@
       "best_volume": 14132,
       "whale_max": 0,
       "entered": true
+    },
+    {
+      "event_id": "bf_1.258795465",
+      "match": "Fortaleza EC v EC Vitoria Salvador",
+      "campionato": "Brazilian Copa do Nordeste",
+      "open_date": "2026-06-03 02:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 995,
+      "best_volume": 995,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258764881",
+      "match": "Barracas Central v CA Huracan",
+      "campionato": "Argentinian Cup",
+      "open_date": "2026-06-03 02:10",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 1120,
+      "best_volume": 1120,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258795072",
+      "match": "IRT Tanger v Wydad Casablanca",
+      "campionato": "Moroccan Botola Pro 1",
+      "open_date": "2026-06-03 20:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 190,
+      "best_volume": 190,
+      "whale_max": 0,
+      "entered": false
     }
   ],
   "giocate": [
