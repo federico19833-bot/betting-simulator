@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:17:03",
+  "last_update": "04/06/2026 18:17:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "ES Ben Aknoun v USM Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 4256,
+      "volume": 4253,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -49,6 +49,21 @@
       "open_date": "2026-06-04 18:00"
     },
     {
+      "match": "Stenungsunds IF v Vanersborgs IF",
+      "campionato": "Swedish Division 2",
+      "volume": 1513,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681030",
+      "market_id": "1.258857877",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:00"
+    },
+    {
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 1460,
@@ -62,21 +77,6 @@
       "market_id": "1.258854150",
       "_is_inplay": false,
       "open_date": "2026-06-04 20:00"
-    },
-    {
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "volume": 1426,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661751",
-      "market_id": "1.258788392",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:10"
     },
     {
       "match": "Solvesborgs GoIF v Torns",
@@ -124,6 +124,21 @@
       "open_date": "2026-06-04 19:00"
     },
     {
+      "match": "San Lorenzo v Deportivo Riestra",
+      "campionato": "Argentinian Cup",
+      "volume": 340,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661751",
+      "market_id": "1.258788392",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 02:10"
+    },
+    {
       "match": "AFC Eskilstuna v Karlbergs BK",
       "campionato": "Swedish Division 1",
       "volume": 265,
@@ -137,21 +152,6 @@
       "market_id": "1.258831891",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:30"
-    },
-    {
-      "match": "Stenungsunds IF v Vanersborgs IF",
-      "campionato": "Swedish Division 2",
-      "volume": 231,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681030",
-      "market_id": "1.258857877",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:00"
     },
     {
       "match": "IFK Stocksund v FC Stockholm Internazionale",
@@ -2505,7 +2505,7 @@
       "open_date": "2026-06-04 02:10",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1426,
+      "volume": 340,
       "best_volume": 1426,
       "whale_max": 0,
       "entered": false
@@ -2517,7 +2517,7 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 4256,
+      "volume": 4253,
       "best_volume": 4256,
       "whale_max": 0,
       "entered": false
