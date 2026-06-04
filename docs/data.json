@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 16:05:48",
+  "last_update": "04/06/2026 16:06:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Real Potosi v Academia de Balompie Boliviano",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 2803,
+      "volume": 2804,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -64,6 +64,21 @@
       "open_date": "2026-06-04 20:00"
     },
     {
+      "match": "Solvesborgs GoIF v Torns",
+      "campionato": "Swedish Division 2",
+      "volume": 1018,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681038",
+      "market_id": "1.258858114",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
+    },
+    {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 688,
@@ -77,21 +92,6 @@
       "market_id": "1.258854128",
       "_is_inplay": false,
       "open_date": "2026-06-04 22:00"
-    },
-    {
-      "match": "Solvesborgs GoIF v Torns",
-      "campionato": "Swedish Division 2",
-      "volume": 353,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681038",
-      "market_id": "1.258858114",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
     },
     {
       "match": "Laholms v Hassleholms IF",
@@ -111,7 +111,7 @@
     {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 253,
+      "volume": 254,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -2430,7 +2430,7 @@
       "open_date": "2026-06-04 02:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 2803,
+      "volume": 2804,
       "best_volume": 2864,
       "whale_max": 0,
       "entered": false
@@ -2454,7 +2454,7 @@
       "open_date": "2026-06-04 19:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 253,
+      "volume": 254,
       "best_volume": 299,
       "whale_max": 0,
       "entered": false
@@ -2488,9 +2488,9 @@
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-04 19:30",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 353,
+      "volume": 1018,
       "best_volume": 1944,
       "whale_max": 0,
       "entered": false
