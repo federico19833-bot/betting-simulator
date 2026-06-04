@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:08:04",
+  "last_update": "04/06/2026 18:08:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,9 +94,24 @@
       "open_date": "2026-06-04 02:00"
     },
     {
+      "match": "Solvesborgs GoIF v Torns",
+      "campionato": "Swedish Division 2",
+      "volume": 863,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681038",
+      "market_id": "1.258858114",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
+    },
+    {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 1183,
+      "volume": 627,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -107,21 +122,6 @@
       "market_id": "1.258857877",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
-    },
-    {
-      "match": "Solvesborgs GoIF v Torns",
-      "campionato": "Swedish Division 2",
-      "volume": 484,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681038",
-      "market_id": "1.258858114",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
     },
     {
       "match": "Laholms v Hassleholms IF",
@@ -152,6 +152,21 @@
       "market_id": "1.258831891",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:30"
+    },
+    {
+      "match": "Lebanon v Yemen",
+      "campionato": "AFC Asian Cup Qualifiers",
+      "volume": 20,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678185",
+      "market_id": "1.258836663",
+      "_is_inplay": true,
+      "open_date": "2026-06-04 18:00"
     },
     {
       "match": "IFK Stocksund v FC Stockholm Internazionale",
@@ -2531,6 +2546,18 @@
       "quota_iniziale": 1.05,
       "volume": 1460,
       "best_volume": 1460,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258836663",
+      "match": "Lebanon v Yemen",
+      "campionato": "AFC Asian Cup Qualifiers",
+      "open_date": "2026-06-04 18:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 20,
+      "best_volume": 20,
       "whale_max": 0,
       "entered": false
     }
