@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 19:10:18",
+  "last_update": "04/06/2026 19:10:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,10 +19,25 @@
   },
   "live_events": [
     {
+      "match": "Lebanon v Yemen",
+      "campionato": "AFC Asian Cup Qualifiers",
+      "volume": 5290,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678185",
+      "market_id": "1.258836663",
+      "_is_inplay": true,
+      "open_date": "2026-06-04 18:00"
+    },
+    {
       "match": "San Lorenzo v Deportivo Riestra",
       "campionato": "Argentinian Cup",
-      "volume": 3195,
-      "quota": 1.16,
+      "volume": 2009,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +51,7 @@
     {
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 1450,
+      "volume": 945,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -49,24 +64,9 @@
       "open_date": "2026-06-04 20:00"
     },
     {
-      "match": "Lebanon v Yemen",
-      "campionato": "AFC Asian Cup Qualifiers",
-      "volume": 1033,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678185",
-      "market_id": "1.258836663",
-      "_is_inplay": true,
-      "open_date": "2026-06-04 18:00"
-    },
-    {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 634,
+      "volume": 594,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -90,6 +90,21 @@
       "source": "Betfair",
       "event_id": "35677946",
       "market_id": "1.258831891",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
+    },
+    {
+      "match": "IFK Stocksund v FC Stockholm Internazionale",
+      "campionato": "Swedish Cup",
+      "volume": 402,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680989",
+      "market_id": "1.258854563",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:30"
     },
@@ -122,21 +137,6 @@
       "market_id": "1.258823015",
       "_is_inplay": false,
       "open_date": "2026-06-04 02:00"
-    },
-    {
-      "match": "IFK Stocksund v FC Stockholm Internazionale",
-      "campionato": "Swedish Cup",
-      "volume": 321,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680989",
-      "market_id": "1.258854563",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
     },
     {
       "match": "FAR Rabat v DHJ El Jadida",
@@ -2440,9 +2440,9 @@
       "match": "IFK Stocksund v FC Stockholm Internazionale",
       "campionato": "Swedish Cup",
       "open_date": "2026-06-04 19:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 321,
+      "volume": 402,
       "best_volume": 1460,
       "whale_max": 0,
       "entered": false
@@ -2478,7 +2478,7 @@
       "open_date": "2026-06-04 19:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 634,
+      "volume": 594,
       "best_volume": 634,
       "whale_max": 0,
       "entered": false
@@ -2502,7 +2502,7 @@
       "open_date": "2026-06-04 20:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 1450,
+      "volume": 945,
       "best_volume": 2377,
       "whale_max": 0,
       "entered": false
@@ -2514,8 +2514,8 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1033,
-      "best_volume": 5124,
+      "volume": 5290,
+      "best_volume": 5290,
       "whale_max": 0,
       "entered": false
     }
