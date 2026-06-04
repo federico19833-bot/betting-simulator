@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 09:26:02",
+  "last_update": "04/06/2026 09:29:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "ES Ben Aknoun v USM Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 1215,
-      "quota": 1.14,
+      "volume": 1046,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -79,6 +79,21 @@
       "open_date": "2026-06-04 19:30"
     },
     {
+      "match": "San Lorenzo v Deportivo Riestra",
+      "campionato": "Argentinian Cup",
+      "volume": 399,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661751",
+      "market_id": "1.258788392",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 02:10"
+    },
+    {
       "match": "IFK Stocksund v FC Stockholm Internazionale",
       "campionato": "Swedish Cup",
       "volume": 398,
@@ -107,21 +122,6 @@
       "market_id": "1.258817669",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
-    },
-    {
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "volume": 300,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661751",
-      "market_id": "1.258788392",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:10"
     },
     {
       "match": "HUSA Agadir v FUS Rabat",
@@ -2457,8 +2457,8 @@
       "open_date": "2026-06-04 02:10",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 300,
-      "best_volume": 300,
+      "volume": 399,
+      "best_volume": 399,
       "whale_max": 0,
       "entered": false
     },
