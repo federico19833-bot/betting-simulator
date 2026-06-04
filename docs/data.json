@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 15:09:37",
+  "last_update": "04/06/2026 15:10:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-06-04 20:00"
     },
     {
-      "match": "IFK Stocksund v FC Stockholm Internazionale",
-      "campionato": "Swedish Cup",
-      "volume": 936,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680989",
-      "market_id": "1.258854563",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
-    },
-    {
       "match": "Real Potosi v Academia de Balompie Boliviano",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 724,
@@ -96,7 +81,7 @@
     {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 696,
+      "volume": 688,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -107,6 +92,21 @@
       "market_id": "1.258854128",
       "_is_inplay": false,
       "open_date": "2026-06-04 22:00"
+    },
+    {
+      "match": "IFK Stocksund v FC Stockholm Internazionale",
+      "campionato": "Swedish Cup",
+      "volume": 559,
+      "quota": 1.18,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680989",
+      "market_id": "1.258854563",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
     },
     {
       "match": "Stenungsunds IF v Vanersborgs IF",
@@ -2541,7 +2541,7 @@
       "open_date": "2026-06-04 22:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 696,
+      "volume": 688,
       "best_volume": 696,
       "whale_max": 0,
       "entered": false
