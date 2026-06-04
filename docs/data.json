@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:14:48",
+  "last_update": "04/06/2026 18:15:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "ES Ben Aknoun v USM Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 2798,
+      "volume": 2801,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
-      "volume": 840,
+      "volume": 713,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -81,8 +81,8 @@
     {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 812,
-      "quota": 1.06,
+      "volume": 665,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -92,6 +92,21 @@
       "market_id": "1.258854128",
       "_is_inplay": false,
       "open_date": "2026-06-04 22:00"
+    },
+    {
+      "match": "Stenungsunds IF v Vanersborgs IF",
+      "campionato": "Swedish Division 2",
+      "volume": 608,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681030",
+      "market_id": "1.258857877",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:00"
     },
     {
       "match": "Laholms v Hassleholms IF",
@@ -137,21 +152,6 @@
       "market_id": "1.258831891",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:30"
-    },
-    {
-      "match": "Stenungsunds IF v Vanersborgs IF",
-      "campionato": "Swedish Division 2",
-      "volume": 227,
-      "quota": 1.23,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681030",
-      "market_id": "1.258857877",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:00"
     },
     {
       "match": "IFK Stocksund v FC Stockholm Internazionale",
@@ -2517,8 +2517,8 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 2798,
-      "best_volume": 2798,
+      "volume": 2801,
+      "best_volume": 2801,
       "whale_max": 0,
       "entered": false
     },
