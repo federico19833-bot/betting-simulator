@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 22:32:47",
+  "last_update": "04/06/2026 22:33:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -17,23 +17,7 @@
     "roi": 0.1,
     "balance": 1021.84
   },
-  "live_events": [
-    {
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "volume": 445,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661751",
-      "market_id": "1.258788392",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:10"
-    }
-  ],
+  "live_events": [],
   "tracked_matches": [
     {
       "event_id": "bf_1.258405477",
@@ -2302,18 +2286,6 @@
       "best_volume": 14132,
       "whale_max": 0,
       "entered": true
-    },
-    {
-      "event_id": "bf_1.258788392",
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "open_date": "2026-06-04 02:10",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.04,
-      "volume": 947,
-      "best_volume": 1986,
-      "whale_max": 0,
-      "entered": false
     }
   ],
   "giocate": [
