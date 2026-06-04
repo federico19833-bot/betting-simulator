@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 19:24:49",
+  "last_update": "04/06/2026 19:25:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-06-04 18:00"
     },
     {
+      "match": "HUSA Agadir v FUS Rabat",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 792,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680877",
+      "market_id": "1.258854150",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 20:00"
+    },
+    {
       "match": "AFC Eskilstuna v Karlbergs BK",
       "campionato": "Swedish Division 1",
       "volume": 481,
@@ -49,24 +64,9 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "HUSA Agadir v FUS Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 425,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680877",
-      "market_id": "1.258854150",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 20:00"
-    },
-    {
       "match": "Real Potosi v Academia de Balompie Boliviano",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 340,
+      "volume": 341,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -94,24 +94,9 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "volume": 265,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661751",
-      "market_id": "1.258788392",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:10"
-    },
-    {
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
-      "volume": 237,
+      "volume": 238,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -126,8 +111,8 @@
     {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 197,
-      "quota": 1.73,
+      "volume": 187,
+      "quota": 1.8,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -137,6 +122,21 @@
       "market_id": "1.258854128",
       "_is_inplay": false,
       "open_date": "2026-06-04 22:00"
+    },
+    {
+      "match": "San Lorenzo v Deportivo Riestra",
+      "campionato": "Argentinian Cup",
+      "volume": 100,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661751",
+      "market_id": "1.258788392",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 02:10"
     }
   ],
   "tracked_matches": [
@@ -2439,7 +2439,7 @@
       "open_date": "2026-06-04 19:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 237,
+      "volume": 238,
       "best_volume": 481,
       "whale_max": 0,
       "entered": false
@@ -2463,7 +2463,7 @@
       "open_date": "2026-06-04 02:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 340,
+      "volume": 341,
       "best_volume": 1199,
       "whale_max": 0,
       "entered": false
@@ -2473,9 +2473,9 @@
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-04 20:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 425,
+      "volume": 792,
       "best_volume": 2377,
       "whale_max": 0,
       "entered": false
