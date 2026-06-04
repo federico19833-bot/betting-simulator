@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 19:47:45",
+  "last_update": "04/06/2026 19:48:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,25 +19,10 @@
   },
   "live_events": [
     {
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "volume": 916,
-      "quota": 1.44,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661751",
-      "market_id": "1.258788392",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:10"
-    },
-    {
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 493,
-      "quota": 1.09,
+      "volume": 481,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,8 +36,8 @@
     {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 94,
-      "quota": 3.0,
+      "volume": 56,
+      "quota": 3.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2334,25 +2319,13 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258788392",
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "open_date": "2026-06-04 02:10",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.02,
-      "volume": 481,
-      "best_volume": 584,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258854150",
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-04 20:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 493,
+      "volume": 481,
       "best_volume": 1111,
       "whale_max": 0,
       "entered": false
