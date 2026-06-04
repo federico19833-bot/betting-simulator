@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 19:15:19",
+  "last_update": "04/06/2026 19:15:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "San Lorenzo v Deportivo Riestra",
       "campionato": "Argentinian Cup",
-      "volume": 1617,
+      "volume": 918,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -75,6 +75,21 @@
       "source": "Betfair",
       "event_id": "35677946",
       "market_id": "1.258831891",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
+    },
+    {
+      "match": "Solvesborgs GoIF v Torns",
+      "campionato": "Swedish Division 2",
+      "volume": 346,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681038",
+      "market_id": "1.258858114",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:30"
     },
@@ -109,24 +124,9 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "Solvesborgs GoIF v Torns",
-      "campionato": "Swedish Division 2",
-      "volume": 238,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681038",
-      "market_id": "1.258858114",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
-    },
-    {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 153,
+      "volume": 147,
       "quota": 1.53,
       "in_range": false,
       "monitored": false,
@@ -2437,9 +2437,9 @@
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-04 19:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 238,
+      "volume": 346,
       "best_volume": 481,
       "whale_max": 0,
       "entered": false
