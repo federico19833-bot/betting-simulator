@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 19:28:44",
+  "last_update": "04/06/2026 19:29:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1021.84
   },
   "live_events": [
-    {
-      "match": "HUSA Agadir v FUS Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 1124,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680877",
-      "market_id": "1.258854150",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 20:00"
-    },
     {
       "match": "AFC Eskilstuna v Karlbergs BK",
       "campionato": "Swedish Division 1",
@@ -64,10 +49,25 @@
       "open_date": "2026-06-04 02:10"
     },
     {
-      "match": "IFK Stocksund v FC Stockholm Internazionale",
-      "campionato": "Swedish Cup",
+      "match": "HUSA Agadir v FUS Rabat",
+      "campionato": "Moroccan Botola Pro 1",
       "volume": 321,
       "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680877",
+      "market_id": "1.258854150",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 20:00"
+    },
+    {
+      "match": "IFK Stocksund v FC Stockholm Internazionale",
+      "campionato": "Swedish Cup",
+      "volume": 238,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -79,25 +79,10 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "Solvesborgs GoIF v Torns",
-      "campionato": "Swedish Division 2",
-      "volume": 238,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681038",
-      "market_id": "1.258858114",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
-    },
-    {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 85,
-      "quota": 1.83,
+      "volume": 56,
+      "quota": 1.85,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2395,22 +2380,10 @@
       "match": "IFK Stocksund v FC Stockholm Internazionale",
       "campionato": "Swedish Cup",
       "open_date": "2026-06-04 19:30",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.05,
-      "volume": 321,
-      "best_volume": 1460,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258858114",
-      "match": "Solvesborgs GoIF v Torns",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-04 19:30",
       "quota_attuale": 1.09,
-      "quota_iniziale": 1.09,
+      "quota_iniziale": 1.05,
       "volume": 238,
-      "best_volume": 481,
+      "best_volume": 1460,
       "whale_max": 0,
       "entered": false
     },
@@ -2431,9 +2404,9 @@
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-04 20:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 1124,
+      "volume": 321,
       "best_volume": 2377,
       "whale_max": 0,
       "entered": false
