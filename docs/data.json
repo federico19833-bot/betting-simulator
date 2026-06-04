@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:30:30",
+  "last_update": "04/06/2026 18:31:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "ES Ben Aknoun v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 4248,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680963",
+      "market_id": "1.258854499",
+      "_is_inplay": true,
+      "open_date": "2026-06-04 18:00"
+    },
+    {
       "match": "Lebanon v Yemen",
       "campionato": "AFC Asian Cup Qualifiers",
       "volume": 4236,
@@ -30,21 +45,6 @@
       "source": "Betfair",
       "event_id": "35678185",
       "market_id": "1.258836663",
-      "_is_inplay": true,
-      "open_date": "2026-06-04 18:00"
-    },
-    {
-      "match": "ES Ben Aknoun v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 4174,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680963",
-      "market_id": "1.258854499",
       "_is_inplay": true,
       "open_date": "2026-06-04 18:00"
     },
@@ -64,6 +64,21 @@
       "open_date": "2026-06-04 20:00"
     },
     {
+      "match": "Solvesborgs GoIF v Torns",
+      "campionato": "Swedish Division 2",
+      "volume": 586,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681038",
+      "market_id": "1.258858114",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
+    },
+    {
       "match": "Laholms v Hassleholms IF",
       "campionato": "Swedish Division 1",
       "volume": 481,
@@ -79,34 +94,19 @@
       "open_date": "2026-06-04 19:00"
     },
     {
-      "match": "Solvesborgs GoIF v Torns",
+      "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 472,
-      "quota": 1.17,
+      "volume": 435,
+      "quota": 1.37,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35681038",
-      "market_id": "1.258858114",
+      "event_id": "35681030",
+      "market_id": "1.258857877",
       "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
-    },
-    {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 415,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
+      "open_date": "2026-06-04 19:00"
     },
     {
       "match": "San Lorenzo v Deportivo Riestra",
@@ -139,19 +139,19 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "Stenungsunds IF v Vanersborgs IF",
-      "campionato": "Swedish Division 2",
-      "volume": 259,
-      "quota": 1.36,
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 193,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35681030",
-      "market_id": "1.258857877",
+      "event_id": "35680884",
+      "market_id": "1.258854128",
       "_is_inplay": false,
-      "open_date": "2026-06-04 19:00"
+      "open_date": "2026-06-04 22:00"
     },
     {
       "match": "IFK Stocksund v FC Stockholm Internazionale",
@@ -2517,7 +2517,7 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 4174,
+      "volume": 4248,
       "best_volume": 4258,
       "whale_max": 0,
       "entered": false
