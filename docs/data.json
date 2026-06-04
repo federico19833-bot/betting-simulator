@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 16:35:02",
+  "last_update": "04/06/2026 16:35:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-06-04 22:00"
     },
     {
+      "match": "Stenungsunds IF v Vanersborgs IF",
+      "campionato": "Swedish Division 2",
+      "volume": 334,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681030",
+      "market_id": "1.258857877",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:00"
+    },
+    {
       "match": "Laholms v Hassleholms IF",
       "campionato": "Swedish Division 1",
       "volume": 299,
@@ -105,21 +120,6 @@
       "source": "Betfair",
       "event_id": "35675040",
       "market_id": "1.258817669",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:00"
-    },
-    {
-      "match": "Stenungsunds IF v Vanersborgs IF",
-      "campionato": "Swedish Division 2",
-      "volume": 254,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681030",
-      "market_id": "1.258857877",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
     },
@@ -2452,10 +2452,10 @@
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-04 19:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 254,
-      "best_volume": 299,
+      "volume": 334,
+      "best_volume": 334,
       "whale_max": 0,
       "entered": false
     },
