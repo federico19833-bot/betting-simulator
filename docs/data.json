@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:00:40",
+  "last_update": "04/06/2026 18:01:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,51 +64,6 @@
       "open_date": "2026-06-04 02:00"
     },
     {
-      "match": "AFC Eskilstuna v Karlbergs BK",
-      "campionato": "Swedish Division 1",
-      "volume": 977,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677946",
-      "market_id": "1.258831891",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
-    },
-    {
-      "match": "ES Ben Aknoun v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 592,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680963",
-      "market_id": "1.258854499",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 18:00"
-    },
-    {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 493,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
-    },
-    {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
       "volume": 473,
@@ -152,6 +107,51 @@
       "market_id": "1.258817669",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
+    },
+    {
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 267,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680884",
+      "market_id": "1.258854128",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 22:00"
+    },
+    {
+      "match": "AFC Eskilstuna v Karlbergs BK",
+      "campionato": "Swedish Division 1",
+      "volume": 135,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677946",
+      "market_id": "1.258831891",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
+    },
+    {
+      "match": "ES Ben Aknoun v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 70,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680963",
+      "market_id": "1.258854499",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 18:00"
     },
     {
       "match": "Solvesborgs GoIF v Torns",
@@ -2493,7 +2493,7 @@
       "open_date": "2026-06-04 19:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 977,
+      "volume": 135,
       "best_volume": 1783,
       "whale_max": 0,
       "entered": false
@@ -2529,7 +2529,7 @@
       "open_date": "2026-06-04 22:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 493,
+      "volume": 267,
       "best_volume": 1104,
       "whale_max": 0,
       "entered": false
