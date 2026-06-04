@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:48:59",
+  "last_update": "04/06/2026 18:49:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 1150,
+      "volume": 1220,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -109,25 +109,10 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "Laholms v Hassleholms IF",
-      "campionato": "Swedish Division 1",
-      "volume": 144,
-      "quota": 1.49,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675040",
-      "market_id": "1.258817669",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:00"
-    },
-    {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 40,
-      "quota": 1.41,
+      "volume": 159,
+      "quota": 1.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -137,6 +122,21 @@
       "market_id": "1.258854128",
       "_is_inplay": false,
       "open_date": "2026-06-04 22:00"
+    },
+    {
+      "match": "Laholms v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "volume": 112,
+      "quota": 1.48,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675040",
+      "market_id": "1.258817669",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:00"
     },
     {
       "match": "IFK Stocksund v FC Stockholm Internazionale",
