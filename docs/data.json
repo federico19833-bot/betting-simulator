@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:56:49",
+  "last_update": "04/06/2026 18:57:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Lebanon v Yemen",
       "campionato": "AFC Asian Cup Qualifiers",
-      "volume": 5116,
+      "volume": 6163,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -60,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35681030",
       "market_id": "1.258857877",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:00"
+    },
+    {
+      "match": "Laholms v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "volume": 494,
+      "quota": 1.55,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675040",
+      "market_id": "1.258817669",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
     },
@@ -109,25 +124,10 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "Laholms v Hassleholms IF",
-      "campionato": "Swedish Division 1",
-      "volume": 90,
-      "quota": 1.55,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675040",
-      "market_id": "1.258817669",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:00"
-    },
-    {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 65,
-      "quota": 1.52,
+      "volume": 121,
+      "quota": 1.53,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2478,8 +2478,8 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 5116,
-      "best_volume": 5475,
+      "volume": 6163,
+      "best_volume": 6163,
       "whale_max": 0,
       "entered": false
     },
