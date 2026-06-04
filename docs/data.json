@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 19:01:19",
+  "last_update": "04/06/2026 19:01:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Lebanon v Yemen",
       "campionato": "AFC Asian Cup Qualifiers",
-      "volume": 6572,
-      "quota": 1.06,
+      "volume": 622,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,19 +34,19 @@
       "open_date": "2026-06-04 18:00"
     },
     {
-      "match": "IFK Stocksund v FC Stockholm Internazionale",
-      "campionato": "Swedish Cup",
-      "volume": 461,
-      "quota": 1.01,
+      "match": "Laholms v Hassleholms IF",
+      "campionato": "Swedish Division 1",
+      "volume": 614,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35680989",
-      "market_id": "1.258854563",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
+      "event_id": "35675040",
+      "market_id": "1.258817669",
+      "_is_inplay": true,
+      "open_date": "2026-06-04 19:00"
     },
     {
       "match": "San Lorenzo v Deportivo Riestra",
@@ -64,6 +64,21 @@
       "open_date": "2026-06-04 02:10"
     },
     {
+      "match": "Solvesborgs GoIF v Torns",
+      "campionato": "Swedish Division 2",
+      "volume": 321,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681038",
+      "market_id": "1.258858114",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
+    },
+    {
       "match": "AFC Eskilstuna v Karlbergs BK",
       "campionato": "Swedish Division 1",
       "volume": 239,
@@ -79,32 +94,17 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "Laholms v Hassleholms IF",
-      "campionato": "Swedish Division 1",
-      "volume": 165,
-      "quota": 1.02,
+      "match": "IFK Stocksund v FC Stockholm Internazionale",
+      "campionato": "Swedish Cup",
+      "volume": 88,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35675040",
-      "market_id": "1.258817669",
-      "_is_inplay": true,
-      "open_date": "2026-06-04 19:00"
-    },
-    {
-      "match": "Solvesborgs GoIF v Torns",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681038",
-      "market_id": "1.258858114",
+      "event_id": "35680989",
+      "market_id": "1.258854563",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:30"
     }
@@ -2395,9 +2395,9 @@
       "match": "IFK Stocksund v FC Stockholm Internazionale",
       "campionato": "Swedish Cup",
       "open_date": "2026-06-04 19:30",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 461,
+      "volume": 88,
       "best_volume": 1460,
       "whale_max": 0,
       "entered": false
@@ -2407,9 +2407,9 @@
       "match": "Lebanon v Yemen",
       "campionato": "AFC Asian Cup Qualifiers",
       "open_date": "2026-06-04 18:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 6572,
+      "volume": 622,
       "best_volume": 6572,
       "whale_max": 0,
       "entered": false
@@ -2421,7 +2421,7 @@
       "open_date": "2026-06-04 19:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.09,
-      "volume": 10,
+      "volume": 321,
       "best_volume": 481,
       "whale_max": 0,
       "entered": false
@@ -2445,8 +2445,8 @@
       "open_date": "2026-06-04 19:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 165,
-      "best_volume": 165,
+      "volume": 614,
+      "best_volume": 614,
       "whale_max": 0,
       "entered": false
     }
