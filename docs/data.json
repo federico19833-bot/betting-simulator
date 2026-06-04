@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:00:00",
+  "last_update": "04/06/2026 18:00:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-06-04 02:00"
     },
     {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 1104,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
-    },
-    {
       "match": "AFC Eskilstuna v Karlbergs BK",
       "campionato": "Swedish Division 1",
       "volume": 977,
@@ -107,6 +92,21 @@
       "market_id": "1.258854499",
       "_is_inplay": false,
       "open_date": "2026-06-04 18:00"
+    },
+    {
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 493,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680884",
+      "market_id": "1.258854128",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 22:00"
     },
     {
       "match": "Stenungsunds IF v Vanersborgs IF",
@@ -2527,9 +2527,9 @@
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-04 22:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1104,
+      "volume": 493,
       "best_volume": 1104,
       "whale_max": 0,
       "entered": false
