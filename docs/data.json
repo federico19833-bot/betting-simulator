@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 17:58:53",
+  "last_update": "04/06/2026 17:59:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "San Lorenzo v Deportivo Riestra",
       "campionato": "Argentinian Cup",
-      "volume": 3262,
+      "volume": 4236,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "Lebanon v Yemen",
-      "campionato": "AFC Asian Cup Qualifiers",
-      "volume": 1427,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678185",
-      "market_id": "1.258836663",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 18:00"
-    },
-    {
       "match": "Real Potosi v Academia de Balompie Boliviano",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 1397,
@@ -77,21 +62,6 @@
       "market_id": "1.258823015",
       "_is_inplay": false,
       "open_date": "2026-06-04 02:00"
-    },
-    {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 1104,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
     },
     {
       "match": "ES Ben Aknoun v USM Alger",
@@ -124,6 +94,21 @@
       "open_date": "2026-06-04 19:30"
     },
     {
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 518,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680884",
+      "market_id": "1.258854128",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 22:00"
+    },
+    {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
       "volume": 473,
@@ -137,6 +122,21 @@
       "market_id": "1.258857877",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
+    },
+    {
+      "match": "Lebanon v Yemen",
+      "campionato": "AFC Asian Cup Qualifiers",
+      "volume": 340,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678185",
+      "market_id": "1.258836663",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 18:00"
     },
     {
       "match": "Laholms v Hassleholms IF",
@@ -2457,7 +2457,7 @@
       "open_date": "2026-06-04 02:10",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 3262,
+      "volume": 4236,
       "best_volume": 4236,
       "whale_max": 0,
       "entered": false
@@ -2527,9 +2527,9 @@
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-04 22:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1104,
+      "volume": 518,
       "best_volume": 1104,
       "whale_max": 0,
       "entered": false
@@ -2541,7 +2541,7 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1427,
+      "volume": 340,
       "best_volume": 1427,
       "whale_max": 0,
       "entered": false
