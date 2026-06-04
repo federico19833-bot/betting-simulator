@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:49:33",
+  "last_update": "04/06/2026 18:50:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Lebanon v Yemen",
       "campionato": "AFC Asian Cup Qualifiers",
-      "volume": 4714,
+      "volume": 4636,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 1220,
+      "volume": 1150,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258857877",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
-    },
-    {
-      "match": "HUSA Agadir v FUS Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 551,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680877",
-      "market_id": "1.258854150",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 20:00"
     },
     {
       "match": "AFC Eskilstuna v Karlbergs BK",
@@ -94,6 +79,21 @@
       "open_date": "2026-06-04 19:30"
     },
     {
+      "match": "HUSA Agadir v FUS Rabat",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 434,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680877",
+      "market_id": "1.258854150",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 20:00"
+    },
+    {
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
       "volume": 350,
@@ -109,25 +109,10 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 159,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
-    },
-    {
       "match": "Laholms v Hassleholms IF",
       "campionato": "Swedish Division 1",
-      "volume": 112,
-      "quota": 1.48,
+      "volume": 144,
+      "quota": 1.5,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -137,6 +122,21 @@
       "market_id": "1.258817669",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
+    },
+    {
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 40,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680884",
+      "market_id": "1.258854128",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 22:00"
     },
     {
       "match": "IFK Stocksund v FC Stockholm Internazionale",
@@ -2466,7 +2466,7 @@
       "open_date": "2026-06-04 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 551,
+      "volume": 434,
       "best_volume": 1460,
       "whale_max": 0,
       "entered": false
@@ -2478,7 +2478,7 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 4714,
+      "volume": 4636,
       "best_volume": 4988,
       "whale_max": 0,
       "entered": false
