@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:14:15",
+  "last_update": "04/06/2026 18:14:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "ES Ben Aknoun v USM Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 1818,
+      "volume": 2798,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -64,39 +64,9 @@
       "open_date": "2026-06-04 20:00"
     },
     {
-      "match": "San Lorenzo v Deportivo Riestra",
-      "campionato": "Argentinian Cup",
-      "volume": 1289,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35661751",
-      "market_id": "1.258788392",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:10"
-    },
-    {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 856,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
-    },
-    {
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
-      "volume": 713,
+      "volume": 840,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -109,9 +79,24 @@
       "open_date": "2026-06-04 19:30"
     },
     {
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 812,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680884",
+      "market_id": "1.258854128",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 22:00"
+    },
+    {
       "match": "Laholms v Hassleholms IF",
       "campionato": "Swedish Division 1",
-      "volume": 473,
+      "volume": 481,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -122,6 +107,21 @@
       "market_id": "1.258817669",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
+    },
+    {
+      "match": "San Lorenzo v Deportivo Riestra",
+      "campionato": "Argentinian Cup",
+      "volume": 340,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35661751",
+      "market_id": "1.258788392",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 02:10"
     },
     {
       "match": "AFC Eskilstuna v Karlbergs BK",
@@ -141,7 +141,7 @@
     {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 209,
+      "volume": 227,
       "quota": 1.23,
       "in_range": false,
       "monitored": false,
@@ -2457,7 +2457,7 @@
       "open_date": "2026-06-04 19:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 473,
+      "volume": 481,
       "best_volume": 1783,
       "whale_max": 0,
       "entered": false
@@ -2505,7 +2505,7 @@
       "open_date": "2026-06-04 02:10",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1289,
+      "volume": 340,
       "best_volume": 1289,
       "whale_max": 0,
       "entered": false
@@ -2517,8 +2517,8 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 1818,
-      "best_volume": 2300,
+      "volume": 2798,
+      "best_volume": 2798,
       "whale_max": 0,
       "entered": false
     },
@@ -2543,6 +2543,18 @@
       "quota_iniziale": 1.03,
       "volume": 4236,
       "best_volume": 4236,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258854128",
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "open_date": "2026-06-04 22:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 812,
+      "best_volume": 812,
       "whale_max": 0,
       "entered": false
     }
