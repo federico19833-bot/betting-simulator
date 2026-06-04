@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:18:10",
+  "last_update": "04/06/2026 18:18:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "ES Ben Aknoun v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 4248,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680963",
+      "market_id": "1.258854499",
+      "_is_inplay": true,
+      "open_date": "2026-06-04 18:00"
+    },
+    {
       "match": "Lebanon v Yemen",
       "campionato": "AFC Asian Cup Qualifiers",
       "volume": 4236,
@@ -30,21 +45,6 @@
       "source": "Betfair",
       "event_id": "35678185",
       "market_id": "1.258836663",
-      "_is_inplay": true,
-      "open_date": "2026-06-04 18:00"
-    },
-    {
-      "match": "ES Ben Aknoun v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 2798,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680963",
-      "market_id": "1.258854499",
       "_is_inplay": true,
       "open_date": "2026-06-04 18:00"
     },
@@ -96,8 +96,8 @@
     {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 874,
-      "quota": 1.13,
+      "volume": 1085,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -111,7 +111,7 @@
     {
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
-      "volume": 713,
+      "volume": 1074,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -2517,7 +2517,7 @@
       "open_date": "2026-06-04 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.01,
-      "volume": 2798,
+      "volume": 4248,
       "best_volume": 4256,
       "whale_max": 0,
       "entered": false
