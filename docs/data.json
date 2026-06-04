@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 19:45:30",
+  "last_update": "04/06/2026 19:46:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Real Potosi v Academia de Balompie Boliviano",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 2337,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675690",
+      "market_id": "1.258823015",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 02:00"
+    },
+    {
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 611,
+      "volume": 1111,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -51,8 +66,8 @@
     {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 181,
-      "quota": 2.3,
+      "volume": 90,
+      "quota": 2.66,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -62,21 +77,6 @@
       "market_id": "1.258854128",
       "_is_inplay": false,
       "open_date": "2026-06-04 22:00"
-    },
-    {
-      "match": "Real Potosi v Academia de Balompie Boliviano",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 80,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675690",
-      "market_id": "1.258823015",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:00"
     }
   ],
   "tracked_matches": [
@@ -2379,8 +2379,8 @@
       "open_date": "2026-06-04 20:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 611,
-      "best_volume": 611,
+      "volume": 1111,
+      "best_volume": 1111,
       "whale_max": 0,
       "entered": false
     }
