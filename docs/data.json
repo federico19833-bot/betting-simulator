@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 20:02:59",
+  "last_update": "04/06/2026 20:03:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -17,38 +17,7 @@
     "roi": 0.1,
     "balance": 1021.84
   },
-  "live_events": [
-    {
-      "match": "HUSA Agadir v FUS Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 481,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680877",
-      "market_id": "1.258854150",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 20:00"
-    },
-    {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 47,
-      "quota": 12.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
-    }
-  ],
+  "live_events": [],
   "tracked_matches": [
     {
       "event_id": "bf_1.258405477",
@@ -2317,18 +2286,6 @@
       "best_volume": 14132,
       "whale_max": 0,
       "entered": true
-    },
-    {
-      "event_id": "bf_1.258854150",
-      "match": "HUSA Agadir v FUS Rabat",
-      "campionato": "Moroccan Botola Pro 1",
-      "open_date": "2026-06-04 20:00",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.03,
-      "volume": 481,
-      "best_volume": 1111,
-      "whale_max": 0,
-      "entered": false
     }
   ],
   "giocate": [
