@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 17:53:14",
+  "last_update": "04/06/2026 17:53:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,9 +49,24 @@
       "open_date": "2026-06-04 19:30"
     },
     {
+      "match": "ES Ben Aknoun v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 1290,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680963",
+      "market_id": "1.258854499",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 18:00"
+    },
+    {
       "match": "Real Potosi v Academia de Balompie Boliviano",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1407,
+      "volume": 1282,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -77,21 +92,6 @@
       "market_id": "1.258854128",
       "_is_inplay": false,
       "open_date": "2026-06-04 22:00"
-    },
-    {
-      "match": "ES Ben Aknoun v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 988,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680963",
-      "market_id": "1.258854499",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 18:00"
     },
     {
       "match": "AFC Eskilstuna v Karlbergs BK",
@@ -2445,7 +2445,7 @@
       "open_date": "2026-06-04 02:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1407,
+      "volume": 1282,
       "best_volume": 3320,
       "whale_max": 0,
       "entered": false
