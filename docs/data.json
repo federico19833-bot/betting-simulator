@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:02:27",
+  "last_update": "04/06/2026 18:03:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-04 19:30"
     },
     {
-      "match": "FAR Rabat v DHJ El Jadida",
-      "campionato": "Moroccan Botola Pro 1",
-      "volume": 1050,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35680884",
-      "market_id": "1.258854128",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 22:00"
-    },
-    {
       "match": "Real Potosi v Academia de Balompie Boliviano",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 1001,
@@ -111,7 +96,7 @@
     {
       "match": "Laholms v Hassleholms IF",
       "campionato": "Swedish Division 1",
-      "volume": 265,
+      "volume": 274,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -152,6 +137,21 @@
       "market_id": "1.258858114",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:30"
+    },
+    {
+      "match": "FAR Rabat v DHJ El Jadida",
+      "campionato": "Moroccan Botola Pro 1",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35680884",
+      "market_id": "1.258854128",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 22:00"
     }
   ],
   "tracked_matches": [
@@ -2454,7 +2454,7 @@
       "open_date": "2026-06-04 19:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 265,
+      "volume": 274,
       "best_volume": 1783,
       "whale_max": 0,
       "entered": false
@@ -2524,9 +2524,9 @@
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
       "open_date": "2026-06-04 22:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1050,
+      "volume": 10,
       "best_volume": 1050,
       "whale_max": 0,
       "entered": false
