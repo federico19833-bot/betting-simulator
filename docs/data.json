@@ -1,5 +1,5 @@
 {
-  "last_update": "04/06/2026 18:07:30",
+  "last_update": "04/06/2026 18:08:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-04 18:00"
     },
     {
-      "match": "Real Potosi v Academia de Balompie Boliviano",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1698,
-      "quota": 1.18,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675690",
-      "market_id": "1.258823015",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 02:00"
-    },
-    {
       "match": "HUSA Agadir v FUS Rabat",
       "campionato": "Moroccan Botola Pro 1",
       "volume": 1460,
@@ -81,7 +66,7 @@
     {
       "match": "FAR Rabat v DHJ El Jadida",
       "campionato": "Moroccan Botola Pro 1",
-      "volume": 1100,
+      "volume": 1233,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -94,9 +79,24 @@
       "open_date": "2026-06-04 22:00"
     },
     {
+      "match": "Real Potosi v Academia de Balompie Boliviano",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1187,
+      "quota": 1.19,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675690",
+      "market_id": "1.258823015",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 02:00"
+    },
+    {
       "match": "Stenungsunds IF v Vanersborgs IF",
       "campionato": "Swedish Division 2",
-      "volume": 627,
+      "volume": 1183,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258857877",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
+    },
+    {
+      "match": "Solvesborgs GoIF v Torns",
+      "campionato": "Swedish Division 2",
+      "volume": 484,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681038",
+      "market_id": "1.258858114",
+      "_is_inplay": false,
+      "open_date": "2026-06-04 19:30"
     },
     {
       "match": "Laholms v Hassleholms IF",
@@ -122,21 +137,6 @@
       "market_id": "1.258817669",
       "_is_inplay": false,
       "open_date": "2026-06-04 19:00"
-    },
-    {
-      "match": "Solvesborgs GoIF v Torns",
-      "campionato": "Swedish Division 2",
-      "volume": 377,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681038",
-      "market_id": "1.258858114",
-      "_is_inplay": false,
-      "open_date": "2026-06-04 19:30"
     },
     {
       "match": "AFC Eskilstuna v Karlbergs BK",
@@ -2467,9 +2467,9 @@
       "match": "Solvesborgs GoIF v Torns",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-04 19:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 377,
+      "volume": 484,
       "best_volume": 1460,
       "whale_max": 0,
       "entered": false
