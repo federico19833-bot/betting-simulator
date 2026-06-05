@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:20:08",
+  "last_update": "05/06/2026 12:20:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 3481,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 3974,
+      "volume": 2539,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -34,17 +49,17 @@
       "open_date": "2026-06-05 12:30"
     },
     {
-      "match": "Seongnam FC v Gimhae City",
+      "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 3481,
-      "quota": 1.06,
+      "volume": 1686,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
+      "event_id": "35666251",
+      "market_id": "1.258830826",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
     },
@@ -212,21 +227,6 @@
       "market_id": "1.258859967",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:15"
-    },
-    {
-      "match": "Busan IPark v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 165,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666251",
-      "market_id": "1.258830826",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
@@ -2577,7 +2577,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 3974,
+      "volume": 2539,
       "best_volume": 3974,
       "whale_max": 0,
       "entered": false
@@ -2587,9 +2587,9 @@
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 165,
+      "volume": 1686,
       "best_volume": 1688,
       "whale_max": 0,
       "entered": false
