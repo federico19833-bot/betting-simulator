@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 15:05:30",
+  "last_update": "05/06/2026 15:06:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,21 +109,6 @@
       "open_date": "2026-06-05 17:30"
     },
     {
-      "match": "FK Kudrivka v Agrobiznes Volochysk",
-      "campionato": "Ukrainian Premier League",
-      "volume": 742,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35685118",
-      "market_id": "1.258893037",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:00"
-    },
-    {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 645,
@@ -182,6 +167,21 @@
       "market_id": "1.258916498",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
+    },
+    {
+      "match": "FK Kudrivka v Agrobiznes Volochysk",
+      "campionato": "Ukrainian Premier League",
+      "volume": 368,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35685118",
+      "market_id": "1.258893037",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -2592,7 +2592,7 @@
       "open_date": "2026-06-05 17:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 742,
+      "volume": 368,
       "best_volume": 3816,
       "whale_max": 0,
       "entered": false
