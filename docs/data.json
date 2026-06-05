@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 08:31:15",
+  "last_update": "05/06/2026 08:31:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 2131,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "FBK Karlstad v IF Karlstad",
       "campionato": "Swedish Division 1",
       "volume": 1884,
@@ -32,21 +47,6 @@
       "market_id": "1.258841552",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
-    },
-    {
-      "match": "Seongnam FC v Gimhae City",
-      "campionato": "South Korean K2 League",
-      "volume": 1370,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Vanersborgs FK v Skara Fc",
@@ -2574,8 +2574,8 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1370,
-      "best_volume": 1372,
+      "volume": 2131,
+      "best_volume": 2131,
       "whale_max": 0,
       "entered": false
     },
