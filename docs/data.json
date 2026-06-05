@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 09:13:54",
+  "last_update": "05/06/2026 09:14:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 1355,
+      "volume": 1391,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -216,7 +216,7 @@
     {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 72,
+      "volume": 62,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -225,6 +225,21 @@
       "source": "Betfair",
       "event_id": "35678215",
       "market_id": "1.258843742",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678225",
+      "market_id": "1.258843700",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
     }
@@ -2577,8 +2592,8 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1355,
-      "best_volume": 1355,
+      "volume": 1391,
+      "best_volume": 1391,
       "whale_max": 0,
       "entered": false
     },
@@ -2637,7 +2652,7 @@
       "open_date": "2026-06-05 21:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 72,
+      "volume": 62,
       "best_volume": 72,
       "whale_max": 0,
       "entered": false
@@ -2651,6 +2666,18 @@
       "quota_iniziale": 1.07,
       "volume": 728,
       "best_volume": 728,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258843700",
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-06-05 21:15",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
