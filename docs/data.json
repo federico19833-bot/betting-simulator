@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 20:04:31",
+  "last_update": "05/06/2026 20:05:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
-      "volume": 1558,
-      "quota": 1.12,
+      "volume": 2986,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -64,24 +64,9 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "HK Kopavogur v Afturelding",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 1096,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678225",
-      "market_id": "1.258843700",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
-    },
-    {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
-      "volume": 984,
+      "volume": 985,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -122,6 +107,21 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 491,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678225",
+      "market_id": "1.258843700",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
     },
     {
       "match": "Operario PR v Juventude",
@@ -2430,7 +2430,7 @@
       "open_date": "2026-06-05 21:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 984,
+      "volume": 985,
       "best_volume": 2606,
       "whale_max": 0,
       "entered": false
