@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 11:59:51",
+  "last_update": "05/06/2026 12:00:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 3479,
+      "volume": 3481,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 3215,
+      "volume": 3124,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -51,7 +51,7 @@
     {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1606,
+      "volume": 1607,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
-      "volume": 1565,
+      "volume": 1566,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -79,9 +79,24 @@
       "open_date": "2026-06-05 19:30"
     },
     {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 1356,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
       "match": "Lindome v IK Kongahalla",
       "campionato": "Swedish Division 2",
-      "volume": 1210,
+      "volume": 1211,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -96,7 +111,7 @@
     {
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1210,
+      "volume": 1211,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -122,21 +137,6 @@
       "market_id": "1.258830826",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
-    },
-    {
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 896,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -276,7 +276,7 @@
     {
       "match": "USM Khenchela v MB Rouissat",
       "campionato": "Algerian Ligue 1",
-      "volume": 70,
+      "volume": 71,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -307,7 +307,7 @@
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "volume": 10,
-      "quota": 1.03,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2593,9 +2593,9 @@
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.01,
-      "volume": 896,
+      "volume": 1356,
       "best_volume": 2165,
       "whale_max": 0,
       "entered": false
@@ -2619,7 +2619,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 3215,
+      "volume": 3124,
       "best_volume": 3215,
       "whale_max": 0,
       "entered": false
@@ -2643,7 +2643,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 3479,
+      "volume": 3481,
       "best_volume": 3481,
       "whale_max": 0,
       "entered": false
@@ -2679,8 +2679,8 @@
       "open_date": "2026-06-05 23:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 1210,
-      "best_volume": 1210,
+      "volume": 1211,
+      "best_volume": 1211,
       "whale_max": 0,
       "entered": false
     },
@@ -2691,8 +2691,8 @@
       "open_date": "2026-06-05 19:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1565,
-      "best_volume": 1565,
+      "volume": 1566,
+      "best_volume": 1566,
       "whale_max": 0,
       "entered": false
     },
@@ -2727,8 +2727,8 @@
       "open_date": "2026-06-05 18:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 70,
-      "best_volume": 70,
+      "volume": 71,
+      "best_volume": 71,
       "whale_max": 0,
       "entered": false
     },
@@ -2763,7 +2763,7 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1210,
+      "volume": 1211,
       "best_volume": 1211,
       "whale_max": 0,
       "entered": false
@@ -2785,7 +2785,7 @@
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
