@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 14:21:55",
+  "last_update": "05/06/2026 14:22:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
-      "volume": 2371,
+      "volume": 2378,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -137,21 +137,6 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "Wanderers (Uru) v Danubio",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 536,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672249",
-      "market_id": "1.258849954",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 00:00"
     },
     {
       "match": "Landvetter IS v Vastra Frolunda",
@@ -287,6 +272,21 @@
       "market_id": "1.258898369",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 10,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672249",
+      "market_id": "1.258849954",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 00:00"
     }
   ],
   "tracked_matches": [
@@ -2589,7 +2589,7 @@
       "open_date": "2026-06-05 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 2371,
+      "volume": 2378,
       "best_volume": 2381,
       "whale_max": 0,
       "entered": false
@@ -2697,7 +2697,7 @@
       "open_date": "2026-06-06 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 536,
+      "volume": 10,
       "best_volume": 694,
       "whale_max": 0,
       "entered": false
