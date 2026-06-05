@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:07:45",
+  "last_update": "05/06/2026 12:08:18",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 3481,
+      "volume": 3479,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 3049,
+      "volume": 3053,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -169,21 +169,6 @@
       "open_date": "2026-06-06 01:00"
     },
     {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 390,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
-    },
-    {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
       "volume": 312,
@@ -199,25 +184,10 @@
       "open_date": "2026-06-06 00:00"
     },
     {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 307,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
-    },
-    {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
-      "volume": 192,
-      "quota": 1.12,
+      "volume": 237,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -259,32 +229,17 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "USM Khenchela v MB Rouissat",
+      "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
-      "volume": 70,
-      "quota": 1.04,
+      "volume": 96,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35687728",
-      "market_id": "1.258911282",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 18:00"
-    },
-    {
-      "match": "JS Saoura v CS Constantine",
-      "campionato": "Algerian Ligue 1",
-      "volume": 38,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638774",
-      "market_id": "1.258899178",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
     },
@@ -302,6 +257,21 @@
       "market_id": "1.258911041",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "JS Saoura v CS Constantine",
+      "campionato": "Algerian Ligue 1",
+      "volume": 10,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638774",
+      "market_id": "1.258899178",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
     }
   ],
   "tracked_matches": [
@@ -2604,7 +2574,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 3049,
+      "volume": 3053,
       "best_volume": 3215,
       "whale_max": 0,
       "entered": false
@@ -2628,7 +2598,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 3481,
+      "volume": 3479,
       "best_volume": 3483,
       "whale_max": 0,
       "entered": false
@@ -2686,9 +2656,9 @@
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 38,
+      "volume": 10,
       "best_volume": 708,
       "whale_max": 0,
       "entered": false
@@ -2702,18 +2672,6 @@
       "quota_iniziale": 1.08,
       "volume": 111,
       "best_volume": 242,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258911282",
-      "match": "USM Khenchela v MB Rouissat",
-      "campionato": "Algerian Ligue 1",
-      "open_date": "2026-06-05 18:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.02,
-      "volume": 70,
-      "best_volume": 71,
       "whale_max": 0,
       "entered": false
     },
@@ -2758,22 +2716,10 @@
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.09,
-      "volume": 307,
-      "best_volume": 307,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258843721",
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-06-05 21:15",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 390,
-      "best_volume": 390,
+      "volume": 96,
+      "best_volume": 307,
       "whale_max": 0,
       "entered": false
     }
