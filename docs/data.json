@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 08:37:58",
+  "last_update": "05/06/2026 08:38:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,21 +94,6 @@
       "open_date": "2026-06-05 12:30"
     },
     {
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "volume": 932,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681196",
-      "market_id": "1.258859967",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:15"
-    },
-    {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
       "volume": 901,
@@ -152,6 +137,21 @@
       "market_id": "1.258859925",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "Vanersborgs FK v Skara Fc",
+      "campionato": "Swedish Division 2",
+      "volume": 472,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681196",
+      "market_id": "1.258859967",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:15"
     },
     {
       "match": "IF Boljan v BK Astrio",
@@ -2610,7 +2610,7 @@
       "open_date": "2026-06-05 19:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 932,
+      "volume": 472,
       "best_volume": 1356,
       "whale_max": 0,
       "entered": false
