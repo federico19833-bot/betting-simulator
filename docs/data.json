@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 21:24:13",
+  "last_update": "05/06/2026 21:24:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 806,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 21:00"
+    },
+    {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 713,
@@ -36,8 +51,8 @@
     {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 707,
-      "quota": 1.65,
+      "volume": 713,
+      "quota": 1.62,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,25 +64,10 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 687,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 21:00"
-    },
-    {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 609,
-      "quota": 1.13,
+      "volume": 512,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2409,8 +2409,8 @@
       "open_date": "2026-06-05 21:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 687,
-      "best_volume": 687,
+      "volume": 806,
+      "best_volume": 806,
       "whale_max": 0,
       "entered": false
     }
