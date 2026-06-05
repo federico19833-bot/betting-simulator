@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 16:55:15",
+  "last_update": "05/06/2026 16:55:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -214,6 +214,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "Operario PR v Juventude",
+      "campionato": "Brazilian Serie B",
+      "volume": 274,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672307",
+      "market_id": "1.258878364",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 01:00"
+    },
+    {
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 270,
@@ -231,8 +246,8 @@
     {
       "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
-      "volume": 236,
-      "quota": 1.11,
+      "volume": 198,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2732,6 +2747,18 @@
       "quota_iniziale": 1.09,
       "volume": 2156,
       "best_volume": 2177,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258878364",
+      "match": "Operario PR v Juventude",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-06-06 01:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 274,
+      "best_volume": 274,
       "whale_max": 0,
       "entered": false
     }
