@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 16:26:34",
+  "last_update": "05/06/2026 16:27:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "KuPS Akatemia v KPV",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2177,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684482",
+      "market_id": "1.258894216",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:30"
+    },
+    {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "volume": 1837,
@@ -47,21 +62,6 @@
       "market_id": "1.258843700",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
-    },
-    {
-      "match": "KuPS Akatemia v KPV",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1603,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684482",
-      "market_id": "1.258894216",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:30"
     },
     {
       "match": "MC Alger v ASO Chlef",
@@ -214,6 +214,21 @@
       "open_date": "2026-06-05 21:15"
     },
     {
+      "match": "Aegir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 305,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678199",
+      "market_id": "1.258843721",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
+    },
+    {
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 270,
@@ -242,21 +257,6 @@
       "market_id": "1.258859967",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:15"
-    },
-    {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 156,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
     },
     {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
@@ -2635,9 +2635,9 @@
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 156,
+      "volume": 305,
       "best_volume": 1837,
       "whale_max": 0,
       "entered": false
@@ -2747,6 +2747,18 @@
       "quota_iniziale": 1.07,
       "volume": 846,
       "best_volume": 846,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258894216",
+      "match": "KuPS Akatemia v KPV",
+      "campionato": "Finnish Ykkonen",
+      "open_date": "2026-06-05 17:30",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 2177,
+      "best_volume": 2177,
       "whale_max": 0,
       "entered": false
     }
