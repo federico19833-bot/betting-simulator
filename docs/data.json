@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 19:34:42",
+  "last_update": "05/06/2026 19:35:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
-      "volume": 1914,
+      "volume": 2058,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -94,21 +94,6 @@
       "open_date": "2026-06-06 01:00"
     },
     {
-      "match": "CA Ituzaingo v Real Pilar FC",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 320,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684829",
-      "market_id": "1.258895011",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 23:00"
-    },
-    {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
       "volume": 307,
@@ -126,8 +111,8 @@
     {
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
-      "volume": 170,
-      "quota": 1.11,
+      "volume": 305,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -137,6 +122,21 @@
       "market_id": "1.258916498",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
+    },
+    {
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 254,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684829",
+      "market_id": "1.258895011",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 23:00"
     },
     {
       "match": "MC Alger v ASO Chlef",
@@ -2467,9 +2467,9 @@
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-05 23:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 320,
+      "volume": 254,
       "best_volume": 320,
       "whale_max": 0,
       "entered": false
@@ -2553,7 +2553,7 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1914,
+      "volume": 2058,
       "best_volume": 2206,
       "whale_max": 0,
       "entered": false
