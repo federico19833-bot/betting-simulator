@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 13:07:16",
+  "last_update": "05/06/2026 13:07:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 2721,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
       "volume": 1834,
@@ -34,25 +49,10 @@
       "open_date": "2026-06-05 21:00"
     },
     {
-      "match": "Seongnam FC v Gimhae City",
-      "campionato": "South Korean K2 League",
-      "volume": 1678,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 1596,
-      "quota": 1.1,
+      "volume": 1699,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -201,7 +201,7 @@
     {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
-      "volume": 322,
+      "volume": 312,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -2758,9 +2758,9 @@
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 1678,
+      "volume": 2721,
       "best_volume": 4898,
       "whale_max": 0,
       "entered": false
