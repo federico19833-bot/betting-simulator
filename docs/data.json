@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 16:41:45",
+  "last_update": "05/06/2026 16:42:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "KuPS Akatemia v KPV",
       "campionato": "Finnish Ykkonen",
-      "volume": 2177,
+      "volume": 2156,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -122,6 +122,21 @@
       "market_id": "1.258899178",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
+    },
+    {
+      "match": "Landvetter IS v Vastra Frolunda",
+      "campionato": "Swedish Division 2",
+      "volume": 976,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681239",
+      "market_id": "1.258859946",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -272,21 +287,6 @@
       "market_id": "1.258911282",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
-    },
-    {
-      "match": "Landvetter IS v Vastra Frolunda",
-      "campionato": "Swedish Division 2",
-      "volume": 8,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681239",
-      "market_id": "1.258859946",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
     }
   ],
   "tracked_matches": [
@@ -2695,9 +2695,9 @@
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 8,
+      "volume": 976,
       "best_volume": 1540,
       "whale_max": 0,
       "entered": false
@@ -2757,7 +2757,7 @@
       "open_date": "2026-06-05 17:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 2177,
+      "volume": 2156,
       "best_volume": 2177,
       "whale_max": 0,
       "entered": false
