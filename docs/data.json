@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 08:49:11",
+  "last_update": "05/06/2026 08:49:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 3272,
+      "volume": 2062,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -122,6 +122,21 @@
       "market_id": "1.258849954",
       "_is_inplay": false,
       "open_date": "2026-06-06 00:00"
+    },
+    {
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 728,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684829",
+      "market_id": "1.258895011",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 23:00"
     },
     {
       "match": "Jonsereds IF v Galtabäcks BK",
@@ -2574,7 +2589,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3272,
+      "volume": 2062,
       "best_volume": 3272,
       "whale_max": 0,
       "entered": false
@@ -2624,6 +2639,18 @@
       "quota_iniziale": 1.08,
       "volume": 72,
       "best_volume": 72,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258895011",
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-06-05 23:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 728,
+      "best_volume": 728,
       "whale_max": 0,
       "entered": false
     }
