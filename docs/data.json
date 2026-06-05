@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 09:15:35",
+  "last_update": "05/06/2026 09:16:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 1391,
+      "volume": 1355,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -154,21 +154,6 @@
       "open_date": "2026-06-05 21:00"
     },
     {
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "volume": 568,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681196",
-      "market_id": "1.258859967",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:15"
-    },
-    {
       "match": "Jonsereds IF v Galtabäcks BK",
       "campionato": "Swedish Division 2",
       "volume": 515,
@@ -197,6 +182,21 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "Vanersborgs FK v Skara Fc",
+      "campionato": "Swedish Division 2",
+      "volume": 472,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681196",
+      "market_id": "1.258859967",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:15"
     },
     {
       "match": "IF Boljan v BK Astrio",
@@ -261,8 +261,8 @@
     {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
-      "volume": 62,
-      "quota": 1.08,
+      "volume": 65,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2622,7 +2622,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1391,
+      "volume": 1355,
       "best_volume": 1391,
       "whale_max": 0,
       "entered": false
@@ -2670,7 +2670,7 @@
       "open_date": "2026-06-05 19:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 568,
+      "volume": 472,
       "best_volume": 1356,
       "whale_max": 0,
       "entered": false
@@ -2716,10 +2716,10 @@
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 62,
-      "best_volume": 62,
+      "volume": 65,
+      "best_volume": 65,
       "whale_max": 0,
       "entered": false
     }
