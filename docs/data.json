@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 18:59:27",
+  "last_update": "05/06/2026 19:00:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,24 +19,9 @@
   },
   "live_events": [
     {
-      "match": "Jonsereds IF v Galtabäcks BK",
-      "campionato": "Swedish Division 2",
-      "volume": 2719,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681238",
-      "market_id": "1.258859925",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
-    },
-    {
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
-      "volume": 2345,
+      "volume": 2883,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -47,6 +32,21 @@
       "market_id": "1.258899178",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
+    },
+    {
+      "match": "Jonsereds IF v Galtabäcks BK",
+      "campionato": "Swedish Division 2",
+      "volume": 1923,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681238",
+      "market_id": "1.258859925",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "FBK Karlstad v IF Karlstad",
@@ -186,7 +186,7 @@
     {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
-      "volume": 176,
+      "volume": 178,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -2556,7 +2556,7 @@
       "open_date": "2026-06-06 01:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 176,
+      "volume": 178,
       "best_volume": 1000,
       "whale_max": 0,
       "entered": false
