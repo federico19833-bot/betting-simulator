@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 07:56:24",
+  "last_update": "05/06/2026 07:56:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -197,6 +197,21 @@
       "market_id": "1.258895011",
       "_is_inplay": false,
       "open_date": "2026-06-05 23:00"
+    },
+    {
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 62,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672249",
+      "market_id": "1.258849954",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 00:00"
     }
   ],
   "tracked_matches": [
@@ -2585,6 +2600,18 @@
       "quota_iniziale": 1.04,
       "volume": 1798,
       "best_volume": 1798,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258849954",
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-06-06 00:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 62,
+      "best_volume": 62,
       "whale_max": 0,
       "entered": false
     }
