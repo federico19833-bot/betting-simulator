@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:10:34",
+  "last_update": "05/06/2026 12:11:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -45,36 +45,6 @@
       "source": "Betfair",
       "event_id": "35666254",
       "market_id": "1.258830805",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 1346,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
-    },
-    {
-      "match": "Busan IPark v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 1322,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666251",
-      "market_id": "1.258830826",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
     },
@@ -169,9 +139,24 @@
       "open_date": "2026-06-06 01:00"
     },
     {
+      "match": "Aegir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 330,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678199",
+      "market_id": "1.258843721",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
+    },
+    {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
-      "volume": 312,
+      "volume": 322,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -212,6 +197,21 @@
       "market_id": "1.258893037",
       "_is_inplay": false,
       "open_date": "2026-06-05 17:00"
+    },
+    {
+      "match": "Busan IPark v Chungnam Asan",
+      "campionato": "South Korean K2 League",
+      "volume": 195,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666251",
+      "market_id": "1.258830826",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Vanersborgs FK v Skara Fc",
@@ -2574,7 +2574,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1322,
+      "volume": 195,
       "best_volume": 1518,
       "whale_max": 0,
       "entered": false
@@ -2712,14 +2712,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258859904",
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 1346,
-      "best_volume": 1346,
+      "event_id": "bf_1.258843721",
+      "match": "Aegir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-06-05 21:15",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 330,
+      "best_volume": 330,
       "whale_max": 0,
       "entered": false
     }
