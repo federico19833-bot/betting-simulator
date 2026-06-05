@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:20:42",
+  "last_update": "05/06/2026 12:21:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 3481,
+      "volume": 4308,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 2539,
+      "volume": 3972,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -45,21 +45,6 @@
       "source": "Betfair",
       "event_id": "35666254",
       "market_id": "1.258830805",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
-      "match": "Busan IPark v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 1686,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666251",
-      "market_id": "1.258830826",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
     },
@@ -107,21 +92,6 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "USM Khenchela v MB Rouissat",
-      "campionato": "Algerian Ligue 1",
-      "volume": 578,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687728",
-      "market_id": "1.258911282",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 18:00"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -229,6 +199,21 @@
       "open_date": "2026-06-05 19:15"
     },
     {
+      "match": "Busan IPark v Chungnam Asan",
+      "campionato": "South Korean K2 League",
+      "volume": 165,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666251",
+      "market_id": "1.258830826",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
       "volume": 85,
@@ -285,6 +270,21 @@
       "source": "Betfair",
       "event_id": "35687725",
       "market_id": "1.258911041",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "USM Khenchela v MB Rouissat",
+      "campionato": "Algerian Ligue 1",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687728",
+      "market_id": "1.258911282",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
     }
@@ -2577,7 +2577,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 2539,
+      "volume": 3972,
       "best_volume": 3974,
       "whale_max": 0,
       "entered": false
@@ -2587,9 +2587,9 @@
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 1686,
+      "volume": 165,
       "best_volume": 1688,
       "whale_max": 0,
       "entered": false
@@ -2601,8 +2601,8 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 3481,
-      "best_volume": 3483,
+      "volume": 4308,
+      "best_volume": 4308,
       "whale_max": 0,
       "entered": false
     },
@@ -2743,9 +2743,9 @@
       "match": "USM Khenchela v MB Rouissat",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 18:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 578,
+      "volume": 10,
       "best_volume": 578,
       "whale_max": 0,
       "entered": false
