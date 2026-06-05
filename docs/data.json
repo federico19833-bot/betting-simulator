@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 23:48:23",
+  "last_update": "05/06/2026 23:48:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
-      "volume": 834,
-      "quota": 1.13,
+      "volume": 722,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,25 +49,10 @@
       "open_date": "2026-06-06 00:00"
     },
     {
-      "match": "Operario PR v Juventude",
-      "campionato": "Brazilian Serie B",
-      "volume": 142,
-      "quota": 1.42,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672307",
-      "market_id": "1.258878364",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 01:00"
-    },
-    {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10,
-      "quota": 1.24,
+      "volume": 248,
+      "quota": 1.43,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -75,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35683157",
       "market_id": "1.258904984",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "Operario PR v Juventude",
+      "campionato": "Brazilian Serie B",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672307",
+      "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
     }
@@ -2365,10 +2365,22 @@
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-06 01:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 145,
+      "volume": 10,
       "best_volume": 353,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258849954",
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-06-06 00:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 722,
+      "best_volume": 722,
       "whale_max": 0,
       "entered": false
     }
