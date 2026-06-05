@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 18:34:54",
+  "last_update": "05/06/2026 18:35:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "USM Khenchela v MB Rouissat",
+      "campionato": "Algerian Ligue 1",
+      "volume": 3631,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687728",
+      "market_id": "1.258911282",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 18:00"
+    },
+    {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
       "volume": 1546,
@@ -32,21 +47,6 @@
       "market_id": "1.258893037",
       "_is_inplay": true,
       "open_date": "2026-06-05 17:00"
-    },
-    {
-      "match": "USM Khenchela v MB Rouissat",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1267,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687728",
-      "market_id": "1.258911282",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 18:00"
     },
     {
       "match": "JS Saoura v CS Constantine",
@@ -111,8 +111,8 @@
     {
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
-      "volume": 464,
-      "quota": 1.01,
+      "volume": 461,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -184,21 +184,6 @@
       "open_date": "2026-06-05 23:00"
     },
     {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 37,
-      "quota": 1.89,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
-    },
-    {
       "match": "Jonsereds IF v Galtabäcks BK",
       "campionato": "Swedish Division 2",
       "volume": 10,
@@ -257,6 +242,21 @@
       "market_id": "1.258843721",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 6,
+      "quota": 2.46,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
     }
   ],
   "tracked_matches": [
@@ -2619,8 +2619,8 @@
       "open_date": "2026-06-05 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1267,
-      "best_volume": 2457,
+      "volume": 3631,
+      "best_volume": 3631,
       "whale_max": 0,
       "entered": false
     },
@@ -2677,9 +2677,9 @@
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 464,
+      "volume": 461,
       "best_volume": 464,
       "whale_max": 0,
       "entered": false
