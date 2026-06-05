@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 19:43:11",
+  "last_update": "05/06/2026 19:43:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,19 +19,19 @@
   },
   "live_events": [
     {
-      "match": "IF Boljan v BK Astrio",
+      "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
-      "volume": 1954,
+      "volume": 1790,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
+      "event_id": "35681196",
+      "market_id": "1.258859967",
       "_is_inplay": true,
-      "open_date": "2026-06-05 19:00"
+      "open_date": "2026-06-05 19:15"
     },
     {
       "match": "USM Khenchela v MB Rouissat",
@@ -96,8 +96,8 @@
     {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
-      "volume": 464,
-      "quota": 1.08,
+      "volume": 368,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -107,21 +107,6 @@
       "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 320,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "CA Ituzaingo v Real Pilar FC",
@@ -154,19 +139,19 @@
       "open_date": "2026-06-06 00:00"
     },
     {
-      "match": "MC Alger v ASO Chlef",
+      "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
-      "volume": 10,
-      "quota": 1.02,
+      "volume": 16,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35687827",
-      "market_id": "1.258912902",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 19:30"
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "Aegir v Leiknir R",
@@ -2526,18 +2511,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258912902",
-      "match": "MC Alger v ASO Chlef",
-      "campionato": "Algerian Ligue 1",
-      "open_date": "2026-06-05 19:30",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 2164,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258904984",
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
@@ -2562,26 +2535,26 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258859904",
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 1954,
-      "best_volume": 2295,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258878364",
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-06 01:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.09,
-      "volume": 464,
+      "volume": 368,
       "best_volume": 592,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258859967",
+      "match": "Vanersborgs FK v Skara Fc",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-05 19:15",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 1790,
+      "best_volume": 1790,
       "whale_max": 0,
       "entered": false
     }
