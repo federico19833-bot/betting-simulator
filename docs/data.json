@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 21:26:28",
+  "last_update": "05/06/2026 21:27:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
-      "volume": 806,
-      "quota": 1.01,
+      "volume": 1556,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,8 +36,8 @@
     {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
-      "volume": 713,
-      "quota": 1.11,
+      "volume": 1150,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,8 +51,8 @@
     {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 709,
-      "quota": 1.16,
+      "volume": 927,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,8 +66,8 @@
     {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
-      "volume": 65,
-      "quota": 1.67,
+      "volume": 713,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2407,10 +2407,22 @@
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.01,
-      "volume": 806,
-      "best_volume": 806,
+      "volume": 1556,
+      "best_volume": 1556,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258843700",
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-06-05 21:15",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1150,
+      "best_volume": 1150,
       "whale_max": 0,
       "entered": false
     }
