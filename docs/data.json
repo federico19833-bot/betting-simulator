@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 01:04:29",
+  "last_update": "06/06/2026 01:05:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,10 +34,25 @@
       "open_date": "2026-06-06 00:00"
     },
     {
+      "match": "Talleres (RE) v Deportivo Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1344,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683157",
+      "market_id": "1.258904984",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 01:00"
+    },
+    {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
-      "volume": 1621,
-      "quota": 1.14,
+      "volume": 713,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -46,21 +61,6 @@
       "event_id": "35672307",
       "market_id": "1.258878364",
       "_is_inplay": true,
-      "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "Talleres (RE) v Deportivo Merlo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683157",
-      "market_id": "1.258904984",
-      "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
     }
   ],
@@ -2350,10 +2350,10 @@
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 01:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 1344,
+      "best_volume": 1344,
       "whale_max": 0,
       "entered": false
     }
