@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:09:26",
+  "last_update": "05/06/2026 12:09:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,36 +47,6 @@
       "market_id": "1.258830805",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
-    },
-    {
-      "match": "MC Alger v ASO Chlef",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1556,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687827",
-      "market_id": "1.258912902",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:30"
-    },
-    {
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 1346,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "Busan IPark v Chungnam Asan",
@@ -152,6 +122,21 @@
       "market_id": "1.258841552",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "MC Alger v ASO Chlef",
+      "campionato": "Algerian Ligue 1",
+      "volume": 462,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687827",
+      "market_id": "1.258912902",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:30"
     },
     {
       "match": "Talleres (RE) v Deportivo Merlo",
@@ -244,6 +229,21 @@
       "open_date": "2026-06-05 21:15"
     },
     {
+      "match": "JS Saoura v CS Constantine",
+      "campionato": "Algerian Ligue 1",
+      "volume": 38,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638774",
+      "market_id": "1.258899178",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
+    },
+    {
       "match": "Paradou v ES Setif",
       "campionato": "Algerian Ligue 1",
       "volume": 10,
@@ -257,21 +257,6 @@
       "market_id": "1.258911041",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
-    },
-    {
-      "match": "JS Saoura v CS Constantine",
-      "campionato": "Algerian Ligue 1",
-      "volume": 10,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638774",
-      "market_id": "1.258899178",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
     }
   ],
   "tracked_matches": [
@@ -2544,18 +2529,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258859904",
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.01,
-      "volume": 1346,
-      "best_volume": 2165,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258849954",
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
@@ -2646,7 +2619,7 @@
       "open_date": "2026-06-05 19:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1556,
+      "volume": 462,
       "best_volume": 1566,
       "whale_max": 0,
       "entered": false
@@ -2656,9 +2629,9 @@
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 38,
       "best_volume": 708,
       "whale_max": 0,
       "entered": false
