@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 06:28:54",
+  "last_update": "05/06/2026 06:29:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,25 +49,10 @@
       "open_date": "2026-06-05 12:30"
     },
     {
-      "match": "Lindome v IK Kongahalla",
+      "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "volume": 1337,
       "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681267",
-      "market_id": "1.258860908",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
-    },
-    {
-      "match": "Landvetter IS v Vastra Frolunda",
-      "campionato": "Swedish Division 2",
-      "volume": 1316,
-      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -169,6 +154,21 @@
       "open_date": "2026-06-05 17:00"
     },
     {
+      "match": "FK Panevezio Ekranas v FC Neptunas Klaipeda",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 166,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683653",
+      "market_id": "1.258898369",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 18:00"
+    },
+    {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "volume": 70,
@@ -182,21 +182,6 @@
       "market_id": "1.258843700",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
-    },
-    {
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681196",
-      "market_id": "1.258859967",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:15"
     }
   ],
   "tracked_matches": [
@@ -2505,26 +2490,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258860908",
-      "match": "Lindome v IK Kongahalla",
+      "event_id": "bf_1.258859946",
+      "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
       "volume": 1337,
       "best_volume": 1337,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258859946",
-      "match": "Landvetter IS v Vastra Frolunda",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 1316,
-      "best_volume": 1317,
       "whale_max": 0,
       "entered": false
     },
@@ -2549,18 +2522,6 @@
       "quota_iniziale": 1.04,
       "volume": 1788,
       "best_volume": 1788,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258859967",
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-05 19:15",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 10,
-      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
