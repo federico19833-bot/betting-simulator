@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:11:08",
+  "last_update": "05/06/2026 12:11:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,6 +49,21 @@
       "open_date": "2026-06-05 12:30"
     },
     {
+      "match": "Busan IPark v Chungnam Asan",
+      "campionato": "South Korean K2 League",
+      "volume": 1317,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666251",
+      "market_id": "1.258830826",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "Lindome v IK Kongahalla",
       "campionato": "Swedish Division 2",
       "volume": 1211,
@@ -77,6 +92,21 @@
       "market_id": "1.258895011",
       "_is_inplay": false,
       "open_date": "2026-06-05 23:00"
+    },
+    {
+      "match": "Talleres (RE) v Deportivo Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 624,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683157",
+      "market_id": "1.258904984",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 01:00"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -111,7 +141,7 @@
     {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
-      "volume": 462,
+      "volume": 472,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -122,36 +152,6 @@
       "market_id": "1.258912902",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:30"
-    },
-    {
-      "match": "Talleres (RE) v Deportivo Merlo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 396,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683157",
-      "market_id": "1.258904984",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 330,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -197,21 +197,6 @@
       "market_id": "1.258893037",
       "_is_inplay": false,
       "open_date": "2026-06-05 17:00"
-    },
-    {
-      "match": "Busan IPark v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 195,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666251",
-      "market_id": "1.258830826",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Vanersborgs FK v Skara Fc",
@@ -2574,7 +2559,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 195,
+      "volume": 1317,
       "best_volume": 1518,
       "whale_max": 0,
       "entered": false
@@ -2634,7 +2619,7 @@
       "open_date": "2026-06-05 19:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 462,
+      "volume": 472,
       "best_volume": 1566,
       "whale_max": 0,
       "entered": false
@@ -2708,18 +2693,6 @@
       "quota_iniziale": 1.09,
       "volume": 307,
       "best_volume": 307,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258843721",
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 330,
-      "best_volume": 330,
       "whale_max": 0,
       "entered": false
     }
