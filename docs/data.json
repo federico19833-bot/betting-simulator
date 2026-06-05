@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 08:05:25",
+  "last_update": "05/06/2026 08:05:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-05 18:00"
     },
     {
+      "match": "Lindome v IK Kongahalla",
+      "campionato": "Swedish Division 2",
+      "volume": 1210,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681267",
+      "market_id": "1.258860908",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "volume": 1162,
@@ -156,7 +171,7 @@
     {
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
-      "volume": 408,
+      "volume": 407,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -2502,7 +2517,7 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.01,
-      "volume": 408,
+      "volume": 407,
       "best_volume": 1210,
       "whale_max": 0,
       "entered": false
@@ -2624,6 +2639,18 @@
       "quota_iniziale": 1.08,
       "volume": 62,
       "best_volume": 62,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258860908",
+      "match": "Lindome v IK Kongahalla",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-05 19:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 1210,
+      "best_volume": 1210,
       "whale_max": 0,
       "entered": false
     }
