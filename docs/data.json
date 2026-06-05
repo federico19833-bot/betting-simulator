@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:15:04",
+  "last_update": "05/06/2026 12:15:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,6 +49,21 @@
       "open_date": "2026-06-05 12:30"
     },
     {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 1232,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
       "match": "Lindome v IK Kongahalla",
       "campionato": "Swedish Division 2",
       "volume": 1211,
@@ -81,7 +96,7 @@
     {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 730,
+      "volume": 1114,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -231,8 +246,8 @@
     {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
-      "volume": 111,
-      "quota": 1.07,
+      "volume": 97,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2671,9 +2686,9 @@
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 111,
+      "volume": 97,
       "best_volume": 242,
       "whale_max": 0,
       "entered": false
@@ -2747,6 +2762,18 @@
       "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258859904",
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-05 19:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1232,
+      "best_volume": 1232,
       "whale_max": 0,
       "entered": false
     }
