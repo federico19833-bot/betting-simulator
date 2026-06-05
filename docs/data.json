@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 07:53:02",
+  "last_update": "05/06/2026 07:53:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,21 +32,6 @@
       "market_id": "1.258895011",
       "_is_inplay": false,
       "open_date": "2026-06-05 23:00"
-    },
-    {
-      "match": "Daegu Fc v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 1392,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666254",
-      "market_id": "1.258830805",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Seongnam FC v Gimhae City",
@@ -107,6 +92,21 @@
       "market_id": "1.258859904",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "Daegu Fc v Paju Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 852,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666254",
+      "market_id": "1.258830805",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Busan IPark v Chungnam Asan",
@@ -2488,9 +2488,9 @@
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.04,
-      "volume": 1392,
+      "volume": 852,
       "best_volume": 1392,
       "whale_max": 0,
       "entered": false
