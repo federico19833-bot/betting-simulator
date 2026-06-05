@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 10:04:28",
+  "last_update": "05/06/2026 10:05:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-05 12:30"
     },
     {
-      "match": "Daegu Fc v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 2302,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666254",
-      "market_id": "1.258830805",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "FBK Karlstad v IF Karlstad",
       "campionato": "Swedish Division 1",
       "volume": 1884,
@@ -79,6 +64,21 @@
       "open_date": "2026-06-05 21:15"
     },
     {
+      "match": "Daegu Fc v Paju Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 1408,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666254",
+      "market_id": "1.258830805",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 849,
@@ -96,7 +96,7 @@
     {
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 806,
+      "volume": 816,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -2574,18 +2574,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258859946",
-      "match": "Landvetter IS v Vastra Frolunda",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.07,
-      "volume": 10,
-      "best_volume": 1337,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258859904",
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
@@ -2626,9 +2614,9 @@
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2302,
+      "volume": 1408,
       "best_volume": 2302,
       "whale_max": 0,
       "entered": false
@@ -2640,7 +2628,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 806,
+      "volume": 816,
       "best_volume": 1391,
       "whale_max": 0,
       "entered": false
