@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 13:56:59",
+  "last_update": "05/06/2026 13:57:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,8 +51,8 @@
     {
       "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
-      "volume": 1352,
-      "quota": 1.1,
+      "volume": 1546,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2720,6 +2720,18 @@
       "quota_iniziale": 1.07,
       "volume": 515,
       "best_volume": 515,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258849954",
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-06-06 00:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 694,
+      "best_volume": 694,
       "whale_max": 0,
       "entered": false
     }
