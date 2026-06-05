@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 13:47:19",
+  "last_update": "05/06/2026 13:47:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,10 +34,25 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "JS Saoura v CS Constantine",
+      "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "volume": 1834,
       "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
+    },
+    {
+      "match": "JS Saoura v CS Constantine",
+      "campionato": "Algerian Ligue 1",
+      "volume": 1568,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,21 +62,6 @@
       "market_id": "1.258899178",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
-    },
-    {
-      "match": "Talleres (RE) v Deportivo Merlo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1568,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683157",
-      "market_id": "1.258904984",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 01:00"
     },
     {
       "match": "Vanersborgs FK v Skara Fc",
@@ -79,21 +79,6 @@
       "open_date": "2026-06-05 19:15"
     },
     {
-      "match": "CA Ituzaingo v Real Pilar FC",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1312,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684829",
-      "market_id": "1.258895011",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 23:00"
-    },
-    {
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "volume": 1212,
@@ -109,8 +94,8 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "Njardvik v IR Reykjavik",
-      "campionato": "Icelandic 1 Deild",
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
       "volume": 694,
       "quota": 1.08,
       "in_range": false,
@@ -118,13 +103,13 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35678215",
-      "market_id": "1.258843742",
+      "event_id": "35684829",
+      "market_id": "1.258895011",
       "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
+      "open_date": "2026-06-05 23:00"
     },
     {
-      "match": "HK Kopavogur v Afturelding",
+      "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 536,
       "quota": 1.08,
@@ -133,8 +118,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35678225",
-      "market_id": "1.258843700",
+      "event_id": "35678199",
+      "market_id": "1.258843721",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
     },
@@ -171,8 +156,8 @@
     {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
-      "volume": 322,
-      "quota": 1.1,
+      "volume": 316,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -182,6 +167,21 @@
       "market_id": "1.258849954",
       "_is_inplay": false,
       "open_date": "2026-06-06 00:00"
+    },
+    {
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 270,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678225",
+      "market_id": "1.258843700",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
     },
     {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
@@ -214,22 +214,7 @@
       "open_date": "2026-06-05 19:30"
     },
     {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 76,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
-    },
-    {
-      "match": "Aegir v Leiknir R",
+      "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 70,
       "quota": 1.08,
@@ -238,10 +223,25 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
+      "event_id": "35678215",
+      "market_id": "1.258843742",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "Paradou v ES Setif",
+      "campionato": "Algerian Ligue 1",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687725",
+      "market_id": "1.258911041",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 18:00"
     },
     {
       "match": "USM Khenchela v MB Rouissat",
@@ -270,6 +270,21 @@
       "source": "Betfair",
       "event_id": "35672307",
       "market_id": "1.258878364",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "Talleres (RE) v Deportivo Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683157",
+      "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
     }
@@ -2550,7 +2565,7 @@
       "open_date": "2026-06-06 00:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 301,
+      "volume": 316,
       "best_volume": 849,
       "whale_max": 0,
       "entered": false
@@ -2574,7 +2589,7 @@
       "open_date": "2026-06-05 23:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1312,
+      "volume": 694,
       "best_volume": 1312,
       "whale_max": 0,
       "entered": false
@@ -2586,7 +2601,7 @@
       "open_date": "2026-06-05 21:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 694,
+      "volume": 70,
       "best_volume": 1210,
       "whale_max": 0,
       "entered": false
@@ -2608,9 +2623,9 @@
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 536,
+      "volume": 270,
       "best_volume": 694,
       "whale_max": 0,
       "entered": false
@@ -2644,9 +2659,9 @@
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 76,
+      "volume": 1834,
       "best_volume": 1834,
       "whale_max": 0,
       "entered": false
@@ -2742,8 +2757,20 @@
       "open_date": "2026-06-05 21:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 70,
-      "best_volume": 70,
+      "volume": 536,
+      "best_volume": 536,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258911041",
+      "match": "Paradou v ES Setif",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-06-05 18:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
