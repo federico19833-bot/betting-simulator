@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 14:31:30",
+  "last_update": "05/06/2026 14:32:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "FK Kudrivka v Agrobiznes Volochysk",
-      "campionato": "Ukrainian Premier League",
-      "volume": 3130,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35685118",
-      "market_id": "1.258893037",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:00"
-    },
-    {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
       "volume": 2453,
@@ -47,6 +32,21 @@
       "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "FK Kudrivka v Agrobiznes Volochysk",
+      "campionato": "Ukrainian Premier League",
+      "volume": 2368,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35685118",
+      "market_id": "1.258893037",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "Lindome v IK Kongahalla",
@@ -64,6 +64,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "KuPS Akatemia v KPV",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1908,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684482",
+      "market_id": "1.258894216",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:30"
+    },
+    {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "volume": 1834,
@@ -79,21 +94,6 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "KuPS Akatemia v KPV",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1813,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684482",
-      "market_id": "1.258894216",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:30"
-    },
-    {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
       "volume": 1352,
@@ -107,21 +107,6 @@
       "market_id": "1.258912902",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:30"
-    },
-    {
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 1211,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "JS Saoura v CS Constantine",
@@ -229,21 +214,6 @@
       "open_date": "2026-06-05 19:15"
     },
     {
-      "match": "Jonsereds IF v Galtabäcks BK",
-      "campionato": "Swedish Division 2",
-      "volume": 103,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681238",
-      "market_id": "1.258859925",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
-    },
-    {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 75,
@@ -287,6 +257,51 @@
       "market_id": "1.258898369",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "FBK Karlstad v IF Karlstad",
+      "campionato": "Swedish Division 1",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677940",
+      "market_id": "1.258841552",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "Jonsereds IF v Galtabäcks BK",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681238",
+      "market_id": "1.258859925",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
     }
   ],
   "tracked_matches": [
@@ -2589,7 +2604,7 @@
       "open_date": "2026-06-05 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 3130,
+      "volume": 2368,
       "best_volume": 3130,
       "whale_max": 0,
       "entered": false
@@ -2623,9 +2638,9 @@
       "match": "Jonsereds IF v Galtabäcks BK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.07,
-      "volume": 103,
+      "volume": 10,
       "best_volume": 2140,
       "whale_max": 0,
       "entered": false
@@ -2707,9 +2722,9 @@
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 1211,
+      "volume": 10,
       "best_volume": 1211,
       "whale_max": 0,
       "entered": false
@@ -2735,6 +2750,18 @@
       "quota_iniziale": 1.07,
       "volume": 515,
       "best_volume": 515,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258841552",
+      "match": "FBK Karlstad v IF Karlstad",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-05 19:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
