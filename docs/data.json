@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 17:34:33",
+  "last_update": "05/06/2026 17:35:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 1021.84
   },
   "live_events": [
+    {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 6790,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
     {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
@@ -64,7 +79,22 @@
       "open_date": "2026-06-05 21:00"
     },
     {
-      "match": "IF Boljan v BK Astrio",
+      "match": "KuPS Akatemia v KPV",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1352,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684482",
+      "market_id": "1.258894216",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 17:30"
+    },
+    {
+      "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
       "volume": 1155,
       "quota": 1.12,
@@ -73,10 +103,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
+      "event_id": "35681196",
+      "market_id": "1.258859967",
       "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
+      "open_date": "2026-06-05 19:15"
     },
     {
       "match": "Kabylie v Belouizdad",
@@ -94,8 +124,8 @@
       "open_date": "2026-06-05 21:00"
     },
     {
-      "match": "KuPS Akatemia v KPV",
-      "campionato": "Finnish Ykkonen",
+      "match": "Paradou v ES Setif",
+      "campionato": "Algerian Ligue 1",
       "volume": 1102,
       "quota": 1.08,
       "in_range": false,
@@ -103,23 +133,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35684482",
-      "market_id": "1.258894216",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 17:30"
-    },
-    {
-      "match": "USM Khenchela v MB Rouissat",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1035,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687728",
-      "market_id": "1.258911282",
+      "event_id": "35687725",
+      "market_id": "1.258911041",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
     },
@@ -154,9 +169,39 @@
       "open_date": "2026-06-05 21:15"
     },
     {
+      "match": "Jonsereds IF v Galtabäcks BK",
+      "campionato": "Swedish Division 2",
+      "volume": 454,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681238",
+      "market_id": "1.258859925",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "USM Khenchela v MB Rouissat",
+      "campionato": "Algerian Ligue 1",
+      "volume": 384,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687728",
+      "market_id": "1.258911282",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 18:00"
+    },
+    {
       "match": "FBK Karlstad v IF Karlstad",
       "campionato": "Swedish Division 1",
-      "volume": 454,
+      "volume": 335,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -167,21 +212,6 @@
       "market_id": "1.258841552",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
-    },
-    {
-      "match": "Paradou v ES Setif",
-      "campionato": "Algerian Ligue 1",
-      "volume": 384,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687725",
-      "market_id": "1.258911041",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 18:00"
     },
     {
       "match": "CA Ituzaingo v Real Pilar FC",
@@ -197,21 +227,6 @@
       "market_id": "1.258895011",
       "_is_inplay": false,
       "open_date": "2026-06-05 23:00"
-    },
-    {
-      "match": "MC Alger v ASO Chlef",
-      "campionato": "Algerian Ligue 1",
-      "volume": 282,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687827",
-      "market_id": "1.258912902",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:30"
     },
     {
       "match": "Operario PR v Juventude",
@@ -259,7 +274,7 @@
       "open_date": "2026-06-05 18:00"
     },
     {
-      "match": "Lindome v IK Kongahalla",
+      "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "volume": 10,
       "quota": 1.02,
@@ -268,14 +283,14 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35681267",
-      "market_id": "1.258860908",
+      "event_id": "35681239",
+      "market_id": "1.258859946",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
+      "match": "MC Alger v ASO Chlef",
+      "campionato": "Algerian Ligue 1",
       "volume": 10,
       "quota": 1.02,
       "in_range": false,
@@ -283,10 +298,10 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35681196",
-      "market_id": "1.258859967",
+      "event_id": "35687827",
+      "market_id": "1.258912902",
       "_is_inplay": false,
-      "open_date": "2026-06-05 19:15"
+      "open_date": "2026-06-05 19:30"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -2592,8 +2607,8 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 3600,
-      "best_volume": 3683,
+      "volume": 6790,
+      "best_volume": 6790,
       "whale_max": 0,
       "entered": false
     },
@@ -2712,7 +2727,7 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 454,
+      "volume": 335,
       "best_volume": 454,
       "whale_max": 0,
       "entered": false
@@ -2748,7 +2763,7 @@
       "open_date": "2026-06-05 19:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 282,
+      "volume": 10,
       "best_volume": 282,
       "whale_max": 0,
       "entered": false
@@ -2782,16 +2797,28 @@
       "match": "KuPS Akatemia v KPV",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-05 17:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 1102,
-      "best_volume": 1102,
+      "volume": 1352,
+      "best_volume": 1352,
       "whale_max": 0,
       "entered": false
     },
     {
-      "event_id": "bf_1.258860908",
-      "match": "Lindome v IK Kongahalla",
+      "event_id": "bf_1.258859925",
+      "match": "Jonsereds IF v Galtabäcks BK",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-05 19:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 454,
+      "best_volume": 454,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258859946",
+      "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.02,
