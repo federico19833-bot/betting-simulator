@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:05:29",
+  "last_update": "05/06/2026 12:06:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 3124,
+      "volume": 3102,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -49,24 +49,9 @@
       "open_date": "2026-06-05 12:30"
     },
     {
-      "match": "Talleres (RE) v Deportivo Merlo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1607,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683157",
-      "market_id": "1.258904984",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 01:00"
-    },
-    {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
-      "volume": 1566,
+      "volume": 1556,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -126,7 +111,7 @@
     {
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 1154,
+      "volume": 1159,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -169,19 +154,19 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 390,
-      "quota": 1.09,
+      "match": "Talleres (RE) v Deportivo Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 396,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
+      "event_id": "35683157",
+      "market_id": "1.258904984",
       "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
+      "open_date": "2026-06-06 01:00"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -259,21 +244,6 @@
       "open_date": "2026-06-05 21:00"
     },
     {
-      "match": "JS Saoura v CS Constantine",
-      "campionato": "Algerian Ligue 1",
-      "volume": 88,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638774",
-      "market_id": "1.258899178",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
-    },
-    {
       "match": "USM Khenchela v MB Rouissat",
       "campionato": "Algerian Ligue 1",
       "volume": 70,
@@ -302,6 +272,36 @@
       "market_id": "1.258911041",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "Landvetter IS v Vastra Frolunda",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681239",
+      "market_id": "1.258859946",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "JS Saoura v CS Constantine",
+      "campionato": "Algerian Ligue 1",
+      "volume": 10,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638774",
+      "market_id": "1.258899178",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
     }
   ],
   "tracked_matches": [
@@ -2604,7 +2604,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 3124,
+      "volume": 3102,
       "best_volume": 3215,
       "whale_max": 0,
       "entered": false
@@ -2616,7 +2616,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1154,
+      "volume": 1159,
       "best_volume": 1518,
       "whale_max": 0,
       "entered": false
@@ -2676,7 +2676,7 @@
       "open_date": "2026-06-05 19:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 1566,
+      "volume": 1556,
       "best_volume": 1566,
       "whale_max": 0,
       "entered": false
@@ -2686,9 +2686,9 @@
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 88,
+      "volume": 10,
       "best_volume": 708,
       "whale_max": 0,
       "entered": false
@@ -2762,18 +2762,6 @@
       "quota_iniziale": 1.09,
       "volume": 96,
       "best_volume": 96,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258843721",
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.08,
-      "volume": 390,
-      "best_volume": 390,
       "whale_max": 0,
       "entered": false
     }
