@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 18:11:28",
+  "last_update": "05/06/2026 18:12:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
-      "volume": 6900,
+      "volume": 4402,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -81,8 +81,8 @@
     {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
-      "volume": 1444,
-      "quota": 1.08,
+      "volume": 1270,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -184,6 +184,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 402,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
+    },
+    {
       "match": "FBK Karlstad v IF Karlstad",
       "campionato": "Swedish Division 1",
       "volume": 322,
@@ -257,21 +272,6 @@
       "market_id": "1.258843742",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
-    },
-    {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 10,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -2587,9 +2587,9 @@
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 1444,
+      "volume": 1270,
       "best_volume": 2606,
       "whale_max": 0,
       "entered": false
@@ -2709,7 +2709,7 @@
       "open_date": "2026-06-05 19:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 6900,
+      "volume": 4402,
       "best_volume": 6900,
       "whale_max": 0,
       "entered": false
@@ -2767,10 +2767,10 @@
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 402,
+      "best_volume": 402,
       "whale_max": 0,
       "entered": false
     }
