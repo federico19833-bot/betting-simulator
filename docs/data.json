@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 14:32:04",
+  "last_update": "05/06/2026 14:32:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "FK Kudrivka v Agrobiznes Volochysk",
+      "campionato": "Ukrainian Premier League",
+      "volume": 3806,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35685118",
+      "market_id": "1.258893037",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:00"
+    },
+    {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
       "volume": 2453,
@@ -32,21 +47,6 @@
       "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "FK Kudrivka v Agrobiznes Volochysk",
-      "campionato": "Ukrainian Premier League",
-      "volume": 2368,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35685118",
-      "market_id": "1.258893037",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "Lindome v IK Kongahalla",
@@ -214,6 +214,21 @@
       "open_date": "2026-06-05 19:15"
     },
     {
+      "match": "Jonsereds IF v Galtabäcks BK",
+      "campionato": "Swedish Division 2",
+      "volume": 103,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681238",
+      "market_id": "1.258859925",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 75,
@@ -270,21 +285,6 @@
       "source": "Betfair",
       "event_id": "35677940",
       "market_id": "1.258841552",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
-    },
-    {
-      "match": "Jonsereds IF v Galtabäcks BK",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681238",
-      "market_id": "1.258859925",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
     },
@@ -2604,8 +2604,8 @@
       "open_date": "2026-06-05 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 2368,
-      "best_volume": 3130,
+      "volume": 3806,
+      "best_volume": 3806,
       "whale_max": 0,
       "entered": false
     },
@@ -2638,9 +2638,9 @@
       "match": "Jonsereds IF v Galtabäcks BK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 10,
+      "volume": 103,
       "best_volume": 2140,
       "whale_max": 0,
       "entered": false
