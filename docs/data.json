@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 13:41:02",
+  "last_update": "05/06/2026 13:41:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,32 +94,17 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "USM Khenchela v MB Rouissat",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1210,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687728",
-      "market_id": "1.258911282",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 18:00"
-    },
-    {
-      "match": "Seongnam FC v Gimhae City",
+      "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 897,
-      "quota": 1.23,
+      "volume": 841,
+      "quota": 1.32,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
+      "event_id": "35666254",
+      "market_id": "1.258830805",
       "_is_inplay": true,
       "open_date": "2026-06-05 12:30"
     },
@@ -184,6 +169,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 417,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
       "volume": 322,
@@ -244,21 +244,6 @@
       "open_date": "2026-06-05 19:30"
     },
     {
-      "match": "Daegu Fc v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 133,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666254",
-      "market_id": "1.258830805",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "volume": 76,
@@ -300,6 +285,21 @@
       "source": "Betfair",
       "event_id": "35687725",
       "market_id": "1.258911041",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "USM Khenchela v MB Rouissat",
+      "campionato": "Algerian Ligue 1",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687728",
+      "market_id": "1.258911282",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
     },
@@ -2785,9 +2785,9 @@
       "match": "USM Khenchela v MB Rouissat",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 18:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 1210,
+      "volume": 10,
       "best_volume": 1210,
       "whale_max": 0,
       "entered": false
