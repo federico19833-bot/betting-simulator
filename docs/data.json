@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 14:51:52",
+  "last_update": "05/06/2026 14:52:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,6 +32,21 @@
       "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "FK Kudrivka v Agrobiznes Volochysk",
+      "campionato": "Ukrainian Premier League",
+      "volume": 2227,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35685118",
+      "market_id": "1.258893037",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "Lindome v IK Kongahalla",
@@ -92,21 +107,6 @@
       "market_id": "1.258912902",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:30"
-    },
-    {
-      "match": "FK Kudrivka v Agrobiznes Volochysk",
-      "campionato": "Ukrainian Premier League",
-      "volume": 1341,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35685118",
-      "market_id": "1.258893037",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "JS Saoura v CS Constantine",
@@ -2777,6 +2777,18 @@
       "quota_iniziale": 1.01,
       "volume": 484,
       "best_volume": 484,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258895011",
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-06-05 23:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 269,
+      "best_volume": 269,
       "whale_max": 0,
       "entered": false
     }
