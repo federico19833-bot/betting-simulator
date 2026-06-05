@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 18:14:48",
+  "last_update": "05/06/2026 18:15:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "USM Khenchela v MB Rouissat",
       "campionato": "Algerian Ligue 1",
-      "volume": 1462,
+      "volume": 1503,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -81,8 +81,8 @@
     {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 1117,
-      "quota": 1.07,
+      "volume": 1496,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-06 01:00"
     },
     {
+      "match": "JS Saoura v CS Constantine",
+      "campionato": "Algerian Ligue 1",
+      "volume": 800,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638774",
+      "market_id": "1.258899178",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
+    },
+    {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 664,
@@ -126,7 +141,7 @@
     {
       "match": "Lindome v IK Kongahalla",
       "campionato": "Swedish Division 2",
-      "volume": 496,
+      "volume": 555,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -212,21 +227,6 @@
       "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "JS Saoura v CS Constantine",
-      "campionato": "Algerian Ligue 1",
-      "volume": 172,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638774",
-      "market_id": "1.258899178",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "CA Ituzaingo v Real Pilar FC",
@@ -2575,9 +2575,9 @@
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 172,
+      "volume": 800,
       "best_volume": 1489,
       "whale_max": 0,
       "entered": false
@@ -2635,10 +2635,10 @@
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1117,
-      "best_volume": 1270,
+      "volume": 1496,
+      "best_volume": 1496,
       "whale_max": 0,
       "entered": false
     },
@@ -2685,7 +2685,7 @@
       "open_date": "2026-06-05 18:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1462,
+      "volume": 1503,
       "best_volume": 2457,
       "whale_max": 0,
       "entered": false
@@ -2733,8 +2733,8 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.01,
-      "volume": 496,
-      "best_volume": 496,
+      "volume": 555,
+      "best_volume": 555,
       "whale_max": 0,
       "entered": false
     },
