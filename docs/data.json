@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 11:55:21",
+  "last_update": "05/06/2026 11:55:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,21 +47,6 @@
       "market_id": "1.258830805",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
-    },
-    {
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 2106,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "Talleres (RE) v Deportivo Merlo",
@@ -137,6 +122,21 @@
       "market_id": "1.258830826",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
+    },
+    {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 896,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -2595,7 +2595,7 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.01,
-      "volume": 2106,
+      "volume": 896,
       "best_volume": 2165,
       "whale_max": 0,
       "entered": false
