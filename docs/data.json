@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 20:23:32",
+  "last_update": "05/06/2026 20:24:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
-      "volume": 3114,
+      "volume": 3796,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -60,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35678215",
       "market_id": "1.258843742",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "Aegir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 812,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678199",
+      "market_id": "1.258843721",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
     },
@@ -107,21 +122,6 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 499,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
     },
     {
       "match": "CA Ituzaingo v Real Pilar FC",
@@ -2502,8 +2502,8 @@
       "open_date": "2026-06-05 21:15",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 810,
-      "best_volume": 810,
+      "volume": 812,
+      "best_volume": 812,
       "whale_max": 0,
       "entered": false
     }
