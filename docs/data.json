@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 11:19:17",
+  "last_update": "05/06/2026 11:19:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Seongnam FC v Gimhae City",
-      "campionato": "South Korean K2 League",
-      "volume": 2259,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "IF Boljan v BK Astrio",
       "campionato": "Swedish Division 2",
       "volume": 2165,
@@ -49,9 +34,24 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 1775,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1596,
+      "volume": 1606,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 312,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672249",
+      "market_id": "1.258849954",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 00:00"
+    },
+    {
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
       "volume": 212,
@@ -169,19 +184,19 @@
       "open_date": "2026-06-05 17:00"
     },
     {
-      "match": "Wanderers (Uru) v Danubio",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 190,
-      "quota": 1.11,
+      "match": "Vanersborgs FK v Skara Fc",
+      "campionato": "Swedish Division 2",
+      "volume": 187,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35672249",
-      "market_id": "1.258849954",
+      "event_id": "35681196",
+      "market_id": "1.258859967",
       "_is_inplay": false,
-      "open_date": "2026-06-06 00:00"
+      "open_date": "2026-06-05 19:15"
     },
     {
       "match": "JS Saoura v CS Constantine",
@@ -212,21 +227,6 @@
       "market_id": "1.258916498",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
-    },
-    {
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "volume": 77,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681196",
-      "market_id": "1.258859967",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:15"
     },
     {
       "match": "HK Kopavogur v Afturelding",
@@ -2628,7 +2628,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2259,
+      "volume": 1775,
       "best_volume": 3272,
       "whale_max": 0,
       "entered": false
@@ -2650,9 +2650,9 @@
       "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:15",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 77,
+      "volume": 187,
       "best_volume": 1356,
       "whale_max": 0,
       "entered": false
