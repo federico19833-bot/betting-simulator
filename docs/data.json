@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 16:38:56",
+  "last_update": "05/06/2026 16:39:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -199,21 +199,6 @@
       "open_date": "2026-06-05 18:00"
     },
     {
-      "match": "IF Boljan v BK Astrio",
-      "campionato": "Swedish Division 2",
-      "volume": 377,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681235",
-      "market_id": "1.258859904",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
-    },
-    {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 307,
@@ -227,6 +212,21 @@
       "market_id": "1.258843742",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 290,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "CA Ituzaingo v Real Pilar FC",
@@ -2601,7 +2601,7 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 377,
+      "volume": 290,
       "best_volume": 377,
       "whale_max": 0,
       "entered": false
