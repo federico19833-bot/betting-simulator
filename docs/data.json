@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 09:34:41",
+  "last_update": "05/06/2026 09:35:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -77,21 +77,6 @@
       "market_id": "1.258898369",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
-    },
-    {
-      "match": "Landvetter IS v Vastra Frolunda",
-      "campionato": "Swedish Division 2",
-      "volume": 1163,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681239",
-      "market_id": "1.258859946",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "CA Ituzaingo v Real Pilar FC",
@@ -287,6 +272,21 @@
       "market_id": "1.258843742",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "Landvetter IS v Vastra Frolunda",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681239",
+      "market_id": "1.258859946",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
     }
   ],
   "tracked_matches": [
@@ -2563,9 +2563,9 @@
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 1163,
+      "volume": 10,
       "best_volume": 1337,
       "whale_max": 0,
       "entered": false
