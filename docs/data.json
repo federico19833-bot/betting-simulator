@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 19:48:48",
+  "last_update": "05/06/2026 19:49:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1021.84
   },
   "live_events": [
-    {
-      "match": "MC Alger v ASO Chlef",
-      "campionato": "Algerian Ligue 1",
-      "volume": 4804,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687827",
-      "market_id": "1.258912902",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 19:30"
-    },
     {
       "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
@@ -124,10 +109,25 @@
       "open_date": "2026-06-06 01:00"
     },
     {
+      "match": "MC Alger v ASO Chlef",
+      "campionato": "Algerian Ligue 1",
+      "volume": 634,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687827",
+      "market_id": "1.258912902",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 19:30"
+    },
+    {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
-      "volume": 631,
-      "quota": 1.08,
+      "volume": 587,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2515,9 +2515,9 @@
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-06 01:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 631,
+      "volume": 587,
       "best_volume": 660,
       "whale_max": 0,
       "entered": false
@@ -2539,9 +2539,9 @@
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 19:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 4804,
+      "volume": 634,
       "best_volume": 4804,
       "whale_max": 0,
       "entered": false
