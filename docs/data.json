@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 21:28:09",
+  "last_update": "05/06/2026 21:28:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
-      "volume": 806,
-      "quota": 1.01,
+      "volume": 1556,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,10 +34,25 @@
       "open_date": "2026-06-05 21:00"
     },
     {
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 1150,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678225",
+      "market_id": "1.258843700",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 21:15"
+    },
+    {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 747,
-      "quota": 1.16,
+      "volume": 838,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -49,7 +64,7 @@
       "open_date": "2026-06-06 01:00"
     },
     {
-      "match": "HK Kopavogur v Afturelding",
+      "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 713,
       "quota": 1.11,
@@ -58,8 +73,8 @@
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35678225",
-      "market_id": "1.258843700",
+      "event_id": "35678199",
+      "market_id": "1.258843721",
       "_is_inplay": true,
       "open_date": "2026-06-05 21:15"
     },
@@ -2392,9 +2407,9 @@
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.01,
-      "volume": 806,
+      "volume": 1556,
       "best_volume": 1556,
       "whale_max": 0,
       "entered": false
