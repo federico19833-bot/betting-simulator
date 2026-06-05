@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 16:34:26",
+  "last_update": "05/06/2026 16:35:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,6 +79,21 @@
       "open_date": "2026-06-05 17:00"
     },
     {
+      "match": "Landvetter IS v Vastra Frolunda",
+      "campionato": "Swedish Division 2",
+      "volume": 1540,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681239",
+      "market_id": "1.258859946",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
       "volume": 1217,
@@ -152,21 +167,6 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "Landvetter IS v Vastra Frolunda",
-      "campionato": "Swedish Division 2",
-      "volume": 636,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681239",
-      "market_id": "1.258859946",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "Kabylie v Belouizdad",
@@ -2697,8 +2697,8 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 636,
-      "best_volume": 645,
+      "volume": 1540,
+      "best_volume": 1540,
       "whale_max": 0,
       "entered": false
     },
