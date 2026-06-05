@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 11:42:59",
+  "last_update": "05/06/2026 11:43:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 2315,
+      "volume": 2146,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "Aegir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 390,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678199",
+      "market_id": "1.258843721",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
+    },
+    {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
       "volume": 312,
@@ -302,21 +317,6 @@
       "market_id": "1.258859946",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
-    },
-    {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 10,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
     }
   ],
   "tracked_matches": [
@@ -2619,7 +2619,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 2315,
+      "volume": 2146,
       "best_volume": 2315,
       "whale_max": 0,
       "entered": false
@@ -2797,10 +2797,10 @@
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 390,
+      "best_volume": 390,
       "whale_max": 0,
       "entered": false
     }
