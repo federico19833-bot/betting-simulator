@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 13:56:25",
+  "last_update": "05/06/2026 13:56:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "Daegu Fc v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 1697,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666254",
-      "market_id": "1.258830805",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "volume": 1568,
@@ -66,8 +51,8 @@
     {
       "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
-      "volume": 1546,
-      "quota": 1.09,
+      "volume": 1352,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -92,6 +77,21 @@
       "market_id": "1.258912902",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:30"
+    },
+    {
+      "match": "Daegu Fc v Paju Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 962,
+      "quota": 1.48,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666254",
+      "market_id": "1.258830805",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -2542,18 +2542,6 @@
       "best_volume": 14132,
       "whale_max": 0,
       "entered": true
-    },
-    {
-      "event_id": "bf_1.258849954",
-      "match": "Wanderers (Uru) v Danubio",
-      "campionato": "Uruguayan Primera Division",
-      "open_date": "2026-06-06 00:00",
-      "quota_attuale": 1.08,
-      "quota_iniziale": 1.08,
-      "volume": 694,
-      "best_volume": 1312,
-      "whale_max": 0,
-      "entered": false
     },
     {
       "event_id": "bf_1.258859967",
