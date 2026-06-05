@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 21:16:49",
+  "last_update": "05/06/2026 21:17:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,17 +19,17 @@
   },
   "live_events": [
     {
-      "match": "Operario PR v Juventude",
-      "campionato": "Brazilian Serie B",
-      "volume": 1145,
-      "quota": 1.11,
+      "match": "Talleres (RE) v Deportivo Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 859,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35672307",
-      "market_id": "1.258878364",
+      "event_id": "35683157",
+      "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
     },
@@ -49,10 +49,25 @@
       "open_date": "2026-06-05 21:15"
     },
     {
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 286,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 21:00"
+    },
+    {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
-      "volume": 654,
-      "quota": 1.11,
+      "volume": 10,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -64,34 +79,19 @@
       "open_date": "2026-06-06 00:00"
     },
     {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 575,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 21:15"
-    },
-    {
-      "match": "CA Ituzaingo v Real Pilar FC",
-      "campionato": "Argentinian Primera B Metropolitana",
+      "match": "Operario PR v Juventude",
+      "campionato": "Brazilian Serie B",
       "volume": 10,
-      "quota": 1.02,
+      "quota": 1.22,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35684829",
-      "market_id": "1.258895011",
+      "event_id": "35672307",
+      "market_id": "1.258878364",
       "_is_inplay": false,
-      "open_date": "2026-06-05 23:00"
+      "open_date": "2026-06-06 01:00"
     }
   ],
   "tracked_matches": [
@@ -2364,25 +2364,13 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258895011",
-      "match": "CA Ituzaingo v Real Pilar FC",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "open_date": "2026-06-05 23:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.06,
-      "volume": 10,
-      "best_volume": 320,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258849954",
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-06 00:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.07,
-      "volume": 320,
+      "volume": 10,
       "best_volume": 999,
       "whale_max": 0,
       "entered": false
@@ -2400,14 +2388,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258843721",
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 575,
-      "best_volume": 575,
+      "event_id": "bf_1.258916498",
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-06-05 21:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 286,
+      "best_volume": 286,
       "whale_max": 0,
       "entered": false
     }
