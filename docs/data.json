@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 20:35:51",
+  "last_update": "05/06/2026 20:36:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
-      "volume": 3824,
-      "quota": 1.18,
+      "volume": 4113,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -47,6 +47,21 @@
       "market_id": "1.258916498",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
+    },
+    {
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 790,
+      "quota": 1.31,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678225",
+      "market_id": "1.258843700",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -79,21 +94,6 @@
       "open_date": "2026-06-06 01:00"
     },
     {
-      "match": "Aegir v Leiknir R",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 651,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678199",
-      "market_id": "1.258843721",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
-    },
-    {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 513,
@@ -109,17 +109,17 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "HK Kopavogur v Afturelding",
+      "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
-      "volume": 376,
-      "quota": 1.33,
+      "volume": 499,
+      "quota": 1.19,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35678225",
-      "market_id": "1.258843700",
+      "event_id": "35678199",
+      "market_id": "1.258843721",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
     },
