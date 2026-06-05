@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 15:25:52",
+  "last_update": "05/06/2026 15:26:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -201,7 +201,7 @@
     {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
-      "volume": 69,
+      "volume": 70,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -274,21 +274,6 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681196",
-      "market_id": "1.258859967",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:15"
-    },
-    {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
       "volume": 10,
@@ -302,6 +287,21 @@
       "market_id": "1.258849954",
       "_is_inplay": false,
       "open_date": "2026-06-06 00:00"
+    },
+    {
+      "match": "Vanersborgs FK v Skara Fc",
+      "campionato": "Swedish Division 2",
+      "volume": 8,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681196",
+      "market_id": "1.258859967",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:15"
     }
   ],
   "tracked_matches": [
@@ -2616,7 +2616,7 @@
       "open_date": "2026-06-06 01:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 69,
+      "volume": 70,
       "best_volume": 2453,
       "whale_max": 0,
       "entered": false
@@ -2772,7 +2772,7 @@
       "open_date": "2026-06-05 19:15",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 10,
+      "volume": 8,
       "best_volume": 10,
       "whale_max": 0,
       "entered": false
