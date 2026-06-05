@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 16:22:04",
+  "last_update": "05/06/2026 16:22:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,21 +62,6 @@
       "market_id": "1.258894216",
       "_is_inplay": false,
       "open_date": "2026-06-05 17:30"
-    },
-    {
-      "match": "FK Kudrivka v Agrobiznes Volochysk",
-      "campionato": "Ukrainian Premier League",
-      "volume": 1488,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35685118",
-      "market_id": "1.258893037",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "MC Alger v ASO Chlef",
@@ -231,7 +216,7 @@
     {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
-      "volume": 179,
+      "volume": 178,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -261,7 +246,7 @@
     {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 57,
+      "volume": 156,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -272,6 +257,21 @@
       "market_id": "1.258843742",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "FK Kudrivka v Agrobiznes Volochysk",
+      "campionato": "Ukrainian Premier League",
+      "volume": 125,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35685118",
+      "market_id": "1.258893037",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "USM Khenchela v MB Rouissat",
@@ -2578,9 +2578,9 @@
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
       "open_date": "2026-06-05 17:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1488,
+      "volume": 125,
       "best_volume": 1815,
       "whale_max": 0,
       "entered": false
@@ -2664,7 +2664,7 @@
       "open_date": "2026-06-05 21:15",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 57,
+      "volume": 156,
       "best_volume": 213,
       "whale_max": 0,
       "entered": false
@@ -2688,7 +2688,7 @@
       "open_date": "2026-06-06 01:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 179,
+      "volume": 178,
       "best_volume": 179,
       "whale_max": 0,
       "entered": false
