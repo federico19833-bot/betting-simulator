@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 10:51:11",
+  "last_update": "05/06/2026 10:51:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 3020,
+      "volume": 3014,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -184,6 +184,21 @@
       "open_date": "2026-06-05 19:00"
     },
     {
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 242,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678225",
+      "market_id": "1.258843700",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
+    },
+    {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
       "volume": 237,
@@ -287,21 +302,6 @@
       "market_id": "1.258911282",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
-    },
-    {
-      "match": "HK Kopavogur v Afturelding",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 10,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678225",
-      "market_id": "1.258843700",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
     }
   ],
   "tracked_matches": [
@@ -2640,7 +2640,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3020,
+      "volume": 3014,
       "best_volume": 3272,
       "whale_max": 0,
       "entered": false
@@ -2722,10 +2722,10 @@
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 10,
-      "best_volume": 65,
+      "volume": 242,
+      "best_volume": 242,
       "whale_max": 0,
       "entered": false
     },
