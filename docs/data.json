@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 13:15:19",
+  "last_update": "05/06/2026 13:15:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -259,6 +259,21 @@
       "open_date": "2026-06-05 12:30"
     },
     {
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 101,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
+    },
+    {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
       "volume": 70,
@@ -272,21 +287,6 @@
       "market_id": "1.258843721",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
-    },
-    {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 48,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "Paradou v ES Setif",
@@ -2734,9 +2734,9 @@
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 48,
+      "volume": 101,
       "best_volume": 307,
       "whale_max": 0,
       "entered": false
