@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:42:49",
+  "last_update": "05/06/2026 12:43:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 883,
+      "volume": 959,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -141,8 +141,8 @@
     {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 688,
-      "quota": 1.07,
+      "volume": 882,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -167,21 +167,6 @@
       "market_id": "1.258843700",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
-    },
-    {
-      "match": "CA Ituzaingo v Real Pilar FC",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 524,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684829",
-      "market_id": "1.258895011",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 23:00"
     },
     {
       "match": "Jonsereds IF v Galtabäcks BK",
@@ -212,6 +197,21 @@
       "market_id": "1.258859904",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 382,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684829",
+      "market_id": "1.258895011",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 23:00"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -2617,9 +2617,9 @@
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-05 23:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 524,
+      "volume": 382,
       "best_volume": 1211,
       "whale_max": 0,
       "entered": false
@@ -2713,9 +2713,9 @@
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 688,
+      "volume": 882,
       "best_volume": 7083,
       "whale_max": 0,
       "entered": false
@@ -2775,7 +2775,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 883,
+      "volume": 959,
       "best_volume": 4898,
       "whale_max": 0,
       "entered": false
