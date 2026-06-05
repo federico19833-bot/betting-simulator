@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 10:46:07",
+  "last_update": "05/06/2026 10:46:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 2986,
+      "volume": 3020,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -62,21 +62,6 @@
       "market_id": "1.258843721",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
-    },
-    {
-      "match": "Busan IPark v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 1518,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666251",
-      "market_id": "1.258830826",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Daegu Fc v Paju Citizen",
@@ -212,6 +197,21 @@
       "market_id": "1.258893037",
       "_is_inplay": false,
       "open_date": "2026-06-05 17:00"
+    },
+    {
+      "match": "Busan IPark v Chungnam Asan",
+      "campionato": "South Korean K2 League",
+      "volume": 225,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666251",
+      "market_id": "1.258830826",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -2626,9 +2626,9 @@
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1518,
+      "volume": 225,
       "best_volume": 1518,
       "whale_max": 0,
       "entered": false
@@ -2640,7 +2640,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 2986,
+      "volume": 3020,
       "best_volume": 3272,
       "whale_max": 0,
       "entered": false
