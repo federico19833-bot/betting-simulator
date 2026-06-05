@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 10:20:17",
+  "last_update": "05/06/2026 10:20:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,6 +79,21 @@
       "open_date": "2026-06-05 12:30"
     },
     {
+      "match": "Vanersborgs FK v Skara Fc",
+      "campionato": "Swedish Division 2",
+      "volume": 1288,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681196",
+      "market_id": "1.258859967",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:15"
+    },
+    {
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 849,
@@ -152,21 +167,6 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "Vanersborgs FK v Skara Fc",
-      "campionato": "Swedish Division 2",
-      "volume": 462,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681196",
-      "market_id": "1.258859967",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:15"
     },
     {
       "match": "IF Boljan v BK Astrio",
@@ -2676,7 +2676,7 @@
       "open_date": "2026-06-05 19:15",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 462,
+      "volume": 1288,
       "best_volume": 1356,
       "whale_max": 0,
       "entered": false
