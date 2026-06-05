@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 15:35:28",
+  "last_update": "05/06/2026 15:36:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,6 +62,21 @@
       "market_id": "1.258894216",
       "_is_inplay": false,
       "open_date": "2026-06-05 17:30"
+    },
+    {
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 1266,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
@@ -154,6 +169,21 @@
       "open_date": "2026-06-05 21:15"
     },
     {
+      "match": "Operario PR v Juventude",
+      "campionato": "Brazilian Serie B",
+      "volume": 178,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672307",
+      "market_id": "1.258878364",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 01:00"
+    },
+    {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
       "volume": 143,
@@ -167,21 +197,6 @@
       "market_id": "1.258912902",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:30"
-    },
-    {
-      "match": "Operario PR v Juventude",
-      "campionato": "Brazilian Serie B",
-      "volume": 70,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672307",
-      "market_id": "1.258878364",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 01:00"
     },
     {
       "match": "USM Khenchela v MB Rouissat",
@@ -255,21 +270,6 @@
       "source": "Betfair",
       "event_id": "35638774",
       "market_id": "1.258899178",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
-    },
-    {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 10,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
     },
@@ -2614,9 +2614,9 @@
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
       "open_date": "2026-06-06 01:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 70,
+      "volume": 178,
       "best_volume": 2453,
       "whale_max": 0,
       "entered": false
