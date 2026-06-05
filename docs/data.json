@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:32:39",
+  "last_update": "05/06/2026 12:33:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 4575,
+      "volume": 6139,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -30,6 +30,21 @@
       "source": "Betfair",
       "event_id": "35666895",
       "market_id": "1.258830784",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
+      "match": "Daegu Fc v Paju Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 4642,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666254",
+      "market_id": "1.258830805",
       "_is_inplay": true,
       "open_date": "2026-06-05 12:30"
     },
@@ -47,6 +62,21 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 1336,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
     },
     {
       "match": "Lindome v IK Kongahalla",
@@ -81,8 +111,8 @@
     {
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 971,
-      "quota": 1.03,
+      "volume": 722,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -167,21 +197,6 @@
       "market_id": "1.258849954",
       "_is_inplay": false,
       "open_date": "2026-06-06 00:00"
-    },
-    {
-      "match": "Daegu Fc v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 318,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666254",
-      "market_id": "1.258830805",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Kabylie v Belouizdad",
@@ -2697,8 +2712,8 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 318,
-      "best_volume": 318,
+      "volume": 4642,
+      "best_volume": 4642,
       "whale_max": 0,
       "entered": false
     },
@@ -2707,9 +2722,9 @@
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.03,
-      "volume": 971,
+      "volume": 722,
       "best_volume": 971,
       "whale_max": 0,
       "entered": false
@@ -2721,8 +2736,8 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 4575,
-      "best_volume": 4575,
+      "volume": 6139,
+      "best_volume": 6139,
       "whale_max": 0,
       "entered": false
     },
@@ -2759,6 +2774,18 @@
       "quota_iniziale": 1.07,
       "volume": 307,
       "best_volume": 307,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258859904",
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-05 19:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1336,
+      "best_volume": 1336,
       "whale_max": 0,
       "entered": false
     }
