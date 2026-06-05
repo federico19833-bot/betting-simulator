@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 02:33:22",
+  "last_update": "05/06/2026 02:33:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -137,6 +137,21 @@
       "market_id": "1.258893037",
       "_is_inplay": false,
       "open_date": "2026-06-05 17:00"
+    },
+    {
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 200,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672249",
+      "market_id": "1.258849954",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 00:00"
     },
     {
       "match": "JS Saoura v CS Constantine",
@@ -2504,6 +2519,18 @@
       "quota_iniziale": 1.04,
       "volume": 1142,
       "best_volume": 1142,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258849954",
+      "match": "Wanderers (Uru) v Danubio",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-06-06 00:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 200,
+      "best_volume": 200,
       "whale_max": 0,
       "entered": false
     }
