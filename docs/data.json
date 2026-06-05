@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 14:30:56",
+  "last_update": "05/06/2026 14:31:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "FK Kudrivka v Agrobiznes Volochysk",
+      "campionato": "Ukrainian Premier League",
+      "volume": 3130,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35685118",
+      "market_id": "1.258893037",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:00"
+    },
+    {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
       "volume": 2453,
@@ -32,21 +47,6 @@
       "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
-    },
-    {
-      "match": "FK Kudrivka v Agrobiznes Volochysk",
-      "campionato": "Ukrainian Premier League",
-      "volume": 2382,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35685118",
-      "market_id": "1.258893037",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:00"
     },
     {
       "match": "Lindome v IK Kongahalla",
@@ -64,21 +64,6 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "KuPS Akatemia v KPV",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1908,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684482",
-      "market_id": "1.258894216",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 17:30"
-    },
-    {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "volume": 1834,
@@ -92,6 +77,21 @@
       "market_id": "1.258843700",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "KuPS Akatemia v KPV",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1813,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684482",
+      "market_id": "1.258894216",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 17:30"
     },
     {
       "match": "MC Alger v ASO Chlef",
@@ -2589,8 +2589,8 @@
       "open_date": "2026-06-05 17:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 2382,
-      "best_volume": 2382,
+      "volume": 3130,
+      "best_volume": 3130,
       "whale_max": 0,
       "entered": false
     },
