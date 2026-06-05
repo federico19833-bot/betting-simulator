@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:36:37",
+  "last_update": "05/06/2026 12:37:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 7083,
+      "volume": 3965,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -30,6 +30,21 @@
       "source": "Betfair",
       "event_id": "35666254",
       "market_id": "1.258830805",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 3930,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
       "_is_inplay": true,
       "open_date": "2026-06-05 12:30"
     },
@@ -137,21 +152,6 @@
       "market_id": "1.258898369",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
-    },
-    {
-      "match": "Seongnam FC v Gimhae City",
-      "campionato": "South Korean K2 League",
-      "volume": 753,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "HK Kopavogur v Afturelding",
@@ -2715,7 +2715,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 7083,
+      "volume": 3965,
       "best_volume": 7083,
       "whale_max": 0,
       "entered": false
@@ -2773,10 +2773,10 @@
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 753,
-      "best_volume": 1445,
+      "volume": 3930,
+      "best_volume": 3930,
       "whale_max": 0,
       "entered": false
     },
