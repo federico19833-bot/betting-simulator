@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 19:30:47",
+  "last_update": "05/06/2026 19:31:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "Kabylie v Belouizdad",
-      "campionato": "Algerian Ligue 1",
-      "volume": 784,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687931",
-      "market_id": "1.258916498",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
-    },
-    {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 664,
@@ -124,19 +109,19 @@
       "open_date": "2026-06-06 00:00"
     },
     {
-      "match": "CA Ituzaingo v Real Pilar FC",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 254,
-      "quota": 1.06,
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 224,
+      "quota": 1.11,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35684829",
-      "market_id": "1.258895011",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
       "_is_inplay": false,
-      "open_date": "2026-06-05 23:00"
+      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "Operario PR v Juventude",
@@ -152,6 +137,21 @@
       "market_id": "1.258878364",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 92,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684829",
+      "market_id": "1.258895011",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 23:00"
     },
     {
       "match": "MC Alger v ASO Chlef",
@@ -2494,9 +2494,9 @@
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-05 23:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 254,
+      "volume": 92,
       "best_volume": 307,
       "whale_max": 0,
       "entered": false
