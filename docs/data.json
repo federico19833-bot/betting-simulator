@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:22:24",
+  "last_update": "05/06/2026 12:22:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Seongnam FC v Gimhae City",
-      "campionato": "South Korean K2 League",
-      "volume": 4311,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
       "volume": 3974,
@@ -47,6 +32,36 @@
       "market_id": "1.258830805",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
+    },
+    {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 3481,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
+      "match": "Talleres (RE) v Deportivo Merlo",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1568,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683157",
+      "market_id": "1.258904984",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 01:00"
     },
     {
       "match": "Lindome v IK Kongahalla",
@@ -77,21 +92,6 @@
       "market_id": "1.258895011",
       "_is_inplay": false,
       "open_date": "2026-06-05 23:00"
-    },
-    {
-      "match": "Talleres (RE) v Deportivo Merlo",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1114,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683157",
-      "market_id": "1.258904984",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 01:00"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -2601,7 +2601,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 4311,
+      "volume": 3481,
       "best_volume": 4311,
       "whale_max": 0,
       "entered": false
