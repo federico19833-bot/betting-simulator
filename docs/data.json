@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 21:20:14",
+  "last_update": "05/06/2026 21:20:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Njardvik v IR Reykjavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 2126,
-      "quota": 1.48,
+      "volume": 2534,
+      "quota": 1.46,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +36,7 @@
     {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1140,
+      "volume": 1006,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -51,8 +51,8 @@
     {
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
-      "volume": 899,
-      "quota": 1.03,
+      "volume": 828,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -77,6 +77,21 @@
       "market_id": "1.258843721",
       "_is_inplay": true,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "volume": 19,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687931",
+      "market_id": "1.258916498",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "Wanderers (Uru) v Danubio",
@@ -2407,10 +2422,22 @@
       "match": "HK Kopavogur v Afturelding",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-05 21:15",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 899,
+      "volume": 828,
       "best_volume": 899,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258916498",
+      "match": "Kabylie v Belouizdad",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-06-05 21:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 19,
+      "best_volume": 19,
       "whale_max": 0,
       "entered": false
     }
