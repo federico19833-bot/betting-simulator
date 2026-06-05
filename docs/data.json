@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 11:24:54",
+  "last_update": "05/06/2026 11:25:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,19 +109,19 @@
       "open_date": "2026-06-05 19:00"
     },
     {
-      "match": "CA Ituzaingo v Real Pilar FC",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1210,
-      "quota": 1.03,
+      "match": "Busan IPark v Chungnam Asan",
+      "campionato": "South Korean K2 League",
+      "volume": 1150,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35684829",
-      "market_id": "1.258895011",
+      "event_id": "35666251",
+      "market_id": "1.258830826",
       "_is_inplay": false,
-      "open_date": "2026-06-05 23:00"
+      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -169,21 +169,6 @@
       "open_date": "2026-06-06 00:00"
     },
     {
-      "match": "Busan IPark v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 258,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666251",
-      "market_id": "1.258830826",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "FK Kudrivka v Agrobiznes Volochysk",
       "campionato": "Ukrainian Premier League",
       "volume": 237,
@@ -197,21 +182,6 @@
       "market_id": "1.258893037",
       "_is_inplay": false,
       "open_date": "2026-06-05 17:00"
-    },
-    {
-      "match": "JS Saoura v CS Constantine",
-      "campionato": "Algerian Ligue 1",
-      "volume": 199,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35638774",
-      "market_id": "1.258899178",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "Vanersborgs FK v Skara Fc",
@@ -242,6 +212,21 @@
       "market_id": "1.258843700",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:15"
+    },
+    {
+      "match": "JS Saoura v CS Constantine",
+      "campionato": "Algerian Ligue 1",
+      "volume": 101,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35638774",
+      "market_id": "1.258899178",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:00"
     },
     {
       "match": "Kabylie v Belouizdad",
@@ -292,7 +277,7 @@
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "volume": 10,
-      "quota": 1.02,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -302,6 +287,21 @@
       "market_id": "1.258859946",
       "_is_inplay": false,
       "open_date": "2026-06-05 19:00"
+    },
+    {
+      "match": "CA Ituzaingo v Real Pilar FC",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684829",
+      "market_id": "1.258895011",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 23:00"
     }
   ],
   "tracked_matches": [
@@ -2616,7 +2616,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 258,
+      "volume": 1150,
       "best_volume": 1518,
       "whale_max": 0,
       "entered": false
@@ -2662,9 +2662,9 @@
       "match": "CA Ituzaingo v Real Pilar FC",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-05 23:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.07,
-      "volume": 1210,
+      "volume": 10,
       "best_volume": 1210,
       "whale_max": 0,
       "entered": false
@@ -2686,9 +2686,9 @@
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 199,
+      "volume": 101,
       "best_volume": 708,
       "whale_max": 0,
       "entered": false
@@ -2770,7 +2770,7 @@
       "match": "Landvetter IS v Vastra Frolunda",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-05 19:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
