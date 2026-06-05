@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 13:27:17",
+  "last_update": "05/06/2026 13:27:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Landvetter IS v Vastra Frolunda",
+      "campionato": "Swedish Division 2",
+      "volume": 2597,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681239",
+      "market_id": "1.258859946",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 2085,
+      "volume": 2152,
       "quota": 1.19,
       "in_range": false,
       "monitored": false,
@@ -47,21 +62,6 @@
       "market_id": "1.258899178",
       "_is_inplay": false,
       "open_date": "2026-06-05 21:00"
-    },
-    {
-      "match": "Daegu Fc v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 1797,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666254",
-      "market_id": "1.258830805",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Talleres (RE) v Deportivo Merlo",
@@ -109,21 +109,6 @@
       "open_date": "2026-06-05 19:15"
     },
     {
-      "match": "Landvetter IS v Vastra Frolunda",
-      "campionato": "Swedish Division 2",
-      "volume": 1212,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681239",
-      "market_id": "1.258859946",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 19:00"
-    },
-    {
       "match": "USM Khenchela v MB Rouissat",
       "campionato": "Algerian Ligue 1",
       "volume": 1210,
@@ -137,6 +122,21 @@
       "market_id": "1.258911282",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "Daegu Fc v Paju Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 972,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666254",
+      "market_id": "1.258830805",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "Njardvik v IR Reykjavik",
@@ -261,8 +261,8 @@
     {
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
-      "volume": 101,
-      "quota": 1.06,
+      "volume": 76,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2749,9 +2749,9 @@
       "match": "Kabylie v Belouizdad",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-05 21:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 101,
+      "volume": 76,
       "best_volume": 307,
       "whale_max": 0,
       "entered": false
@@ -2787,7 +2787,7 @@
       "open_date": "2026-06-05 19:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1212,
+      "volume": 2597,
       "best_volume": 2597,
       "whale_max": 0,
       "entered": false
