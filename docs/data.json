@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 20:21:52",
+  "last_update": "05/06/2026 20:22:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,25 +64,10 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "HK Kopavogur v Afturelding",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 761,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678225",
-      "market_id": "1.258843700",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 21:15"
-    },
-    {
       "match": "Aegir v Leiknir R",
       "campionato": "Icelandic 1 Deild",
-      "volume": 664,
-      "quota": 1.12,
+      "volume": 810,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -122,6 +107,21 @@
       "market_id": "1.258904984",
       "_is_inplay": false,
       "open_date": "2026-06-06 01:00"
+    },
+    {
+      "match": "HK Kopavogur v Afturelding",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 566,
+      "quota": 1.24,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678225",
+      "market_id": "1.258843700",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 21:15"
     },
     {
       "match": "CA Ituzaingo v Real Pilar FC",
@@ -2492,6 +2492,18 @@
       "quota_iniziale": 1.07,
       "volume": 725,
       "best_volume": 725,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258843721",
+      "match": "Aegir v Leiknir R",
+      "campionato": "Icelandic 1 Deild",
+      "open_date": "2026-06-05 21:15",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 810,
+      "best_volume": 810,
       "whale_max": 0,
       "entered": false
     }
