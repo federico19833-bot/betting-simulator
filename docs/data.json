@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:12:49",
+  "last_update": "05/06/2026 12:13:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,6 +49,21 @@
       "open_date": "2026-06-05 12:30"
     },
     {
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "volume": 1232,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681235",
+      "market_id": "1.258859904",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 19:00"
+    },
+    {
       "match": "Lindome v IK Kongahalla",
       "campionato": "Swedish Division 2",
       "volume": 1211,
@@ -81,8 +96,8 @@
     {
       "match": "Talleres (RE) v Deportivo Merlo",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 624,
-      "quota": 1.11,
+      "volume": 730,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -126,7 +141,7 @@
     {
       "match": "MC Alger v ASO Chlef",
       "campionato": "Algerian Ligue 1",
-      "volume": 462,
+      "volume": 472,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -199,6 +214,21 @@
       "open_date": "2026-06-05 17:00"
     },
     {
+      "match": "Busan IPark v Chungnam Asan",
+      "campionato": "South Korean K2 League",
+      "volume": 195,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666251",
+      "market_id": "1.258830826",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
       "match": "Vanersborgs FK v Skara Fc",
       "campionato": "Swedish Division 2",
       "volume": 187,
@@ -229,21 +259,6 @@
       "open_date": "2026-06-05 21:15"
     },
     {
-      "match": "Busan IPark v Chungnam Asan",
-      "campionato": "South Korean K2 League",
-      "volume": 100,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666251",
-      "market_id": "1.258830826",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "JS Saoura v CS Constantine",
       "campionato": "Algerian Ligue 1",
       "volume": 38,
@@ -270,6 +285,21 @@
       "source": "Betfair",
       "event_id": "35687725",
       "market_id": "1.258911041",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "USM Khenchela v MB Rouissat",
+      "campionato": "Algerian Ligue 1",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687728",
+      "market_id": "1.258911282",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
     }
@@ -2572,9 +2602,9 @@
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 100,
+      "volume": 195,
       "best_volume": 1518,
       "whale_max": 0,
       "entered": false
@@ -2634,7 +2664,7 @@
       "open_date": "2026-06-05 19:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 462,
+      "volume": 472,
       "best_volume": 1566,
       "whale_max": 0,
       "entered": false
@@ -2720,6 +2750,30 @@
       "quota_iniziale": 1.07,
       "volume": 340,
       "best_volume": 340,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258911282",
+      "match": "USM Khenchela v MB Rouissat",
+      "campionato": "Algerian Ligue 1",
+      "open_date": "2026-06-05 18:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258859904",
+      "match": "IF Boljan v BK Astrio",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-05 19:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 1232,
+      "best_volume": 1232,
       "whale_max": 0,
       "entered": false
     }
