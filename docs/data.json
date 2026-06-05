@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 23:38:52",
+  "last_update": "05/06/2026 23:39:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,8 +36,8 @@
     {
       "match": "Wanderers (Uru) v Danubio",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1046,
-      "quota": 1.12,
+      "volume": 834,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,8 +51,8 @@
     {
       "match": "Operario PR v Juventude",
       "campionato": "Brazilian Serie B",
-      "volume": 258,
-      "quota": 1.37,
+      "volume": 13,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2357,6 +2357,18 @@
       "quota_iniziale": 1.09,
       "volume": 1930,
       "best_volume": 2748,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258878364",
+      "match": "Operario PR v Juventude",
+      "campionato": "Brazilian Serie B",
+      "open_date": "2026-06-06 01:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 13,
+      "best_volume": 13,
       "whale_max": 0,
       "entered": false
     }
