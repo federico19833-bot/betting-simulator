@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:38:18",
+  "last_update": "05/06/2026 12:38:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,25 +19,10 @@
   },
   "live_events": [
     {
-      "match": "Seongnam FC v Gimhae City",
-      "campionato": "South Korean K2 League",
-      "volume": 3930,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666895",
-      "market_id": "1.258830784",
-      "_is_inplay": true,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "Daegu Fc v Paju Citizen",
       "campionato": "South Korean K2 League",
-      "volume": 2394,
-      "quota": 1.1,
+      "volume": 5101,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -152,6 +137,21 @@
       "market_id": "1.258898369",
       "_is_inplay": false,
       "open_date": "2026-06-05 18:00"
+    },
+    {
+      "match": "Seongnam FC v Gimhae City",
+      "campionato": "South Korean K2 League",
+      "volume": 906,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666895",
+      "market_id": "1.258830784",
+      "_is_inplay": true,
+      "open_date": "2026-06-05 12:30"
     },
     {
       "match": "HK Kopavogur v Afturelding",
@@ -2715,7 +2715,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 4884,
+      "volume": 5101,
       "best_volume": 7083,
       "whale_max": 0,
       "entered": false
@@ -2773,9 +2773,9 @@
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-05 12:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 3930,
+      "volume": 906,
       "best_volume": 3930,
       "whale_max": 0,
       "entered": false
