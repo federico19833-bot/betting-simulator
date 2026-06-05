@@ -1,5 +1,5 @@
 {
-  "last_update": "05/06/2026 12:21:49",
+  "last_update": "05/06/2026 12:22:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,24 +19,9 @@
   },
   "live_events": [
     {
-      "match": "Daegu Fc v Paju Citizen",
-      "campionato": "South Korean K2 League",
-      "volume": 3972,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35666254",
-      "market_id": "1.258830805",
-      "_is_inplay": false,
-      "open_date": "2026-06-05 12:30"
-    },
-    {
       "match": "Seongnam FC v Gimhae City",
       "campionato": "South Korean K2 League",
-      "volume": 3481,
+      "volume": 4311,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -45,6 +30,21 @@
       "source": "Betfair",
       "event_id": "35666895",
       "market_id": "1.258830784",
+      "_is_inplay": false,
+      "open_date": "2026-06-05 12:30"
+    },
+    {
+      "match": "Daegu Fc v Paju Citizen",
+      "campionato": "South Korean K2 League",
+      "volume": 3974,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35666254",
+      "market_id": "1.258830805",
       "_is_inplay": false,
       "open_date": "2026-06-05 12:30"
     },
@@ -201,7 +201,7 @@
     {
       "match": "Busan IPark v Chungnam Asan",
       "campionato": "South Korean K2 League",
-      "volume": 165,
+      "volume": 166,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -2577,7 +2577,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 3972,
+      "volume": 3974,
       "best_volume": 3974,
       "whale_max": 0,
       "entered": false
@@ -2589,7 +2589,7 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 165,
+      "volume": 166,
       "best_volume": 1688,
       "whale_max": 0,
       "entered": false
@@ -2601,8 +2601,8 @@
       "open_date": "2026-06-05 12:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 3481,
-      "best_volume": 4308,
+      "volume": 4311,
+      "best_volume": 4311,
       "whale_max": 0,
       "entered": false
     },
