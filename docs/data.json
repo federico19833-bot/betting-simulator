@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:53:06",
+  "last_update": "06/06/2026 12:53:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,24 +34,9 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "FC Jazz v VJS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1846,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686922",
-      "market_id": "1.258907202",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "IF Vestri v Volsungur",
       "campionato": "Icelandic 1 Deild",
-      "volume": 1552,
+      "volume": 1629,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -467,6 +452,21 @@
       "market_id": "1.258820003",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "FC Jazz v VJS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 73,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686922",
+      "market_id": "1.258907202",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "CD Castellon v Almeria",
@@ -3213,7 +3213,7 @@
       "open_date": "2026-06-06 17:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.09,
-      "volume": 1552,
+      "volume": 1629,
       "best_volume": 12148,
       "whale_max": 0,
       "entered": false
