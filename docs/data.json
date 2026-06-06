@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 09:38:57",
+  "last_update": "06/06/2026 09:39:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -259,6 +259,21 @@
       "open_date": "2026-06-06 17:30"
     },
     {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 670,
+      "quota": 1.29,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Deportes Copiapo v Santiago Wanderers",
       "campionato": "Chilean Primera B",
       "volume": 640,
@@ -379,21 +394,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 283,
-      "quota": 1.24,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Chuncheon v Daejeon Korail FC",
       "campionato": "South Korean K3 League",
       "volume": 260,
@@ -420,21 +420,6 @@
       "source": "Betfair",
       "event_id": "35683111",
       "market_id": "1.258930225",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Flandria v Argentino de Quilmes",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 222,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683123",
-      "market_id": "1.258930267",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
     },
@@ -497,6 +482,21 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
+    },
+    {
+      "match": "Flandria v Argentino de Quilmes",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 140,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683123",
+      "market_id": "1.258930267",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -720,21 +720,6 @@
       "source": "Betfair",
       "event_id": "35688193",
       "market_id": "1.258918607",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 15:00"
-    },
-    {
-      "match": "OLS v Salpa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686874",
-      "market_id": "1.258905709",
       "_is_inplay": false,
       "open_date": "2026-06-06 15:00"
     },
@@ -3148,9 +3133,9 @@
       "match": "Flandria v Argentino de Quilmes",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 222,
+      "volume": 140,
       "best_volume": 247,
       "whale_max": 0,
       "entered": false
@@ -3536,18 +3521,6 @@
       "quota_iniziale": 1.09,
       "volume": 298,
       "best_volume": 298,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258905709",
-      "match": "OLS v Salpa",
-      "campionato": "Finnish Ykkonen",
-      "open_date": "2026-06-06 15:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
