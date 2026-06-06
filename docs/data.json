@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:12:00",
+  "last_update": "06/06/2026 12:12:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,21 +124,6 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Sunnersta AIF v FC Gute",
-      "campionato": "Swedish Division 2",
-      "volume": 1266,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688162",
-      "market_id": "1.258918546",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:30"
-    },
-    {
       "match": "JJK v PKK-U",
       "campionato": "Finnish Ykkonen",
       "volume": 1220,
@@ -214,6 +199,21 @@
       "open_date": "2026-06-06 23:30"
     },
     {
+      "match": "Sunnersta AIF v FC Gute",
+      "campionato": "Swedish Division 2",
+      "volume": 819,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688162",
+      "market_id": "1.258918546",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:30"
+    },
+    {
       "match": "Ulsan Citizen FC v Gangneung City",
       "campionato": "South Korean K3 League",
       "volume": 818,
@@ -261,7 +261,7 @@
     {
       "match": "Nykopings BIS v Fittja IF",
       "campionato": "Swedish Division 2",
-      "volume": 731,
+      "volume": 681,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -272,21 +272,6 @@
       "market_id": "1.258864671",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Brabrand v Fremad Amager",
-      "campionato": "Danish 2nd Division",
-      "volume": 669,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675687",
-      "market_id": "1.258820045",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Roskilde v HIK Hellerup",
@@ -300,6 +285,21 @@
       "source": "Betfair",
       "event_id": "35675677",
       "market_id": "1.258820024",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Brabrand v Fremad Amager",
+      "campionato": "Danish 2nd Division",
+      "volume": 588,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675687",
+      "market_id": "1.258820045",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
     },
@@ -394,40 +394,10 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "OLS v Salpa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 433,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686874",
-      "market_id": "1.258905709",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 15:00"
-    },
-    {
-      "match": "Skelleftea v IFK Umea",
-      "campionato": "Swedish Division 2",
-      "volume": 412,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688962",
-      "market_id": "1.258929384",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Portugal U19 v Greece U19",
       "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 316,
-      "quota": 1.11,
+      "volume": 440,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -437,6 +407,21 @@
       "market_id": "1.258915184",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "Skelleftea v IFK Umea",
+      "campionato": "Swedish Division 2",
+      "volume": 330,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688962",
+      "market_id": "1.258929384",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Skiljebo v Enskede",
@@ -467,6 +452,21 @@
       "market_id": "1.258867967",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "OLS v Salpa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 281,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686874",
+      "market_id": "1.258905709",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 15:00"
     },
     {
       "match": "Deportivo Armenio v Defensores Unidos",
@@ -3136,9 +3136,9 @@
       "match": "Skelleftea v IFK Umea",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 412,
+      "volume": 330,
       "best_volume": 464,
       "whale_max": 0,
       "entered": false
@@ -3366,7 +3366,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 731,
+      "volume": 681,
       "best_volume": 2714,
       "whale_max": 0,
       "entered": false
@@ -3486,7 +3486,7 @@
       "open_date": "2026-06-06 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 433,
+      "volume": 281,
       "best_volume": 433,
       "whale_max": 0,
       "entered": false
