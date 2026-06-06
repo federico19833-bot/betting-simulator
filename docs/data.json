@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:18:04",
+  "last_update": "06/06/2026 11:18:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -291,7 +291,7 @@
     {
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
-      "volume": 624,
+      "volume": 627,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -347,21 +347,6 @@
       "market_id": "1.258820024",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "Skelleftea v IFK Umea",
-      "campionato": "Swedish Division 2",
-      "volume": 454,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688962",
-      "market_id": "1.258929384",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Angby IF v Taby FK",
@@ -647,6 +632,21 @@
       "market_id": "1.258909455",
       "_is_inplay": false,
       "open_date": "2026-06-06 12:00"
+    },
+    {
+      "match": "Skelleftea v IFK Umea",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688962",
+      "market_id": "1.258929384",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Vendsyssel FF v Naestved",
@@ -3142,9 +3142,9 @@
       "match": "Skelleftea v IFK Umea",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 454,
+      "volume": 10,
       "best_volume": 464,
       "whale_max": 0,
       "entered": false
@@ -3300,7 +3300,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 624,
+      "volume": 627,
       "best_volume": 631,
       "whale_max": 0,
       "entered": false
