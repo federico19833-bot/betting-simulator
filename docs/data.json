@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 07:40:56",
+  "last_update": "06/06/2026 07:41:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -107,21 +107,6 @@
       "market_id": "1.258908946",
       "_is_inplay": true,
       "open_date": "2026-06-06 07:00"
-    },
-    {
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "volume": 1207,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675688",
-      "market_id": "1.258820003",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "MC Oran v USM Alger",
@@ -287,6 +272,21 @@
       "market_id": "1.258910669",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:00"
+    },
+    {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 550,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
     },
     {
       "match": "Nublense v Univ de Concepcion",
@@ -3087,18 +3087,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258820003",
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.07,
-      "volume": 2071,
-      "best_volume": 2379,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258819961",
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
@@ -3491,6 +3479,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258799798",
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "open_date": "2026-06-06 21:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 550,
+      "best_volume": 550,
       "whale_max": 0,
       "entered": false
     }
