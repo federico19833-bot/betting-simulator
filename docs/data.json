@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:05:00",
+  "last_update": "06/06/2026 12:05:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,6 +47,21 @@
       "market_id": "1.258864671",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "Brabrand v Fremad Amager",
+      "campionato": "Danish 2nd Division",
+      "volume": 1987,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675687",
+      "market_id": "1.258820045",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Qviding FIF v Astorps FF",
@@ -107,21 +122,6 @@
       "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "FOC Farsta v BK Forward",
-      "campionato": "Swedish Division 2",
-      "volume": 1213,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688163",
-      "market_id": "1.258918524",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -199,6 +199,21 @@
       "open_date": "2026-06-06 23:30"
     },
     {
+      "match": "FOC Farsta v BK Forward",
+      "campionato": "Swedish Division 2",
+      "volume": 891,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688163",
+      "market_id": "1.258918524",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Linero IF v IFK Berga",
       "campionato": "Swedish Division 2",
       "volume": 818,
@@ -227,21 +242,6 @@
       "market_id": "1.258930330",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
-    },
-    {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 799,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "CD Castellon v Almeria",
@@ -349,19 +349,19 @@
       "open_date": "2026-06-06 15:00"
     },
     {
-      "match": "Sunnersta AIF v FC Gute",
+      "match": "Ragsveds IF v Lindo FF",
       "campionato": "Swedish Division 2",
-      "volume": 465,
-      "quota": 1.02,
+      "volume": 475,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35688162",
-      "market_id": "1.258918546",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
       "_is_inplay": false,
-      "open_date": "2026-06-06 14:30"
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Roskilde v HIK Hellerup",
@@ -394,21 +394,6 @@
       "open_date": "2026-06-06 13:00"
     },
     {
-      "match": "Cambodia U19 v Philippines U19",
-      "campionato": "U19 Internationals",
-      "volume": 422,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688193",
-      "market_id": "1.258918607",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 15:00"
-    },
-    {
       "match": "Torslanda v Hestrafors",
       "campionato": "Swedish Division 2",
       "volume": 412,
@@ -422,6 +407,36 @@
       "market_id": "1.258894846",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "Sunnersta AIF v FC Gute",
+      "campionato": "Swedish Division 2",
+      "volume": 376,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688162",
+      "market_id": "1.258918546",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:30"
+    },
+    {
+      "match": "Cambodia U19 v Philippines U19",
+      "campionato": "U19 Internationals",
+      "volume": 354,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688193",
+      "market_id": "1.258918607",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 15:00"
     },
     {
       "match": "Jonkopings Sodra v FC Trollhattan",
@@ -497,21 +512,6 @@
       "market_id": "1.258869854",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "Brabrand v Fremad Amager",
-      "campionato": "Danish 2nd Division",
-      "volume": 159,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675687",
-      "market_id": "1.258820045",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -3009,18 +3009,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258869940",
-      "match": "Jonkopings Sodra v FC Trollhattan",
-      "campionato": "Swedish Division 1",
-      "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.02,
-      "volume": 310,
-      "best_volume": 1552,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258930330",
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
@@ -3363,7 +3351,7 @@
       "open_date": "2026-06-06 14:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 465,
+      "volume": 376,
       "best_volume": 852,
       "whale_max": 0,
       "entered": false
@@ -3469,10 +3457,10 @@
       "match": "Brabrand v Fremad Amager",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.08,
-      "volume": 159,
-      "best_volume": 439,
+      "volume": 1987,
+      "best_volume": 1987,
       "whale_max": 0,
       "entered": false
     },
@@ -3517,9 +3505,9 @@
       "match": "Cambodia U19 v Philippines U19",
       "campionato": "U19 Internationals",
       "open_date": "2026-06-06 15:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 422,
+      "volume": 354,
       "best_volume": 422,
       "whale_max": 0,
       "entered": false
