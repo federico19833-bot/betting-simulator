@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 18:08:39",
+  "last_update": "06/06/2026 18:09:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,21 +62,6 @@
       "market_id": "1.258930481",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Deportes Copiapo v Santiago Wanderers",
-      "campionato": "Chilean Primera B",
-      "volume": 1833,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683588",
-      "market_id": "1.258883379",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:30"
     },
     {
       "match": "CD Castellon v Almeria",
@@ -154,24 +139,24 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Flandria v Argentino de Quilmes",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 600,
-      "quota": 1.25,
+      "match": "Deportes Copiapo v Santiago Wanderers",
+      "campionato": "Chilean Primera B",
+      "volume": 432,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35683123",
-      "market_id": "1.258930267",
+      "event_id": "35683588",
+      "market_id": "1.258883379",
       "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
+      "open_date": "2026-06-06 18:30"
     },
     {
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 427,
+      "volume": 423,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -186,8 +171,8 @@
     {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 359,
-      "quota": 1.36,
+      "volume": 304,
+      "quota": 1.35,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -199,10 +184,40 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "Flandria v Argentino de Quilmes",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 271,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683123",
+      "market_id": "1.258930267",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Argentino de Merlo v Camioneros",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 247,
+      "quota": 1.78,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683893",
+      "market_id": "1.258930288",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Orkla v Tronder Lyn",
       "campionato": "Norwegian Cup",
-      "volume": 265,
-      "quota": 1.11,
+      "volume": 246,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -229,21 +244,6 @@
       "open_date": "2026-06-06 23:30"
     },
     {
-      "match": "Brown de Adrogue v Comunicaciones B Aires",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 211,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683112",
-      "market_id": "1.258930330",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:00"
-    },
-    {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 150,
@@ -259,19 +259,19 @@
       "open_date": "2026-06-06 19:30"
     },
     {
-      "match": "Argentino de Merlo v Camioneros",
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 110,
-      "quota": 1.8,
+      "volume": 141,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35683893",
-      "market_id": "1.258930288",
+      "event_id": "35683112",
+      "market_id": "1.258930330",
       "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
+      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Puerto Montt v Cobreloa Calama",
@@ -2691,7 +2691,7 @@
       "open_date": "2026-06-06 18:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 1833,
+      "volume": 432,
       "best_volume": 5608,
       "whale_max": 0,
       "entered": false
@@ -2773,9 +2773,9 @@
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 211,
+      "volume": 141,
       "best_volume": 3010,
       "whale_max": 0,
       "entered": false
