@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 16:00:48",
+  "last_update": "06/06/2026 16:01:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "Deportes Copiapo v Santiago Wanderers",
+      "campionato": "Chilean Primera B",
+      "volume": 880,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683588",
+      "market_id": "1.258883379",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:30"
+    },
+    {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 750,
@@ -124,21 +139,6 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Deportes Copiapo v Santiago Wanderers",
-      "campionato": "Chilean Primera B",
-      "volume": 663,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683588",
-      "market_id": "1.258883379",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:30"
-    },
-    {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 615,
@@ -152,21 +152,6 @@
       "market_id": "1.258930330",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
-    },
-    {
-      "match": "Falu FK v Korsnas FF",
-      "campionato": "Swedish Division 2",
-      "volume": 481,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35674792",
-      "market_id": "1.258869854",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Qviding FIF v Astorps FF",
@@ -216,7 +201,7 @@
     {
       "match": "Gefle v Hammarby TFF",
       "campionato": "Swedish Division 1",
-      "volume": 339,
+      "volume": 349,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -242,6 +227,21 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "Jonkopings Sodra v FC Trollhattan",
+      "campionato": "Swedish Division 1",
+      "volume": 250,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677024",
+      "market_id": "1.258869940",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -422,21 +422,6 @@
       "market_id": "1.258922543",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "TPV v FC Inter 2",
-      "campionato": "Finnish Ykkonen",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686927",
-      "market_id": "1.258907223",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Excursionistas v San Martin de Burzaco",
@@ -2967,38 +2952,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258907223",
-      "match": "TPV v FC Inter 2",
-      "campionato": "Finnish Ykkonen",
-      "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.03,
-      "volume": 10,
-      "best_volume": 500,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258883379",
       "match": "Deportes Copiapo v Santiago Wanderers",
       "campionato": "Chilean Primera B",
       "open_date": "2026-06-06 18:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.03,
-      "volume": 10,
+      "volume": 880,
       "best_volume": 1194,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258869854",
-      "match": "Falu FK v Korsnas FF",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.03,
-      "volume": 481,
-      "best_volume": 481,
       "whale_max": 0,
       "entered": false
     },
@@ -3045,8 +3006,8 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 339,
-      "best_volume": 339,
+      "volume": 349,
+      "best_volume": 349,
       "whale_max": 0,
       "entered": false
     },
@@ -3083,6 +3044,18 @@
       "quota_iniziale": 1.05,
       "volume": 247,
       "best_volume": 247,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258869940",
+      "match": "Jonkopings Sodra v FC Trollhattan",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-06 16:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 250,
+      "best_volume": 250,
       "whale_max": 0,
       "entered": false
     }
