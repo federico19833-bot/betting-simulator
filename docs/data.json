@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 18:59:16",
+  "last_update": "06/06/2026 18:59:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,7 +51,7 @@
     {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 3363,
+      "volume": 3500,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Olympique Akbou v ES Ben Aknoun",
       "campionato": "Algerian Ligue 1",
-      "volume": 3017,
+      "volume": 3444,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -92,6 +92,21 @@
       "market_id": "1.258910690",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:00"
+    },
+    {
+      "match": "Deportivo Armenio v Defensores Unidos",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1589,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683111",
+      "market_id": "1.258930225",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
@@ -124,24 +139,9 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "Deportivo Armenio v Defensores Unidos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1118,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683111",
-      "market_id": "1.258930225",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "Flandria v Argentino de Quilmes",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 475,
+      "volume": 841,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -169,6 +169,21 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "EC Vitoria Salvador v Fortaleza EC",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 424,
+      "quota": 1.39,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681440",
+      "market_id": "1.258875256",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
+    },
+    {
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "volume": 340,
@@ -186,7 +201,7 @@
     {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 306,
+      "volume": 201,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -197,21 +212,6 @@
       "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Orkla v Tronder Lyn",
-      "campionato": "Norwegian Cup",
-      "volume": 229,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35692446",
-      "market_id": "1.258951998",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -229,19 +229,19 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "EC Vitoria Salvador v Fortaleza EC",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 97,
-      "quota": 1.39,
+      "match": "Orkla v Tronder Lyn",
+      "campionato": "Norwegian Cup",
+      "volume": 92,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35681440",
-      "market_id": "1.258875256",
+      "event_id": "35692446",
+      "market_id": "1.258951998",
       "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
+      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Torque v Deportivo Maldonado",
@@ -2658,7 +2658,7 @@
       "open_date": "2026-06-06 18:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 3017,
+      "volume": 3444,
       "best_volume": 12267,
       "whale_max": 0,
       "entered": false
@@ -2718,8 +2718,8 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.08,
-      "volume": 3363,
-      "best_volume": 3363,
+      "volume": 3500,
+      "best_volume": 3500,
       "whale_max": 0,
       "entered": false
     },
