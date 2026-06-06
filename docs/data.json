@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 03:13:13",
+  "last_update": "06/06/2026 03:13:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -216,8 +216,8 @@
     {
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
-      "volume": 560,
-      "quota": 1.12,
+      "volume": 576,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -257,21 +257,6 @@
       "market_id": "1.258828862",
       "_is_inplay": false,
       "open_date": "2026-06-07 00:00"
-    },
-    {
-      "match": "Brabrand v Fremad Amager",
-      "campionato": "Danish 2nd Division",
-      "volume": 444,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675687",
-      "market_id": "1.258820045",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Pocheon FC v Busan Transportation Corp",
@@ -512,6 +497,21 @@
       "market_id": "1.258909455",
       "_is_inplay": false,
       "open_date": "2026-06-06 12:00"
+    },
+    {
+      "match": "Brabrand v Fremad Amager",
+      "campionato": "Danish 2nd Division",
+      "volume": 152,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675687",
+      "market_id": "1.258820045",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "FC Jazz v VJS",
@@ -3321,7 +3321,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 444,
+      "volume": 152,
       "best_volume": 444,
       "whale_max": 0,
       "entered": false
