@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 09:08:30",
+  "last_update": "06/06/2026 09:09:03",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -435,6 +435,21 @@
       "source": "Betfair",
       "event_id": "35682023",
       "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 216,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
     },
@@ -3491,6 +3506,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258819982",
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "open_date": "2026-06-06 14:00",
+      "quota_attuale": 1.08,
+      "quota_iniziale": 1.08,
+      "volume": 216,
+      "best_volume": 216,
       "whale_max": 0,
       "entered": false
     }
