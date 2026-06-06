@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 17:36:30",
+  "last_update": "06/06/2026 17:38:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -8,10 +8,10 @@
     "poll_interval": 30
   },
   "stats": {
-    "total": 226,
+    "total": 227,
     "wins": 207,
     "losses": 15,
-    "in_corso": 4,
+    "in_corso": 5,
     "winrate": 93.2,
     "profit": 30.39,
     "roi": 0.13,
@@ -51,7 +51,7 @@
     {
       "match": "Torque v Deportivo Maldonado",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1393,
+      "volume": 1444,
       "quota": 1.14,
       "in_range": false,
       "monitored": false,
@@ -229,6 +229,21 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "Deportivo Armenio v Defensores Unidos",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 252,
+      "quota": 1.41,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683111",
+      "market_id": "1.258930225",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "volume": 230,
@@ -244,9 +259,24 @@
       "open_date": "2026-06-06 23:30"
     },
     {
+      "match": "Excursionistas v San Martin de Burzaco",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 150,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683152",
+      "market_id": "1.258930246",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Flandria v Argentino de Quilmes",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 189,
+      "volume": 79,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -255,36 +285,6 @@
       "source": "Betfair",
       "event_id": "35683123",
       "market_id": "1.258930267",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Deportivo Armenio v Defensores Unidos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 170,
-      "quota": 1.41,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683111",
-      "market_id": "1.258930225",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Excursionistas v San Martin de Burzaco",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 60,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683152",
-      "market_id": "1.258930246",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
     },
@@ -2607,7 +2607,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 189,
+      "volume": 79,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2629,12 +2629,12 @@
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 933,
+      "volume": 150,
       "best_volume": 17073,
       "whale_max": 0,
-      "entered": false
+      "entered": true
     },
     {
       "event_id": "bf_1.258930481",
@@ -2806,6 +2806,20 @@
     }
   ],
   "giocate": [
+    {
+      "id": 239,
+      "orario": "2026-06-06 17:38:04",
+      "match": "Excursionistas v San Martin de Burzaco",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "quota": 1.08,
+      "volume": 17073,
+      "esito": "IN_CORSO",
+      "profitto": 0.0,
+      "risultato": "",
+      "risultato_ht": "",
+      "whale_max": 0.0,
+      "whale_tot": 0.0
+    },
     {
       "id": 238,
       "orario": "2026-06-06 17:15:54",
