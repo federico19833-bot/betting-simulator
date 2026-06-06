@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:28:22",
+  "last_update": "06/06/2026 11:29:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,6 +62,21 @@
       "market_id": "1.258895258",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 1638,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Qviding FIF v Astorps FF",
@@ -199,21 +214,6 @@
       "open_date": "2026-06-06 13:00"
     },
     {
-      "match": "Chuncheon v Daejeon Korail FC",
-      "campionato": "South Korean K3 League",
-      "volume": 978,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687176",
-      "market_id": "1.258909476",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:00"
-    },
-    {
       "match": "Hwaseong FC v Suwon Bluewings",
       "campionato": "South Korean K2 League",
       "volume": 829,
@@ -272,6 +272,21 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
+    },
+    {
+      "match": "Chuncheon v Daejeon Korail FC",
+      "campionato": "South Korean K3 League",
+      "volume": 705,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687176",
+      "market_id": "1.258909476",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:00"
     },
     {
       "match": "Deportes Copiapo v Santiago Wanderers",
@@ -572,21 +587,6 @@
       "market_id": "1.258907202",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 75,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Excursionistas v San Martin de Burzaco",
@@ -3022,9 +3022,9 @@
       "match": "Chuncheon v Daejeon Korail FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-06 12:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 978,
+      "volume": 705,
       "best_volume": 1824,
       "whale_max": 0,
       "entered": false
@@ -3480,8 +3480,8 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 75,
-      "best_volume": 75,
+      "volume": 1638,
+      "best_volume": 1638,
       "whale_max": 0,
       "entered": false
     }
