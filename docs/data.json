@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 17:38:10",
+  "last_update": "06/06/2026 17:38:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,21 +47,6 @@
       "market_id": "1.258910669",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:00"
-    },
-    {
-      "match": "Torque v Deportivo Maldonado",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 1444,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672490",
-      "market_id": "1.258874613",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Puerto Montt v Cobreloa Calama",
@@ -122,6 +107,21 @@
       "market_id": "1.258910690",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:00"
+    },
+    {
+      "match": "Torque v Deportivo Maldonado",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 946,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672490",
+      "market_id": "1.258874613",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
@@ -229,21 +229,6 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Deportivo Armenio v Defensores Unidos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 252,
-      "quota": 1.41,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683111",
-      "market_id": "1.258930225",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "volume": 230,
@@ -259,10 +244,25 @@
       "open_date": "2026-06-06 23:30"
     },
     {
+      "match": "Deportivo Armenio v Defensores Unidos",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 211,
+      "quota": 1.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683111",
+      "market_id": "1.258930225",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 150,
-      "quota": 1.08,
+      "volume": 92,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2629,9 +2629,9 @@
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 150,
+      "volume": 92,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
