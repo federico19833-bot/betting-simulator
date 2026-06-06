@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 13:46:47",
+  "last_update": "06/06/2026 13:47:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,21 +94,6 @@
       "open_date": "2026-06-06 13:00"
     },
     {
-      "match": "Puerto Montt v Cobreloa Calama",
-      "campionato": "Chilean Primera B",
-      "volume": 1212,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683599",
-      "market_id": "1.258884306",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:30"
-    },
-    {
       "match": "Gefle v Hammarby TFF",
       "campionato": "Swedish Division 1",
       "volume": 1165,
@@ -120,21 +105,6 @@
       "source": "Betfair",
       "event_id": "35677933",
       "market_id": "1.258869876",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "Qviding FIF v Astorps FF",
-      "campionato": "Swedish Division 2",
-      "volume": 1026,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681280",
-      "market_id": "1.258869919",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
     },
@@ -184,19 +154,34 @@
       "open_date": "2026-06-07 00:00"
     },
     {
-      "match": "Vendsyssel FF v Naestved",
+      "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
-      "volume": 616,
-      "quota": 1.17,
+      "volume": 675,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35675682",
-      "market_id": "1.258820066",
+      "event_id": "35675684",
+      "market_id": "1.258819961",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Qviding FIF v Astorps FF",
+      "campionato": "Swedish Division 2",
+      "volume": 623,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681280",
+      "market_id": "1.258869919",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
@@ -289,6 +274,21 @@
       "open_date": "2026-06-06 21:00"
     },
     {
+      "match": "Puerto Montt v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "volume": 360,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683599",
+      "market_id": "1.258884306",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:30"
+    },
+    {
       "match": "Olympique Akbou v ES Ben Aknoun",
       "campionato": "Algerian Ligue 1",
       "volume": 353,
@@ -349,21 +349,6 @@
       "open_date": "2026-06-06 14:00"
     },
     {
-      "match": "Skive v Ishoj IF",
-      "campionato": "Danish 2nd Division",
-      "volume": 252,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675684",
-      "market_id": "1.258819961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Iceland U19 v Montenegro U19",
       "campionato": "UEFA U19 Euro Qualifiers",
       "volume": 247,
@@ -377,6 +362,21 @@
       "market_id": "1.258914297",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "Vendsyssel FF v Naestved",
+      "campionato": "Danish 2nd Division",
+      "volume": 242,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675682",
+      "market_id": "1.258820066",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -3307,9 +3307,9 @@
       "match": "Puerto Montt v Cobreloa Calama",
       "campionato": "Chilean Primera B",
       "open_date": "2026-06-06 18:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.08,
-      "volume": 1212,
+      "volume": 360,
       "best_volume": 1443,
       "whale_max": 0,
       "entered": false
