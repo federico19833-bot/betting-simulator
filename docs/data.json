@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:34:24",
+  "last_update": "06/06/2026 12:35:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
-      "volume": 1914,
-      "quota": 1.05,
+      "volume": 1814,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -45,21 +45,6 @@
       "source": "Betfair",
       "event_id": "35681947",
       "market_id": "1.258867967",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:00"
-    },
-    {
-      "match": "Iceland U19 v Montenegro U19",
-      "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 1408,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687252",
-      "market_id": "1.258914297",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
     },
@@ -214,21 +199,6 @@
       "open_date": "2026-06-06 17:30"
     },
     {
-      "match": "Qviding FIF v Astorps FF",
-      "campionato": "Swedish Division 2",
-      "volume": 412,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681280",
-      "market_id": "1.258869919",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
       "volume": 408,
@@ -272,6 +242,21 @@
       "market_id": "1.258910669",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:00"
+    },
+    {
+      "match": "Qviding FIF v Astorps FF",
+      "campionato": "Swedish Division 2",
+      "volume": 276,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681280",
+      "market_id": "1.258869919",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Univ Catolica (Chile) v Cobresal",
@@ -362,6 +347,21 @@
       "market_id": "1.258930330",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
+    },
+    {
+      "match": "Iceland U19 v Montenegro U19",
+      "campionato": "UEFA U19 Euro Qualifiers",
+      "volume": 196,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687252",
+      "market_id": "1.258914297",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:00"
     },
     {
       "match": "Nosaby IF v Karlskrona",
@@ -3199,9 +3199,9 @@
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1914,
+      "volume": 1814,
       "best_volume": 1914,
       "whale_max": 0,
       "entered": false
@@ -3249,7 +3249,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 412,
+      "volume": 276,
       "best_volume": 1460,
       "whale_max": 0,
       "entered": false
@@ -3489,7 +3489,7 @@
       "open_date": "2026-06-06 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1408,
+      "volume": 196,
       "best_volume": 1408,
       "whale_max": 0,
       "entered": false
