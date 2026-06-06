@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 14:49:50",
+  "last_update": "06/06/2026 14:50:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Brown de Adrogue v Comunicaciones B Aires",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3363,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683112",
-      "market_id": "1.258930330",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:00"
-    },
-    {
       "match": "IF Vestri v Volsungur",
       "campionato": "Icelandic 1 Deild",
       "volume": 3010,
@@ -49,9 +34,24 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 3010,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683112",
+      "market_id": "1.258930330",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:00"
+    },
+    {
       "match": "IK Tord v Lidkopings FK",
       "campionato": "Swedish Division 2",
-      "volume": 2746,
+      "volume": 2397,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -107,21 +107,6 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "JJK v PKK-U",
-      "campionato": "Finnish Ykkonen",
-      "volume": 930,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686877",
-      "market_id": "1.258905732",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:30"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -362,6 +347,21 @@
       "market_id": "1.258869854",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "JJK v PKK-U",
+      "campionato": "Finnish Ykkonen",
+      "volume": 157,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686877",
+      "market_id": "1.258905732",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:30"
     },
     {
       "match": "Puerto Montt v Cobreloa Calama",
@@ -2943,7 +2943,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 3363,
+      "volume": 3010,
       "best_volume": 3363,
       "whale_max": 0,
       "entered": false
@@ -3003,7 +3003,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 2746,
+      "volume": 2397,
       "best_volume": 14104,
       "whale_max": 0,
       "entered": false
@@ -3171,7 +3171,7 @@
       "open_date": "2026-06-06 17:30",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 930,
+      "volume": 157,
       "best_volume": 930,
       "whale_max": 0,
       "entered": false
