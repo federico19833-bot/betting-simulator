@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 14:34:16",
+  "last_update": "06/06/2026 14:34:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "IK Tord v Lidkopings FK",
       "campionato": "Swedish Division 2",
-      "volume": 13368,
+      "volume": 13356,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -169,21 +169,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "JJK v PKK-U",
-      "campionato": "Finnish Ykkonen",
-      "volume": 702,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686877",
-      "market_id": "1.258905732",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:30"
-    },
-    {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "volume": 686,
@@ -212,21 +197,6 @@
       "market_id": "1.258930267",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 540,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Cambodia U19 v Philippines U19",
@@ -291,7 +261,7 @@
     {
       "match": "Central Espanol v Racing Club (Uru)",
       "campionato": "Uruguayan Primera Division",
-      "volume": 383,
+      "volume": 373,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -319,9 +289,24 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 303,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Brabrand v Fremad Amager",
       "campionato": "Danish 2nd Division",
-      "volume": 244,
+      "volume": 297,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -424,6 +409,21 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "JJK v PKK-U",
+      "campionato": "Finnish Ykkonen",
+      "volume": 86,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686877",
+      "market_id": "1.258905732",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:30"
+    },
+    {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 84,
@@ -456,8 +456,8 @@
     {
       "match": "Sunnersta AIF v FC Gute",
       "campionato": "Swedish Division 2",
-      "volume": 50,
-      "quota": 1.79,
+      "volume": 51,
+      "quota": 1.89,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3033,7 +3033,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 13368,
+      "volume": 13356,
       "best_volume": 13368,
       "whale_max": 0,
       "entered": false
@@ -3117,7 +3117,7 @@
       "open_date": "2026-06-06 15:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 383,
+      "volume": 373,
       "best_volume": 383,
       "whale_max": 0,
       "entered": false
@@ -3199,9 +3199,9 @@
       "match": "JJK v PKK-U",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 17:30",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 702,
+      "volume": 86,
       "best_volume": 702,
       "whale_max": 0,
       "entered": false
