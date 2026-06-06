@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 15:33:23",
+  "last_update": "06/06/2026 15:34:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 4598,
+      "volume": 4226,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -77,6 +77,21 @@
       "market_id": "1.258905732",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:30"
+    },
+    {
+      "match": "IF Vestri v Volsungur",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 1881,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681947",
+      "market_id": "1.258867967",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:00"
     },
     {
       "match": "Grotta v Grindavik",
@@ -274,21 +289,6 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "IF Vestri v Volsungur",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 293,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681947",
-      "market_id": "1.258867967",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:00"
-    },
-    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 230,
@@ -302,21 +302,6 @@
       "market_id": "1.258930246",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "MC Oran v USM Alger",
-      "campionato": "Algerian Ligue 1",
-      "volume": 222,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687219",
-      "market_id": "1.258910690",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 19:00"
     },
     {
       "match": "Nosaby IF v Karlskrona",
@@ -347,6 +332,21 @@
       "market_id": "1.258917474",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "MC Oran v USM Alger",
+      "campionato": "Algerian Ligue 1",
+      "volume": 134,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687219",
+      "market_id": "1.258910690",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 19:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -2820,7 +2820,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 4598,
+      "volume": 4226,
       "best_volume": 4598,
       "whale_max": 0,
       "entered": false
@@ -2844,7 +2844,7 @@
       "open_date": "2026-06-06 19:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.08,
-      "volume": 222,
+      "volume": 134,
       "best_volume": 14425,
       "whale_max": 0,
       "entered": true
@@ -2950,9 +2950,9 @@
       "match": "IF Vestri v Volsungur",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-06 17:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 293,
+      "volume": 1881,
       "best_volume": 3010,
       "whale_max": 0,
       "entered": false
