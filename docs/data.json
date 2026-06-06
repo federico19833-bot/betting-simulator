@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 20:26:20",
+  "last_update": "06/06/2026 20:26:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 12292,
+      "volume": 17099,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -66,7 +66,7 @@
     {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 600,
+      "volume": 594,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -94,24 +94,9 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Nublense v Univ de Concepcion",
-      "campionato": "Chilean Cup",
-      "volume": 286,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675871",
-      "market_id": "1.258828862",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
-    },
-    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 272,
+      "volume": 388,
       "quota": 1.26,
       "in_range": false,
       "monitored": false,
@@ -122,6 +107,21 @@
       "market_id": "1.258930246",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "volume": 239,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675871",
+      "market_id": "1.258828862",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
     },
     {
       "match": "Deportivo Armenio v Defensores Unidos",
@@ -2574,8 +2574,8 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 12292,
-      "best_volume": 17095,
+      "volume": 17099,
+      "best_volume": 17099,
       "whale_max": 0,
       "entered": false
     },
@@ -2610,7 +2610,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 600,
+      "volume": 594,
       "best_volume": 600,
       "whale_max": 0,
       "entered": false
