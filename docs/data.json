@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 15:57:35",
+  "last_update": "06/06/2026 15:58:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "Criciuma v Londrina",
+      "campionato": "Brazilian Serie B",
+      "volume": 603,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670989",
+      "market_id": "1.258895258",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "Falu FK v Korsnas FF",
       "campionato": "Swedish Division 2",
       "volume": 481,
@@ -184,17 +199,17 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "Jonkopings Sodra v FC Trollhattan",
+      "match": "Gefle v Hammarby TFF",
       "campionato": "Swedish Division 1",
-      "volume": 272,
+      "volume": 320,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35677024",
-      "market_id": "1.258869940",
+      "event_id": "35677933",
+      "market_id": "1.258869876",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
     },
@@ -212,6 +227,21 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "Jonkopings Sodra v FC Trollhattan",
+      "campionato": "Swedish Division 1",
+      "volume": 260,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677024",
+      "market_id": "1.258869940",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "CD Castellon v Almeria",
@@ -287,21 +317,6 @@
       "market_id": "1.258930309",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:30"
-    },
-    {
-      "match": "Criciuma v Londrina",
-      "campionato": "Brazilian Serie B",
-      "volume": 121,
-      "quota": 1.37,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670989",
-      "market_id": "1.258895258",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -467,21 +482,6 @@
       "market_id": "1.258875256",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "Gefle v Hammarby TFF",
-      "campionato": "Swedish Division 1",
-      "volume": 9,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677933",
-      "market_id": "1.258869876",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     }
   ],
   "tracked_matches": [
@@ -3060,7 +3060,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 9,
+      "volume": 320,
       "best_volume": 320,
       "whale_max": 0,
       "entered": false
@@ -3070,9 +3070,9 @@
       "match": "Jonkopings Sodra v FC Trollhattan",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 272,
+      "volume": 260,
       "best_volume": 301,
       "whale_max": 0,
       "entered": false
