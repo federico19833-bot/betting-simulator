@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:43:41",
+  "last_update": "06/06/2026 11:44:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1021.84
   },
   "live_events": [
-    {
-      "match": "Nykopings BIS v Fittja IF",
-      "campionato": "Swedish Division 2",
-      "volume": 2694,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681078",
-      "market_id": "1.258864671",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
     {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
@@ -60,21 +45,6 @@
       "source": "Betfair",
       "event_id": "35675687",
       "market_id": "1.258820045",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 1792,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
     },
@@ -152,6 +122,21 @@
       "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Nykopings BIS v Fittja IF",
+      "campionato": "Swedish Division 2",
+      "volume": 1204,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681078",
+      "market_id": "1.258864671",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -319,6 +304,21 @@
       "open_date": "2026-06-06 12:30"
     },
     {
+      "match": "Torslanda v Hestrafors",
+      "campionato": "Swedish Division 2",
+      "volume": 528,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684862",
+      "market_id": "1.258894846",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
       "match": "Nublense v Univ de Concepcion",
       "campionato": "Chilean Cup",
       "volume": 522,
@@ -364,6 +364,21 @@
       "open_date": "2026-06-06 14:00"
     },
     {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 462,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Angby IF v Taby FK",
       "campionato": "Swedish Division 2",
       "volume": 448,
@@ -375,21 +390,6 @@
       "source": "Betfair",
       "event_id": "35681018",
       "market_id": "1.258864649",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Torslanda v Hestrafors",
-      "campionato": "Swedish Division 2",
-      "volume": 400,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684862",
-      "market_id": "1.258894846",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
     },
@@ -3336,7 +3336,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.01,
-      "volume": 2694,
+      "volume": 1204,
       "best_volume": 2694,
       "whale_max": 0,
       "entered": false
@@ -3396,7 +3396,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 400,
+      "volume": 528,
       "best_volume": 1063,
       "whale_max": 0,
       "entered": false
@@ -3478,9 +3478,9 @@
       "match": "Ragsveds IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 1792,
+      "volume": 462,
       "best_volume": 3053,
       "whale_max": 0,
       "entered": false
