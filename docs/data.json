@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 06:01:02",
+  "last_update": "06/06/2026 06:01:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 2470,
+      "volume": 2703,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -274,21 +274,6 @@
       "open_date": "2026-06-07 00:00"
     },
     {
-      "match": "Skive v Ishoj IF",
-      "campionato": "Danish 2nd Division",
-      "volume": 456,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675684",
-      "market_id": "1.258819961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Fylkir v Throttur",
       "campionato": "Icelandic 1 Deild",
       "volume": 432,
@@ -407,6 +392,21 @@
       "market_id": "1.258869919",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Skive v Ishoj IF",
+      "campionato": "Danish 2nd Division",
+      "volume": 193,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675684",
+      "market_id": "1.258819961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Excursionistas v San Martin de Burzaco",
@@ -572,6 +572,21 @@
       "market_id": "1.258820045",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683112",
+      "market_id": "1.258930330",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:00"
     }
   ],
   "tracked_matches": [
@@ -2874,8 +2889,8 @@
       "open_date": "2026-06-06 21:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 2470,
-      "best_volume": 2470,
+      "volume": 2703,
+      "best_volume": 2703,
       "whale_max": 0,
       "entered": false
     },
@@ -2992,9 +3007,9 @@
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 456,
+      "volume": 193,
       "best_volume": 1639,
       "whale_max": 0,
       "entered": false
@@ -3272,6 +3287,18 @@
       "quota_iniziale": 1.04,
       "volume": 122,
       "best_volume": 122,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258930330",
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-06-06 20:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
