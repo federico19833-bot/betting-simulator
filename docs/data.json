@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 18:39:55",
+  "last_update": "06/06/2026 18:40:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Portugal U19 v Greece U19",
       "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 4249,
+      "volume": 4398,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -32,6 +32,21 @@
       "market_id": "1.258915184",
       "_is_inplay": true,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 1462,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683112",
+      "market_id": "1.258930330",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Olympique Akbou v ES Ben Aknoun",
@@ -64,24 +79,9 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Brown de Adrogue v Comunicaciones B Aires",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1341,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683112",
-      "market_id": "1.258930330",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:00"
-    },
-    {
       "match": "Orkla v Tronder Lyn",
       "campionato": "Norwegian Cup",
-      "volume": 1215,
+      "volume": 1301,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -109,17 +109,17 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "Puerto Montt v Cobreloa Calama",
+      "match": "Deportes Copiapo v Santiago Wanderers",
       "campionato": "Chilean Primera B",
-      "volume": 877,
-      "quota": 1.06,
+      "volume": 933,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35683599",
-      "market_id": "1.258884306",
+      "event_id": "35683588",
+      "market_id": "1.258883379",
       "_is_inplay": true,
       "open_date": "2026-06-06 18:30"
     },
@@ -139,17 +139,17 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "Deportes Copiapo v Santiago Wanderers",
+      "match": "Puerto Montt v Cobreloa Calama",
       "campionato": "Chilean Primera B",
-      "volume": 657,
-      "quota": 1.09,
+      "volume": 655,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35683588",
-      "market_id": "1.258883379",
+      "event_id": "35683599",
+      "market_id": "1.258884306",
       "_is_inplay": true,
       "open_date": "2026-06-06 18:30"
     },
@@ -171,7 +171,7 @@
     {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 441,
+      "volume": 454,
       "quota": 1.31,
       "in_range": false,
       "monitored": false,
@@ -186,8 +186,8 @@
     {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 317,
-      "quota": 2.04,
+      "volume": 435,
+      "quota": 2.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -195,21 +195,6 @@
       "source": "Betfair",
       "event_id": "35683893",
       "market_id": "1.258930288",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Villa Dalmine v Villa San Carlos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 237,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683160",
-      "market_id": "1.258930481",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
     },
@@ -229,9 +214,39 @@
       "open_date": "2026-06-07 00:00"
     },
     {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 213,
+      "quota": 2.44,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
+    },
+    {
+      "match": "Villa Dalmine v Villa San Carlos",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 177,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683160",
+      "market_id": "1.258930481",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 201,
+      "volume": 81,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -244,25 +259,10 @@
       "open_date": "2026-06-06 19:30"
     },
     {
-      "match": "CD Castellon v Almeria",
-      "campionato": "Spanish Segunda Division",
-      "volume": 124,
-      "quota": 2.34,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673406",
-      "market_id": "1.258799798",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
-    },
-    {
       "match": "MC Oran v USM Alger",
       "campionato": "Algerian Ligue 1",
-      "volume": 10,
-      "quota": 1.13,
+      "volume": 62,
+      "quota": 1.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2673,7 +2673,7 @@
       "open_date": "2026-06-06 17:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 4249,
+      "volume": 4398,
       "best_volume": 12267,
       "whale_max": 0,
       "entered": false
@@ -2697,7 +2697,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1341,
+      "volume": 1462,
       "best_volume": 3184,
       "whale_max": 0,
       "entered": false
@@ -2733,7 +2733,7 @@
       "open_date": "2026-06-06 18:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 657,
+      "volume": 933,
       "best_volume": 3010,
       "whale_max": 0,
       "entered": false
@@ -2745,7 +2745,7 @@
       "open_date": "2026-06-06 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 877,
+      "volume": 655,
       "best_volume": 877,
       "whale_max": 0,
       "entered": false
@@ -2757,8 +2757,8 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 1215,
-      "best_volume": 1215,
+      "volume": 1301,
+      "best_volume": 1301,
       "whale_max": 0,
       "entered": false
     },
