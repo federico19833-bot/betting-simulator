@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:52:24",
+  "last_update": "06/06/2026 12:53:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "FC Jazz v VJS",
-      "campionato": "Finnish Ykkonen",
-      "volume": 2503,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686922",
-      "market_id": "1.258907202",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 2375,
@@ -47,6 +32,21 @@
       "market_id": "1.258869961",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "FC Jazz v VJS",
+      "campionato": "Finnish Ykkonen",
+      "volume": 1846,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686922",
+      "market_id": "1.258907202",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "IF Vestri v Volsungur",
@@ -156,8 +156,8 @@
     {
       "match": "Angby IF v Taby FK",
       "campionato": "Swedish Division 2",
-      "volume": 872,
-      "quota": 1.04,
+      "volume": 526,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3199,9 +3199,9 @@
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 2503,
+      "volume": 1846,
       "best_volume": 4919,
       "whale_max": 0,
       "entered": false
@@ -3355,9 +3355,9 @@
       "match": "Angby IF v Taby FK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 872,
+      "volume": 526,
       "best_volume": 872,
       "whale_max": 0,
       "entered": false
