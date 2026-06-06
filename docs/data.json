@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 20:15:39",
+  "last_update": "06/06/2026 20:16:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 12301,
+      "volume": 12239,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -64,9 +64,24 @@
       "open_date": "2026-06-06 21:00"
     },
     {
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "volume": 815,
+      "quota": 1.21,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675871",
+      "market_id": "1.258828862",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
+    },
+    {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 594,
+      "volume": 600,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -77,21 +92,6 @@
       "market_id": "1.258869961",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "Nublense v Univ de Concepcion",
-      "campionato": "Chilean Cup",
-      "volume": 587,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675871",
-      "market_id": "1.258828862",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
     },
     {
       "match": "Flandria v Argentino de Quilmes",
@@ -111,8 +111,8 @@
     {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 316,
-      "quota": 1.22,
+      "volume": 257,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -184,25 +184,10 @@
       "open_date": "2026-06-06 21:00"
     },
     {
-      "match": "Univ Catolica (Chile) v Cobresal",
-      "campionato": "Chilean Cup",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678158",
-      "market_id": "1.258878253",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
-    },
-    {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 7,
-      "quota": 1.03,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2536,7 +2521,7 @@
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
       "volume": 7,
       "best_volume": 17073,
@@ -2574,7 +2559,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 12301,
+      "volume": 12239,
       "best_volume": 12301,
       "whale_max": 0,
       "entered": false
@@ -2610,20 +2595,8 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 594,
-      "best_volume": 594,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258878253",
-      "match": "Univ Catolica (Chile) v Cobresal",
-      "campionato": "Chilean Cup",
-      "open_date": "2026-06-07 00:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
+      "volume": 600,
+      "best_volume": 600,
       "whale_max": 0,
       "entered": false
     },
