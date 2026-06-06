@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 08:19:24",
+  "last_update": "06/06/2026 08:19:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -469,6 +469,21 @@
       "open_date": "2026-06-06 12:00"
     },
     {
+      "match": "Portugal U19 v Greece U19",
+      "campionato": "UEFA U19 Euro Qualifiers",
+      "volume": 136,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687749",
+      "market_id": "1.258915184",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:00"
+    },
+    {
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 122,
@@ -497,21 +512,6 @@
       "market_id": "1.258909476",
       "_is_inplay": false,
       "open_date": "2026-06-06 12:00"
-    },
-    {
-      "match": "Portugal U19 v Greece U19",
-      "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 111,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687749",
-      "market_id": "1.258915184",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:00"
     },
     {
       "match": "FC Nacka Iliria v IFK Haninge",
@@ -647,6 +647,21 @@
       "market_id": "1.258929384",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "FOC Farsta v BK Forward",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688163",
+      "market_id": "1.258918524",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Sunnersta AIF v FC Gute",
@@ -3343,9 +3358,9 @@
       "match": "Portugal U19 v Greece U19",
       "campionato": "UEFA U19 Euro Qualifiers",
       "open_date": "2026-06-06 17:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1552,
+      "volume": 136,
       "best_volume": 1552,
       "whale_max": 0,
       "entered": false
@@ -3491,6 +3506,18 @@
       "quota_iniziale": 1.04,
       "volume": 122,
       "best_volume": 122,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258918524",
+      "match": "FOC Farsta v BK Forward",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-06 14:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
