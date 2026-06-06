@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:07:05",
+  "last_update": "06/06/2026 11:07:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,21 +109,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "Gyeongnam v Yongin FC",
-      "campionato": "South Korean K2 League",
-      "volume": 1521,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669907",
-      "market_id": "1.258835065",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:30"
-    },
-    {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "volume": 1405,
@@ -135,21 +120,6 @@
       "source": "Betfair",
       "event_id": "35681298",
       "market_id": "1.258867361",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "FOC Farsta v BK Forward",
-      "campionato": "Swedish Division 2",
-      "volume": 1334,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688163",
-      "market_id": "1.258918524",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
     },
@@ -167,6 +137,36 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "FOC Farsta v BK Forward",
+      "campionato": "Swedish Division 2",
+      "volume": 1064,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688163",
+      "market_id": "1.258918524",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Gyeongnam v Yongin FC",
+      "campionato": "South Korean K2 League",
+      "volume": 1063,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669907",
+      "market_id": "1.258835065",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:30"
     },
     {
       "match": "IF Vestri v Volsungur",
@@ -3231,7 +3231,7 @@
       "open_date": "2026-06-06 12:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 1521,
+      "volume": 1063,
       "best_volume": 2692,
       "whale_max": 0,
       "entered": false
