@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 03:06:27",
+  "last_update": "06/06/2026 03:07:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -229,6 +229,21 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "Linero IF v IFK Berga",
+      "campionato": "Swedish Division 2",
+      "volume": 522,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688164",
+      "market_id": "1.258918503",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:00"
+    },
+    {
       "match": "Sunnersta AIF v FC Gute",
       "campionato": "Swedish Division 2",
       "volume": 463,
@@ -242,6 +257,21 @@
       "market_id": "1.258918546",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:30"
+    },
+    {
+      "match": "Olympique Akbou v ES Ben Aknoun",
+      "campionato": "Algerian Ligue 1",
+      "volume": 447,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687208",
+      "market_id": "1.258910669",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:00"
     },
     {
       "match": "Pocheon FC v Busan Transportation Corp",
@@ -274,21 +304,6 @@
       "open_date": "2026-06-06 15:00"
     },
     {
-      "match": "Olympique Akbou v ES Ben Aknoun",
-      "campionato": "Algerian Ligue 1",
-      "volume": 320,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687208",
-      "market_id": "1.258910669",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:00"
-    },
-    {
       "match": "Criciuma v Londrina",
       "campionato": "Brazilian Serie B",
       "volume": 300,
@@ -302,21 +317,6 @@
       "market_id": "1.258895258",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "Linero IF v IFK Berga",
-      "campionato": "Swedish Division 2",
-      "volume": 290,
-      "quota": 1.29,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688164",
-      "market_id": "1.258918503",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:00"
     },
     {
       "match": "MC Oran v USM Alger",
@@ -407,6 +407,21 @@
       "market_id": "1.258905709",
       "_is_inplay": false,
       "open_date": "2026-06-06 15:00"
+    },
+    {
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 212,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683112",
+      "market_id": "1.258930330",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Argentino de Merlo v Camioneros",
@@ -510,6 +525,21 @@
       "source": "Betfair",
       "event_id": "35683599",
       "market_id": "1.258884306",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:30"
+    },
+    {
+      "match": "Deportes Copiapo v Santiago Wanderers",
+      "campionato": "Chilean Primera B",
+      "volume": 64,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683588",
+      "market_id": "1.258883379",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:30"
     },
@@ -3102,7 +3132,7 @@
       "open_date": "2026-06-06 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 320,
+      "volume": 447,
       "best_volume": 447,
       "whale_max": 0,
       "entered": false
@@ -3260,6 +3290,18 @@
       "quota_iniziale": 1.05,
       "volume": 463,
       "best_volume": 463,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258930330",
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "open_date": "2026-06-06 20:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 212,
+      "best_volume": 212,
       "whale_max": 0,
       "entered": false
     }
