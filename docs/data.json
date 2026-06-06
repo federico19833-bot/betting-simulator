@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 13:11:03",
+  "last_update": "06/06/2026 13:11:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,6 +32,36 @@
       "market_id": "1.258915184",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "IFK Ostersund v Friska Viljor",
+      "campionato": "Swedish Division 2",
+      "volume": 3676,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688711",
+      "market_id": "1.258922543",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "Angby IF v Taby FK",
+      "campionato": "Swedish Division 2",
+      "volume": 1920,
+      "quota": 1.32,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681018",
+      "market_id": "1.258864649",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Puerto Montt v Cobreloa Calama",
@@ -169,21 +199,6 @@
       "open_date": "2026-06-06 15:00"
     },
     {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 518,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "volume": 447,
@@ -304,21 +319,6 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Olympique Akbou v ES Ben Aknoun",
-      "campionato": "Algerian Ligue 1",
-      "volume": 339,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687208",
-      "market_id": "1.258910669",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:00"
-    },
-    {
       "match": "TPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "volume": 336,
@@ -332,6 +332,21 @@
       "market_id": "1.258907223",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Olympique Akbou v ES Ben Aknoun",
+      "campionato": "Algerian Ligue 1",
+      "volume": 326,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687208",
+      "market_id": "1.258910669",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:00"
     },
     {
       "match": "IF Vestri v Volsungur",
@@ -527,21 +542,6 @@
       "market_id": "1.258875256",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "Angby IF v Taby FK",
-      "campionato": "Swedish Division 2",
-      "volume": 59,
-      "quota": 1.32,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681018",
-      "market_id": "1.258864649",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Hwaseong FC v Suwon Bluewings",
@@ -3298,10 +3298,10 @@
       "match": "IFK Ostersund v Friska Viljor",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.02,
-      "volume": 518,
-      "best_volume": 1236,
+      "volume": 3676,
+      "best_volume": 3676,
       "whale_max": 0,
       "entered": false
     },
