@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:09:33",
+  "last_update": "06/06/2026 11:10:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "Rappe Goif v IFK Trelleborg",
+      "campionato": "Swedish Division 2",
+      "volume": 1405,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681298",
+      "market_id": "1.258867361",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "volume": 1190,
@@ -122,6 +137,21 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "FOC Farsta v BK Forward",
+      "campionato": "Swedish Division 2",
+      "volume": 1113,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688163",
+      "market_id": "1.258918524",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Gyeongnam v Yongin FC",
@@ -197,36 +227,6 @@
       "market_id": "1.258884306",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:30"
-    },
-    {
-      "match": "Rappe Goif v IFK Trelleborg",
-      "campionato": "Swedish Division 2",
-      "volume": 632,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681298",
-      "market_id": "1.258867361",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "FOC Farsta v BK Forward",
-      "campionato": "Swedish Division 2",
-      "volume": 623,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688163",
-      "market_id": "1.258918524",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Excursionistas v San Martin de Burzaco",
@@ -3375,7 +3375,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.01,
-      "volume": 632,
+      "volume": 1405,
       "best_volume": 1405,
       "whale_max": 0,
       "entered": false
