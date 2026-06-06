@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 18:54:48",
+  "last_update": "06/06/2026 18:55:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1030.39
   },
   "live_events": [
-    {
-      "match": "Olympique Akbou v ES Ben Aknoun",
-      "campionato": "Algerian Ligue 1",
-      "volume": 7109,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687208",
-      "market_id": "1.258910669",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 18:00"
-    },
     {
       "match": "Portugal U19 v Greece U19",
       "campionato": "UEFA U19 Euro Qualifiers",
@@ -94,10 +79,40 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "Olympique Akbou v ES Ben Aknoun",
+      "campionato": "Algerian Ligue 1",
+      "volume": 1440,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687208",
+      "market_id": "1.258910669",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 18:00"
+    },
+    {
+      "match": "Deportes Copiapo v Santiago Wanderers",
+      "campionato": "Chilean Primera B",
+      "volume": 1100,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683588",
+      "market_id": "1.258883379",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 18:30"
+    },
+    {
       "match": "Torque v Deportivo Maldonado",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1389,
-      "quota": 1.12,
+      "volume": 884,
+      "quota": 1.13,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -111,7 +126,7 @@
     {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 655,
+      "volume": 606,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -122,21 +137,6 @@
       "market_id": "1.258930330",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
-    },
-    {
-      "match": "Deportes Copiapo v Santiago Wanderers",
-      "campionato": "Chilean Primera B",
-      "volume": 570,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683588",
-      "market_id": "1.258883379",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 18:30"
     },
     {
       "match": "Nublense v Univ de Concepcion",
@@ -186,7 +186,7 @@
     {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 296,
+      "volume": 270,
       "quota": 1.33,
       "in_range": false,
       "monitored": false,
@@ -261,8 +261,8 @@
     {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 20,
-      "quota": 9.6,
+      "volume": 17,
+      "quota": 10.0,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -276,8 +276,8 @@
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 12,
-      "quota": 4.7,
+      "volume": 13,
+      "quota": 7.2,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2724,7 +2724,7 @@
       "open_date": "2026-06-06 18:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 7109,
+      "volume": 1440,
       "best_volume": 12267,
       "whale_max": 0,
       "entered": false
@@ -2746,9 +2746,9 @@
       "match": "Deportes Copiapo v Santiago Wanderers",
       "campionato": "Chilean Primera B",
       "open_date": "2026-06-06 18:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 570,
+      "volume": 1100,
       "best_volume": 3010,
       "whale_max": 0,
       "entered": false
