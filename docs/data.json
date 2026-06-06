@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 22:15:48",
+  "last_update": "06/06/2026 22:16:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,6 +49,21 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "Univ Catolica (Chile) v Cobresal",
+      "campionato": "Chilean Cup",
+      "volume": 164,
+      "quota": 2.8,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678158",
+      "market_id": "1.258878253",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
+    },
+    {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 56,
@@ -64,21 +79,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Univ Catolica (Chile) v Cobresal",
-      "campionato": "Chilean Cup",
-      "volume": 23,
-      "quota": 2.78,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678158",
-      "market_id": "1.258878253",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
-    },
-    {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "volume": 10,
@@ -92,21 +92,6 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
-    },
-    {
-      "match": "Nublense v Univ de Concepcion",
-      "campionato": "Chilean Cup",
-      "volume": 2,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675871",
-      "market_id": "1.258828862",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
     }
   ],
   "tracked_matches": [
@@ -2471,18 +2456,6 @@
       "quota_iniziale": 1.06,
       "volume": 759,
       "best_volume": 759,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258828862",
-      "match": "Nublense v Univ de Concepcion",
-      "campionato": "Chilean Cup",
-      "open_date": "2026-06-07 00:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.01,
-      "volume": 2,
-      "best_volume": 2,
       "whale_max": 0,
       "entered": false
     }
