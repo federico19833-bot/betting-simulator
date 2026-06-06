@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:42:04",
+  "last_update": "06/06/2026 12:42:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
-      "volume": 4647,
-      "quota": 1.1,
+      "volume": 4525,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-06 19:00"
     },
     {
+      "match": "Qviding FIF v Astorps FF",
+      "campionato": "Swedish Division 2",
+      "volume": 777,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681280",
+      "market_id": "1.258869919",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "Angby IF v Taby FK",
       "campionato": "Swedish Division 2",
       "volume": 585,
@@ -216,7 +231,7 @@
     {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 342,
+      "volume": 385,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -3078,7 +3093,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 342,
+      "volume": 385,
       "best_volume": 8374,
       "whale_max": 0,
       "entered": false
@@ -3186,8 +3201,8 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.02,
-      "volume": 4149,
-      "best_volume": 4149,
+      "volume": 4525,
+      "best_volume": 4525,
       "whale_max": 0,
       "entered": false
     },
@@ -3476,6 +3491,18 @@
       "quota_iniziale": 1.05,
       "volume": 237,
       "best_volume": 237,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258869919",
+      "match": "Qviding FIF v Astorps FF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-06 16:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 777,
+      "best_volume": 777,
       "whale_max": 0,
       "entered": false
     }
