@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 21:14:45",
+  "last_update": "06/06/2026 21:15:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,25 +19,10 @@
   },
   "live_events": [
     {
-      "match": "Deportivo Armenio v Defensores Unidos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 2653,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683111",
-      "market_id": "1.258930225",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1802,
-      "quota": 1.05,
+      "volume": 7697,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -79,9 +64,24 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "Deportivo Armenio v Defensores Unidos",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 893,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683111",
+      "market_id": "1.258930225",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Flandria v Argentino de Quilmes",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 627,
+      "volume": 646,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -109,25 +109,10 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Univ Catolica (Chile) v Cobresal",
-      "campionato": "Chilean Cup",
-      "volume": 427,
-      "quota": 1.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678158",
-      "market_id": "1.258878253",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
-    },
-    {
       "match": "EC Vitoria Salvador v Fortaleza EC",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 246,
-      "quota": 1.56,
+      "volume": 428,
+      "quota": 1.59,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -141,8 +126,8 @@
     {
       "match": "Nublense v Univ de Concepcion",
       "campionato": "Chilean Cup",
-      "volume": 224,
-      "quota": 1.46,
+      "volume": 269,
+      "quota": 1.44,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -167,6 +152,21 @@
       "market_id": "1.258799798",
       "_is_inplay": true,
       "open_date": "2026-06-06 21:00"
+    },
+    {
+      "match": "Univ Catolica (Chile) v Cobresal",
+      "campionato": "Chilean Cup",
+      "volume": 103,
+      "quota": 1.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678158",
+      "market_id": "1.258878253",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
     }
   ],
   "tracked_matches": [
@@ -2457,7 +2457,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 627,
+      "volume": 646,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2491,9 +2491,9 @@
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 1802,
+      "volume": 7697,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2517,7 +2517,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 2653,
+      "volume": 893,
       "best_volume": 2855,
       "whale_max": 0,
       "entered": false
