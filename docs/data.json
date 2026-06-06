@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 17:38:49",
+  "last_update": "06/06/2026 17:39:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "Torque v Deportivo Maldonado",
       "campionato": "Uruguayan Primera Division",
-      "volume": 946,
+      "volume": 931,
       "quota": 1.15,
       "in_range": false,
       "monitored": false,
@@ -167,6 +167,21 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
+    },
+    {
+      "match": "Flandria v Argentino de Quilmes",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 586,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683123",
+      "market_id": "1.258930267",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Grotta v Grindavik",
@@ -244,25 +259,10 @@
       "open_date": "2026-06-06 23:30"
     },
     {
-      "match": "Deportivo Armenio v Defensores Unidos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 211,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683111",
-      "market_id": "1.258930225",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 92,
-      "quota": 1.09,
+      "volume": 150,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -274,17 +274,17 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Flandria v Argentino de Quilmes",
+      "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 79,
-      "quota": 1.09,
+      "volume": 106,
+      "quota": 1.4,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35683123",
-      "market_id": "1.258930267",
+      "event_id": "35683111",
+      "market_id": "1.258930225",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
     },
@@ -2607,7 +2607,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 79,
+      "volume": 586,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2629,9 +2629,9 @@
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 92,
+      "volume": 150,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
