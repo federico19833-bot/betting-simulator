@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 15:12:23",
+  "last_update": "06/06/2026 15:12:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "OLS v Salpa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 13540,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686874",
+      "market_id": "1.258905709",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 15:00"
+    },
+    {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3753,
+      "volume": 3761,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -64,21 +79,6 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 2151,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
       "volume": 1664,
@@ -92,6 +92,21 @@
       "market_id": "1.258917505",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "IFK Ostersund v Friska Viljor",
+      "campionato": "Swedish Division 2",
+      "volume": 1515,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688711",
+      "market_id": "1.258922543",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Argentino de Merlo v Camioneros",
@@ -122,21 +137,6 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "Deportes Copiapo v Santiago Wanderers",
-      "campionato": "Chilean Primera B",
-      "volume": 1194,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683588",
-      "market_id": "1.258883379",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:30"
     },
     {
       "match": "JJK v PKK-U",
@@ -274,21 +274,6 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "OLS v Salpa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 436,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686874",
-      "market_id": "1.258905709",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 15:00"
-    },
-    {
       "match": "Qviding FIF v Astorps FF",
       "campionato": "Swedish Division 2",
       "volume": 402,
@@ -302,6 +287,21 @@
       "market_id": "1.258869919",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Arsenal de Sarandi v Sportivo Italiano",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 399,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683158",
+      "market_id": "1.258930309",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 19:30"
     },
     {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
@@ -319,6 +319,21 @@
       "open_date": "2026-06-06 23:30"
     },
     {
+      "match": "Deportes Copiapo v Santiago Wanderers",
+      "campionato": "Chilean Primera B",
+      "volume": 291,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683588",
+      "market_id": "1.258883379",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:30"
+    },
+    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 250,
@@ -332,21 +347,6 @@
       "market_id": "1.258930246",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Arsenal de Sarandi v Sportivo Italiano",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 217,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683158",
-      "market_id": "1.258930309",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 19:30"
     },
     {
       "match": "Skiljebo v Enskede",
@@ -2913,7 +2913,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 3753,
+      "volume": 3761,
       "best_volume": 18489,
       "whale_max": 0,
       "entered": false
@@ -3021,7 +3021,7 @@
       "open_date": "2026-06-06 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 436,
+      "volume": 13540,
       "best_volume": 14064,
       "whale_max": 0,
       "entered": false
@@ -3211,9 +3211,9 @@
       "match": "Deportes Copiapo v Santiago Wanderers",
       "campionato": "Chilean Primera B",
       "open_date": "2026-06-06 18:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1194,
+      "volume": 291,
       "best_volume": 1194,
       "whale_max": 0,
       "entered": false
