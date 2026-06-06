@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 15:58:51",
+  "last_update": "06/06/2026 15:59:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-06 15:00"
     },
     {
-      "match": "Criciuma v Londrina",
-      "campionato": "Brazilian Serie B",
-      "volume": 1857,
-      "quota": 1.36,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670989",
-      "market_id": "1.258895258",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 1500,
@@ -75,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35678196",
       "market_id": "1.258869961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Criciuma v Londrina",
+      "campionato": "Brazilian Serie B",
+      "volume": 1370,
+      "quota": 1.36,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670989",
+      "market_id": "1.258895258",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
     },
@@ -156,7 +156,7 @@
     {
       "match": "Falu FK v Korsnas FF",
       "campionato": "Swedish Division 2",
-      "volume": 481,
+      "volume": 451,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -184,6 +184,21 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 396,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
+    },
+    {
       "match": "Torque v Deportivo Maldonado",
       "campionato": "Uruguayan Primera Division",
       "volume": 386,
@@ -201,7 +216,7 @@
     {
       "match": "Gefle v Hammarby TFF",
       "campionato": "Swedish Division 1",
-      "volume": 320,
+      "volume": 339,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -210,21 +225,6 @@
       "source": "Betfair",
       "event_id": "35677933",
       "market_id": "1.258869876",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "Jonkopings Sodra v FC Trollhattan",
-      "campionato": "Swedish Division 1",
-      "volume": 272,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677024",
-      "market_id": "1.258869940",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
     },
@@ -244,19 +244,19 @@
       "open_date": "2026-06-06 23:30"
     },
     {
-      "match": "CD Castellon v Almeria",
-      "campionato": "Spanish Segunda Division",
-      "volume": 250,
-      "quota": 1.13,
+      "match": "Jonkopings Sodra v FC Trollhattan",
+      "campionato": "Swedish Division 1",
+      "volume": 260,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35673406",
-      "market_id": "1.258799798",
+      "event_id": "35677024",
+      "market_id": "1.258869940",
       "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -3012,7 +3012,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 481,
+      "volume": 451,
       "best_volume": 481,
       "whale_max": 0,
       "entered": false
@@ -3060,8 +3060,8 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 320,
-      "best_volume": 320,
+      "volume": 339,
+      "best_volume": 339,
       "whale_max": 0,
       "entered": false
     },
@@ -3070,9 +3070,9 @@
       "match": "Jonkopings Sodra v FC Trollhattan",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 272,
+      "volume": 260,
       "best_volume": 301,
       "whale_max": 0,
       "entered": false
