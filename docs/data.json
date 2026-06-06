@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 22:32:54",
+  "last_update": "06/06/2026 22:33:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -10,19 +10,19 @@
   "stats": {
     "total": 228,
     "wins": 211,
-    "losses": 15,
-    "in_corso": 2,
-    "winrate": 93.4,
-    "profit": 61.74,
-    "roi": 0.27,
-    "balance": 1061.74
+    "losses": 16,
+    "in_corso": 1,
+    "winrate": 93.0,
+    "profit": -38.26,
+    "roi": -0.17,
+    "balance": 961.74
   },
   "live_events": [
     {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 182,
-      "quota": 1.04,
+      "volume": 2835,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,40 +34,25 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Villa Dalmine v Villa San Carlos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 140,
-      "quota": 1.04,
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "volume": 1042,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35683160",
-      "market_id": "1.258930481",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Grotta v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 112,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678196",
-      "market_id": "1.258869961",
+      "event_id": "35675871",
+      "market_id": "1.258828862",
       "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
+      "open_date": "2026-06-07 00:00"
     },
     {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
-      "volume": 10,
-      "quota": 1.03,
+      "volume": 905,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -77,6 +62,21 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "Univ Catolica (Chile) v Cobresal",
+      "campionato": "Chilean Cup",
+      "volume": 13,
+      "quota": 8.8,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678158",
+      "market_id": "1.258878253",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
     }
   ],
   "tracked_matches": [
@@ -2353,9 +2353,9 @@
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.04,
-      "volume": 182,
+      "volume": 2835,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2425,10 +2425,22 @@
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-06 23:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 10,
+      "volume": 905,
       "best_volume": 6514,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258828862",
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "open_date": "2026-06-07 00:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 1042,
+      "best_volume": 1042,
       "whale_max": 0,
       "entered": false
     }
@@ -2497,9 +2509,9 @@
       "campionato": "Argentinian Primera B Metropolitana",
       "quota": 1.08,
       "volume": 17073,
-      "esito": "IN_CORSO",
-      "profitto": 0.0,
-      "risultato": "",
+      "esito": "PERSA",
+      "profitto": -100.0,
+      "risultato": "0-0",
       "risultato_ht": "",
       "whale_max": 0.0,
       "whale_tot": 0.0
