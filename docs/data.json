@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 13:49:20",
+  "last_update": "06/06/2026 13:49:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-06-06 18:30"
     },
     {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 1342,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
+    },
+    {
       "match": "IK Tord v Lidkopings FK",
       "campionato": "Swedish Division 2",
       "volume": 1222,
@@ -169,25 +184,10 @@
       "open_date": "2026-06-07 00:00"
     },
     {
-      "match": "Vendsyssel FF v Naestved",
-      "campionato": "Danish 2nd Division",
-      "volume": 738,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675682",
-      "market_id": "1.258820066",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
-      "volume": 727,
-      "quota": 1.22,
+      "volume": 678,
+      "quota": 1.23,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -272,21 +272,6 @@
       "market_id": "1.258918524",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "CD Castellon v Almeria",
-      "campionato": "Spanish Segunda Division",
-      "volume": 418,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673406",
-      "market_id": "1.258799798",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
     },
     {
       "match": "Puerto Montt v Cobreloa Calama",
@@ -452,6 +437,21 @@
       "market_id": "1.258930481",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Vendsyssel FF v Naestved",
+      "campionato": "Danish 2nd Division",
+      "volume": 102,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675682",
+      "market_id": "1.258820066",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
@@ -3403,10 +3403,10 @@
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-06-06 21:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 418,
-      "best_volume": 418,
+      "volume": 1342,
+      "best_volume": 1342,
       "whale_max": 0,
       "entered": false
     },
