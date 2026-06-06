@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:02:15",
+  "last_update": "06/06/2026 11:02:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -137,6 +137,21 @@
       "market_id": "1.258835065",
       "_is_inplay": false,
       "open_date": "2026-06-06 12:30"
+    },
+    {
+      "match": "FOC Farsta v BK Forward",
+      "campionato": "Swedish Division 2",
+      "volume": 1249,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688163",
+      "market_id": "1.258918524",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
@@ -336,7 +351,7 @@
     {
       "match": "Roskilde v HIK Hellerup",
       "campionato": "Danish 2nd Division",
-      "volume": 250,
+      "volume": 286,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -424,21 +439,6 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "IK Tord v Lidkopings FK",
-      "campionato": "Swedish Division 2",
-      "volume": 146,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681217",
-      "market_id": "1.258864628",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Portugal U19 v Greece U19",
       "campionato": "UEFA U19 Euro Qualifiers",
       "volume": 146,
@@ -486,8 +486,8 @@
     {
       "match": "Ulsan Citizen FC v Gangneung City",
       "campionato": "South Korean K3 League",
-      "volume": 119,
-      "quota": 1.01,
+      "volume": 116,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -529,21 +529,6 @@
       "open_date": "2026-06-06 19:30"
     },
     {
-      "match": "FOC Farsta v BK Forward",
-      "campionato": "Swedish Division 2",
-      "volume": 104,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688163",
-      "market_id": "1.258918524",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Hwaseong FC v Suwon Bluewings",
       "campionato": "South Korean K2 League",
       "volume": 94,
@@ -574,6 +559,21 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "IK Tord v Lidkopings FK",
+      "campionato": "Swedish Division 2",
+      "volume": 88,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681217",
+      "market_id": "1.258864628",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 67,
@@ -587,21 +587,6 @@
       "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "CD Castellon v Almeria",
-      "campionato": "Spanish Segunda Division",
-      "volume": 58,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673406",
-      "market_id": "1.258799798",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
     },
     {
       "match": "MC Oran v USM Alger",
@@ -737,6 +722,21 @@
       "market_id": "1.258930330",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
+    },
+    {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 10,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
     }
   ],
   "tracked_matches": [
@@ -3063,7 +3063,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 250,
+      "volume": 286,
       "best_volume": 2217,
       "whale_max": 0,
       "entered": false
@@ -3219,7 +3219,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 104,
+      "volume": 1249,
       "best_volume": 2217,
       "whale_max": 0,
       "entered": false
@@ -3265,9 +3265,9 @@
       "match": "IK Tord v Lidkopings FK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 146,
+      "volume": 88,
       "best_volume": 146,
       "whale_max": 0,
       "entered": false
@@ -3409,9 +3409,9 @@
       "match": "Ulsan Citizen FC v Gangneung City",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-06 12:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.07,
-      "volume": 119,
+      "volume": 116,
       "best_volume": 119,
       "whale_max": 0,
       "entered": false
