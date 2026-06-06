@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 06:32:37",
+  "last_update": "06/06/2026 06:33:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,21 +154,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "CD Castellon v Almeria",
-      "campionato": "Spanish Segunda Division",
-      "volume": 896,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673406",
-      "market_id": "1.258799798",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
-    },
-    {
       "match": "AB v Thisted",
       "campionato": "Danish 2nd Division",
       "volume": 670,
@@ -227,6 +212,21 @@
       "market_id": "1.258905732",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:30"
+    },
+    {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 592,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
     },
     {
       "match": "Olympique Akbou v ES Ben Aknoun",
@@ -396,7 +396,7 @@
     {
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
-      "volume": 193,
+      "volume": 183,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -2875,9 +2875,9 @@
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-06-06 21:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 896,
+      "volume": 592,
       "best_volume": 2470,
       "whale_max": 0,
       "entered": false
@@ -2997,7 +2997,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 193,
+      "volume": 183,
       "best_volume": 1639,
       "whale_max": 0,
       "entered": false
