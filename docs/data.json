@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:14:25",
+  "last_update": "06/06/2026 11:15:02",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -291,7 +291,7 @@
     {
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
-      "volume": 629,
+      "volume": 631,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -375,6 +375,21 @@
       "source": "Betfair",
       "event_id": "35681018",
       "market_id": "1.258864649",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "Torslanda v Hestrafors",
+      "campionato": "Swedish Division 2",
+      "volume": 400,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35684862",
+      "market_id": "1.258894846",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
     },
@@ -497,21 +512,6 @@
       "market_id": "1.258915184",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
-    },
-    {
-      "match": "Torslanda v Hestrafors",
-      "campionato": "Swedish Division 2",
-      "volume": 143,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684862",
-      "market_id": "1.258894846",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Villa Dalmine v Villa San Carlos",
@@ -3300,7 +3300,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 629,
+      "volume": 631,
       "best_volume": 631,
       "whale_max": 0,
       "entered": false
@@ -3408,8 +3408,8 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 143,
-      "best_volume": 376,
+      "volume": 400,
+      "best_volume": 400,
       "whale_max": 0,
       "entered": false
     },
