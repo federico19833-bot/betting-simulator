@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:31:51",
+  "last_update": "06/06/2026 12:32:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -30,6 +30,21 @@
       "source": "Betfair",
       "event_id": "35681217",
       "market_id": "1.258864628",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "Skelleftea v IFK Umea",
+      "campionato": "Swedish Division 2",
+      "volume": 2083,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688962",
+      "market_id": "1.258929384",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
     },
@@ -92,51 +107,6 @@
       "market_id": "1.258867967",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
-    },
-    {
-      "match": "Skelleftea v IFK Umea",
-      "campionato": "Swedish Division 2",
-      "volume": 1397,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688962",
-      "market_id": "1.258929384",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Puerto Montt v Cobreloa Calama",
-      "campionato": "Chilean Primera B",
-      "volume": 1294,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683599",
-      "market_id": "1.258884306",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:30"
-    },
-    {
-      "match": "Gefle v Hammarby TFF",
-      "campionato": "Swedish Division 1",
-      "volume": 1091,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677933",
-      "market_id": "1.258869876",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "MC Oran v USM Alger",
@@ -229,6 +199,21 @@
       "open_date": "2026-06-06 21:00"
     },
     {
+      "match": "Nosaby IF v Karlskrona",
+      "campionato": "Swedish Division 2",
+      "volume": 563,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688096",
+      "market_id": "1.258917505",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
       "volume": 539,
@@ -242,6 +227,21 @@
       "market_id": "1.258907202",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "Puerto Montt v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "volume": 516,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683599",
+      "market_id": "1.258884306",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:30"
     },
     {
       "match": "Criciuma v Londrina",
@@ -332,21 +332,6 @@
       "market_id": "1.258878253",
       "_is_inplay": false,
       "open_date": "2026-06-07 00:00"
-    },
-    {
-      "match": "Nosaby IF v Karlskrona",
-      "campionato": "Swedish Division 2",
-      "volume": 250,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688096",
-      "market_id": "1.258917505",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
@@ -562,7 +547,7 @@
       "match": "Gyeongnam v Yongin FC",
       "campionato": "South Korean K2 League",
       "volume": 10,
-      "quota": 1.02,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3042,8 +3027,8 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1397,
-      "best_volume": 1963,
+      "volume": 2083,
+      "best_volume": 2083,
       "whale_max": 0,
       "entered": false
     },
@@ -3064,7 +3049,7 @@
       "match": "Gyeongnam v Yongin FC",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-06 12:30",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
       "volume": 10,
       "best_volume": 2692,
@@ -3384,18 +3369,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258869876",
-      "match": "Gefle v Hammarby TFF",
-      "campionato": "Swedish Division 1",
-      "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.06,
-      "quota_iniziale": 1.06,
-      "volume": 1091,
-      "best_volume": 2396,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258869940",
       "match": "Jonkopings Sodra v FC Trollhattan",
       "campionato": "Swedish Division 1",
@@ -3460,10 +3433,10 @@
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 250,
-      "best_volume": 292,
+      "volume": 563,
+      "best_volume": 563,
       "whale_max": 0,
       "entered": false
     },
