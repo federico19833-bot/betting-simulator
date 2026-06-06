@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:19:18",
+  "last_update": "06/06/2026 11:19:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -214,6 +214,21 @@
       "open_date": "2026-06-06 12:00"
     },
     {
+      "match": "Hwaseong FC v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "volume": 829,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669908",
+      "market_id": "1.258835088",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:30"
+    },
+    {
       "match": "Linero IF v IFK Berga",
       "campionato": "Swedish Division 2",
       "volume": 818,
@@ -242,21 +257,6 @@
       "market_id": "1.258930330",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
-    },
-    {
-      "match": "Hwaseong FC v Suwon Bluewings",
-      "campionato": "South Korean K2 League",
-      "volume": 809,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669908",
-      "market_id": "1.258835088",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:30"
     },
     {
       "match": "CD Castellon v Almeria",
@@ -375,21 +375,6 @@
       "source": "Betfair",
       "event_id": "35684862",
       "market_id": "1.258894846",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Skelleftea v IFK Umea",
-      "campionato": "Swedish Division 2",
-      "volume": 383,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688962",
-      "market_id": "1.258929384",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
     },
@@ -647,6 +632,21 @@
       "market_id": "1.258909455",
       "_is_inplay": false,
       "open_date": "2026-06-06 12:00"
+    },
+    {
+      "match": "Skelleftea v IFK Umea",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688962",
+      "market_id": "1.258929384",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Vendsyssel FF v Naestved",
@@ -3144,7 +3144,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 383,
+      "volume": 10,
       "best_volume": 464,
       "whale_max": 0,
       "entered": false
@@ -3312,8 +3312,8 @@
       "open_date": "2026-06-06 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.01,
-      "volume": 809,
-      "best_volume": 809,
+      "volume": 829,
+      "best_volume": 829,
       "whale_max": 0,
       "entered": false
     },
