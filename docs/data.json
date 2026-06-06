@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:56:04",
+  "last_update": "06/06/2026 11:56:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
-      "volume": 2333,
-      "quota": 1.05,
+      "volume": 8348,
+      "quota": 1.04,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -51,7 +51,7 @@
     {
       "match": "Nykopings BIS v Fittja IF",
       "campionato": "Swedish Division 2",
-      "volume": 2146,
+      "volume": 1765,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -229,21 +229,6 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 789,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "volume": 767,
@@ -304,6 +289,21 @@
       "open_date": "2026-06-06 14:00"
     },
     {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 586,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Nublense v Univ de Concepcion",
       "campionato": "Chilean Cup",
       "volume": 522,
@@ -334,6 +334,21 @@
       "open_date": "2026-06-06 18:00"
     },
     {
+      "match": "Central Espanol v Racing Club (Uru)",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 484,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672492",
+      "market_id": "1.258867988",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 15:00"
+    },
+    {
       "match": "Sunnersta AIF v FC Gute",
       "campionato": "Swedish Division 2",
       "volume": 481,
@@ -362,21 +377,6 @@
       "market_id": "1.258820024",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "Central Espanol v Racing Club (Uru)",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 464,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672492",
-      "market_id": "1.258867988",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 15:00"
     },
     {
       "match": "Angby IF v Taby FK",
@@ -3217,10 +3217,10 @@
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 2333,
-      "best_volume": 4193,
+      "volume": 8348,
+      "best_volume": 8348,
       "whale_max": 0,
       "entered": false
     },
@@ -3351,7 +3351,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.01,
-      "volume": 2146,
+      "volume": 1765,
       "best_volume": 2694,
       "whale_max": 0,
       "entered": false
@@ -3481,9 +3481,9 @@
       "match": "Ragsveds IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 789,
+      "volume": 586,
       "best_volume": 3053,
       "whale_max": 0,
       "entered": false
@@ -3507,8 +3507,8 @@
       "open_date": "2026-06-06 15:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 464,
-      "best_volume": 464,
+      "volume": 484,
+      "best_volume": 484,
       "whale_max": 0,
       "entered": false
     }
