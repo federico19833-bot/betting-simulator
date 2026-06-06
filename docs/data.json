@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 03:05:19",
+  "last_update": "06/06/2026 03:05:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,19 +34,19 @@
       "open_date": "2026-06-06 23:30"
     },
     {
-      "match": "Linero IF v IFK Berga",
-      "campionato": "Swedish Division 2",
-      "volume": 1234,
-      "quota": 1.27,
+      "match": "VSK Aarhus FC v FC Helsingor",
+      "campionato": "Danish 2nd Division",
+      "volume": 1488,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35688164",
-      "market_id": "1.258918503",
+      "event_id": "35675688",
+      "market_id": "1.258820003",
       "_is_inplay": false,
-      "open_date": "2026-06-06 12:00"
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
@@ -154,6 +154,21 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "Linero IF v IFK Berga",
+      "campionato": "Swedish Division 2",
+      "volume": 642,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688164",
+      "market_id": "1.258918503",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:00"
+    },
+    {
       "match": "Chuncheon v Daejeon Korail FC",
       "campionato": "South Korean K3 League",
       "volume": 636,
@@ -229,36 +244,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "Sunnersta AIF v FC Gute",
-      "campionato": "Swedish Division 2",
-      "volume": 463,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688162",
-      "market_id": "1.258918546",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:30"
-    },
-    {
-      "match": "Olympique Akbou v ES Ben Aknoun",
-      "campionato": "Algerian Ligue 1",
-      "volume": 447,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687208",
-      "market_id": "1.258910669",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:00"
-    },
-    {
       "match": "Pocheon FC v Busan Transportation Corp",
       "campionato": "South Korean K3 League",
       "volume": 431,
@@ -287,6 +272,21 @@
       "market_id": "1.258918607",
       "_is_inplay": false,
       "open_date": "2026-06-06 15:00"
+    },
+    {
+      "match": "Olympique Akbou v ES Ben Aknoun",
+      "campionato": "Algerian Ligue 1",
+      "volume": 320,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687208",
+      "market_id": "1.258910669",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:00"
     },
     {
       "match": "Criciuma v Londrina",
@@ -497,21 +497,6 @@
       "market_id": "1.258884306",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:30"
-    },
-    {
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "volume": 55,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675688",
-      "market_id": "1.258820003",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Dangjin FC v Changwon City",
@@ -3102,7 +3087,7 @@
       "open_date": "2026-06-06 18:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.08,
-      "volume": 447,
+      "volume": 320,
       "best_volume": 447,
       "whale_max": 0,
       "entered": false
@@ -3148,10 +3133,10 @@
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 55,
-      "best_volume": 1014,
+      "volume": 1488,
+      "best_volume": 1488,
       "whale_max": 0,
       "entered": false
     },
@@ -3248,18 +3233,6 @@
       "quota_iniziale": 1.06,
       "volume": 152,
       "best_volume": 152,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258918546",
-      "match": "Sunnersta AIF v FC Gute",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-06 14:30",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 463,
-      "best_volume": 463,
       "whale_max": 0,
       "entered": false
     }
