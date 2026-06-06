@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 14:38:34",
+  "last_update": "06/06/2026 14:39:11",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "IK Tord v Lidkopings FK",
-      "campionato": "Swedish Division 2",
-      "volume": 13957,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681217",
-      "market_id": "1.258864628",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 3663,
@@ -77,6 +62,21 @@
       "market_id": "1.258867967",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "IK Tord v Lidkopings FK",
+      "campionato": "Swedish Division 2",
+      "volume": 2990,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681217",
+      "market_id": "1.258864628",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Gefle v Hammarby TFF",
@@ -171,7 +171,7 @@
     {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
-      "volume": 686,
+      "volume": 702,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -199,9 +199,24 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 522,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Jonkopings Sodra v FC Trollhattan",
       "campionato": "Swedish Division 1",
-      "volume": 478,
+      "volume": 475,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -216,7 +231,7 @@
     {
       "match": "Brabrand v Fremad Amager",
       "campionato": "Danish 2nd Division",
-      "volume": 445,
+      "volume": 448,
       "quota": 1.21,
       "in_range": false,
       "monitored": false,
@@ -225,21 +240,6 @@
       "source": "Betfair",
       "event_id": "35675687",
       "market_id": "1.258820045",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 440,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
       "_is_inplay": true,
       "open_date": "2026-06-06 14:00"
     },
@@ -317,6 +317,21 @@
       "market_id": "1.258907223",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "JJK v PKK-U",
+      "campionato": "Finnish Ykkonen",
+      "volume": 239,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686877",
+      "market_id": "1.258905732",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:30"
     },
     {
       "match": "Villa Dalmine v Villa San Carlos",
@@ -424,21 +439,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "JJK v PKK-U",
-      "campionato": "Finnish Ykkonen",
-      "volume": 68,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686877",
-      "market_id": "1.258905732",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:30"
-    },
-    {
       "match": "Univ Catolica (Chile) v Cobresal",
       "campionato": "Chilean Cup",
       "volume": 61,
@@ -456,8 +456,8 @@
     {
       "match": "Sunnersta AIF v FC Gute",
       "campionato": "Swedish Division 2",
-      "volume": 19,
-      "quota": 2.32,
+      "volume": 40,
+      "quota": 2.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3021,7 +3021,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 478,
+      "volume": 475,
       "best_volume": 1165,
       "whale_max": 0,
       "entered": false
@@ -3033,7 +3033,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 13957,
+      "volume": 2990,
       "best_volume": 14104,
       "whale_max": 0,
       "entered": false
@@ -3093,7 +3093,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 686,
+      "volume": 702,
       "best_volume": 2377,
       "whale_max": 0,
       "entered": false
@@ -3199,9 +3199,9 @@
       "match": "JJK v PKK-U",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 17:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.06,
-      "volume": 68,
+      "volume": 239,
       "best_volume": 702,
       "whale_max": 0,
       "entered": false
