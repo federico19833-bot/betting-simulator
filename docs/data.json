@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 10:10:01",
+  "last_update": "06/06/2026 10:10:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,21 +124,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "Olympique Akbou v ES Ben Aknoun",
-      "campionato": "Algerian Ligue 1",
-      "volume": 1014,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687208",
-      "market_id": "1.258910669",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:00"
-    },
-    {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "volume": 967,
@@ -152,6 +137,21 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 926,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -214,21 +214,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 670,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 615,
@@ -287,6 +272,21 @@
       "market_id": "1.258905732",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:30"
+    },
+    {
+      "match": "Vendsyssel FF v Naestved",
+      "campionato": "Danish 2nd Division",
+      "volume": 553,
+      "quota": 1.39,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675682",
+      "market_id": "1.258820066",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Nublense v Univ de Concepcion",
@@ -379,19 +379,19 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Vendsyssel FF v Naestved",
-      "campionato": "Danish 2nd Division",
-      "volume": 273,
-      "quota": 1.44,
+      "match": "Olympique Akbou v ES Ben Aknoun",
+      "campionato": "Algerian Ligue 1",
+      "volume": 267,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35675682",
-      "market_id": "1.258820066",
+      "event_id": "35687208",
+      "market_id": "1.258910669",
       "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
+      "open_date": "2026-06-06 18:00"
     },
     {
       "match": "Chuncheon v Daejeon Korail FC",
@@ -3232,9 +3232,9 @@
       "match": "Ragsveds IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 670,
+      "volume": 926,
       "best_volume": 1883,
       "whale_max": 0,
       "entered": false
@@ -3280,9 +3280,9 @@
       "match": "Olympique Akbou v ES Ben Aknoun",
       "campionato": "Algerian Ligue 1",
       "open_date": "2026-06-06 18:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1014,
+      "volume": 267,
       "best_volume": 1014,
       "whale_max": 0,
       "entered": false
