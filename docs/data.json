@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 16:11:09",
+  "last_update": "06/06/2026 16:11:49",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 1030.39
   },
   "live_events": [
+    {
+      "match": "Grotta v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 4621,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678196",
+      "market_id": "1.258869961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
     {
       "match": "Qviding FIF v Astorps FF",
       "campionato": "Swedish Division 2",
@@ -49,25 +64,10 @@
       "open_date": "2026-06-06 15:00"
     },
     {
-      "match": "Grotta v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 3388,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678196",
-      "market_id": "1.258869961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
       "match": "TPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
-      "volume": 2449,
-      "quota": 1.09,
+      "volume": 1868,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -124,6 +124,21 @@
       "open_date": "2026-06-06 18:00"
     },
     {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 745,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
+    },
+    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 733,
@@ -154,21 +169,6 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Arsenal de Sarandi v Sportivo Italiano",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 586,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683158",
-      "market_id": "1.258930309",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 19:30"
-    },
-    {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
       "volume": 434,
@@ -197,36 +197,6 @@
       "market_id": "1.258910690",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:00"
-    },
-    {
-      "match": "CD Castellon v Almeria",
-      "campionato": "Spanish Segunda Division",
-      "volume": 323,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673406",
-      "market_id": "1.258799798",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "Falu FK v Korsnas FF",
-      "campionato": "Swedish Division 2",
-      "volume": 283,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35674792",
-      "market_id": "1.258869854",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Nublense v Univ de Concepcion",
@@ -422,6 +392,21 @@
       "market_id": "1.258914297",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "Arsenal de Sarandi v Sportivo Italiano",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683158",
+      "market_id": "1.258930309",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 19:30"
     },
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
@@ -2812,9 +2797,9 @@
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "open_date": "2026-06-06 21:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 323,
+      "volume": 745,
       "best_volume": 1352,
       "whale_max": 0,
       "entered": false
@@ -2874,8 +2859,8 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 3388,
-      "best_volume": 3388,
+      "volume": 4621,
+      "best_volume": 4621,
       "whale_max": 0,
       "entered": false
     },
@@ -2908,9 +2893,9 @@
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 19:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 586,
+      "volume": 10,
       "best_volume": 880,
       "whale_max": 0,
       "entered": false
@@ -2920,9 +2905,9 @@
       "match": "TPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 2449,
+      "volume": 1868,
       "best_volume": 2449,
       "whale_max": 0,
       "entered": false
@@ -3032,18 +3017,6 @@
       "quota_iniziale": 1.04,
       "volume": 247,
       "best_volume": 247,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258869854",
-      "match": "Falu FK v Korsnas FF",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.04,
-      "quota_iniziale": 1.04,
-      "volume": 283,
-      "best_volume": 4473,
       "whale_max": 0,
       "entered": false
     },
