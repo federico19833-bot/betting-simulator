@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:21:44",
+  "last_update": "06/06/2026 12:22:23",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Gefle v Hammarby TFF",
       "campionato": "Swedish Division 1",
-      "volume": 2396,
+      "volume": 2240,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -154,6 +154,21 @@
       "open_date": "2026-06-06 12:00"
     },
     {
+      "match": "Skelleftea v IFK Umea",
+      "campionato": "Swedish Division 2",
+      "volume": 822,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688962",
+      "market_id": "1.258929384",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
       "match": "Flandria v Argentino de Quilmes",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 812,
@@ -167,21 +182,6 @@
       "market_id": "1.258930267",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Skelleftea v IFK Umea",
-      "campionato": "Swedish Division 2",
-      "volume": 731,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688962",
-      "market_id": "1.258929384",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
@@ -677,6 +677,21 @@
       "market_id": "1.258874613",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
+    },
+    {
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675871",
+      "market_id": "1.258828862",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
     }
   ],
   "tracked_matches": [
@@ -3027,7 +3042,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 731,
+      "volume": 822,
       "best_volume": 1963,
       "whale_max": 0,
       "entered": false
@@ -3375,7 +3390,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 2396,
+      "volume": 2240,
       "best_volume": 2396,
       "whale_max": 0,
       "entered": false
@@ -3449,6 +3464,18 @@
       "quota_iniziale": 1.03,
       "volume": 282,
       "best_volume": 282,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258828862",
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "open_date": "2026-06-07 00:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
