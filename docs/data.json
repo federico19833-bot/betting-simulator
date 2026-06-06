@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 19:52:45",
+  "last_update": "06/06/2026 19:53:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Mouloudia dOujda v USM Oujda",
       "campionato": "Moroccan Botola 2",
-      "volume": 3017,
+      "volume": 3000,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -66,8 +66,8 @@
     {
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1074,
-      "quota": 1.06,
+      "volume": 960,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "Flandria v Argentino de Quilmes",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 524,
+      "quota": 1.45,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683123",
+      "market_id": "1.258930267",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "volume": 424,
@@ -122,21 +137,6 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "Flandria v Argentino de Quilmes",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 416,
-      "quota": 1.45,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683123",
-      "market_id": "1.258930267",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Argentino de Merlo v Camioneros",
@@ -2572,9 +2572,9 @@
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1074,
+      "volume": 960,
       "best_volume": 1074,
       "whale_max": 0,
       "entered": false
@@ -2586,7 +2586,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.08,
-      "volume": 3017,
+      "volume": 3000,
       "best_volume": 3017,
       "whale_max": 0,
       "entered": false
