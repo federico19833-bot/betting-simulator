@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 21:22:50",
+  "last_update": "06/06/2026 21:23:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10088,
+      "volume": 10786,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -36,7 +36,7 @@
     {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
-      "volume": 3219,
+      "volume": 1410,
       "quota": 1.13,
       "in_range": false,
       "monitored": false,
@@ -79,24 +79,9 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "Nublense v Univ de Concepcion",
-      "campionato": "Chilean Cup",
-      "volume": 295,
-      "quota": 1.56,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675871",
-      "market_id": "1.258828862",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
-    },
-    {
       "match": "EC Vitoria Salvador v Fortaleza EC",
       "campionato": "Brazilian Copa do Nordeste",
-      "volume": 253,
+      "volume": 368,
       "quota": 1.75,
       "in_range": false,
       "monitored": false,
@@ -122,6 +107,21 @@
       "market_id": "1.258869961",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "volume": 151,
+      "quota": 1.59,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675871",
+      "market_id": "1.258828862",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
     },
     {
       "match": "CD Castellon v Almeria",
@@ -2478,7 +2478,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 10088,
+      "volume": 10786,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
