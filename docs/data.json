@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 13:13:35",
+  "last_update": "06/06/2026 13:14:13",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,6 +124,21 @@
       "open_date": "2026-06-06 12:30"
     },
     {
+      "match": "Rappe Goif v IFK Trelleborg",
+      "campionato": "Swedish Division 2",
+      "volume": 868,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681298",
+      "market_id": "1.258867361",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Skiljebo v Enskede",
       "campionato": "Swedish Division 2",
       "volume": 855,
@@ -137,21 +152,6 @@
       "market_id": "1.258917474",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "Rappe Goif v IFK Trelleborg",
-      "campionato": "Swedish Division 2",
-      "volume": 789,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681298",
-      "market_id": "1.258867361",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -306,7 +306,7 @@
     {
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
-      "volume": 361,
+      "volume": 353,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -319,19 +319,19 @@
       "open_date": "2026-06-06 14:00"
     },
     {
-      "match": "OLS v Salpa",
-      "campionato": "Finnish Ykkonen",
-      "volume": 351,
-      "quota": 1.04,
+      "match": "Deportivo Armenio v Defensores Unidos",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 352,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35686874",
-      "market_id": "1.258905709",
+      "event_id": "35683111",
+      "market_id": "1.258930225",
       "_is_inplay": false,
-      "open_date": "2026-06-06 15:00"
+      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Olympique Akbou v ES Ben Aknoun",
@@ -347,6 +347,21 @@
       "market_id": "1.258910669",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:00"
+    },
+    {
+      "match": "OLS v Salpa",
+      "campionato": "Finnish Ykkonen",
+      "volume": 314,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686874",
+      "market_id": "1.258905709",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 15:00"
     },
     {
       "match": "Excursionistas v San Martin de Burzaco",
@@ -677,21 +692,6 @@
       "market_id": "1.258883379",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:30"
-    },
-    {
-      "match": "Deportivo Armenio v Defensores Unidos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683111",
-      "market_id": "1.258930225",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Univ Catolica (Chile) v Cobresal",
@@ -3163,9 +3163,9 @@
       "match": "OLS v Salpa",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 15:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 351,
+      "volume": 314,
       "best_volume": 1410,
       "whale_max": 0,
       "entered": false
@@ -3247,10 +3247,10 @@
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 789,
-      "best_volume": 789,
+      "volume": 868,
+      "best_volume": 868,
       "whale_max": 0,
       "entered": false
     },
@@ -3261,7 +3261,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 361,
+      "volume": 353,
       "best_volume": 468,
       "whale_max": 0,
       "entered": false
@@ -3283,9 +3283,9 @@
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
-      "volume": 10,
+      "volume": 352,
       "best_volume": 908,
       "whale_max": 0,
       "entered": false
