@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 22:04:29",
+  "last_update": "06/06/2026 22:05:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,21 +19,6 @@
   },
   "live_events": [
     {
-      "match": "Villa Dalmine v Villa San Carlos",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 5541,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683160",
-      "market_id": "1.258930481",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 759,
@@ -51,8 +36,8 @@
     {
       "match": "Univ Catolica (Chile) v Cobresal",
       "campionato": "Chilean Cup",
-      "volume": 429,
-      "quota": 2.0,
+      "volume": 204,
+      "quota": 2.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -75,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35683893",
       "market_id": "1.258930288",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Villa Dalmine v Villa San Carlos",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 126,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683160",
+      "market_id": "1.258930481",
       "_is_inplay": true,
       "open_date": "2026-06-06 20:30"
     },
@@ -2416,9 +2416,9 @@
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 5541,
+      "volume": 126,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
