@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 05:17:02",
+  "last_update": "06/06/2026 05:17:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,21 +184,6 @@
       "open_date": "2026-06-06 12:00"
     },
     {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 633,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
       "volume": 629,
@@ -242,6 +227,21 @@
       "market_id": "1.258905732",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:30"
+    },
+    {
+      "match": "Rappe Goif v IFK Trelleborg",
+      "campionato": "Swedish Division 2",
+      "volume": 456,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681298",
+      "market_id": "1.258867361",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Nosaby IF v Karlskrona",
@@ -349,21 +349,6 @@
       "open_date": "2026-06-06 19:30"
     },
     {
-      "match": "Rappe Goif v IFK Trelleborg",
-      "campionato": "Swedish Division 2",
-      "volume": 298,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681298",
-      "market_id": "1.258867361",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 260,
@@ -422,6 +407,21 @@
       "market_id": "1.258874613",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
+    },
+    {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 169,
+      "quota": 1.47,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Argentino de Merlo v Camioneros",
@@ -3010,9 +3010,9 @@
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 298,
+      "volume": 456,
       "best_volume": 670,
       "whale_max": 0,
       "entered": false
