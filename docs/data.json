@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 09:22:34",
+  "last_update": "06/06/2026 09:23:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-06 14:00"
     },
     {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 1592,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Iceland U19 v Montenegro U19",
       "campionato": "UEFA U19 Euro Qualifiers",
       "volume": 1552,
@@ -107,6 +92,21 @@
       "market_id": "1.258908973",
       "_is_inplay": true,
       "open_date": "2026-06-06 09:00"
+    },
+    {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 1369,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Excursionistas v San Martin de Burzaco",
@@ -349,21 +349,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Grotta v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 434,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678196",
-      "market_id": "1.258869961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
       "match": "Jonkopings Sodra v FC Trollhattan",
       "campionato": "Swedish Division 1",
       "volume": 363,
@@ -375,6 +360,21 @@
       "source": "Betfair",
       "event_id": "35677024",
       "market_id": "1.258869940",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Grotta v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 298,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678196",
+      "market_id": "1.258869961",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
     },
@@ -3025,9 +3025,9 @@
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 434,
+      "volume": 298,
       "best_volume": 1042,
       "whale_max": 0,
       "entered": false
