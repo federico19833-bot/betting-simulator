@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 13:22:27",
+  "last_update": "06/06/2026 13:23:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "IFK Ostersund v Friska Viljor",
+      "campionato": "Swedish Division 2",
+      "volume": 1056,
+      "quota": 1.4,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688711",
+      "market_id": "1.258922543",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
       "match": "Nykopings BIS v Fittja IF",
       "campionato": "Swedish Division 2",
       "volume": 1028,
@@ -122,36 +137,6 @@
       "market_id": "1.258864671",
       "_is_inplay": true,
       "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 1021,
-      "quota": 1.4,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "volume": 931,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675688",
-      "market_id": "1.258820003",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Gyeongnam v Yongin FC",
@@ -392,6 +377,21 @@
       "market_id": "1.258869940",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "VSK Aarhus FC v FC Helsingor",
+      "campionato": "Danish 2nd Division",
+      "volume": 172,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675688",
+      "market_id": "1.258820003",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "TPV v FC Inter 2",
@@ -3183,7 +3183,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 931,
+      "volume": 172,
       "best_volume": 1335,
       "whale_max": 0,
       "entered": false
