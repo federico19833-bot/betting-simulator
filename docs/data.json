@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 20:06:05",
+  "last_update": "06/06/2026 20:06:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Orkla v Tronder Lyn",
       "campionato": "Norwegian Cup",
-      "volume": 3008,
+      "volume": 3007,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -79,6 +79,21 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "volume": 566,
+      "quota": 1.17,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675871",
+      "market_id": "1.258828862",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
+    },
+    {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "volume": 546,
@@ -94,24 +109,9 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Nublense v Univ de Concepcion",
-      "campionato": "Chilean Cup",
-      "volume": 546,
-      "quota": 1.17,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675871",
-      "market_id": "1.258828862",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
-    },
-    {
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 434,
+      "volume": 427,
       "quota": 1.46,
       "in_range": false,
       "monitored": false,
@@ -154,6 +154,21 @@
       "open_date": "2026-06-06 23:30"
     },
     {
+      "match": "Argentino de Merlo v Camioneros",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 163,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683893",
+      "market_id": "1.258930288",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 97,
@@ -165,21 +180,6 @@
       "source": "Betfair",
       "event_id": "35683152",
       "market_id": "1.258930246",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Argentino de Merlo v Camioneros",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 94,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683893",
-      "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
     },
@@ -2488,9 +2488,9 @@
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 87,
+      "volume": 163,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2562,7 +2562,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.08,
-      "volume": 3008,
+      "volume": 3007,
       "best_volume": 18159,
       "whale_max": 0,
       "entered": false
