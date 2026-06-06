@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 21:24:13",
+  "last_update": "06/06/2026 21:24:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10088,
+      "volume": 10236,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -32,21 +32,6 @@
       "market_id": "1.258930481",
       "_is_inplay": true,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Nacional (Uru) v Juventud De Las Piedras",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 3189,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672489",
-      "market_id": "1.258878186",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 23:30"
     },
     {
       "match": "Flandria v Argentino de Quilmes",
@@ -77,6 +62,21 @@
       "market_id": "1.258930288",
       "_is_inplay": true,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "EC Vitoria Salvador v Fortaleza EC",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 248,
+      "quota": 1.86,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681440",
+      "market_id": "1.258875256",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 21:00"
     },
     {
       "match": "Grotta v Grindavik",
@@ -137,21 +137,6 @@
       "market_id": "1.258878253",
       "_is_inplay": false,
       "open_date": "2026-06-07 00:00"
-    },
-    {
-      "match": "EC Vitoria Salvador v Fortaleza EC",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 36,
-      "quota": 1.82,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681440",
-      "market_id": "1.258875256",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 21:00"
     }
   ],
   "tracked_matches": [
@@ -2478,7 +2463,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 10088,
+      "volume": 10236,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2504,18 +2489,6 @@
       "quota_iniziale": 1.07,
       "volume": 10,
       "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258878186",
-      "match": "Nacional (Uru) v Juventud De Las Piedras",
-      "campionato": "Uruguayan Primera Division",
-      "open_date": "2026-06-06 23:30",
-      "quota_attuale": 1.05,
-      "quota_iniziale": 1.05,
-      "volume": 1042,
-      "best_volume": 1042,
       "whale_max": 0,
       "entered": false
     }
