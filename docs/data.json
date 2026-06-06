@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:35:59",
+  "last_update": "06/06/2026 11:36:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1021.84
   },
   "live_events": [
-    {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 3049,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
     {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
@@ -212,6 +197,21 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 968,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Hwaseong FC v Suwon Bluewings",
@@ -3478,9 +3478,9 @@
       "match": "Ragsveds IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 3049,
+      "volume": 968,
       "best_volume": 3049,
       "whale_max": 0,
       "entered": false
