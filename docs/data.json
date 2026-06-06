@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:43:03",
+  "last_update": "06/06/2026 11:43:41",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 1021.84
   },
   "live_events": [
+    {
+      "match": "Nykopings BIS v Fittja IF",
+      "campionato": "Swedish Division 2",
+      "volume": 2694,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681078",
+      "market_id": "1.258864671",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
     {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
@@ -152,21 +167,6 @@
       "market_id": "1.258939859",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
-    },
-    {
-      "match": "Nykopings BIS v Fittja IF",
-      "campionato": "Swedish Division 2",
-      "volume": 1076,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681078",
-      "market_id": "1.258864671",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Puerto Montt v Cobreloa Calama",
@@ -3336,8 +3336,8 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.01,
-      "volume": 1076,
-      "best_volume": 1795,
+      "volume": 2694,
+      "best_volume": 2694,
       "whale_max": 0,
       "entered": false
     },
