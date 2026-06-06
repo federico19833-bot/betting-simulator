@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 08:36:55",
+  "last_update": "06/06/2026 08:37:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -469,6 +469,21 @@
       "open_date": "2026-06-06 12:00"
     },
     {
+      "match": "Hwaseong FC v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "volume": 146,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669908",
+      "market_id": "1.258835088",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:30"
+    },
+    {
       "match": "Portugal U19 v Greece U19",
       "campionato": "UEFA U19 Euro Qualifiers",
       "volume": 136,
@@ -561,7 +576,7 @@
     {
       "match": "Vendsyssel FF v Naestved",
       "campionato": "Danish 2nd Division",
-      "volume": 80,
+      "volume": 90,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -3494,6 +3509,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258835088",
+      "match": "Hwaseong FC v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-06-06 12:30",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 146,
+      "best_volume": 146,
       "whale_max": 0,
       "entered": false
     }
