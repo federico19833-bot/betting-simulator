@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 20:18:08",
+  "last_update": "06/06/2026 20:18:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,21 +49,6 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "CD Castellon v Almeria",
-      "campionato": "Spanish Segunda Division",
-      "volume": 1300,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673406",
-      "market_id": "1.258799798",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
-    },
-    {
       "match": "EC Vitoria Salvador v Fortaleza EC",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 1020,
@@ -77,21 +62,6 @@
       "market_id": "1.258875256",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "Nublense v Univ de Concepcion",
-      "campionato": "Chilean Cup",
-      "volume": 665,
-      "quota": 1.21,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675871",
-      "market_id": "1.258828862",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
     },
     {
       "match": "Grotta v Grindavik",
@@ -124,10 +94,25 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "volume": 491,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675871",
+      "market_id": "1.258828862",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
+    },
+    {
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 407,
-      "quota": 1.23,
+      "volume": 335,
+      "quota": 1.25,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -182,6 +167,21 @@
       "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "CD Castellon v Almeria",
+      "campionato": "Spanish Segunda Division",
+      "volume": 97,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673406",
+      "market_id": "1.258799798",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
     },
     {
       "match": "Univ Catolica (Chile) v Cobresal",
@@ -2586,7 +2586,7 @@
       "open_date": "2026-06-06 21:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1300,
+      "volume": 97,
       "best_volume": 1300,
       "whale_max": 0,
       "entered": false
