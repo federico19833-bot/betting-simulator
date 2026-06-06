@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:37:54",
+  "last_update": "06/06/2026 11:38:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 1021.84
   },
   "live_events": [
-    {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 3053,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
     {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
@@ -154,6 +139,21 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 1135,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Nykopings BIS v Fittja IF",
       "campionato": "Swedish Division 2",
       "volume": 1076,
@@ -212,21 +212,6 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
-    },
-    {
-      "match": "Hwaseong FC v Suwon Bluewings",
-      "campionato": "South Korean K2 League",
-      "volume": 819,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669908",
-      "market_id": "1.258835088",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:30"
     },
     {
       "match": "Linero IF v IFK Berga",
@@ -317,6 +302,21 @@
       "market_id": "1.258819961",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Hwaseong FC v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "volume": 546,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669908",
+      "market_id": "1.258835088",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:30"
     },
     {
       "match": "Nublense v Univ de Concepcion",
@@ -484,21 +484,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Portugal U19 v Greece U19",
-      "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 146,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687749",
-      "market_id": "1.258915184",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:00"
-    },
-    {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 140,
@@ -512,6 +497,21 @@
       "market_id": "1.258930481",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Portugal U19 v Greece U19",
+      "campionato": "UEFA U19 Euro Qualifiers",
+      "volume": 136,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687749",
+      "market_id": "1.258915184",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:00"
     },
     {
       "match": "Deportivo Armenio v Defensores Unidos",
@@ -3132,7 +3132,7 @@
       "open_date": "2026-06-06 17:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 146,
+      "volume": 136,
       "best_volume": 1552,
       "whale_max": 0,
       "entered": false
@@ -3300,7 +3300,7 @@
       "open_date": "2026-06-06 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.01,
-      "volume": 819,
+      "volume": 546,
       "best_volume": 829,
       "whale_max": 0,
       "entered": false
@@ -3478,9 +3478,9 @@
       "match": "Ragsveds IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.01,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.04,
-      "volume": 3053,
+      "volume": 1135,
       "best_volume": 3053,
       "whale_max": 0,
       "entered": false
