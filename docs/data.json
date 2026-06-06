@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:45:17",
+  "last_update": "06/06/2026 12:45:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
-      "volume": 4352,
-      "quota": 1.11,
+      "volume": 2116,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -156,7 +156,7 @@
     {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 665,
+      "volume": 622,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -180,6 +180,21 @@
       "source": "Betfair",
       "event_id": "35681018",
       "market_id": "1.258864649",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "IFK Ostersund v Friska Viljor",
+      "campionato": "Swedish Division 2",
+      "volume": 539,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688711",
+      "market_id": "1.258922543",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
     },
@@ -242,21 +257,6 @@
       "market_id": "1.258910669",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:00"
-    },
-    {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 282,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Univ Catolica (Chile) v Cobresal",
@@ -622,7 +622,7 @@
       "match": "TPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "volume": 10,
-      "quota": 1.02,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3093,7 +3093,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 665,
+      "volume": 622,
       "best_volume": 8374,
       "whale_max": 0,
       "entered": false
@@ -3199,9 +3199,9 @@
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 951,
+      "volume": 2116,
       "best_volume": 4525,
       "whale_max": 0,
       "entered": false
@@ -3283,7 +3283,7 @@
       "match": "TPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.05,
       "volume": 10,
       "best_volume": 1460,
@@ -3403,9 +3403,9 @@
       "match": "IFK Ostersund v Friska Viljor",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 282,
+      "volume": 539,
       "best_volume": 539,
       "whale_max": 0,
       "entered": false
