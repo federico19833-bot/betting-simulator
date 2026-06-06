@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 05:04:01",
+  "last_update": "06/06/2026 05:04:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -319,6 +319,21 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "Rappe Goif v IFK Trelleborg",
+      "campionato": "Swedish Division 2",
+      "volume": 298,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681298",
+      "market_id": "1.258867361",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 289,
@@ -332,21 +347,6 @@
       "market_id": "1.258930309",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:30"
-    },
-    {
-      "match": "Rappe Goif v IFK Trelleborg",
-      "campionato": "Swedish Division 2",
-      "volume": 278,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681298",
-      "market_id": "1.258867361",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
@@ -3010,9 +3010,9 @@
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 278,
+      "volume": 298,
       "best_volume": 670,
       "whale_max": 0,
       "entered": false
