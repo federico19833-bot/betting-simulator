@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 04:08:03",
+  "last_update": "06/06/2026 04:08:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,21 +154,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "Roskilde v HIK Hellerup",
-      "campionato": "Danish 2nd Division",
-      "volume": 663,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675677",
-      "market_id": "1.258820024",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Nublense v Univ de Concepcion",
       "campionato": "Chilean Cup",
       "volume": 644,
@@ -272,6 +257,21 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
+    },
+    {
+      "match": "Roskilde v HIK Hellerup",
+      "campionato": "Danish 2nd Division",
+      "volume": 413,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675677",
+      "market_id": "1.258820024",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "OLS v Salpa",
@@ -469,6 +469,21 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "Ulsan Citizen FC v Gangneung City",
+      "campionato": "South Korean K3 League",
+      "volume": 118,
+      "quota": 2.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687172",
+      "market_id": "1.258909455",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:00"
+    },
+    {
       "match": "IFK Ostersund v Friska Viljor",
       "campionato": "Swedish Division 2",
       "volume": 106,
@@ -542,21 +557,6 @@
       "market_id": "1.258883379",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:30"
-    },
-    {
-      "match": "Ulsan Citizen FC v Gangneung City",
-      "campionato": "South Korean K3 League",
-      "volume": 59,
-      "quota": 2.46,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687172",
-      "market_id": "1.258909455",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:00"
     },
     {
       "match": "Serbia U19 v Kazakhstan U19",
@@ -3111,7 +3111,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 663,
+      "volume": 413,
       "best_volume": 1794,
       "whale_max": 0,
       "entered": false
