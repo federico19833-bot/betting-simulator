@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 07:10:27",
+  "last_update": "06/06/2026 07:11:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,21 +154,6 @@
       "open_date": "2026-06-06 14:00"
     },
     {
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "volume": 1056,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675688",
-      "market_id": "1.258820003",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "MC Oran v USM Alger",
       "campionato": "Algerian Ligue 1",
       "volume": 1044,
@@ -182,6 +167,21 @@
       "market_id": "1.258910690",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:00"
+    },
+    {
+      "match": "VSK Aarhus FC v FC Helsingor",
+      "campionato": "Danish 2nd Division",
+      "volume": 985,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675688",
+      "market_id": "1.258820003",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Iceland U19 v Montenegro U19",
@@ -527,6 +527,21 @@
       "market_id": "1.258869876",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Dangjin FC v Changwon City",
+      "campionato": "South Korean K3 League",
+      "volume": 10,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687171",
+      "market_id": "1.258908973",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 09:00"
     },
     {
       "match": "Nykopings BIS v Fittja IF",
@@ -3018,7 +3033,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1056,
+      "volume": 985,
       "best_volume": 2379,
       "whale_max": 0,
       "entered": false
@@ -3364,6 +3379,18 @@
       "match": "Torslanda v Hestrafors",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258908973",
+      "match": "Dangjin FC v Changwon City",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-06-06 09:00",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
       "volume": 10,
