@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 18:43:08",
+  "last_update": "06/06/2026 18:43:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,21 +34,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "Argentino de Merlo v Camioneros",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3363,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683893",
-      "market_id": "1.258930288",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "Puerto Montt v Cobreloa Calama",
       "campionato": "Chilean Primera B",
       "volume": 3010,
@@ -62,6 +47,21 @@
       "market_id": "1.258884306",
       "_is_inplay": true,
       "open_date": "2026-06-06 18:30"
+    },
+    {
+      "match": "Argentino de Merlo v Camioneros",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 3000,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683893",
+      "market_id": "1.258930288",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Olympique Akbou v ES Ben Aknoun",
@@ -81,7 +81,7 @@
     {
       "match": "Torque v Deportivo Maldonado",
       "campionato": "Uruguayan Primera Division",
-      "volume": 1039,
+      "volume": 966,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -111,7 +111,7 @@
     {
       "match": "Brown de Adrogue v Comunicaciones B Aires",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 729,
+      "volume": 635,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -186,8 +186,8 @@
     {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 286,
-      "quota": 1.25,
+      "volume": 335,
+      "quota": 1.26,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -229,9 +229,39 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "Excursionistas v San Martin de Burzaco",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 70,
+      "quota": 2.38,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683152",
+      "market_id": "1.258930246",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "EC Vitoria Salvador v Fortaleza EC",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 66,
+      "quota": 2.62,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681440",
+      "market_id": "1.258875256",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 21:00"
+    },
+    {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 92,
+      "volume": 61,
       "quota": 1.2,
       "in_range": false,
       "monitored": false,
@@ -257,36 +287,6 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
-    },
-    {
-      "match": "Excursionistas v San Martin de Burzaco",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 55,
-      "quota": 2.38,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683152",
-      "market_id": "1.258930246",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "EC Vitoria Salvador v Fortaleza EC",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 41,
-      "quota": 2.56,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681440",
-      "market_id": "1.258875256",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 21:00"
     },
     {
       "match": "Univ Catolica (Chile) v Cobresal",
@@ -2580,7 +2580,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 3363,
+      "volume": 3000,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2712,7 +2712,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 729,
+      "volume": 635,
       "best_volume": 3184,
       "whale_max": 0,
       "entered": false
@@ -2736,7 +2736,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1039,
+      "volume": 966,
       "best_volume": 2089,
       "whale_max": 0,
       "entered": false
