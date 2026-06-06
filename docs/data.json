@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 08:00:47",
+  "last_update": "06/06/2026 08:01:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -111,7 +111,7 @@
     {
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
-      "volume": 1060,
+      "volume": 1062,
       "quota": 1.29,
       "in_range": false,
       "monitored": false,
@@ -3482,6 +3482,18 @@
       "quota_iniziale": 1.01,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258875256",
+      "match": "EC Vitoria Salvador v Fortaleza EC",
+      "campionato": "Brazilian Copa do Nordeste",
+      "open_date": "2026-06-06 21:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 2410,
+      "best_volume": 2410,
       "whale_max": 0,
       "entered": false
     }
