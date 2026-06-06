@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 13:53:36",
+  "last_update": "06/06/2026 13:54:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -201,7 +201,7 @@
     {
       "match": "Vendsyssel FF v Naestved",
       "campionato": "Danish 2nd Division",
-      "volume": 680,
+      "volume": 676,
       "quota": 1.21,
       "in_range": false,
       "monitored": false,
@@ -364,21 +364,6 @@
       "open_date": "2026-06-06 17:30"
     },
     {
-      "match": "Rappe Goif v IFK Trelleborg",
-      "campionato": "Swedish Division 2",
-      "volume": 259,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681298",
-      "market_id": "1.258867361",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Portugal U19 v Greece U19",
       "campionato": "UEFA U19 Euro Qualifiers",
       "volume": 247,
@@ -392,6 +377,21 @@
       "market_id": "1.258915184",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "Rappe Goif v IFK Trelleborg",
+      "campionato": "Swedish Division 2",
+      "volume": 190,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681298",
+      "market_id": "1.258867361",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Grotta v Grindavik",
@@ -3144,7 +3144,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 259,
+      "volume": 190,
       "best_volume": 1996,
       "whale_max": 0,
       "entered": false
