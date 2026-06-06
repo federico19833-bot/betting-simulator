@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:50:51",
+  "last_update": "06/06/2026 11:51:30",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -122,21 +122,6 @@
       "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 1168,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Mouloudia dOujda v USM Oujda",
@@ -379,6 +364,21 @@
       "open_date": "2026-06-06 14:00"
     },
     {
+      "match": "Central Espanol v Racing Club (Uru)",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 464,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672492",
+      "market_id": "1.258867988",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 15:00"
+    },
+    {
       "match": "Angby IF v Taby FK",
       "campionato": "Swedish Division 2",
       "volume": 448,
@@ -527,6 +527,21 @@
       "market_id": "1.258930481",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 129,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Deportivo Armenio v Defensores Unidos",
@@ -3482,6 +3497,18 @@
       "quota_iniziale": 1.02,
       "volume": 852,
       "best_volume": 852,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258867988",
+      "match": "Central Espanol v Racing Club (Uru)",
+      "campionato": "Uruguayan Primera Division",
+      "open_date": "2026-06-06 15:00",
+      "quota_attuale": 1.01,
+      "quota_iniziale": 1.01,
+      "volume": 464,
+      "best_volume": 464,
       "whale_max": 0,
       "entered": false
     }
