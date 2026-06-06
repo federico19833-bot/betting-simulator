@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 03:36:23",
+  "last_update": "06/06/2026 03:36:57",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "JJK v PKK-U",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2216,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686877",
+      "market_id": "1.258905732",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:30"
+    },
+    {
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
       "volume": 1639,
@@ -32,21 +47,6 @@
       "market_id": "1.258820003",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "JJK v PKK-U",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1615,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686877",
-      "market_id": "1.258905732",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:30"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -426,7 +426,7 @@
     {
       "match": "Ulsan Citizen FC v Gangneung City",
       "campionato": "South Korean K3 League",
-      "volume": 209,
+      "volume": 196,
       "quota": 1.5,
       "in_range": false,
       "monitored": false,
@@ -3039,7 +3039,7 @@
       "open_date": "2026-06-06 17:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.08,
-      "volume": 1615,
+      "volume": 2216,
       "best_volume": 2216,
       "whale_max": 0,
       "entered": false
