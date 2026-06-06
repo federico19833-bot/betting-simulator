@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 21:11:56",
+  "last_update": "06/06/2026 21:12:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 2721,
-      "quota": 1.05,
+      "volume": 10864,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -36,7 +36,7 @@
     {
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 2038,
+      "volume": 1850,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -45,21 +45,6 @@
       "source": "Betfair",
       "event_id": "35683111",
       "market_id": "1.258930225",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Flandria v Argentino de Quilmes",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1830,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683123",
-      "market_id": "1.258930267",
       "_is_inplay": true,
       "open_date": "2026-06-06 20:30"
     },
@@ -81,8 +66,8 @@
     {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 779,
-      "quota": 1.16,
+      "volume": 960,
+      "quota": 1.17,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -92,6 +77,21 @@
       "market_id": "1.258869961",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Flandria v Argentino de Quilmes",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 619,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683123",
+      "market_id": "1.258930267",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Argentino de Merlo v Camioneros",
@@ -111,8 +111,8 @@
     {
       "match": "Univ Catolica (Chile) v Cobresal",
       "campionato": "Chilean Cup",
-      "volume": 526,
-      "quota": 1.32,
+      "volume": 287,
+      "quota": 1.33,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-07 00:00"
     },
     {
+      "match": "EC Vitoria Salvador v Fortaleza EC",
+      "campionato": "Brazilian Copa do Nordeste",
+      "volume": 170,
+      "quota": 1.52,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681440",
+      "market_id": "1.258875256",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 21:00"
+    },
+    {
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "volume": 108,
@@ -150,21 +165,6 @@
       "source": "Betfair",
       "event_id": "35673406",
       "market_id": "1.258799798",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "EC Vitoria Salvador v Fortaleza EC",
-      "campionato": "Brazilian Copa do Nordeste",
-      "volume": 17,
-      "quota": 1.54,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681440",
-      "market_id": "1.258875256",
       "_is_inplay": true,
       "open_date": "2026-06-06 21:00"
     }
@@ -2457,7 +2457,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.09,
-      "volume": 1830,
+      "volume": 619,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2491,9 +2491,9 @@
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.07,
-      "volume": 2721,
+      "volume": 10864,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": true
@@ -2517,7 +2517,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 2038,
+      "volume": 1850,
       "best_volume": 2855,
       "whale_max": 0,
       "entered": false
