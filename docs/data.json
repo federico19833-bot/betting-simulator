@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 08:43:40",
+  "last_update": "06/06/2026 08:44:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Skiljebo v Enskede",
       "campionato": "Swedish Division 2",
-      "volume": 2410,
+      "volume": 2406,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -107,21 +107,6 @@
       "market_id": "1.258930288",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Roskilde v HIK Hellerup",
-      "campionato": "Danish 2nd Division",
-      "volume": 1088,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675677",
-      "market_id": "1.258820024",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
@@ -362,6 +347,21 @@
       "market_id": "1.258864628",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
+    },
+    {
+      "match": "Roskilde v HIK Hellerup",
+      "campionato": "Danish 2nd Division",
+      "volume": 330,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675677",
+      "market_id": "1.258820024",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Gefle v Hammarby TFF",
@@ -3231,7 +3231,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 2410,
+      "volume": 2406,
       "best_volume": 2410,
       "whale_max": 0,
       "entered": false
