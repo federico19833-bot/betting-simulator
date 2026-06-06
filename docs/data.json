@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 04:14:50",
+  "last_update": "06/06/2026 04:15:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -66,7 +66,7 @@
     {
       "match": "Roskilde v HIK Hellerup",
       "campionato": "Danish 2nd Division",
-      "volume": 1088,
+      "volume": 1143,
       "quota": 1.1,
       "in_range": false,
       "monitored": false,
@@ -304,21 +304,6 @@
       "open_date": "2026-06-06 21:00"
     },
     {
-      "match": "Torque v Deportivo Maldonado",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 332,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672490",
-      "market_id": "1.258874613",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:00"
-    },
-    {
       "match": "Qviding FIF v Astorps FF",
       "campionato": "Swedish Division 2",
       "volume": 300,
@@ -452,6 +437,21 @@
       "market_id": "1.258917428",
       "_is_inplay": false,
       "open_date": "2026-06-06 12:00"
+    },
+    {
+      "match": "Torque v Deportivo Maldonado",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 160,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672490",
+      "market_id": "1.258874613",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Argentino de Merlo v Camioneros",
@@ -3024,7 +3024,7 @@
       "open_date": "2026-06-06 20:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 332,
+      "volume": 160,
       "best_volume": 332,
       "whale_max": 0,
       "entered": false
