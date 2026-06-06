@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:16:15",
+  "last_update": "06/06/2026 11:16:52",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -244,6 +244,21 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "Hwaseong FC v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "volume": 806,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669908",
+      "market_id": "1.258835088",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:30"
+    },
+    {
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "volume": 767,
@@ -257,21 +272,6 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
-    },
-    {
-      "match": "Hwaseong FC v Suwon Bluewings",
-      "campionato": "South Korean K2 League",
-      "volume": 675,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669908",
-      "market_id": "1.258835088",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:30"
     },
     {
       "match": "Deportes Copiapo v Santiago Wanderers",
@@ -291,7 +291,7 @@
     {
       "match": "Skive v Ishoj IF",
       "campionato": "Danish 2nd Division",
-      "volume": 627,
+      "volume": 629,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -379,19 +379,19 @@
       "open_date": "2026-06-06 13:00"
     },
     {
-      "match": "Ragsveds IF v Lindo FF",
+      "match": "Torslanda v Hestrafors",
       "campionato": "Swedish Division 2",
-      "volume": 441,
-      "quota": 1.04,
+      "volume": 400,
+      "quota": 1.05,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
+      "event_id": "35684862",
+      "market_id": "1.258894846",
       "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Jonkopings Sodra v FC Trollhattan",
@@ -422,6 +422,21 @@
       "market_id": "1.258869961",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 250,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Flandria v Argentino de Quilmes",
@@ -497,21 +512,6 @@
       "market_id": "1.258915184",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
-    },
-    {
-      "match": "Torslanda v Hestrafors",
-      "campionato": "Swedish Division 2",
-      "volume": 143,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35684862",
-      "market_id": "1.258894846",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Villa Dalmine v Villa San Carlos",
@@ -3156,7 +3156,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.07,
-      "volume": 441,
+      "volume": 250,
       "best_volume": 2217,
       "whale_max": 0,
       "entered": false
@@ -3300,7 +3300,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.03,
-      "volume": 627,
+      "volume": 629,
       "best_volume": 631,
       "whale_max": 0,
       "entered": false
@@ -3312,8 +3312,8 @@
       "open_date": "2026-06-06 12:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.01,
-      "volume": 675,
-      "best_volume": 675,
+      "volume": 806,
+      "best_volume": 806,
       "whale_max": 0,
       "entered": false
     },
@@ -3408,7 +3408,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 143,
+      "volume": 400,
       "best_volume": 400,
       "whale_max": 0,
       "entered": false
