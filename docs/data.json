@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 09:19:12",
+  "last_update": "06/06/2026 09:19:46",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
-      "volume": 2231,
+      "volume": 2286,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 1105,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "IF Vestri v Volsungur",
       "campionato": "Icelandic 1 Deild",
       "volume": 1042,
@@ -137,21 +152,6 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
-    },
-    {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 870,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Torque v Deportivo Maldonado",
@@ -349,6 +349,21 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "Grotta v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 434,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678196",
+      "market_id": "1.258869961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "Jonkopings Sodra v FC Trollhattan",
       "campionato": "Swedish Division 1",
       "volume": 340,
@@ -392,21 +407,6 @@
       "market_id": "1.258930225",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
-    },
-    {
-      "match": "Grotta v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 246,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678196",
-      "market_id": "1.258869961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Flandria v Argentino de Quilmes",
@@ -482,6 +482,21 @@
       "market_id": "1.258799798",
       "_is_inplay": false,
       "open_date": "2026-06-06 21:00"
+    },
+    {
+      "match": "IK Tord v Lidkopings FK",
+      "campionato": "Swedish Division 2",
+      "volume": 146,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681217",
+      "market_id": "1.258864628",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -630,21 +645,6 @@
       "source": "Betfair",
       "event_id": "35688962",
       "market_id": "1.258929384",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "IK Tord v Lidkopings FK",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681217",
-      "market_id": "1.258864628",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
     },
@@ -3025,9 +3025,9 @@
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 246,
+      "volume": 434,
       "best_volume": 1042,
       "whale_max": 0,
       "entered": false
@@ -3375,7 +3375,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 2231,
+      "volume": 2286,
       "best_volume": 2410,
       "whale_max": 0,
       "entered": false
@@ -3409,9 +3409,9 @@
       "match": "IK Tord v Lidkopings FK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 10,
+      "volume": 146,
       "best_volume": 146,
       "whale_max": 0,
       "entered": false
