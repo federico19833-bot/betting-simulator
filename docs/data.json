@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 09:00:02",
+  "last_update": "06/06/2026 09:00:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -291,7 +291,7 @@
     {
       "match": "Roskilde v HIK Hellerup",
       "campionato": "Danish 2nd Division",
-      "volume": 588,
+      "volume": 586,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -362,21 +362,6 @@
       "market_id": "1.258869940",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 274,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Chuncheon v Daejeon Korail FC",
@@ -634,6 +619,21 @@
       "open_date": "2026-06-06 19:30"
     },
     {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 24,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Skelleftea v IFK Umea",
       "campionato": "Swedish Division 2",
       "volume": 10,
@@ -707,21 +707,6 @@
       "market_id": "1.258918607",
       "_is_inplay": false,
       "open_date": "2026-06-06 15:00"
-    },
-    {
-      "match": "Fylkir v Throttur",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 10,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678224",
-      "market_id": "1.258869897",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     }
   ],
   "tracked_matches": [
@@ -3132,7 +3117,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.08,
-      "volume": 588,
+      "volume": 586,
       "best_volume": 2217,
       "whale_max": 0,
       "entered": false
@@ -3142,9 +3127,9 @@
       "match": "AB v Thisted",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 2217,
+      "volume": 24,
       "best_volume": 2217,
       "whale_max": 0,
       "entered": false
@@ -3506,18 +3491,6 @@
       "quota_iniziale": 1.08,
       "volume": 205,
       "best_volume": 205,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258869897",
-      "match": "Fylkir v Throttur",
-      "campionato": "Icelandic 1 Deild",
-      "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.02,
-      "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
