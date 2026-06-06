@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 15:39:48",
+  "last_update": "06/06/2026 15:40:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 3746,
+      "volume": 3739,
       "quota": 1.02,
       "in_range": false,
       "monitored": false,
@@ -349,6 +349,21 @@
       "open_date": "2026-06-06 21:00"
     },
     {
+      "match": "IFK Ostersund v Friska Viljor",
+      "campionato": "Swedish Division 2",
+      "volume": 80,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688711",
+      "market_id": "1.258922543",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
       "match": "JJK v PKK-U",
       "campionato": "Finnish Ykkonen",
       "volume": 67,
@@ -362,21 +377,6 @@
       "market_id": "1.258905732",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:30"
-    },
-    {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 63,
-      "quota": 1.25,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Qviding FIF v Astorps FF",
@@ -2862,7 +2862,7 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.07,
-      "volume": 3746,
+      "volume": 3739,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": false
