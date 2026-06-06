@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 00:05:28",
+  "last_update": "07/06/2026 00:06:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,9 +19,24 @@
   },
   "live_events": [
     {
+      "match": "Grotta v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 1273,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678196",
+      "market_id": "1.258869961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
-      "volume": 984,
+      "volume": 1036,
       "quota": 1.01,
       "in_range": false,
       "monitored": false,
@@ -34,25 +49,10 @@
       "open_date": "2026-06-06 23:30"
     },
     {
-      "match": "Grotta v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 667,
-      "quota": 1.2,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678196",
-      "market_id": "1.258869961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
       "match": "Univ Catolica (Chile) v Cobresal",
       "campionato": "Chilean Cup",
-      "volume": 131,
-      "quota": 1.11,
+      "volume": 13,
+      "quota": 1.15,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -2412,8 +2412,8 @@
       "open_date": "2026-06-06 23:30",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.01,
-      "volume": 984,
-      "best_volume": 984,
+      "volume": 1036,
+      "best_volume": 1036,
       "whale_max": 0,
       "entered": false
     }
