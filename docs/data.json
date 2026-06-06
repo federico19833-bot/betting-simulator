@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:29:59",
+  "last_update": "06/06/2026 12:30:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,21 +32,6 @@
       "market_id": "1.258864628",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Gefle v Hammarby TFF",
-      "campionato": "Swedish Division 1",
-      "volume": 1611,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677933",
-      "market_id": "1.258869876",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Grotta v Grindavik",
@@ -109,6 +94,21 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "Gefle v Hammarby TFF",
+      "campionato": "Swedish Division 1",
+      "volume": 1091,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677933",
+      "market_id": "1.258869876",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "MC Oran v USM Alger",
       "campionato": "Algerian Ligue 1",
       "volume": 1051,
@@ -122,21 +122,6 @@
       "market_id": "1.258910690",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:00"
-    },
-    {
-      "match": "Roskilde v HIK Hellerup",
-      "campionato": "Danish 2nd Division",
-      "volume": 1042,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675677",
-      "market_id": "1.258820024",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Linero IF v IFK Berga",
@@ -156,7 +141,7 @@
     {
       "match": "Skelleftea v IFK Umea",
       "campionato": "Swedish Division 2",
-      "volume": 830,
+      "volume": 825,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -615,6 +600,21 @@
       "source": "Betfair",
       "event_id": "35675684",
       "market_id": "1.258819961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Roskilde v HIK Hellerup",
+      "campionato": "Danish 2nd Division",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675677",
+      "market_id": "1.258820024",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
     },
@@ -3042,7 +3042,7 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 830,
+      "volume": 825,
       "best_volume": 1963,
       "whale_max": 0,
       "entered": false
@@ -3340,9 +3340,9 @@
       "match": "Roskilde v HIK Hellerup",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1042,
+      "volume": 10,
       "best_volume": 1042,
       "whale_max": 0,
       "entered": false
@@ -3390,7 +3390,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1611,
+      "volume": 1091,
       "best_volume": 2396,
       "whale_max": 0,
       "entered": false
