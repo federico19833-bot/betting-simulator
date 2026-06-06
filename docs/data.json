@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:04:39",
+  "last_update": "06/06/2026 11:05:16",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "FOC Farsta v BK Forward",
+      "campionato": "Swedish Division 2",
+      "volume": 1520,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688163",
+      "market_id": "1.258918524",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "volume": 1405,
@@ -182,21 +197,6 @@
       "market_id": "1.258917474",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "FOC Farsta v BK Forward",
-      "campionato": "Swedish Division 2",
-      "volume": 951,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688163",
-      "market_id": "1.258918524",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
@@ -409,6 +409,21 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "Hwaseong FC v Suwon Bluewings",
+      "campionato": "South Korean K2 League",
+      "volume": 200,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669908",
+      "market_id": "1.258835088",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:30"
+    },
+    {
       "match": "Central Espanol v Racing Club (Uru)",
       "campionato": "Uruguayan Primera Division",
       "volume": 178,
@@ -617,21 +632,6 @@
       "market_id": "1.258909476",
       "_is_inplay": false,
       "open_date": "2026-06-06 12:00"
-    },
-    {
-      "match": "Hwaseong FC v Suwon Bluewings",
-      "campionato": "South Korean K2 League",
-      "volume": 10,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669908",
-      "market_id": "1.258835088",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:30"
     },
     {
       "match": "Skelleftea v IFK Umea",
@@ -3387,7 +3387,7 @@
       "open_date": "2026-06-06 12:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.01,
-      "volume": 10,
+      "volume": 200,
       "best_volume": 464,
       "whale_max": 0,
       "entered": false
