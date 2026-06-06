@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 23:52:21",
+  "last_update": "06/06/2026 23:52:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 7175,
+      "volume": 7173,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -49,25 +49,10 @@
       "open_date": "2026-06-06 23:30"
     },
     {
-      "match": "Univ Catolica (Chile) v Cobresal",
-      "campionato": "Chilean Cup",
-      "volume": 68,
-      "quota": 3.0,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678158",
-      "market_id": "1.258878253",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 00:00"
-    },
-    {
       "match": "Nublense v Univ de Concepcion",
       "campionato": "Chilean Cup",
-      "volume": 10,
-      "quota": 1.01,
+      "volume": 2372,
+      "quota": 1.12,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -75,6 +60,21 @@
       "source": "Betfair",
       "event_id": "35675871",
       "market_id": "1.258828862",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 00:00"
+    },
+    {
+      "match": "Univ Catolica (Chile) v Cobresal",
+      "campionato": "Chilean Cup",
+      "volume": 37,
+      "quota": 3.5,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678158",
+      "market_id": "1.258878253",
       "_is_inplay": false,
       "open_date": "2026-06-07 00:00"
     }
@@ -2439,7 +2439,7 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 7175,
+      "volume": 7173,
       "best_volume": 7175,
       "whale_max": 0,
       "entered": false
