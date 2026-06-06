@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 12:41:26",
+  "last_update": "06/06/2026 12:42:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "FC Jazz v VJS",
       "campionato": "Finnish Ykkonen",
-      "volume": 4149,
-      "quota": 1.07,
+      "volume": 4647,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -45,6 +45,21 @@
       "source": "Betfair",
       "event_id": "35681947",
       "market_id": "1.258867967",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 17:00"
+    },
+    {
+      "match": "Iceland U19 v Montenegro U19",
+      "campionato": "UEFA U19 Euro Qualifiers",
+      "volume": 1408,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687252",
+      "market_id": "1.258914297",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
     },
@@ -169,21 +184,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Grotta v Grindavik",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 465,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678196",
-      "market_id": "1.258869961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
       "match": "OLS v Salpa",
       "campionato": "Finnish Ykkonen",
       "volume": 464,
@@ -212,6 +212,21 @@
       "market_id": "1.258819961",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Grotta v Grindavik",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 342,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678196",
+      "market_id": "1.258869961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Olympique Akbou v ES Ben Aknoun",
@@ -317,21 +332,6 @@
       "market_id": "1.258930330",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:00"
-    },
-    {
-      "match": "Iceland U19 v Montenegro U19",
-      "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 196,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687252",
-      "market_id": "1.258914297",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 17:00"
     },
     {
       "match": "Nosaby IF v Karlskrona",
@@ -3076,9 +3076,9 @@
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.09,
-      "volume": 465,
+      "volume": 342,
       "best_volume": 8374,
       "whale_max": 0,
       "entered": false
@@ -3462,7 +3462,7 @@
       "open_date": "2026-06-06 17:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 196,
+      "volume": 1408,
       "best_volume": 1408,
       "whale_max": 0,
       "entered": false
