@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 07:11:39",
+  "last_update": "06/06/2026 07:12:09",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -45,6 +45,21 @@
       "source": "Betfair",
       "event_id": "35675677",
       "market_id": "1.258820024",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "VSK Aarhus FC v FC Helsingor",
+      "campionato": "Danish 2nd Division",
+      "volume": 1966,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675688",
+      "market_id": "1.258820003",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
     },
@@ -124,51 +139,6 @@
       "open_date": "2026-06-06 07:00"
     },
     {
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "volume": 1307,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675688",
-      "market_id": "1.258820003",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "Nacional (Uru) v Juventud De Las Piedras",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 1274,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672489",
-      "market_id": "1.258878186",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 23:30"
-    },
-    {
-      "match": "Skive v Ishoj IF",
-      "campionato": "Danish 2nd Division",
-      "volume": 1106,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675684",
-      "market_id": "1.258819961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "MC Oran v USM Alger",
       "campionato": "Algerian Ligue 1",
       "volume": 1044,
@@ -182,6 +152,21 @@
       "market_id": "1.258910690",
       "_is_inplay": false,
       "open_date": "2026-06-06 19:00"
+    },
+    {
+      "match": "Nacional (Uru) v Juventud De Las Piedras",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 970,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672489",
+      "market_id": "1.258878186",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 23:30"
     },
     {
       "match": "Iceland U19 v Montenegro U19",
@@ -437,6 +422,21 @@
       "market_id": "1.258918607",
       "_is_inplay": false,
       "open_date": "2026-06-06 15:00"
+    },
+    {
+      "match": "Skive v Ishoj IF",
+      "campionato": "Danish 2nd Division",
+      "volume": 172,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675684",
+      "market_id": "1.258819961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Excursionistas v San Martin de Burzaco",
@@ -3048,7 +3048,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1307,
+      "volume": 1966,
       "best_volume": 2379,
       "whale_max": 0,
       "entered": false
@@ -3060,7 +3060,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.07,
-      "volume": 1106,
+      "volume": 172,
       "best_volume": 1639,
       "whale_max": 0,
       "entered": false
