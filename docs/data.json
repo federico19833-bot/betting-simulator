@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 16:11:49",
+  "last_update": "06/06/2026 16:12:27",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Grotta v Grindavik",
       "campionato": "Icelandic 1 Deild",
-      "volume": 4621,
+      "volume": 4633,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -167,6 +167,21 @@
       "market_id": "1.258930225",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Arsenal de Sarandi v Sportivo Italiano",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 586,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683158",
+      "market_id": "1.258930309",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 19:30"
     },
     {
       "match": "Nosaby IF v Karlskrona",
@@ -392,21 +407,6 @@
       "market_id": "1.258914297",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:00"
-    },
-    {
-      "match": "Arsenal de Sarandi v Sportivo Italiano",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 10,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683158",
-      "market_id": "1.258930309",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 19:30"
     },
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
@@ -2859,8 +2859,8 @@
       "open_date": "2026-06-06 16:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 4621,
-      "best_volume": 4621,
+      "volume": 4633,
+      "best_volume": 4633,
       "whale_max": 0,
       "entered": false
     },
@@ -2893,9 +2893,9 @@
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 19:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.06,
-      "volume": 10,
+      "volume": 586,
       "best_volume": 880,
       "whale_max": 0,
       "entered": false
