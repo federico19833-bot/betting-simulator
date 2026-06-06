@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 11:41:47",
+  "last_update": "06/06/2026 11:42:25",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -45,6 +45,21 @@
       "source": "Betfair",
       "event_id": "35675687",
       "market_id": "1.258820045",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Ragsveds IF v Lindo FF",
+      "campionato": "Swedish Division 2",
+      "volume": 1871,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35682023",
+      "market_id": "1.258867382",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
     },
@@ -197,21 +212,6 @@
       "market_id": "1.258878186",
       "_is_inplay": false,
       "open_date": "2026-06-06 23:30"
-    },
-    {
-      "match": "Ragsveds IF v Lindo FF",
-      "campionato": "Swedish Division 2",
-      "volume": 975,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35682023",
-      "market_id": "1.258867382",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Linero IF v IFK Berga",
@@ -381,8 +381,8 @@
     {
       "match": "Torslanda v Hestrafors",
       "campionato": "Swedish Division 2",
-      "volume": 400,
-      "quota": 1.05,
+      "volume": 412,
+      "quota": 1.02,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -576,8 +576,8 @@
     {
       "match": "Cambodia U19 v Philippines U19",
       "campionato": "U19 Internationals",
-      "volume": 100,
-      "quota": 1.02,
+      "volume": 92,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3394,9 +3394,9 @@
       "match": "Torslanda v Hestrafors",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.05,
-      "volume": 400,
+      "volume": 412,
       "best_volume": 1063,
       "whale_max": 0,
       "entered": false
@@ -3430,9 +3430,9 @@
       "match": "Cambodia U19 v Philippines U19",
       "campionato": "U19 Internationals",
       "open_date": "2026-06-06 15:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 100,
+      "volume": 92,
       "best_volume": 124,
       "whale_max": 0,
       "entered": false
@@ -3478,9 +3478,9 @@
       "match": "Ragsveds IF v Lindo FF",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.04,
-      "volume": 975,
+      "volume": 1871,
       "best_volume": 3053,
       "whale_max": 0,
       "entered": false
