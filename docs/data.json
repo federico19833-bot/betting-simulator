@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 14:22:48",
+  "last_update": "06/06/2026 14:23:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -79,25 +79,10 @@
       "open_date": "2026-06-06 19:30"
     },
     {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 2371,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
-      "volume": 1689,
-      "quota": 1.05,
+      "volume": 1374,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -105,21 +90,6 @@
       "source": "Betfair",
       "event_id": "35681298",
       "market_id": "1.258867361",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "volume": 1356,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675688",
-      "market_id": "1.258820003",
       "_is_inplay": true,
       "open_date": "2026-06-06 14:00"
     },
@@ -154,6 +124,21 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 1146,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Falu FK v Korsnas FF",
       "campionato": "Swedish Division 2",
       "volume": 1051,
@@ -167,6 +152,21 @@
       "market_id": "1.258869854",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Skive v Ishoj IF",
+      "campionato": "Danish 2nd Division",
+      "volume": 1034,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675684",
+      "market_id": "1.258819961",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Angby IF v Taby FK",
@@ -199,21 +199,6 @@
       "open_date": "2026-06-06 20:30"
     },
     {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 979,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "CD Castellon v Almeria",
       "campionato": "Spanish Segunda Division",
       "volume": 900,
@@ -229,39 +214,24 @@
       "open_date": "2026-06-06 21:00"
     },
     {
-      "match": "Skive v Ishoj IF",
+      "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
-      "volume": 749,
-      "quota": 1.11,
+      "volume": 729,
+      "quota": 1.06,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35675684",
-      "market_id": "1.258819961",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "Vendsyssel FF v Naestved",
-      "campionato": "Danish 2nd Division",
-      "volume": 731,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675682",
-      "market_id": "1.258820066",
+      "event_id": "35675688",
+      "market_id": "1.258820003",
       "_is_inplay": true,
       "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Iceland U19 v Montenegro U19",
       "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 638,
+      "volume": 641,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -379,6 +349,21 @@
       "open_date": "2026-06-06 20:00"
     },
     {
+      "match": "Vendsyssel FF v Naestved",
+      "campionato": "Danish 2nd Division",
+      "volume": 344,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675682",
+      "market_id": "1.258820066",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 253,
@@ -469,21 +454,6 @@
       "open_date": "2026-06-06 18:30"
     },
     {
-      "match": "Brabrand v Fremad Amager",
-      "campionato": "Danish 2nd Division",
-      "volume": 91,
-      "quota": 1.45,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675687",
-      "market_id": "1.258820045",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
       "volume": 84,
@@ -527,6 +497,21 @@
       "market_id": "1.258878253",
       "_is_inplay": false,
       "open_date": "2026-06-07 00:00"
+    },
+    {
+      "match": "Brabrand v Fremad Amager",
+      "campionato": "Danish 2nd Division",
+      "volume": 42,
+      "quota": 1.47,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675687",
+      "market_id": "1.258820045",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "Sunnersta AIF v FC Gute",
@@ -3069,7 +3054,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.03,
-      "volume": 979,
+      "volume": 1146,
       "best_volume": 1309,
       "whale_max": 0,
       "entered": false
@@ -3211,9 +3196,9 @@
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 1356,
+      "volume": 729,
       "best_volume": 2377,
       "whale_max": 0,
       "entered": false
@@ -3235,9 +3220,9 @@
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-06 14:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1689,
+      "volume": 1374,
       "best_volume": 2377,
       "whale_max": 0,
       "entered": false
@@ -3381,7 +3366,7 @@
       "open_date": "2026-06-06 17:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 638,
+      "volume": 641,
       "best_volume": 641,
       "whale_max": 0,
       "entered": false
@@ -3407,18 +3392,6 @@
       "quota_iniziale": 1.09,
       "volume": 268,
       "best_volume": 268,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
-      "event_id": "bf_1.258922543",
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "open_date": "2026-06-06 13:00",
-      "quota_attuale": 1.01,
-      "quota_iniziale": 1.03,
-      "volume": 2371,
-      "best_volume": 2371,
       "whale_max": 0,
       "entered": false
     }
