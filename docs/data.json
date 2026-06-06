@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 07:31:54",
+  "last_update": "06/06/2026 07:32:28",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,8 +51,8 @@
     {
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
-      "volume": 1604,
-      "quota": 1.17,
+      "volume": 1995,
+      "quota": 1.16,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -184,6 +184,21 @@
       "open_date": "2026-06-06 17:00"
     },
     {
+      "match": "Fylkir v Throttur",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 760,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678224",
+      "market_id": "1.258869897",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "AB v Thisted",
       "campionato": "Danish 2nd Division",
       "volume": 670,
@@ -302,21 +317,6 @@
       "market_id": "1.258929384",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Fylkir v Throttur",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 432,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678224",
-      "market_id": "1.258869897",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Serbia U19 v Kazakhstan U19",
@@ -647,6 +647,21 @@
       "market_id": "1.258869940",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Puerto Montt v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683599",
+      "market_id": "1.258884306",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:30"
     },
     {
       "match": "Arsenal de Sarandi v Sportivo Italiano",
@@ -3169,9 +3184,9 @@
       "match": "Fylkir v Throttur",
       "campionato": "Icelandic 1 Deild",
       "open_date": "2026-06-06 16:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 432,
+      "volume": 760,
       "best_volume": 760,
       "whale_max": 0,
       "entered": false
@@ -3445,6 +3460,18 @@
       "match": "Arsenal de Sarandi v Sportivo Italiano",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 19:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258884306",
+      "match": "Puerto Montt v Cobreloa Calama",
+      "campionato": "Chilean Primera B",
+      "open_date": "2026-06-06 18:30",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
       "volume": 10,
