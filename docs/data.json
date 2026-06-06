@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 13:24:59",
+  "last_update": "06/06/2026 13:25:40",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,36 +109,6 @@
       "open_date": "2026-06-06 13:00"
     },
     {
-      "match": "VSK Aarhus FC v FC Helsingor",
-      "campionato": "Danish 2nd Division",
-      "volume": 1022,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675688",
-      "market_id": "1.258820003",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "Skive v Ishoj IF",
-      "campionato": "Danish 2nd Division",
-      "volume": 1015,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675684",
-      "market_id": "1.258819961",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Gyeongnam v Yongin FC",
       "campionato": "South Korean K2 League",
       "volume": 886,
@@ -184,10 +154,25 @@
       "open_date": "2026-06-06 23:30"
     },
     {
+      "match": "VSK Aarhus FC v FC Helsingor",
+      "campionato": "Danish 2nd Division",
+      "volume": 636,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675688",
+      "market_id": "1.258820003",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
-      "volume": 759,
-      "quota": 1.09,
+      "volume": 622,
+      "quota": 1.1,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -242,6 +227,21 @@
       "market_id": "1.258820024",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "IFK Ostersund v Friska Viljor",
+      "campionato": "Swedish Division 2",
+      "volume": 504,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688711",
+      "market_id": "1.258922543",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Angby IF v Taby FK",
@@ -349,6 +349,21 @@
       "open_date": "2026-06-06 21:00"
     },
     {
+      "match": "Skive v Ishoj IF",
+      "campionato": "Danish 2nd Division",
+      "volume": 255,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675684",
+      "market_id": "1.258819961",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
+    },
+    {
       "match": "Deportivo Armenio v Defensores Unidos",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 206,
@@ -437,21 +452,6 @@
       "market_id": "1.258869961",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 92,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
     },
     {
       "match": "Flandria v Argentino de Quilmes",
@@ -3174,7 +3174,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.02,
-      "volume": 1022,
+      "volume": 636,
       "best_volume": 1457,
       "whale_max": 0,
       "entered": false
@@ -3306,7 +3306,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.02,
-      "volume": 1015,
+      "volume": 255,
       "best_volume": 1015,
       "whale_max": 0,
       "entered": false
@@ -3414,8 +3414,8 @@
       "open_date": "2026-06-06 13:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 92,
-      "best_volume": 92,
+      "volume": 504,
+      "best_volume": 504,
       "whale_max": 0,
       "entered": false
     },
