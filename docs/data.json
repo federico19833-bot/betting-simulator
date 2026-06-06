@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 09:11:46",
+  "last_update": "06/06/2026 09:11:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,21 +64,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "AB v Thisted",
-      "campionato": "Danish 2nd Division",
-      "volume": 1505,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675683",
-      "market_id": "1.258819982",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 14:00"
-    },
-    {
       "match": "Rappe Goif v IFK Trelleborg",
       "campionato": "Swedish Division 2",
       "volume": 1405,
@@ -122,6 +107,21 @@
       "market_id": "1.258930246",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "AB v Thisted",
+      "campionato": "Danish 2nd Division",
+      "volume": 1251,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675683",
+      "market_id": "1.258819982",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 14:00"
     },
     {
       "match": "IF Vestri v Volsungur",
@@ -3494,6 +3494,18 @@
       "quota_iniziale": 1.08,
       "volume": 216,
       "best_volume": 216,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258828862",
+      "match": "Nublense v Univ de Concepcion",
+      "campionato": "Chilean Cup",
+      "open_date": "2026-06-07 00:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 512,
+      "best_volume": 512,
       "whale_max": 0,
       "entered": false
     }
