@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 16:21:56",
+  "last_update": "06/06/2026 16:22:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-06-06 19:30"
     },
     {
+      "match": "TPV v FC Inter 2",
+      "campionato": "Finnish Ykkonen",
+      "volume": 2438,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35686927",
+      "market_id": "1.258907223",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 16:00"
+    },
+    {
       "match": "Olympique Akbou v ES Ben Aknoun",
       "campionato": "Algerian Ligue 1",
       "volume": 1660,
@@ -107,21 +122,6 @@
       "market_id": "1.258910669",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:00"
-    },
-    {
-      "match": "TPV v FC Inter 2",
-      "campionato": "Finnish Ykkonen",
-      "volume": 1598,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35686927",
-      "market_id": "1.258907223",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Portugal U19 v Greece U19",
@@ -169,51 +169,6 @@
       "open_date": "2026-06-06 17:30"
     },
     {
-      "match": "Fylkir v Throttur",
-      "campionato": "Icelandic 1 Deild",
-      "volume": 1105,
-      "quota": 1.35,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678224",
-      "market_id": "1.258869897",
-      "_is_inplay": true,
-      "open_date": "2026-06-06 16:00"
-    },
-    {
-      "match": "Deportes Copiapo v Santiago Wanderers",
-      "campionato": "Chilean Primera B",
-      "volume": 1074,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683588",
-      "market_id": "1.258883379",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 18:30"
-    },
-    {
-      "match": "Brown de Adrogue v Comunicaciones B Aires",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 928,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683112",
-      "market_id": "1.258930330",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:00"
-    },
-    {
       "match": "Mouloudia dOujda v USM Oujda",
       "campionato": "Moroccan Botola 2",
       "volume": 880,
@@ -242,6 +197,21 @@
       "market_id": "1.258930246",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Deportes Copiapo v Santiago Wanderers",
+      "campionato": "Chilean Primera B",
+      "volume": 659,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683588",
+      "market_id": "1.258883379",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 18:30"
     },
     {
       "match": "Falu FK v Korsnas FF",
@@ -302,6 +272,21 @@
       "market_id": "1.258930481",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Brown de Adrogue v Comunicaciones B Aires",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 295,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683112",
+      "market_id": "1.258930330",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:00"
     },
     {
       "match": "Torque v Deportivo Maldonado",
@@ -377,6 +362,21 @@
       "market_id": "1.258930267",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Fylkir v Throttur",
+      "campionato": "Icelandic 1 Deild",
+      "volume": 14,
+      "quota": 1.37,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678224",
+      "market_id": "1.258869897",
+      "_is_inplay": true,
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Iceland U19 v Montenegro U19",
@@ -2860,9 +2860,9 @@
       "match": "Deportes Copiapo v Santiago Wanderers",
       "campionato": "Chilean Primera B",
       "open_date": "2026-06-06 18:30",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.09,
-      "volume": 1074,
+      "volume": 659,
       "best_volume": 1074,
       "whale_max": 0,
       "entered": false
