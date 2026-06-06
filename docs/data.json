@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 15:12:35",
+  "last_update": "06/06/2026 15:13:14",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "OLS v Salpa",
       "campionato": "Finnish Ykkonen",
-      "volume": 13540,
+      "volume": 13248,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -79,6 +79,21 @@
       "open_date": "2026-06-06 20:30"
     },
     {
+      "match": "IFK Ostersund v Friska Viljor",
+      "campionato": "Swedish Division 2",
+      "volume": 2183,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688711",
+      "market_id": "1.258922543",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 13:00"
+    },
+    {
       "match": "Nosaby IF v Karlskrona",
       "campionato": "Swedish Division 2",
       "volume": 1664,
@@ -94,24 +109,9 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "IFK Ostersund v Friska Viljor",
-      "campionato": "Swedish Division 2",
-      "volume": 1515,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688711",
-      "market_id": "1.258922543",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 13:00"
-    },
-    {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1490,
+      "volume": 1500,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -152,21 +152,6 @@
       "market_id": "1.258905732",
       "_is_inplay": false,
       "open_date": "2026-06-06 17:30"
-    },
-    {
-      "match": "Jonkopings Sodra v FC Trollhattan",
-      "campionato": "Swedish Division 1",
-      "volume": 1086,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677024",
-      "market_id": "1.258869940",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Fylkir v Throttur",
@@ -227,6 +212,21 @@
       "market_id": "1.258930267",
       "_is_inplay": false,
       "open_date": "2026-06-06 20:30"
+    },
+    {
+      "match": "Jonkopings Sodra v FC Trollhattan",
+      "campionato": "Swedish Division 1",
+      "volume": 756,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677024",
+      "market_id": "1.258869940",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 16:00"
     },
     {
       "match": "Torque v Deportivo Maldonado",
@@ -2829,8 +2829,8 @@
       "open_date": "2026-06-06 20:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1490,
-      "best_volume": 1490,
+      "volume": 1500,
+      "best_volume": 1500,
       "whale_max": 0,
       "entered": false
     },
@@ -3021,7 +3021,7 @@
       "open_date": "2026-06-06 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.03,
-      "volume": 13540,
+      "volume": 13248,
       "best_volume": 14064,
       "whale_max": 0,
       "entered": false
