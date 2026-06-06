@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 02:12:14",
+  "last_update": "06/06/2026 02:12:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 1021.84
   },
   "live_events": [
+    {
+      "match": "Pocheon FC v Busan Transportation Corp",
+      "campionato": "South Korean K3 League",
+      "volume": 3719,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687170",
+      "market_id": "1.258908946",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 07:00"
+    },
     {
       "match": "Argentino de Merlo v Camioneros",
       "campionato": "Argentinian Primera B Metropolitana",
@@ -47,21 +62,6 @@
       "market_id": "1.258864649",
       "_is_inplay": false,
       "open_date": "2026-06-06 13:00"
-    },
-    {
-      "match": "Pocheon FC v Busan Transportation Corp",
-      "campionato": "South Korean K3 League",
-      "volume": 1484,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687170",
-      "market_id": "1.258908946",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 07:00"
     },
     {
       "match": "EC Vitoria Salvador v Fortaleza EC",
@@ -137,6 +137,21 @@
       "market_id": "1.258869876",
       "_is_inplay": false,
       "open_date": "2026-06-06 16:00"
+    },
+    {
+      "match": "Serbia U19 v Kazakhstan U19",
+      "campionato": "UEFA U19 Euro Qualifiers",
+      "volume": 867,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687735",
+      "market_id": "1.258914778",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 11:00"
     },
     {
       "match": "IFK Ostersund v Friska Viljor",
@@ -244,21 +259,6 @@
       "open_date": "2026-06-06 17:00"
     },
     {
-      "match": "Serbia U19 v Kazakhstan U19",
-      "campionato": "UEFA U19 Euro Qualifiers",
-      "volume": 446,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687735",
-      "market_id": "1.258914778",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 11:00"
-    },
-    {
       "match": "Brabrand v Fremad Amager",
       "campionato": "Danish 2nd Division",
       "volume": 386,
@@ -319,6 +319,21 @@
       "open_date": "2026-06-06 18:30"
     },
     {
+      "match": "Gyeongnam v Yongin FC",
+      "campionato": "South Korean K2 League",
+      "volume": 267,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35669907",
+      "market_id": "1.258835065",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:30"
+    },
+    {
       "match": "TPV v FC Inter 2",
       "campionato": "Finnish Ykkonen",
       "volume": 236,
@@ -377,21 +392,6 @@
       "market_id": "1.258820003",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
-    },
-    {
-      "match": "Gyeongnam v Yongin FC",
-      "campionato": "South Korean K2 League",
-      "volume": 177,
-      "quota": 1.11,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35669907",
-      "market_id": "1.258835065",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:30"
     },
     {
       "match": "Villa Dalmine v Villa San Carlos",
@@ -3067,9 +3067,9 @@
       "match": "Pocheon FC v Busan Transportation Corp",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-06 07:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.07,
-      "volume": 1484,
+      "volume": 3719,
       "best_volume": 4263,
       "whale_max": 0,
       "entered": false
