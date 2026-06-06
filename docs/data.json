@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 17:30:09",
+  "last_update": "06/06/2026 17:30:48",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "Villa Dalmine v Villa San Carlos",
       "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 1667,
+      "volume": 1840,
       "quota": 1.12,
       "in_range": false,
       "monitored": false,
@@ -139,21 +139,6 @@
       "open_date": "2026-06-06 16:00"
     },
     {
-      "match": "Argentino de Merlo v Camioneros",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 659,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683893",
-      "market_id": "1.258930288",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "Flandria v Argentino de Quilmes",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 628,
@@ -214,6 +199,21 @@
       "open_date": "2026-06-06 16:00"
     },
     {
+      "match": "Argentino de Merlo v Camioneros",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 402,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683893",
+      "market_id": "1.258930288",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
+    },
+    {
       "match": "Nacional (Uru) v Juventud De Las Piedras",
       "campionato": "Uruguayan Primera Division",
       "volume": 230,
@@ -259,21 +259,6 @@
       "open_date": "2026-06-06 20:00"
     },
     {
-      "match": "Excursionistas v San Martin de Burzaco",
-      "campionato": "Argentinian Primera B Metropolitana",
-      "volume": 122,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683152",
-      "market_id": "1.258930246",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 20:30"
-    },
-    {
       "match": "EC Vitoria Salvador v Fortaleza EC",
       "campionato": "Brazilian Copa do Nordeste",
       "volume": 67,
@@ -302,6 +287,21 @@
       "market_id": "1.258884306",
       "_is_inplay": false,
       "open_date": "2026-06-06 18:30"
+    },
+    {
+      "match": "Excursionistas v San Martin de Burzaco",
+      "campionato": "Argentinian Primera B Metropolitana",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683152",
+      "market_id": "1.258930246",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 20:30"
     },
     {
       "match": "Nublense v Univ de Concepcion",
@@ -2629,9 +2629,9 @@
       "match": "Excursionistas v San Martin de Burzaco",
       "campionato": "Argentinian Primera B Metropolitana",
       "open_date": "2026-06-06 20:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.07,
-      "volume": 122,
+      "volume": 10,
       "best_volume": 17073,
       "whale_max": 0,
       "entered": false
