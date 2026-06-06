@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 03:08:08",
+  "last_update": "06/06/2026 03:08:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -36,7 +36,7 @@
     {
       "match": "VSK Aarhus FC v FC Helsingor",
       "campionato": "Danish 2nd Division",
-      "volume": 1486,
+      "volume": 1281,
       "quota": 1.03,
       "in_range": false,
       "monitored": false,
@@ -334,21 +334,6 @@
       "open_date": "2026-06-06 13:00"
     },
     {
-      "match": "Linero IF v IFK Berga",
-      "campionato": "Swedish Division 2",
-      "volume": 238,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688164",
-      "market_id": "1.258918503",
-      "_is_inplay": false,
-      "open_date": "2026-06-06 12:00"
-    },
-    {
       "match": "Nykopings BIS v Fittja IF",
       "campionato": "Swedish Division 2",
       "volume": 238,
@@ -452,6 +437,21 @@
       "market_id": "1.258820066",
       "_is_inplay": false,
       "open_date": "2026-06-06 14:00"
+    },
+    {
+      "match": "Linero IF v IFK Berga",
+      "campionato": "Swedish Division 2",
+      "volume": 175,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688164",
+      "market_id": "1.258918503",
+      "_is_inplay": false,
+      "open_date": "2026-06-06 12:00"
     },
     {
       "match": "Ulsan Citizen FC v Gangneung City",
@@ -3165,7 +3165,7 @@
       "open_date": "2026-06-06 14:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.06,
-      "volume": 1486,
+      "volume": 1281,
       "best_volume": 1488,
       "whale_max": 0,
       "entered": false
