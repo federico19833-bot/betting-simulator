@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 10:57:56",
+  "last_update": "07/06/2026 10:58:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -334,6 +334,21 @@
       "open_date": "2026-06-07 15:00"
     },
     {
+      "match": "IK Franke v Bollstanas SK",
+      "campionato": "Swedish Division 2",
+      "volume": 416,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681020",
+      "market_id": "1.258891388",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 13:00"
+    },
+    {
       "match": "Real Potosi v San Antonio Bulo Bulo",
       "campionato": "Bolivian Liga de Futbol Profesional",
       "volume": 366,
@@ -422,21 +437,6 @@
       "market_id": "1.258950872",
       "_is_inplay": false,
       "open_date": "2026-06-07 14:00"
-    },
-    {
-      "match": "IK Franke v Bollstanas SK",
-      "campionato": "Swedish Division 2",
-      "volume": 228,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681020",
-      "market_id": "1.258891388",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 13:00"
     },
     {
       "match": "Deportivo Laferrere v CS Dock Sud",
@@ -3277,10 +3277,10 @@
       "match": "IK Franke v Bollstanas SK",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-07 13:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.04,
-      "volume": 228,
-      "best_volume": 238,
+      "volume": 416,
+      "best_volume": 416,
       "whale_max": 0,
       "entered": false
     },
