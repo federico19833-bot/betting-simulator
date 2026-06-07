@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 12:34:47",
+  "last_update": "07/06/2026 12:35:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,8 +21,8 @@
     {
       "match": "Cheonan City v Suwon FC",
       "campionato": "South Korean K2 League",
-      "volume": 3851,
-      "quota": 1.05,
+      "volume": 3509,
+      "quota": 1.01,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -34,25 +34,10 @@
       "open_date": "2026-06-07 12:30"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 3738,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": true,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Gimpo Citizen v Jeonnam Dragons",
       "campionato": "South Korean K2 League",
-      "volume": 3230,
-      "quota": 1.04,
+      "volume": 3100,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -62,6 +47,21 @@
       "market_id": "1.258796256",
       "_is_inplay": true,
       "open_date": "2026-06-07 12:30"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 2680,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": true,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Widad Temara v KAC Kenitra",
@@ -77,6 +77,21 @@
       "market_id": "1.258941695",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:00"
+    },
+    {
+      "match": "Timor Leste U19 v Myanmar U19",
+      "campionato": "U19 Internationals",
+      "volume": 2459,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688973",
+      "market_id": "1.258941631",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Universidad de Chile v Audax Italiano",
@@ -171,7 +186,7 @@
     {
       "match": "Chabab Atlas Khenifra v SCCM Chabab Mohamedia",
       "campionato": "Moroccan Botola 2",
-      "volume": 1073,
+      "volume": 1068,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -197,21 +212,6 @@
       "market_id": "1.258941652",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:00"
-    },
-    {
-      "match": "Timor Leste U19 v Myanmar U19",
-      "campionato": "U19 Internationals",
-      "volume": 843,
-      "quota": 1.31,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688973",
-      "market_id": "1.258941631",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Orebro Syrianska v Smedby",
@@ -622,7 +622,7 @@
       "match": "Ariana FC v Eskilsminne",
       "campionato": "Swedish Division 1",
       "volume": 10,
-      "quota": 1.02,
+      "quota": 1.03,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3124,9 +3124,9 @@
       "match": "Cheonan City v Suwon FC",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-07 12:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.01,
       "quota_iniziale": 1.05,
-      "volume": 3851,
+      "volume": 3509,
       "best_volume": 3851,
       "whale_max": 0,
       "entered": false
@@ -3136,9 +3136,9 @@
       "match": "Gimpo Citizen v Jeonnam Dragons",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-07 12:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 3230,
+      "volume": 3100,
       "best_volume": 3700,
       "whale_max": 0,
       "entered": false
@@ -3220,7 +3220,7 @@
       "match": "Ariana FC v Eskilsminne",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-07 13:00",
-      "quota_attuale": 1.02,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 481,
@@ -3318,7 +3318,7 @@
       "open_date": "2026-06-07 19:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1073,
+      "volume": 1068,
       "best_volume": 1714,
       "whale_max": 0,
       "entered": false
@@ -3616,9 +3616,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 3738,
+      "volume": 2680,
       "best_volume": 4036,
       "whale_max": 0,
       "entered": false
