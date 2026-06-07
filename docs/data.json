@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 12:21:38",
+  "last_update": "07/06/2026 12:21:54",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -51,8 +51,8 @@
     {
       "match": "Timor Leste U19 v Myanmar U19",
       "campionato": "U19 Internationals",
-      "volume": 2299,
-      "quota": 1.22,
+      "volume": 2420,
+      "quota": 1.21,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -66,7 +66,7 @@
     {
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
-      "volume": 2110,
+      "volume": 2111,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258943819",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:30"
+    },
+    {
+      "match": "Gimpo Citizen v Jeonnam Dragons",
+      "campionato": "South Korean K2 League",
+      "volume": 1448,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670320",
+      "market_id": "1.258796256",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:30"
     },
     {
       "match": "Sollentuna FF v Umea FC",
@@ -330,21 +345,6 @@
       "source": "Betfair",
       "event_id": "35670319",
       "market_id": "1.258796277",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:30"
-    },
-    {
-      "match": "Gimpo Citizen v Jeonnam Dragons",
-      "campionato": "South Korean K2 League",
-      "volume": 326,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670320",
-      "market_id": "1.258796256",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:30"
     },
@@ -3121,9 +3121,9 @@
       "match": "Gimpo Citizen v Jeonnam Dragons",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-07 12:30",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 326,
+      "volume": 1448,
       "best_volume": 1448,
       "whale_max": 0,
       "entered": false
@@ -3387,7 +3387,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 2110,
+      "volume": 2111,
       "best_volume": 2791,
       "whale_max": 0,
       "entered": false
