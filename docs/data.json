@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 02:11:41",
+  "last_update": "07/06/2026 02:12:15",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 961.74
   },
   "live_events": [
+    {
+      "match": "Yeoju FC v Siheung Citizen",
+      "campionato": "South Korean K3 League",
+      "volume": 3563,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687174",
+      "market_id": "1.258910152",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
     {
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
@@ -186,7 +201,7 @@
     {
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
-      "volume": 344,
+      "volume": 354,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -2868,7 +2883,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 344,
+      "volume": 354,
       "best_volume": 1355,
       "whale_max": 0,
       "entered": false
@@ -3122,6 +3137,18 @@
       "quota_iniziale": 1.04,
       "volume": 119,
       "best_volume": 119,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258910152",
+      "match": "Yeoju FC v Siheung Citizen",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-06-07 12:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 3563,
+      "best_volume": 3563,
       "whale_max": 0,
       "entered": false
     }
