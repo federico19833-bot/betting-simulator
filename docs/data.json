@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 12:13:12",
+  "last_update": "07/06/2026 12:13:45",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "Timor Leste U19 v Myanmar U19",
+      "campionato": "U19 Internationals",
+      "volume": 3328,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688973",
+      "market_id": "1.258941631",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
+    },
+    {
       "match": "Ascoli v Union Brescia",
       "campionato": "Italian Serie C",
       "volume": 3199,
@@ -36,7 +51,7 @@
     {
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
-      "volume": 2954,
+      "volume": 3006,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -79,21 +94,6 @@
       "open_date": "2026-06-07 17:00"
     },
     {
-      "match": "Oskarshamns AIK v Osterlen FF",
-      "campionato": "Swedish Division 2",
-      "volume": 1880,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681305",
-      "market_id": "1.258892334",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 14:00"
-    },
-    {
       "match": "La Serena v Union La Calera",
       "campionato": "Chilean Cup",
       "volume": 1828,
@@ -109,21 +109,6 @@
       "open_date": "2026-06-07 18:30"
     },
     {
-      "match": "Timor Leste U19 v Myanmar U19",
-      "campionato": "U19 Internationals",
-      "volume": 1780,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688973",
-      "market_id": "1.258941631",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
-    },
-    {
       "match": "Chabab Atlas Khenifra v SCCM Chabab Mohamedia",
       "campionato": "Moroccan Botola 2",
       "volume": 1714,
@@ -137,6 +122,21 @@
       "market_id": "1.258941673",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:00"
+    },
+    {
+      "match": "Oskarshamns AIK v Osterlen FF",
+      "campionato": "Swedish Division 2",
+      "volume": 1689,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681305",
+      "market_id": "1.258892334",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 14:00"
     },
     {
       "match": "Cheonan City v Suwon FC",
@@ -3591,8 +3591,8 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 2954,
-      "best_volume": 2954,
+      "volume": 3006,
+      "best_volume": 3006,
       "whale_max": 0,
       "entered": false
     },
