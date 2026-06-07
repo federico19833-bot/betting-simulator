@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 09:28:12",
+  "last_update": "07/06/2026 09:28:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -246,7 +246,7 @@
     {
       "match": "Trelleborgs v Skovde AIK",
       "campionato": "Swedish Division 1",
-      "volume": 537,
+      "volume": 547,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -514,21 +514,6 @@
       "open_date": "2026-06-07 21:30"
     },
     {
-      "match": "Staffanstorp United FC v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 129,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681307",
-      "market_id": "1.258895372",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
-    },
-    {
       "match": "Karlslunds IF Hfk v IK Sleipner",
       "campionato": "Swedish Division 2",
       "volume": 106,
@@ -555,6 +540,21 @@
       "source": "Betfair",
       "event_id": "35688686",
       "market_id": "1.258922499",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
+    },
+    {
+      "match": "Staffanstorp United FC v Vaxjo Norra IF",
+      "campionato": "Swedish Division 2",
+      "volume": 86,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681307",
+      "market_id": "1.258895372",
       "_is_inplay": false,
       "open_date": "2026-06-07 16:00"
     },
@@ -3225,7 +3225,7 @@
       "open_date": "2026-06-07 16:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 537,
+      "volume": 547,
       "best_volume": 547,
       "whale_max": 0,
       "entered": false
