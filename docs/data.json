@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 12:30:49",
+  "last_update": "07/06/2026 12:31:22",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -30,7 +30,7 @@
       "source": "Betfair",
       "event_id": "35670321",
       "market_id": "1.258796298",
-      "_is_inplay": false,
+      "_is_inplay": true,
       "open_date": "2026-06-07 12:30"
     },
     {
@@ -45,7 +45,7 @@
       "source": "Betfair",
       "event_id": "35670320",
       "market_id": "1.258796256",
-      "_is_inplay": false,
+      "_is_inplay": true,
       "open_date": "2026-06-07 12:30"
     },
     {
@@ -92,6 +92,36 @@
       "market_id": "1.258943819",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:30"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 1516,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": true,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
+      "match": "Timor Leste U19 v Myanmar U19",
+      "campionato": "U19 Internationals",
+      "volume": 1410,
+      "quota": 1.28,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688973",
+      "market_id": "1.258941631",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Sollentuna FF v Umea FC",
@@ -214,21 +244,6 @@
       "open_date": "2026-06-07 21:00"
     },
     {
-      "match": "Timor Leste U19 v Myanmar U19",
-      "campionato": "U19 Internationals",
-      "volume": 562,
-      "quota": 1.28,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688973",
-      "market_id": "1.258941631",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
-    },
-    {
       "match": "Ranheim IL v Strommen",
       "campionato": "Norwegian 1st Division",
       "volume": 539,
@@ -330,7 +345,7 @@
       "source": "Betfair",
       "event_id": "35670319",
       "market_id": "1.258796277",
-      "_is_inplay": false,
+      "_is_inplay": true,
       "open_date": "2026-06-07 12:30"
     },
     {
@@ -377,21 +392,6 @@
       "market_id": "1.258799777",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 216,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": true,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Rio Barra FC v Campos",
