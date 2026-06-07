@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 02:34:08",
+  "last_update": "07/06/2026 02:34:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
-      "volume": 13455,
+      "volume": 9899,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -120,6 +120,21 @@
       "source": "Betfair",
       "event_id": "35693493",
       "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 840,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:00"
     },
@@ -272,21 +287,6 @@
       "market_id": "1.258828405",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 159,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Rio Barra FC v Campos",
@@ -3087,7 +3087,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 13455,
+      "volume": 9899,
       "best_volume": 13455,
       "whale_max": 0,
       "entered": false
@@ -3145,10 +3145,10 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 159,
-      "best_volume": 159,
+      "volume": 840,
+      "best_volume": 840,
       "whale_max": 0,
       "entered": false
     }
