@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 05:52:37",
+  "last_update": "07/06/2026 05:53:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -422,6 +422,21 @@
       "market_id": "1.258828405",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
+    },
+    {
+      "match": "Helges IF v Kungsangens IF",
+      "campionato": "Swedish Division 2",
+      "volume": 100,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688701",
+      "market_id": "1.258922522",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 13:00"
     },
     {
       "match": "IFK Kumla v Ahlafors IF",
@@ -3311,6 +3326,18 @@
       "quota_iniziale": 1.07,
       "volume": 648,
       "best_volume": 648,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258922522",
+      "match": "Helges IF v Kungsangens IF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-07 13:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 100,
+      "best_volume": 100,
       "whale_max": 0,
       "entered": false
     }
