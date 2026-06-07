@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 05:03:03",
+  "last_update": "07/06/2026 05:03:37",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -392,6 +392,21 @@
       "market_id": "1.258828405",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
+    },
+    {
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 102,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688099",
+      "market_id": "1.258917450",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "IFK Kumla v Ahlafors IF",
@@ -3257,6 +3272,18 @@
       "quota_iniziale": 1.05,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258917450",
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-07 16:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 102,
+      "best_volume": 102,
       "whale_max": 0,
       "entered": false
     }
