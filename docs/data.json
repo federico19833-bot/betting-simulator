@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 11:05:18",
+  "last_update": "07/06/2026 11:05:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -139,21 +139,6 @@
       "open_date": "2026-06-07 23:30"
     },
     {
-      "match": "La Serena v Union La Calera",
-      "campionato": "Chilean Cup",
-      "volume": 1229,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675850",
-      "market_id": "1.258826065",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
-    },
-    {
       "match": "Jeunesse Massira v US Amal Tiznit",
       "campionato": "Moroccan Botola 2",
       "volume": 1050,
@@ -212,6 +197,21 @@
       "market_id": "1.258894258",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "La Serena v Union La Calera",
+      "campionato": "Chilean Cup",
+      "volume": 709,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675850",
+      "market_id": "1.258826065",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
     },
     {
       "match": "Helges IF v Kungsangens IF",
@@ -306,8 +306,8 @@
     {
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
-      "volume": 497,
-      "quota": 1.09,
+      "volume": 422,
+      "quota": 1.08,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3085,9 +3085,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 497,
+      "volume": 422,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
@@ -3339,7 +3339,7 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1229,
+      "volume": 709,
       "best_volume": 2669,
       "whale_max": 0,
       "entered": false
