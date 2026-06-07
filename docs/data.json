@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 11:30:20",
+  "last_update": "07/06/2026 11:30:56",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Ascoli v Union Brescia",
       "campionato": "Italian Serie C",
-      "volume": 3199,
+      "volume": 2666,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -257,6 +257,21 @@
       "market_id": "1.258894258",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "Helges IF v Kungsangens IF",
+      "campionato": "Swedish Division 2",
+      "volume": 696,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688701",
+      "market_id": "1.258922522",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 13:00"
     },
     {
       "match": "Dalstorps IF v Onsala BK",
@@ -615,21 +630,6 @@
       "source": "Betfair",
       "event_id": "35691807",
       "market_id": "1.258950893",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 13:00"
-    },
-    {
-      "match": "Helges IF v Kungsangens IF",
-      "campionato": "Swedish Division 2",
-      "volume": 10,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688701",
-      "market_id": "1.258922522",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
     },
@@ -3087,7 +3087,7 @@
       "open_date": "2026-06-07 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 10,
+      "volume": 696,
       "best_volume": 962,
       "whale_max": 0,
       "entered": false
@@ -3471,7 +3471,7 @@
       "open_date": "2026-06-07 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3199,
+      "volume": 2666,
       "best_volume": 3199,
       "whale_max": 0,
       "entered": false
