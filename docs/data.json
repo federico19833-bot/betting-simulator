@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 02:33:34",
+  "last_update": "07/06/2026 02:34:08",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
-      "volume": 7672,
+      "volume": 13455,
       "quota": 1.05,
       "in_range": false,
       "monitored": false,
@@ -107,6 +107,21 @@
       "market_id": "1.258826065",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
+    },
+    {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 1000,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Indonesia U19 v Vietnam U19",
@@ -259,6 +274,21 @@
       "open_date": "2026-06-07 21:00"
     },
     {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 159,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Rio Barra FC v Campos",
       "campionato": "Brazilian Carioca Matches",
       "volume": 149,
@@ -287,21 +317,6 @@
       "market_id": "1.258826044",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 135,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Orebro Syrianska v Smedby",
@@ -2842,9 +2857,9 @@
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 135,
+      "volume": 1000,
       "best_volume": 1355,
       "whale_max": 0,
       "entered": false
@@ -3072,8 +3087,8 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.02,
-      "volume": 7672,
-      "best_volume": 12579,
+      "volume": 13455,
+      "best_volume": 13455,
       "whale_max": 0,
       "entered": false
     },
@@ -3122,6 +3137,18 @@
       "quota_iniziale": 1.04,
       "volume": 119,
       "best_volume": 119,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258910039",
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-06-07 12:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 159,
+      "best_volume": 159,
       "whale_max": 0,
       "entered": false
     }
