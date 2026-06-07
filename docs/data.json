@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 05:24:26",
+  "last_update": "07/06/2026 05:24:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -94,6 +94,21 @@
       "open_date": "2026-06-07 19:30"
     },
     {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 822,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Indonesia U19 v Vietnam U19",
       "campionato": "U19 Internationals",
       "volume": 784,
@@ -184,6 +199,21 @@
       "open_date": "2026-06-07 19:45"
     },
     {
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 370,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688099",
+      "market_id": "1.258917450",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
+    },
+    {
       "match": "Huachipato v Colo Colo",
       "campionato": "Chilean Cup",
       "volume": 362,
@@ -197,21 +227,6 @@
       "market_id": "1.258826044",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "FBK Karlstad 2 v Skovde",
-      "campionato": "Swedish Division 2",
-      "volume": 360,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688099",
-      "market_id": "1.258917450",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "La Serena v Union La Calera",
@@ -3255,8 +3270,20 @@
       "open_date": "2026-06-07 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 360,
+      "volume": 370,
       "best_volume": 390,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258910039",
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-06-07 12:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 822,
+      "best_volume": 822,
       "whale_max": 0,
       "entered": false
     }
