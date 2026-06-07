@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 02:42:02",
+  "last_update": "07/06/2026 02:42:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 961.74
   },
   "live_events": [
+    {
+      "match": "Yeoju FC v Siheung Citizen",
+      "campionato": "South Korean K3 League",
+      "volume": 15196,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687174",
+      "market_id": "1.258910152",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
     {
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
@@ -94,36 +109,6 @@
       "open_date": "2026-06-07 18:30"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 994,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 889,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Indonesia U19 v Vietnam U19",
       "campionato": "U19 Internationals",
       "volume": 774,
@@ -152,6 +137,21 @@
       "market_id": "1.258941631",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 589,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Jeunesse Massira v US Amal Tiznit",
@@ -2842,9 +2842,9 @@
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.06,
-      "volume": 889,
+      "volume": 589,
       "best_volume": 1355,
       "whale_max": 0,
       "entered": false
@@ -3114,14 +3114,14 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258910039",
-      "match": "Mokpo City v Yangpyeong FC",
+      "event_id": "bf_1.258910152",
+      "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.07,
-      "quota_iniziale": 1.07,
-      "volume": 994,
-      "best_volume": 994,
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 15196,
+      "best_volume": 15196,
       "whale_max": 0,
       "entered": false
     }
