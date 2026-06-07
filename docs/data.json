@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 06:01:09",
+  "last_update": "07/06/2026 06:01:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -216,7 +216,7 @@
     {
       "match": "Universidad de Chile v Audax Italiano",
       "campionato": "Chilean Cup",
-      "volume": 576,
+      "volume": 579,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -364,6 +364,21 @@
       "open_date": "2026-06-07 18:00"
     },
     {
+      "match": "CRB v Sao Bernardo",
+      "campionato": "Brazilian Serie B",
+      "volume": 148,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672805",
+      "market_id": "1.258828405",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 21:00"
+    },
+    {
       "match": "FBK Karlstad 2 v Skovde",
       "campionato": "Swedish Division 2",
       "volume": 142,
@@ -409,24 +424,9 @@
       "open_date": "2026-06-07 12:00"
     },
     {
-      "match": "CRB v Sao Bernardo",
-      "campionato": "Brazilian Serie B",
-      "volume": 124,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672805",
-      "market_id": "1.258828405",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 21:00"
-    },
-    {
       "match": "Helges IF v Kungsangens IF",
       "campionato": "Swedish Division 2",
-      "volume": 100,
+      "volume": 110,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -587,6 +587,21 @@
       "market_id": "1.258950851",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "FK Jonava v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35691216",
+      "market_id": "1.258941168",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 17:00"
     },
     {
       "match": "Racing de Casablanca v Chabab Ben Guerir",
@@ -3036,7 +3051,7 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 576,
+      "volume": 579,
       "best_volume": 1636,
       "whale_max": 0,
       "entered": false
@@ -3336,8 +3351,20 @@
       "open_date": "2026-06-07 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 100,
-      "best_volume": 100,
+      "volume": 110,
+      "best_volume": 110,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258941168",
+      "match": "FK Jonava v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "open_date": "2026-06-07 17:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
