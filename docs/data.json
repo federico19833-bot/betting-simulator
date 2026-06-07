@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 02:30:44",
+  "last_update": "07/06/2026 02:31:19",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 961.74
   },
   "live_events": [
+    {
+      "match": "Yeoju FC v Siheung Citizen",
+      "campionato": "South Korean K3 League",
+      "volume": 12579,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687174",
+      "market_id": "1.258910152",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
     {
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
@@ -92,21 +107,6 @@
       "market_id": "1.258826065",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
-    },
-    {
-      "match": "Yeoju FC v Siheung Citizen",
-      "campionato": "South Korean K3 League",
-      "volume": 890,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687174",
-      "market_id": "1.258910152",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Indonesia U19 v Vietnam U19",
@@ -184,24 +184,9 @@
       "open_date": "2026-06-07 02:30"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 430,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
-      "volume": 428,
+      "volume": 423,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -287,6 +272,21 @@
       "market_id": "1.258799777",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 181,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "CRB v Sao Bernardo",
@@ -2869,9 +2869,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.06,
-      "volume": 430,
+      "volume": 181,
       "best_volume": 1181,
       "whale_max": 0,
       "entered": false
@@ -2883,7 +2883,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 428,
+      "volume": 423,
       "best_volume": 1355,
       "whale_max": 0,
       "entered": false
@@ -3147,8 +3147,8 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.02,
-      "volume": 890,
-      "best_volume": 3563,
+      "volume": 12579,
+      "best_volume": 12579,
       "whale_max": 0,
       "entered": false
     }
