@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 10:08:15",
+  "last_update": "07/06/2026 10:08:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 961.74
   },
   "live_events": [
-    {
-      "match": "Oskarshamns AIK v Osterlen FF",
-      "campionato": "Swedish Division 2",
-      "volume": 1902,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681305",
-      "market_id": "1.258892334",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 14:00"
-    },
     {
       "match": "Universidad de Chile v Audax Italiano",
       "campionato": "Chilean Cup",
@@ -124,21 +109,6 @@
       "open_date": "2026-06-07 17:00"
     },
     {
-      "match": "Real Potosi v San Antonio Bulo Bulo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1294,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632558",
-      "market_id": "1.258835303",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 21:00"
-    },
-    {
       "match": "Indonesia U19 v Vietnam U19",
       "campionato": "U19 Internationals",
       "volume": 1280,
@@ -167,6 +137,21 @@
       "market_id": "1.258902812",
       "_is_inplay": false,
       "open_date": "2026-06-07 22:00"
+    },
+    {
+      "match": "Real Potosi v San Antonio Bulo Bulo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1170,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632558",
+      "market_id": "1.258835303",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 21:00"
     },
     {
       "match": "Yeoju FC v Siheung Citizen",
@@ -212,6 +197,21 @@
       "market_id": "1.258894258",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "Oskarshamns AIK v Osterlen FF",
+      "campionato": "Swedish Division 2",
+      "volume": 720,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681305",
+      "market_id": "1.258892334",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 14:00"
     },
     {
       "match": "Helges IF v Kungsangens IF",
@@ -692,6 +692,21 @@
       "market_id": "1.258950851",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688099",
+      "market_id": "1.258917450",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Widad Temara v KAC Kenitra",
@@ -3570,6 +3585,18 @@
       "open_date": "2026-06-08 00:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258917450",
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-07 16:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
       "volume": 10,
       "best_volume": 10,
       "whale_max": 0,
