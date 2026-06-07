@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 06:21:21",
+  "last_update": "07/06/2026 06:21:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -214,6 +214,21 @@
       "open_date": "2026-06-07 18:30"
     },
     {
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 509,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688099",
+      "market_id": "1.258917450",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
+    },
+    {
       "match": "Barra Mansa v Mageense FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 463,
@@ -242,21 +257,6 @@
       "market_id": "1.258826044",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "FBK Karlstad 2 v Skovde",
-      "campionato": "Swedish Division 2",
-      "volume": 284,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688099",
-      "market_id": "1.258917450",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Kristianstads v Lunds BK",
@@ -3286,10 +3286,10 @@
       "match": "FBK Karlstad 2 v Skovde",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-07 16:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.05,
-      "volume": 284,
-      "best_volume": 390,
+      "volume": 509,
+      "best_volume": 509,
       "whale_max": 0,
       "entered": false
     },
