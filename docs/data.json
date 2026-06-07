@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 10:26:48",
+  "last_update": "07/06/2026 10:27:26",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -64,6 +64,21 @@
       "open_date": "2026-06-07 19:30"
     },
     {
+      "match": "Jeunesse Massira v US Amal Tiznit",
+      "campionato": "Moroccan Botola 2",
+      "volume": 1498,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35690569",
+      "market_id": "1.258941652",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:00"
+    },
+    {
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
       "volume": 1412,
@@ -122,21 +137,6 @@
       "market_id": "1.258902812",
       "_is_inplay": false,
       "open_date": "2026-06-07 22:00"
-    },
-    {
-      "match": "Jeunesse Massira v US Amal Tiznit",
-      "campionato": "Moroccan Botola 2",
-      "volume": 1050,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35690569",
-      "market_id": "1.258941652",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:00"
     },
     {
       "match": "Mokpo City v Yangpyeong FC",
@@ -484,21 +484,6 @@
       "open_date": "2026-06-07 19:45"
     },
     {
-      "match": "CRB v Sao Bernardo",
-      "campionato": "Brazilian Serie B",
-      "volume": 158,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672805",
-      "market_id": "1.258828405",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 21:00"
-    },
-    {
       "match": "Independiente Rivadavia v Tigre",
       "campionato": "Argentinian Cup",
       "volume": 157,
@@ -527,6 +512,21 @@
       "market_id": "1.258902262",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:30"
+    },
+    {
+      "match": "CRB v Sao Bernardo",
+      "campionato": "Brazilian Serie B",
+      "volume": 118,
+      "quota": 1.16,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672805",
+      "market_id": "1.258828405",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 21:00"
     },
     {
       "match": "Karlslunds IF Hfk v IK Sleipner",
@@ -3181,9 +3181,9 @@
       "match": "Jeunesse Massira v US Amal Tiznit",
       "campionato": "Moroccan Botola 2",
       "open_date": "2026-06-07 18:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.02,
-      "volume": 1050,
+      "volume": 1498,
       "best_volume": 1498,
       "whale_max": 0,
       "entered": false
