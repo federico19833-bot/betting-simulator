@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 06:41:47",
+  "last_update": "07/06/2026 06:42:24",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,6 +154,21 @@
       "open_date": "2026-06-07 20:00"
     },
     {
+      "match": "Antofagasta v Magallanes",
+      "campionato": "Chilean Primera B",
+      "volume": 606,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683612",
+      "market_id": "1.258902262",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 21:30"
+    },
+    {
       "match": "Universidad de Chile v Audax Italiano",
       "campionato": "Chilean Cup",
       "volume": 579,
@@ -186,7 +201,7 @@
     {
       "match": "Rio Barra FC v Campos",
       "campionato": "Brazilian Carioca Matches",
-      "volume": 514,
+      "volume": 524,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -364,21 +379,6 @@
       "open_date": "2026-06-07 18:00"
     },
     {
-      "match": "Antofagasta v Magallanes",
-      "campionato": "Chilean Primera B",
-      "volume": 172,
-      "quota": 1.15,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683612",
-      "market_id": "1.258902262",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 21:30"
-    },
-    {
       "match": "CRB v Sao Bernardo",
       "campionato": "Brazilian Serie B",
       "volume": 148,
@@ -437,21 +437,6 @@
       "market_id": "1.258910039",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:00"
-    },
-    {
-      "match": "Helges IF v Kungsangens IF",
-      "campionato": "Swedish Division 2",
-      "volume": 110,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688701",
-      "market_id": "1.258922522",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 13:00"
     },
     {
       "match": "IFK Kumla v Ahlafors IF",
@@ -585,6 +570,21 @@
       "source": "Betfair",
       "event_id": "35691807",
       "market_id": "1.258950893",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 13:00"
+    },
+    {
+      "match": "Helges IF v Kungsangens IF",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688701",
+      "market_id": "1.258922522",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
     },
@@ -3228,7 +3228,7 @@
       "open_date": "2026-06-07 19:45",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 514,
+      "volume": 524,
       "best_volume": 886,
       "whale_max": 0,
       "entered": false
@@ -3384,7 +3384,7 @@
       "open_date": "2026-06-07 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 110,
+      "volume": 10,
       "best_volume": 110,
       "whale_max": 0,
       "entered": false
