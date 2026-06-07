@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 10:22:29",
+  "last_update": "07/06/2026 10:23:06",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,6 +154,21 @@
       "open_date": "2026-06-07 12:00"
     },
     {
+      "match": "Dalstorps IF v Onsala BK",
+      "campionato": "Swedish Division 2",
+      "volume": 747,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35691975",
+      "market_id": "1.258950830",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 14:00"
+    },
+    {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "volume": 744,
@@ -167,21 +182,6 @@
       "market_id": "1.258910152",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:00"
-    },
-    {
-      "match": "Pitea v Enkopings SK",
-      "campionato": "Swedish Division 1",
-      "volume": 738,
-      "quota": 1.02,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35677954",
-      "market_id": "1.258892313",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 14:00"
     },
     {
       "match": "Sollentuna FF v Umea FC",
@@ -227,21 +227,6 @@
       "market_id": "1.258895329",
       "_is_inplay": false,
       "open_date": "2026-06-07 16:00"
-    },
-    {
-      "match": "Dalstorps IF v Onsala BK",
-      "campionato": "Swedish Division 2",
-      "volume": 592,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35691975",
-      "market_id": "1.258950830",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 14:00"
     },
     {
       "match": "Timor Leste U19 v Myanmar U19",
@@ -347,6 +332,21 @@
       "market_id": "1.258826044",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
+    },
+    {
+      "match": "Pitea v Enkopings SK",
+      "campionato": "Swedish Division 1",
+      "volume": 296,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677954",
+      "market_id": "1.258892313",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 14:00"
     },
     {
       "match": "Aatvidabergs Ff v Tvaakers",
@@ -750,21 +750,6 @@
       "source": "Betfair",
       "event_id": "35675866",
       "market_id": "1.258826023",
-      "_is_inplay": false,
-      "open_date": "2026-06-08 00:00"
-    },
-    {
-      "match": "Carabobo FC v Puerto Cabello",
-      "campionato": "Venezuelan Primera Division",
-      "volume": 10,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35691328",
-      "market_id": "1.258942698",
       "_is_inplay": false,
       "open_date": "2026-06-08 00:00"
     }
@@ -3531,18 +3516,6 @@
       "entered": false
     },
     {
-      "event_id": "bf_1.258942698",
-      "match": "Carabobo FC v Puerto Cabello",
-      "campionato": "Venezuelan Primera Division",
-      "open_date": "2026-06-08 00:00",
-      "quota_attuale": 1.03,
-      "quota_iniziale": 1.02,
-      "volume": 10,
-      "best_volume": 10,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258917450",
       "match": "FBK Karlstad 2 v Skovde",
       "campionato": "Swedish Division 2",
@@ -3585,8 +3558,20 @@
       "open_date": "2026-06-07 14:00",
       "quota_attuale": 1.02,
       "quota_iniziale": 1.02,
-      "volume": 738,
+      "volume": 296,
       "best_volume": 738,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258950830",
+      "match": "Dalstorps IF v Onsala BK",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-07 14:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 747,
+      "best_volume": 747,
       "whale_max": 0,
       "entered": false
     }
