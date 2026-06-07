@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 07:19:23",
+  "last_update": "07/06/2026 07:20:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,21 +47,6 @@
       "market_id": "1.258788350",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
-    },
-    {
-      "match": "FK Jonava v Minija Kretinga",
-      "campionato": "Lithuanian 1 Lyga",
-      "volume": 1222,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35691216",
-      "market_id": "1.258941168",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 17:00"
     },
     {
       "match": "River Plate v Aldosivi",
@@ -632,6 +617,21 @@
       "market_id": "1.258922499",
       "_is_inplay": false,
       "open_date": "2026-06-07 16:00"
+    },
+    {
+      "match": "FK Jonava v Minija Kretinga",
+      "campionato": "Lithuanian 1 Lyga",
+      "volume": 10,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35691216",
+      "market_id": "1.258941168",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 17:00"
     },
     {
       "match": "Jeunesse Massira v US Amal Tiznit",
@@ -3411,7 +3411,7 @@
       "open_date": "2026-06-07 17:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
-      "volume": 1222,
+      "volume": 10,
       "best_volume": 1222,
       "whale_max": 0,
       "entered": false
