@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 08:52:57",
+  "last_update": "07/06/2026 08:53:35",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -274,6 +274,21 @@
       "open_date": "2026-06-07 14:00"
     },
     {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 374,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Huachipato v Colo Colo",
       "campionato": "Chilean Cup",
       "volume": 362,
@@ -514,21 +529,6 @@
       "open_date": "2026-06-07 16:00"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 124,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Karlslunds IF Hfk v IK Sleipner",
       "campionato": "Swedish Division 2",
       "volume": 106,
@@ -572,6 +572,21 @@
       "market_id": "1.258894258",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "Defensor Sporting v Boston River",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 65,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35672604",
+      "market_id": "1.258904963",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 23:30"
     },
     {
       "match": "Gimpo Citizen v Jeonnam Dragons",
@@ -677,21 +692,6 @@
       "market_id": "1.258941695",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:00"
-    },
-    {
-      "match": "Defensor Sporting v Boston River",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 10,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35672604",
-      "market_id": "1.258904963",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 23:30"
     },
     {
       "match": "Deportes Limache v Everton De Vina",
@@ -3139,9 +3139,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 124,
+      "volume": 374,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
