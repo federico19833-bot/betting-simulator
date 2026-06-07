@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 07:29:34",
+  "last_update": "07/06/2026 07:30:12",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -259,21 +259,6 @@
       "open_date": "2026-06-07 15:00"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 432,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Universidad de Chile v Audax Italiano",
       "campionato": "Chilean Cup",
       "volume": 395,
@@ -482,6 +467,21 @@
       "market_id": "1.258896976",
       "_is_inplay": false,
       "open_date": "2026-06-07 17:00"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 124,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "IFK Kumla v Ahlafors IF",
@@ -3303,7 +3303,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 432,
+      "volume": 124,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
