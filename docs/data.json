@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 03:04:33",
+  "last_update": "07/06/2026 03:05:07",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -186,7 +186,7 @@
     {
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
-      "volume": 410,
+      "volume": 379,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -362,6 +362,21 @@
       "market_id": "1.258891388",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
+    },
+    {
+      "match": "FC Arlanda v Assyriska FF",
+      "campionato": "Swedish Division 1",
+      "volume": 70,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678188",
+      "market_id": "1.258895306",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Cheonan City v Suwon FC",
@@ -3056,6 +3071,18 @@
       "quota_iniziale": 1.05,
       "volume": 250,
       "best_volume": 250,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258895306",
+      "match": "FC Arlanda v Assyriska FF",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-07 16:00",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 70,
+      "best_volume": 70,
       "whale_max": 0,
       "entered": false
     }
