@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 03:21:25",
+  "last_update": "07/06/2026 03:21:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -126,7 +126,7 @@
     {
       "match": "CSD Rangers v Club Deportes Santa Cruz",
       "campionato": "Chilean Primera B",
-      "volume": 734,
+      "volume": 744,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -259,6 +259,21 @@
       "open_date": "2026-06-07 18:30"
     },
     {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 322,
+      "quota": 1.33,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Las Palmas v Malaga",
       "campionato": "Spanish Segunda Division",
       "volume": 277,
@@ -272,21 +287,6 @@
       "market_id": "1.258799777",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 270,
-      "quota": 1.33,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Mokpo City v Yangpyeong FC",
@@ -3081,7 +3081,7 @@
       "open_date": "2026-06-07 02:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 734,
+      "volume": 744,
       "best_volume": 744,
       "whale_max": 0,
       "entered": false
