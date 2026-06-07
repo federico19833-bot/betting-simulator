@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 07:38:29",
+  "last_update": "07/06/2026 07:39:05",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -19,6 +19,21 @@
   },
   "live_events": [
     {
+      "match": "La Serena v Union La Calera",
+      "campionato": "Chilean Cup",
+      "volume": 2669,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675850",
+      "market_id": "1.258826065",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
+    {
       "match": "Barra Mansa v Mageense FC",
       "campionato": "Brazilian Carioca Matches",
       "volume": 1704,
@@ -32,21 +47,6 @@
       "market_id": "1.258951651",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:45"
-    },
-    {
-      "match": "La Serena v Union La Calera",
-      "campionato": "Chilean Cup",
-      "volume": 1490,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675850",
-      "market_id": "1.258826065",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
     },
     {
       "match": "River Plate v Aldosivi",
@@ -107,6 +107,21 @@
       "market_id": "1.258941673",
       "_is_inplay": false,
       "open_date": "2026-06-07 20:00"
+    },
+    {
+      "match": "Staffanstorp United FC v Vaxjo Norra IF",
+      "campionato": "Swedish Division 2",
+      "volume": 802,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681307",
+      "market_id": "1.258895372",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Sollentuna FF v Umea FC",
@@ -317,21 +332,6 @@
       "market_id": "1.258799777",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Staffanstorp United FC v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 272,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681307",
-      "market_id": "1.258895372",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Cheonan City v Suwon FC",
@@ -3171,8 +3171,8 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 1490,
-      "best_volume": 1490,
+      "volume": 2669,
+      "best_volume": 2669,
       "whale_max": 0,
       "entered": false
     },
@@ -3351,7 +3351,7 @@
       "open_date": "2026-06-07 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 272,
+      "volume": 802,
       "best_volume": 802,
       "whale_max": 0,
       "entered": false
