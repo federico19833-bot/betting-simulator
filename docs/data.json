@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 08:41:32",
+  "last_update": "07/06/2026 08:42:10",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -139,6 +139,21 @@
       "open_date": "2026-06-07 21:00"
     },
     {
+      "match": "Sollentuna FF v Umea FC",
+      "campionato": "Swedish Division 1",
+      "volume": 928,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678201",
+      "market_id": "1.258894258",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
+    },
+    {
       "match": "Chabab Atlas Khenifra v SCCM Chabab Mohamedia",
       "campionato": "Moroccan Botola 2",
       "volume": 892,
@@ -152,21 +167,6 @@
       "market_id": "1.258941673",
       "_is_inplay": false,
       "open_date": "2026-06-07 20:00"
-    },
-    {
-      "match": "Sollentuna FF v Umea FC",
-      "campionato": "Swedish Division 1",
-      "volume": 784,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678201",
-      "market_id": "1.258894258",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Yeoju FC v Siheung Citizen",
@@ -3415,9 +3415,9 @@
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-07 15:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.09,
-      "volume": 784,
+      "volume": 928,
       "best_volume": 928,
       "whale_max": 0,
       "entered": false
