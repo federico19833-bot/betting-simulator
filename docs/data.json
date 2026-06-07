@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 08:00:52",
+  "last_update": "07/06/2026 08:01:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -169,21 +169,6 @@
       "open_date": "2026-06-07 20:00"
     },
     {
-      "match": "Staffanstorp United FC v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 586,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681307",
-      "market_id": "1.258895372",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
-    },
-    {
       "match": "Pitea v Enkopings SK",
       "campionato": "Swedish Division 1",
       "volume": 541,
@@ -332,6 +317,21 @@
       "market_id": "1.258799777",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
+    },
+    {
+      "match": "Staffanstorp United FC v Vaxjo Norra IF",
+      "campionato": "Swedish Division 2",
+      "volume": 272,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681307",
+      "market_id": "1.258895372",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Cheonan City v Suwon FC",
@@ -3234,7 +3234,7 @@
       "open_date": "2026-06-07 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 586,
+      "volume": 272,
       "best_volume": 802,
       "whale_max": 0,
       "entered": false
@@ -3356,6 +3356,102 @@
       "quota_iniziale": 1.08,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258796298",
+      "match": "Cheonan City v Suwon FC",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-06-07 12:30",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 250,
+      "best_volume": 250,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258796256",
+      "match": "Gimpo Citizen v Jeonnam Dragons",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-06-07 12:30",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 64,
+      "best_volume": 64,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258796277",
+      "match": "Seoul E-Land FC v Cheongju FC",
+      "campionato": "South Korean K2 League",
+      "open_date": "2026-06-07 12:30",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258891367",
+      "match": "Kristianstads v Lunds BK",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-07 13:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 250,
+      "best_volume": 250,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258891388",
+      "match": "IK Franke v Bollstanas SK",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-07 13:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 95,
+      "best_volume": 95,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258894258",
+      "match": "Sollentuna FF v Umea FC",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-07 15:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 784,
+      "best_volume": 784,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258826086",
+      "match": "Universidad de Chile v Audax Italiano",
+      "campionato": "Chilean Cup",
+      "open_date": "2026-06-07 18:30",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 395,
+      "best_volume": 395,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258951651",
+      "match": "Barra Mansa v Mageense FC",
+      "campionato": "Brazilian Carioca Matches",
+      "open_date": "2026-06-07 19:45",
+      "quota_attuale": 1.05,
+      "quota_iniziale": 1.05,
+      "volume": 1704,
+      "best_volume": 1704,
       "whale_max": 0,
       "entered": false
     }
