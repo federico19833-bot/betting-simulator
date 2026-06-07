@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 05:31:44",
+  "last_update": "07/06/2026 05:32:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,6 +18,21 @@
     "balance": 961.74
   },
   "live_events": [
+    {
+      "match": "La Serena v Union La Calera",
+      "campionato": "Chilean Cup",
+      "volume": 1490,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675850",
+      "market_id": "1.258826065",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
     {
       "match": "Timor Leste U19 v Myanmar U19",
       "campionato": "U19 Internationals",
@@ -62,21 +77,6 @@
       "market_id": "1.258902812",
       "_is_inplay": false,
       "open_date": "2026-06-07 22:00"
-    },
-    {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 1161,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Deportivo Laferrere v CS Dock Sud",
@@ -137,6 +137,21 @@
       "market_id": "1.258941673",
       "_is_inplay": false,
       "open_date": "2026-06-07 20:00"
+    },
+    {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 822,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Sollentuna FF v Umea FC",
@@ -225,21 +240,6 @@
       "source": "Betfair",
       "event_id": "35676023",
       "market_id": "1.258826086",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
-    },
-    {
-      "match": "La Serena v Union La Calera",
-      "campionato": "Chilean Cup",
-      "volume": 484,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675850",
-      "market_id": "1.258826065",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
     },
@@ -3111,8 +3111,8 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 484,
-      "best_volume": 636,
+      "volume": 1490,
+      "best_volume": 1490,
       "whale_max": 0,
       "entered": false
     },
@@ -3171,7 +3171,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1161,
+      "volume": 822,
       "best_volume": 1161,
       "whale_max": 0,
       "entered": false
