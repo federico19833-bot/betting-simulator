@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 05:09:47",
+  "last_update": "07/06/2026 05:10:21",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -18,21 +18,6 @@
     "balance": 961.74
   },
   "live_events": [
-    {
-      "match": "Sollentuna FF v Umea FC",
-      "campionato": "Swedish Division 1",
-      "volume": 1412,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678201",
-      "market_id": "1.258894258",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
-    },
     {
       "match": "Ranheim IL v Strommen",
       "campionato": "Norwegian 1st Division",
@@ -152,21 +137,6 @@
       "market_id": "1.258892313",
       "_is_inplay": false,
       "open_date": "2026-06-07 14:00"
-    },
-    {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 650,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Chabab Atlas Khenifra v SCCM Chabab Mohamedia",
@@ -499,6 +469,21 @@
       "open_date": "2026-06-07 16:00"
     },
     {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Gimpo Citizen v Jeonnam Dragons",
       "campionato": "South Korean K2 League",
       "volume": 10,
@@ -557,6 +542,21 @@
       "market_id": "1.258891465",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
+    },
+    {
+      "match": "Sollentuna FF v Umea FC",
+      "campionato": "Swedish Division 1",
+      "volume": 10,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678201",
+      "market_id": "1.258894258",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Jeunesse Massira v US Amal Tiznit",
@@ -2980,9 +2980,9 @@
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-07 15:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.04,
-      "volume": 1412,
+      "volume": 10,
       "best_volume": 1412,
       "whale_max": 0,
       "entered": false
@@ -3090,7 +3090,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 650,
+      "volume": 10,
       "best_volume": 958,
       "whale_max": 0,
       "entered": false
