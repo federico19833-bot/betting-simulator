@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 03:07:22",
+  "last_update": "07/06/2026 03:07:55",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -124,21 +124,6 @@
       "open_date": "2026-06-07 15:00"
     },
     {
-      "match": "La Serena v Union La Calera",
-      "campionato": "Chilean Cup",
-      "volume": 636,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675850",
-      "market_id": "1.258826065",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
-    },
-    {
       "match": "Universidad de Chile v Audax Italiano",
       "campionato": "Chilean Cup",
       "volume": 605,
@@ -150,6 +135,21 @@
       "source": "Betfair",
       "event_id": "35676023",
       "market_id": "1.258826086",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
+    {
+      "match": "La Serena v Union La Calera",
+      "campionato": "Chilean Cup",
+      "volume": 550,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675850",
+      "market_id": "1.258826065",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
     },
@@ -184,6 +184,21 @@
       "open_date": "2026-06-07 19:30"
     },
     {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 422,
+      "quota": 1.2,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "CRB v Sao Bernardo",
       "campionato": "Brazilian Serie B",
       "volume": 362,
@@ -197,21 +212,6 @@
       "market_id": "1.258828405",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 309,
-      "quota": 1.19,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "CSD Rangers v Club Deportes Santa Cruz",
@@ -3033,7 +3033,7 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 636,
+      "volume": 550,
       "best_volume": 636,
       "whale_max": 0,
       "entered": false
