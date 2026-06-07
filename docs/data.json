@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 03:11:17",
+  "last_update": "07/06/2026 03:11:51",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,6 +47,21 @@
       "market_id": "1.258891465",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
+    },
+    {
+      "match": "Ranheim IL v Strommen",
+      "campionato": "Norwegian 1st Division",
+      "volume": 1200,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35671317",
+      "market_id": "1.258896976",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 17:00"
     },
     {
       "match": "River Plate v Aldosivi",
@@ -199,21 +214,6 @@
       "open_date": "2026-06-07 19:45"
     },
     {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 444,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "volume": 443,
@@ -225,6 +225,21 @@
       "source": "Betfair",
       "event_id": "35687174",
       "market_id": "1.258910152",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 381,
+      "quota": 1.23,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:00"
     },
@@ -3098,6 +3113,18 @@
       "quota_iniziale": 1.08,
       "volume": 234,
       "best_volume": 234,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258896976",
+      "match": "Ranheim IL v Strommen",
+      "campionato": "Norwegian 1st Division",
+      "open_date": "2026-06-07 17:00",
+      "quota_attuale": 1.03,
+      "quota_iniziale": 1.03,
+      "volume": 1200,
+      "best_volume": 1200,
       "whale_max": 0,
       "entered": false
     }
