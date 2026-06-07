@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 10:34:54",
+  "last_update": "07/06/2026 10:35:31",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -259,6 +259,21 @@
       "open_date": "2026-06-07 14:00"
     },
     {
+      "match": "Cheonan City v Suwon FC",
+      "campionato": "South Korean K2 League",
+      "volume": 552,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670321",
+      "market_id": "1.258796298",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:30"
+    },
+    {
       "match": "Timor Leste U19 v Myanmar U19",
       "campionato": "U19 Internationals",
       "volume": 526,
@@ -287,21 +302,6 @@
       "market_id": "1.258941673",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:00"
-    },
-    {
-      "match": "Cheonan City v Suwon FC",
-      "campionato": "South Korean K2 League",
-      "volume": 477,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670321",
-      "market_id": "1.258796298",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:30"
     },
     {
       "match": "La Serena v Union La Calera",
@@ -3241,10 +3241,10 @@
       "match": "Cheonan City v Suwon FC",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-07 12:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 477,
-      "best_volume": 508,
+      "volume": 552,
+      "best_volume": 552,
       "whale_max": 0,
       "entered": false
     },
