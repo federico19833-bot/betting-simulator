@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 06:04:09",
+  "last_update": "07/06/2026 06:04:43",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -289,6 +289,21 @@
       "open_date": "2026-06-07 15:00"
     },
     {
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 284,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688099",
+      "market_id": "1.258917450",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
+    },
+    {
       "match": "Kristianstads v Lunds BK",
       "campionato": "Swedish Division 1",
       "volume": 282,
@@ -394,21 +409,6 @@
       "open_date": "2026-06-07 21:00"
     },
     {
-      "match": "FBK Karlstad 2 v Skovde",
-      "campionato": "Swedish Division 2",
-      "volume": 142,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688099",
-      "market_id": "1.258917450",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
-    },
-    {
       "match": "Dalstorps IF v Onsala BK",
       "campionato": "Swedish Division 2",
       "volume": 138,
@@ -426,7 +426,7 @@
     {
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
-      "volume": 124,
+      "volume": 134,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -602,6 +602,21 @@
       "market_id": "1.258941168",
       "_is_inplay": false,
       "open_date": "2026-06-07 17:00"
+    },
+    {
+      "match": "Jeunesse Massira v US Amal Tiznit",
+      "campionato": "Moroccan Botola 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35690569",
+      "market_id": "1.258941652",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:00"
     },
     {
       "match": "Racing de Casablanca v Chabab Ben Guerir",
@@ -3241,9 +3256,9 @@
       "match": "FBK Karlstad 2 v Skovde",
       "campionato": "Swedish Division 2",
       "open_date": "2026-06-07 16:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.05,
-      "volume": 142,
+      "volume": 284,
       "best_volume": 390,
       "whale_max": 0,
       "entered": false
@@ -3255,7 +3270,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 124,
+      "volume": 134,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
@@ -3363,6 +3378,18 @@
       "open_date": "2026-06-07 17:00",
       "quota_attuale": 1.03,
       "quota_iniziale": 1.03,
+      "volume": 10,
+      "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258941652",
+      "match": "Jeunesse Massira v US Amal Tiznit",
+      "campionato": "Moroccan Botola 2",
+      "open_date": "2026-06-07 18:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
       "whale_max": 0,
