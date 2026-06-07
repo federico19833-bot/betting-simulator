@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 02:45:59",
+  "last_update": "07/06/2026 02:46:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -47,6 +47,21 @@
       "market_id": "1.258902791",
       "_is_inplay": false,
       "open_date": "2026-06-07 22:00"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 1068,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Las Palmas v Malaga",
@@ -109,21 +124,6 @@
       "open_date": "2026-06-07 15:00"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 707,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Universidad de Chile v Audax Italiano",
       "campionato": "Chilean Cup",
       "volume": 605,
@@ -137,21 +137,6 @@
       "market_id": "1.258826086",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
-    },
-    {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 564,
-      "quota": 1.1,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "La Serena v Union La Calera",
@@ -182,6 +167,21 @@
       "market_id": "1.258941716",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:00"
+    },
+    {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 476,
+      "quota": 1.11,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Deportivo Laferrere v CS Dock Sud",
@@ -3067,9 +3067,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.07,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.03,
-      "volume": 707,
+      "volume": 1068,
       "best_volume": 1277,
       "whale_max": 0,
       "entered": false
