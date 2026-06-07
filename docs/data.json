@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 05:15:32",
+  "last_update": "07/06/2026 05:15:59",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -77,21 +77,6 @@
       "market_id": "1.258835303",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 896,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Deportivo Laferrere v CS Dock Sud",
@@ -212,6 +197,21 @@
       "market_id": "1.258826044",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
+    },
+    {
+      "match": "FBK Karlstad 2 v Skovde",
+      "campionato": "Swedish Division 2",
+      "volume": 360,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688099",
+      "market_id": "1.258917450",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "La Serena v Union La Calera",
@@ -379,21 +379,6 @@
       "open_date": "2026-06-07 21:00"
     },
     {
-      "match": "FBK Karlstad 2 v Skovde",
-      "campionato": "Swedish Division 2",
-      "volume": 102,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688099",
-      "market_id": "1.258917450",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
-    },
-    {
       "match": "IFK Kumla v Ahlafors IF",
       "campionato": "Swedish Division 2",
       "volume": 96,
@@ -452,6 +437,21 @@
       "market_id": "1.258796298",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:30"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 62,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "IFK Karlshamn v Lilla Torg",
@@ -3088,9 +3088,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 896,
+      "volume": 62,
       "best_volume": 958,
       "whale_max": 0,
       "entered": false
@@ -3282,7 +3282,7 @@
       "open_date": "2026-06-07 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 102,
+      "volume": 360,
       "best_volume": 390,
       "whale_max": 0,
       "entered": false
