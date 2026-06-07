@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 02:23:13",
+  "last_update": "07/06/2026 02:23:47",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -152,21 +152,6 @@
       "market_id": "1.258941652",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:00"
-    },
-    {
-      "match": "Yeoju FC v Siheung Citizen",
-      "campionato": "South Korean K3 League",
-      "volume": 466,
-      "quota": 1.04,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687174",
-      "market_id": "1.258910152",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Universidad de Chile v Audax Italiano",
@@ -392,6 +377,21 @@
       "market_id": "1.258891388",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
+    },
+    {
+      "match": "Yeoju FC v Siheung Citizen",
+      "campionato": "South Korean K3 League",
+      "volume": 74,
+      "quota": 1.03,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687174",
+      "market_id": "1.258910152",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Cheonan City v Suwon FC",
@@ -3145,9 +3145,9 @@
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.04,
+      "quota_attuale": 1.03,
       "quota_iniziale": 1.02,
-      "volume": 466,
+      "volume": 74,
       "best_volume": 3563,
       "whale_max": 0,
       "entered": false
