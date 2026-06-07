@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 11:43:12",
+  "last_update": "07/06/2026 11:43:50",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Ascoli v Union Brescia",
       "campionato": "Italian Serie C",
-      "volume": 3059,
+      "volume": 3199,
       "quota": 1.07,
       "in_range": false,
       "monitored": false,
@@ -184,6 +184,21 @@
       "open_date": "2026-06-07 14:00"
     },
     {
+      "match": "Universidad de Chile v Audax Italiano",
+      "campionato": "Chilean Cup",
+      "volume": 1148,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35676023",
+      "market_id": "1.258826086",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
+    {
       "match": "Jeunesse Massira v US Amal Tiznit",
       "campionato": "Moroccan Botola 2",
       "volume": 1050,
@@ -214,21 +229,6 @@
       "open_date": "2026-06-07 22:00"
     },
     {
-      "match": "Universidad de Chile v Audax Italiano",
-      "campionato": "Chilean Cup",
-      "volume": 966,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35676023",
-      "market_id": "1.258826086",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
-    },
-    {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "volume": 744,
@@ -246,7 +246,7 @@
     {
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
-      "volume": 632,
+      "volume": 727,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -409,21 +409,6 @@
       "open_date": "2026-06-07 19:30"
     },
     {
-      "match": "Staffanstorp United FC v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 208,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681307",
-      "market_id": "1.258895372",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
-    },
-    {
       "match": "Trelleborgs v Skovde AIK",
       "campionato": "Swedish Division 1",
       "volume": 206,
@@ -497,6 +482,21 @@
       "market_id": "1.258902756",
       "_is_inplay": false,
       "open_date": "2026-06-07 22:00"
+    },
+    {
+      "match": "Staffanstorp United FC v Vaxjo Norra IF",
+      "campionato": "Swedish Division 2",
+      "volume": 152,
+      "quota": 1.1,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681307",
+      "market_id": "1.258895372",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "IFK Kumla v Ahlafors IF",
@@ -3231,7 +3231,7 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 966,
+      "volume": 1148,
       "best_volume": 1957,
       "whale_max": 0,
       "entered": false
@@ -3471,7 +3471,7 @@
       "open_date": "2026-06-07 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 3059,
+      "volume": 3199,
       "best_volume": 3199,
       "whale_max": 0,
       "entered": false
@@ -3519,8 +3519,8 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 632,
-      "best_volume": 725,
+      "volume": 727,
+      "best_volume": 727,
       "whale_max": 0,
       "entered": false
     },
