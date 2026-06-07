@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 09:36:22",
+  "last_update": "07/06/2026 09:37:01",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -81,7 +81,7 @@
     {
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
-      "volume": 1403,
+      "volume": 1393,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -154,24 +154,9 @@
       "open_date": "2026-06-07 22:00"
     },
     {
-      "match": "La Serena v Union La Calera",
-      "campionato": "Chilean Cup",
-      "volume": 814,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675850",
-      "market_id": "1.258826065",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
-    },
-    {
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
-      "volume": 792,
+      "volume": 802,
       "quota": 1.11,
       "in_range": false,
       "monitored": false,
@@ -182,6 +167,21 @@
       "market_id": "1.258894258",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 797,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Yeoju FC v Siheung Citizen",
@@ -289,6 +289,21 @@
       "open_date": "2026-06-07 19:00"
     },
     {
+      "match": "La Serena v Union La Calera",
+      "campionato": "Chilean Cup",
+      "volume": 436,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675850",
+      "market_id": "1.258826065",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
+    {
       "match": "Cheonan City v Suwon FC",
       "campionato": "South Korean K2 League",
       "volume": 425,
@@ -317,21 +332,6 @@
       "market_id": "1.258788350",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
-    },
-    {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 374,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Huachipato v Colo Colo",
@@ -3057,7 +3057,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1403,
+      "volume": 1393,
       "best_volume": 1403,
       "whale_max": 0,
       "entered": false
@@ -3117,7 +3117,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 374,
+      "volume": 797,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
@@ -3379,9 +3379,9 @@
       "match": "La Serena v Union La Calera",
       "campionato": "Chilean Cup",
       "open_date": "2026-06-07 18:30",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.07,
       "quota_iniziale": 1.06,
-      "volume": 814,
+      "volume": 436,
       "best_volume": 2669,
       "whale_max": 0,
       "entered": false
