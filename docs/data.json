@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 04:15:29",
+  "last_update": "07/06/2026 04:15:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -199,6 +199,21 @@
       "open_date": "2026-06-07 21:30"
     },
     {
+      "match": "Universidad de Chile v Audax Italiano",
+      "campionato": "Chilean Cup",
+      "volume": 556,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35676023",
+      "market_id": "1.258826086",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
+    {
       "match": "La Serena v Union La Calera",
       "campionato": "Chilean Cup",
       "volume": 484,
@@ -210,21 +225,6 @@
       "source": "Betfair",
       "event_id": "35675850",
       "market_id": "1.258826065",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
-    },
-    {
-      "match": "Universidad de Chile v Audax Italiano",
-      "campionato": "Chilean Cup",
-      "volume": 482,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35676023",
-      "market_id": "1.258826086",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
     },
@@ -362,6 +362,21 @@
       "market_id": "1.258941695",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:00"
+    },
+    {
+      "match": "IFK Kumla v Ahlafors IF",
+      "campionato": "Swedish Division 2",
+      "volume": 184,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35691799",
+      "market_id": "1.258950872",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 14:00"
     },
     {
       "match": "FBK Karlstad 2 v Skovde",
@@ -2961,7 +2976,7 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 482,
+      "volume": 556,
       "best_volume": 734,
       "whale_max": 0,
       "entered": false
@@ -3203,6 +3218,18 @@
       "quota_iniziale": 1.03,
       "volume": 138,
       "best_volume": 138,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258950872",
+      "match": "IFK Kumla v Ahlafors IF",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-07 14:00",
+      "quota_attuale": 1.04,
+      "quota_iniziale": 1.04,
+      "volume": 184,
+      "best_volume": 184,
       "whale_max": 0,
       "entered": false
     }
