@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 07:06:05",
+  "last_update": "07/06/2026 07:06:42",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -184,6 +184,21 @@
       "open_date": "2026-06-07 20:00"
     },
     {
+      "match": "Universidad de Chile v Audax Italiano",
+      "campionato": "Chilean Cup",
+      "volume": 579,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35676023",
+      "market_id": "1.258826086",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
+    {
       "match": "Pitea v Enkopings SK",
       "campionato": "Swedish Division 1",
       "volume": 541,
@@ -257,21 +272,6 @@
       "market_id": "1.258941631",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
-    },
-    {
-      "match": "Universidad de Chile v Audax Italiano",
-      "campionato": "Chilean Cup",
-      "volume": 395,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35676023",
-      "market_id": "1.258826086",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
     },
     {
       "match": "Huachipato v Colo Colo",
@@ -585,6 +585,21 @@
       "source": "Betfair",
       "event_id": "35688701",
       "market_id": "1.258922522",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 13:00"
+    },
+    {
+      "match": "Viggbyholms IK FF v IFK Lidingo",
+      "campionato": "Swedish Division 2",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681022",
+      "market_id": "1.258891486",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
     },
@@ -3096,7 +3111,7 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.05,
-      "volume": 395,
+      "volume": 579,
       "best_volume": 1636,
       "whale_max": 0,
       "entered": false
@@ -3434,6 +3449,18 @@
       "quota_iniziale": 1.07,
       "volume": 458,
       "best_volume": 1222,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258891486",
+      "match": "Viggbyholms IK FF v IFK Lidingo",
+      "campionato": "Swedish Division 2",
+      "open_date": "2026-06-07 13:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
