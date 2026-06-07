@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 11:05:55",
+  "last_update": "07/06/2026 11:06:32",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,6 +34,21 @@
       "open_date": "2026-06-07 15:00"
     },
     {
+      "match": "Ascoli v Union Brescia",
+      "campionato": "Italian Serie C",
+      "volume": 1835,
+      "quota": 1.07,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35695189",
+      "market_id": "1.258971106",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:00"
+    },
+    {
       "match": "Chabab Atlas Khenifra v SCCM Chabab Mohamedia",
       "campionato": "Moroccan Botola 2",
       "volume": 1704,
@@ -47,21 +62,6 @@
       "market_id": "1.258941673",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:00"
-    },
-    {
-      "match": "Ascoli v Union Brescia",
-      "campionato": "Italian Serie C",
-      "volume": 1450,
-      "quota": 1.07,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35695189",
-      "market_id": "1.258971106",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:00"
     },
     {
       "match": "Benidorm v Torrevieja",
@@ -139,6 +139,21 @@
       "open_date": "2026-06-07 23:30"
     },
     {
+      "match": "La Serena v Union La Calera",
+      "campionato": "Chilean Cup",
+      "volume": 1229,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35675850",
+      "market_id": "1.258826065",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 18:30"
+    },
+    {
       "match": "Jeunesse Massira v US Amal Tiznit",
       "campionato": "Moroccan Botola 2",
       "volume": 1050,
@@ -199,21 +214,6 @@
       "open_date": "2026-06-07 15:00"
     },
     {
-      "match": "La Serena v Union La Calera",
-      "campionato": "Chilean Cup",
-      "volume": 709,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35675850",
-      "market_id": "1.258826065",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 18:30"
-    },
-    {
       "match": "Helges IF v Kungsangens IF",
       "campionato": "Swedish Division 2",
       "volume": 696,
@@ -261,7 +261,7 @@
     {
       "match": "Cheonan City v Suwon FC",
       "campionato": "South Korean K2 League",
-      "volume": 578,
+      "volume": 588,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -306,8 +306,8 @@
     {
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
-      "volume": 422,
-      "quota": 1.08,
+      "volume": 497,
+      "quota": 1.09,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -3085,9 +3085,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 422,
+      "volume": 497,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
@@ -3231,7 +3231,7 @@
       "open_date": "2026-06-07 12:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 578,
+      "volume": 588,
       "best_volume": 598,
       "whale_max": 0,
       "entered": false
@@ -3339,7 +3339,7 @@
       "open_date": "2026-06-07 18:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.06,
-      "volume": 709,
+      "volume": 1229,
       "best_volume": 2669,
       "whale_max": 0,
       "entered": false
@@ -3543,7 +3543,7 @@
       "open_date": "2026-06-07 18:00",
       "quota_attuale": 1.07,
       "quota_iniziale": 1.07,
-      "volume": 1450,
+      "volume": 1835,
       "best_volume": 1835,
       "whale_max": 0,
       "entered": false
