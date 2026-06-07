@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 12:32:30",
+  "last_update": "07/06/2026 12:33:04",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Gimpo Citizen v Jeonnam Dragons",
       "campionato": "South Korean K2 League",
-      "volume": 3571,
+      "volume": 3700,
       "quota": 1.06,
       "in_range": false,
       "monitored": false,
@@ -32,6 +32,36 @@
       "market_id": "1.258796256",
       "_is_inplay": true,
       "open_date": "2026-06-07 12:30"
+    },
+    {
+      "match": "Cheonan City v Suwon FC",
+      "campionato": "South Korean K2 League",
+      "volume": 3509,
+      "quota": 1.01,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670321",
+      "market_id": "1.258796298",
+      "_is_inplay": true,
+      "open_date": "2026-06-07 12:30"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 3160,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": true,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Widad Temara v KAC Kenitra",
@@ -242,21 +272,6 @@
       "market_id": "1.258896976",
       "_is_inplay": false,
       "open_date": "2026-06-07 17:00"
-    },
-    {
-      "match": "Cheonan City v Suwon FC",
-      "campionato": "South Korean K2 League",
-      "volume": 502,
-      "quota": 1.01,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670321",
-      "market_id": "1.258796298",
-      "_is_inplay": true,
-      "open_date": "2026-06-07 12:30"
     },
     {
       "match": "Antofagasta v Magallanes",
@@ -3111,8 +3126,8 @@
       "open_date": "2026-06-07 12:30",
       "quota_attuale": 1.01,
       "quota_iniziale": 1.05,
-      "volume": 502,
-      "best_volume": 2975,
+      "volume": 3509,
+      "best_volume": 3509,
       "whale_max": 0,
       "entered": false
     },
@@ -3123,8 +3138,8 @@
       "open_date": "2026-06-07 12:30",
       "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 3571,
-      "best_volume": 3571,
+      "volume": 3700,
+      "best_volume": 3700,
       "whale_max": 0,
       "entered": false
     },
@@ -3593,6 +3608,18 @@
       "quota_iniziale": 1.02,
       "volume": 1217,
       "best_volume": 1217,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258910039",
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-06-07 12:00",
+      "quota_attuale": 1.06,
+      "quota_iniziale": 1.06,
+      "volume": 3160,
+      "best_volume": 3160,
       "whale_max": 0,
       "entered": false
     }
