@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 11:26:41",
+  "last_update": "07/06/2026 11:27:17",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -186,7 +186,7 @@
     {
       "match": "Las Palmas v Malaga",
       "campionato": "Spanish Segunda Division",
-      "volume": 996,
+      "volume": 955,
       "quota": 1.17,
       "in_range": false,
       "monitored": false,
@@ -244,6 +244,21 @@
       "open_date": "2026-06-07 12:00"
     },
     {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 725,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
       "volume": 719,
@@ -272,21 +287,6 @@
       "market_id": "1.258922522",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
-    },
-    {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 632,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Dalstorps IF v Onsala BK",
@@ -3569,6 +3569,18 @@
       "quota_iniziale": 1.09,
       "volume": 1257,
       "best_volume": 1267,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258910039",
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "open_date": "2026-06-07 12:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 725,
+      "best_volume": 725,
       "whale_max": 0,
       "entered": false
     }
