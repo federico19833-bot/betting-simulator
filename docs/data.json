@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 03:19:11",
+  "last_update": "07/06/2026 03:19:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -21,7 +21,7 @@
     {
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
-      "volume": 1402,
+      "volume": 1412,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -126,7 +126,7 @@
     {
       "match": "CSD Rangers v Club Deportes Santa Cruz",
       "campionato": "Chilean Primera B",
-      "volume": 734,
+      "volume": 744,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -199,6 +199,21 @@
       "open_date": "2026-06-07 21:30"
     },
     {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 576,
+      "quota": 1.27,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Rio Barra FC v Campos",
       "campionato": "Brazilian Carioca Matches",
       "volume": 463,
@@ -257,21 +272,6 @@
       "market_id": "1.258826065",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
-    },
-    {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 340,
-      "quota": 1.26,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Las Palmas v Malaga",
@@ -396,7 +396,7 @@
     {
       "match": "IK Franke v Bollstanas SK",
       "campionato": "Swedish Division 2",
-      "volume": 85,
+      "volume": 95,
       "quota": 1.04,
       "in_range": false,
       "monitored": false,
@@ -497,6 +497,21 @@
       "market_id": "1.258891367",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
+    },
+    {
+      "match": "Trelleborgs v Skovde AIK",
+      "campionato": "Swedish Division 1",
+      "volume": 10,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681494",
+      "market_id": "1.258895329",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Racing de Casablanca v Chabab Ben Guerir",
@@ -2922,8 +2937,8 @@
       "open_date": "2026-06-07 13:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 85,
-      "best_volume": 85,
+      "volume": 95,
+      "best_volume": 95,
       "whale_max": 0,
       "entered": false
     },
@@ -2946,8 +2961,8 @@
       "open_date": "2026-06-07 15:00",
       "quota_attuale": 1.04,
       "quota_iniziale": 1.04,
-      "volume": 1402,
-      "best_volume": 1402,
+      "volume": 1412,
+      "best_volume": 1412,
       "whale_max": 0,
       "entered": false
     },
@@ -3066,8 +3081,8 @@
       "open_date": "2026-06-07 02:30",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.06,
-      "volume": 734,
-      "best_volume": 734,
+      "volume": 744,
+      "best_volume": 744,
       "whale_max": 0,
       "entered": false
     },
@@ -3152,6 +3167,18 @@
       "quota_iniziale": 1.04,
       "volume": 190,
       "best_volume": 190,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258895329",
+      "match": "Trelleborgs v Skovde AIK",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-07 16:00",
+      "quota_attuale": 1.09,
+      "quota_iniziale": 1.09,
+      "volume": 10,
+      "best_volume": 10,
       "whale_max": 0,
       "entered": false
     }
