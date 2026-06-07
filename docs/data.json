@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 04:48:25",
+  "last_update": "07/06/2026 04:49:00",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,21 +154,6 @@
       "open_date": "2026-06-07 15:00"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 692,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Pitea v Enkopings SK",
       "campionato": "Swedish Division 1",
       "volume": 660,
@@ -212,6 +197,21 @@
       "market_id": "1.258902262",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:30"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 537,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "La Serena v Union La Calera",
@@ -3075,7 +3075,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 692,
+      "volume": 537,
       "best_volume": 932,
       "whale_max": 0,
       "entered": false
