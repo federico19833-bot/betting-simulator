@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 09:01:56",
+  "last_update": "07/06/2026 09:02:34",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -334,21 +334,6 @@
       "open_date": "2026-06-07 12:30"
     },
     {
-      "match": "Kristianstads v Lunds BK",
-      "campionato": "Swedish Division 1",
-      "volume": 250,
-      "quota": 1.03,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681458",
-      "market_id": "1.258891367",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 13:00"
-    },
-    {
       "match": "IK Franke v Bollstanas SK",
       "campionato": "Swedish Division 2",
       "volume": 238,
@@ -514,21 +499,6 @@
       "open_date": "2026-06-07 13:00"
     },
     {
-      "match": "Staffanstorp United FC v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 105,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681307",
-      "market_id": "1.258895372",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
-    },
-    {
       "match": "Orebro Syrianska v Smedby",
       "campionato": "Swedish Division 2",
       "volume": 104,
@@ -540,6 +510,21 @@
       "source": "Betfair",
       "event_id": "35688686",
       "market_id": "1.258922499",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
+    },
+    {
+      "match": "Staffanstorp United FC v Vaxjo Norra IF",
+      "campionato": "Swedish Division 2",
+      "volume": 86,
+      "quota": 1.12,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681307",
+      "market_id": "1.258895372",
       "_is_inplay": false,
       "open_date": "2026-06-07 16:00"
     },
@@ -602,6 +587,21 @@
       "market_id": "1.258796277",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:30"
+    },
+    {
+      "match": "Kristianstads v Lunds BK",
+      "campionato": "Swedish Division 1",
+      "volume": 10,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681458",
+      "market_id": "1.258891367",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 13:00"
     },
     {
       "match": "Ariana FC v Eskilsminne",
@@ -3331,9 +3331,9 @@
       "match": "Kristianstads v Lunds BK",
       "campionato": "Swedish Division 1",
       "open_date": "2026-06-07 13:00",
-      "quota_attuale": 1.03,
+      "quota_attuale": 1.02,
       "quota_iniziale": 1.03,
-      "volume": 250,
+      "volume": 10,
       "best_volume": 250,
       "whale_max": 0,
       "entered": false
