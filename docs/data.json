@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 06:39:56",
+  "last_update": "07/06/2026 06:40:33",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -34,19 +34,19 @@
       "open_date": "2026-06-07 18:30"
     },
     {
-      "match": "Benidorm v Torrevieja",
-      "campionato": "Spanish Preferente Play-Offs",
-      "volume": 1233,
-      "quota": 1.05,
+      "match": "Timor Leste U19 v Myanmar U19",
+      "campionato": "U19 Internationals",
+      "volume": 1222,
+      "quota": 1.07,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
       "whale_tot": 0,
       "source": "Betfair",
-      "event_id": "35693493",
-      "market_id": "1.258958828",
+      "event_id": "35688973",
+      "market_id": "1.258941631",
       "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
+      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "River Plate v Aldosivi",
@@ -81,8 +81,8 @@
     {
       "match": "Real Potosi v San Antonio Bulo Bulo",
       "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 1032,
-      "quota": 1.13,
+      "volume": 973,
+      "quota": 1.14,
       "in_range": false,
       "monitored": false,
       "whale_max": 0,
@@ -287,6 +287,21 @@
       "market_id": "1.258799777",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
+    },
+    {
+      "match": "Benidorm v Torrevieja",
+      "campionato": "Spanish Preferente Play-Offs",
+      "volume": 251,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35693493",
+      "market_id": "1.258958828",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Cheonan City v Suwon FC",
@@ -3187,9 +3202,9 @@
       "match": "Benidorm v Torrevieja",
       "campionato": "Spanish Preferente Play-Offs",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.05,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.05,
-      "volume": 1233,
+      "volume": 251,
       "best_volume": 1233,
       "whale_max": 0,
       "entered": false
@@ -3407,6 +3422,18 @@
       "quota_iniziale": 1.02,
       "volume": 10,
       "best_volume": 10,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258941631",
+      "match": "Timor Leste U19 v Myanmar U19",
+      "campionato": "U19 Internationals",
+      "open_date": "2026-06-07 15:00",
+      "quota_attuale": 1.07,
+      "quota_iniziale": 1.07,
+      "volume": 1222,
+      "best_volume": 1222,
       "whale_max": 0,
       "entered": false
     }
