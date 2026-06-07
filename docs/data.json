@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 11:45:43",
+  "last_update": "07/06/2026 11:46:20",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,21 +109,6 @@
       "open_date": "2026-06-07 19:00"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 1517,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "volume": 1409,
@@ -197,6 +182,21 @@
       "market_id": "1.258904963",
       "_is_inplay": false,
       "open_date": "2026-06-07 23:30"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 1166,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "Universidad de Chile v Audax Italiano",
@@ -484,6 +484,21 @@
       "open_date": "2026-06-07 22:00"
     },
     {
+      "match": "Sollentuna FF v Umea FC",
+      "campionato": "Swedish Division 1",
+      "volume": 154,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35678201",
+      "market_id": "1.258894258",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
+    },
+    {
       "match": "IFK Kumla v Ahlafors IF",
       "campionato": "Swedish Division 2",
       "volume": 144,
@@ -542,21 +557,6 @@
       "market_id": "1.258922499",
       "_is_inplay": false,
       "open_date": "2026-06-07 16:00"
-    },
-    {
-      "match": "Sollentuna FF v Umea FC",
-      "campionato": "Swedish Division 1",
-      "volume": 84,
-      "quota": 1.13,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35678201",
-      "market_id": "1.258894258",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Seoul E-Land FC v Cheongju FC",
@@ -3519,7 +3519,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 1517,
+      "volume": 1166,
       "best_volume": 1517,
       "whale_max": 0,
       "entered": false
