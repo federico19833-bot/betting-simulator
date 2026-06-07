@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 12:21:04",
+  "last_update": "07/06/2026 12:21:38",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -49,9 +49,24 @@
       "open_date": "2026-06-07 18:00"
     },
     {
+      "match": "Timor Leste U19 v Myanmar U19",
+      "campionato": "U19 Internationals",
+      "volume": 2299,
+      "quota": 1.22,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35688973",
+      "market_id": "1.258941631",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
+    },
+    {
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
-      "volume": 2111,
+      "volume": 2110,
       "quota": 1.09,
       "in_range": false,
       "monitored": false,
@@ -79,21 +94,6 @@
       "open_date": "2026-06-07 18:30"
     },
     {
-      "match": "Timor Leste U19 v Myanmar U19",
-      "campionato": "U19 Internationals",
-      "volume": 1869,
-      "quota": 1.22,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35688973",
-      "market_id": "1.258941631",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
-    },
-    {
       "match": "Deportivo Laferrere v CS Dock Sud",
       "campionato": "Argentinian Primera B Metropolitana",
       "volume": 1714,
@@ -107,21 +107,6 @@
       "market_id": "1.258943819",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:30"
-    },
-    {
-      "match": "Gimpo Citizen v Jeonnam Dragons",
-      "campionato": "South Korean K2 League",
-      "volume": 1448,
-      "quota": 1.06,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670320",
-      "market_id": "1.258796256",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:30"
     },
     {
       "match": "Sollentuna FF v Umea FC",
@@ -152,21 +137,6 @@
       "market_id": "1.258910152",
       "_is_inplay": true,
       "open_date": "2026-06-07 12:00"
-    },
-    {
-      "match": "IFK Karlshamn v Lilla Torg",
-      "campionato": "Swedish Division 2",
-      "volume": 1307,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35691895",
-      "market_id": "1.258950851",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "OHiggins v Palestino",
@@ -364,6 +334,21 @@
       "open_date": "2026-06-07 12:30"
     },
     {
+      "match": "Gimpo Citizen v Jeonnam Dragons",
+      "campionato": "South Korean K2 League",
+      "volume": 326,
+      "quota": 1.04,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670320",
+      "market_id": "1.258796256",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:30"
+    },
+    {
       "match": "FC Arlanda v Assyriska FF",
       "campionato": "Swedish Division 1",
       "volume": 282,
@@ -542,6 +527,21 @@
       "market_id": "1.258917450",
       "_is_inplay": false,
       "open_date": "2026-06-07 16:00"
+    },
+    {
+      "match": "IFK Karlshamn v Lilla Torg",
+      "campionato": "Swedish Division 2",
+      "volume": 90,
+      "quota": 1.14,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35691895",
+      "market_id": "1.258950851",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Defensor Sporting v Boston River",
@@ -3081,18 +3081,6 @@
       "entered": true
     },
     {
-      "event_id": "bf_1.258895329",
-      "match": "Trelleborgs v Skovde AIK",
-      "campionato": "Swedish Division 1",
-      "open_date": "2026-06-07 16:00",
-      "quota_attuale": 1.09,
-      "quota_iniziale": 1.02,
-      "volume": 808,
-      "best_volume": 808,
-      "whale_max": 0,
-      "entered": false
-    },
-    {
       "event_id": "bf_1.258941631",
       "match": "Timor Leste U19 v Myanmar U19",
       "campionato": "U19 Internationals",
@@ -3133,9 +3121,9 @@
       "match": "Gimpo Citizen v Jeonnam Dragons",
       "campionato": "South Korean K2 League",
       "open_date": "2026-06-07 12:30",
-      "quota_attuale": 1.06,
+      "quota_attuale": 1.04,
       "quota_iniziale": 1.05,
-      "volume": 1448,
+      "volume": 326,
       "best_volume": 1448,
       "whale_max": 0,
       "entered": false
@@ -3399,7 +3387,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.09,
       "quota_iniziale": 1.09,
-      "volume": 2111,
+      "volume": 2110,
       "best_volume": 2791,
       "whale_max": 0,
       "entered": false
