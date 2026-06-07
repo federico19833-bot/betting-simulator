@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 09:55:58",
+  "last_update": "07/06/2026 09:56:36",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,6 +109,21 @@
       "open_date": "2026-06-07 17:00"
     },
     {
+      "match": "Real Potosi v San Antonio Bulo Bulo",
+      "campionato": "Bolivian Liga de Futbol Profesional",
+      "volume": 1336,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35632558",
+      "market_id": "1.258835303",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 21:00"
+    },
+    {
       "match": "Indonesia U19 v Vietnam U19",
       "campionato": "U19 Internationals",
       "volume": 1280,
@@ -154,21 +169,6 @@
       "open_date": "2026-06-07 15:00"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 797,
-      "quota": 1.08,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "volume": 744,
@@ -212,21 +212,6 @@
       "market_id": "1.258922522",
       "_is_inplay": false,
       "open_date": "2026-06-07 13:00"
-    },
-    {
-      "match": "Real Potosi v San Antonio Bulo Bulo",
-      "campionato": "Bolivian Liga de Futbol Profesional",
-      "volume": 688,
-      "quota": 1.14,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35632558",
-      "market_id": "1.258835303",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 21:00"
     },
     {
       "match": "Trelleborgs v Skovde AIK",
@@ -287,6 +272,21 @@
       "market_id": "1.258941631",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 501,
+      "quota": 1.09,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
     },
     {
       "match": "La Serena v Union La Calera",
@@ -3130,9 +3130,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.08,
+      "quota_attuale": 1.09,
       "quota_iniziale": 1.04,
-      "volume": 797,
+      "volume": 501,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
