@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 10:21:52",
+  "last_update": "07/06/2026 10:22:29",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -62,21 +62,6 @@
       "market_id": "1.258943819",
       "_is_inplay": false,
       "open_date": "2026-06-07 19:30"
-    },
-    {
-      "match": "Las Palmas v Malaga",
-      "campionato": "Spanish Segunda Division",
-      "volume": 1500,
-      "quota": 1.12,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35673404",
-      "market_id": "1.258799777",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 21:00"
     },
     {
       "match": "Jeunesse Massira v US Amal Tiznit",
@@ -156,7 +141,7 @@
     {
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
-      "volume": 771,
+      "volume": 759,
       "quota": 1.08,
       "in_range": false,
       "monitored": false,
@@ -182,6 +167,21 @@
       "market_id": "1.258910152",
       "_is_inplay": false,
       "open_date": "2026-06-07 12:00"
+    },
+    {
+      "match": "Pitea v Enkopings SK",
+      "campionato": "Swedish Division 1",
+      "volume": 738,
+      "quota": 1.02,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35677954",
+      "market_id": "1.258892313",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 14:00"
     },
     {
       "match": "Sollentuna FF v Umea FC",
@@ -362,6 +362,21 @@
       "market_id": "1.258895350",
       "_is_inplay": false,
       "open_date": "2026-06-07 16:00"
+    },
+    {
+      "match": "Las Palmas v Malaga",
+      "campionato": "Spanish Segunda Division",
+      "volume": 239,
+      "quota": 1.13,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35673404",
+      "market_id": "1.258799777",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 21:00"
     },
     {
       "match": "IFK Kumla v Ahlafors IF",
@@ -3102,7 +3117,7 @@
       "open_date": "2026-06-07 12:00",
       "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 771,
+      "volume": 759,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
@@ -3560,6 +3575,18 @@
       "quota_iniziale": 1.04,
       "volume": 235,
       "best_volume": 235,
+      "whale_max": 0,
+      "entered": false
+    },
+    {
+      "event_id": "bf_1.258892313",
+      "match": "Pitea v Enkopings SK",
+      "campionato": "Swedish Division 1",
+      "open_date": "2026-06-07 14:00",
+      "quota_attuale": 1.02,
+      "quota_iniziale": 1.02,
+      "volume": 738,
+      "best_volume": 738,
       "whale_max": 0,
       "entered": false
     }
