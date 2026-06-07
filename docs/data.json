@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 07:39:05",
+  "last_update": "07/06/2026 07:39:44",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -109,21 +109,6 @@
       "open_date": "2026-06-07 20:00"
     },
     {
-      "match": "Staffanstorp United FC v Vaxjo Norra IF",
-      "campionato": "Swedish Division 2",
-      "volume": 802,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35681307",
-      "market_id": "1.258895372",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 16:00"
-    },
-    {
       "match": "Sollentuna FF v Umea FC",
       "campionato": "Swedish Division 1",
       "volume": 784,
@@ -182,6 +167,21 @@
       "market_id": "1.258900957",
       "_is_inplay": false,
       "open_date": "2026-06-07 20:00"
+    },
+    {
+      "match": "Staffanstorp United FC v Vaxjo Norra IF",
+      "campionato": "Swedish Division 2",
+      "volume": 586,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35681307",
+      "market_id": "1.258895372",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 16:00"
     },
     {
       "match": "Pitea v Enkopings SK",
@@ -3351,7 +3351,7 @@
       "open_date": "2026-06-07 16:00",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 802,
+      "volume": 586,
       "best_volume": 802,
       "whale_max": 0,
       "entered": false
