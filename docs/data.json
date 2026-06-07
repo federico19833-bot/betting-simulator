@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 09:55:21",
+  "last_update": "07/06/2026 09:55:58",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -154,6 +154,21 @@
       "open_date": "2026-06-07 15:00"
     },
     {
+      "match": "Mokpo City v Yangpyeong FC",
+      "campionato": "South Korean K3 League",
+      "volume": 797,
+      "quota": 1.08,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35687175",
+      "market_id": "1.258910039",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:00"
+    },
+    {
       "match": "Yeoju FC v Siheung Citizen",
       "campionato": "South Korean K3 League",
       "volume": 744,
@@ -274,21 +289,6 @@
       "open_date": "2026-06-07 15:00"
     },
     {
-      "match": "Mokpo City v Yangpyeong FC",
-      "campionato": "South Korean K3 League",
-      "volume": 501,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35687175",
-      "market_id": "1.258910039",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:00"
-    },
-    {
       "match": "La Serena v Union La Calera",
       "campionato": "Chilean Cup",
       "volume": 446,
@@ -304,21 +304,6 @@
       "open_date": "2026-06-07 18:30"
     },
     {
-      "match": "Cheonan City v Suwon FC",
-      "campionato": "South Korean K2 League",
-      "volume": 430,
-      "quota": 1.05,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35670321",
-      "market_id": "1.258796298",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 12:30"
-    },
-    {
       "match": "Progreso v Albion FC",
       "campionato": "Uruguayan Primera Division",
       "volume": 421,
@@ -332,6 +317,21 @@
       "market_id": "1.258788350",
       "_is_inplay": false,
       "open_date": "2026-06-07 15:00"
+    },
+    {
+      "match": "Cheonan City v Suwon FC",
+      "campionato": "South Korean K2 League",
+      "volume": 420,
+      "quota": 1.05,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35670321",
+      "market_id": "1.258796298",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 12:30"
     },
     {
       "match": "Huachipato v Colo Colo",
@@ -3130,9 +3130,9 @@
       "match": "Mokpo City v Yangpyeong FC",
       "campionato": "South Korean K3 League",
       "open_date": "2026-06-07 12:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.08,
       "quota_iniziale": 1.04,
-      "volume": 501,
+      "volume": 797,
       "best_volume": 822,
       "whale_max": 0,
       "entered": false
@@ -3288,7 +3288,7 @@
       "open_date": "2026-06-07 12:30",
       "quota_attuale": 1.05,
       "quota_iniziale": 1.05,
-      "volume": 430,
+      "volume": 420,
       "best_volume": 430,
       "whale_max": 0,
       "entered": false
