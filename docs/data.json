@@ -1,5 +1,5 @@
 {
-  "last_update": "07/06/2026 06:44:15",
+  "last_update": "07/06/2026 06:44:53",
   "config": {
     "min_odds": 1.08,
     "max_odds": 1.09,
@@ -32,6 +32,21 @@
       "market_id": "1.258826065",
       "_is_inplay": false,
       "open_date": "2026-06-07 18:30"
+    },
+    {
+      "match": "Progreso v Albion FC",
+      "campionato": "Uruguayan Primera Division",
+      "volume": 1228,
+      "quota": 1.06,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35671311",
+      "market_id": "1.258788350",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Timor Leste U19 v Myanmar U19",
@@ -184,6 +199,21 @@
       "open_date": "2026-06-07 20:00"
     },
     {
+      "match": "Antofagasta v Magallanes",
+      "campionato": "Chilean Primera B",
+      "volume": 606,
+      "quota": 1.15,
+      "in_range": false,
+      "monitored": false,
+      "whale_max": 0,
+      "whale_tot": 0,
+      "source": "Betfair",
+      "event_id": "35683612",
+      "market_id": "1.258902262",
+      "_is_inplay": false,
+      "open_date": "2026-06-07 21:30"
+    },
+    {
       "match": "Universidad de Chile v Audax Italiano",
       "campionato": "Chilean Cup",
       "volume": 579,
@@ -272,21 +302,6 @@
       "market_id": "1.258826044",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Progreso v Albion FC",
-      "campionato": "Uruguayan Primera Division",
-      "volume": 296,
-      "quota": 1.09,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35671311",
-      "market_id": "1.258788350",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 15:00"
     },
     {
       "match": "Kristianstads v Lunds BK",
@@ -407,21 +422,6 @@
       "market_id": "1.258828405",
       "_is_inplay": false,
       "open_date": "2026-06-07 21:00"
-    },
-    {
-      "match": "Antofagasta v Magallanes",
-      "campionato": "Chilean Primera B",
-      "volume": 144,
-      "quota": 1.16,
-      "in_range": false,
-      "monitored": false,
-      "whale_max": 0,
-      "whale_tot": 0,
-      "source": "Betfair",
-      "event_id": "35683612",
-      "market_id": "1.258902262",
-      "_is_inplay": false,
-      "open_date": "2026-06-07 21:30"
     },
     {
       "match": "Dalstorps IF v Onsala BK",
@@ -3310,9 +3310,9 @@
       "match": "Progreso v Albion FC",
       "campionato": "Uruguayan Primera Division",
       "open_date": "2026-06-07 15:00",
-      "quota_attuale": 1.09,
+      "quota_attuale": 1.06,
       "quota_iniziale": 1.09,
-      "volume": 296,
+      "volume": 1228,
       "best_volume": 1228,
       "whale_max": 0,
       "entered": false
