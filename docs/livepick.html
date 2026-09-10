@@ -317,7 +317,7 @@ function fillTeams(xs){
   const max = 80;
   const show = sorted.slice(0, max);
   list.hidden = false;
-  list.innerHTML = `<div class="head">${sorted.length} squadre con ${esc(score())} nella finestra</div>` +
+  list.innerHTML = `<div class="head">${sorted.length} partite con ${esc(score())} nella finestra</div>` +
     show.map(r => `<div class="row${picked && picked.id===r.id ? ' on':''}" data-id="${r.id}">
       <div class="vs">${esc(r.casa)} vs ${esc(r.ospite)}</div>
       <div class="meta">${esc(r.paese)} · ${esc(r.campionato)} · ${r.segnale_minuto}'</div>
