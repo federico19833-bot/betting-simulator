@@ -177,20 +177,6 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
     </section>
   </div>
 
-  <section class="card section">
-    <h2>Partite della finestra</h2>
-    <div class="table-wrap">
-      <table>
-        <thead>
-          <tr>
-            <th>Campionato</th><th>Casa</th><th>Ospite</th><th>Min</th>
-            <th>Segnale</th><th>FT</th><th>Gol dopo</th><th>Altro</th><th>O2.5</th>
-          </tr>
-        </thead>
-        <tbody id="body"></tbody>
-      </table>
-    </div>
-  </section>
 </div>
 <script>
 const DATA = location.pathname.includes('/segnali') ? '../livepick_partite.json' : 'livepick_partite.json';
@@ -380,15 +366,6 @@ function render(){
   $('leagues').innerHTML = leagues.length
     ? leagues.map((l,i)=>rankRow(l,i,'camp')).join('')
     : '<p class="note">Pochi campionati in questa finestra.</p>';
-
-  const show = xs.slice(0,80);
-  $('body').innerHTML = show.map(r=>`<tr>
-    <td>${r.campionato}</td><td>${r.casa}</td><td>${r.ospite}</td>
-    <td>${r.segnale_minuto}</td><td>${r.segnale_risultato}</td><td>${r.ft}</td>
-    <td>${r.gol_dopo}</td>
-    <td><span class="${r.altro_gol?'tag-yes':'tag-no'}">${r.altro_gol?'SI':'NO'}</span></td>
-    <td><span class="${r.ft_totale>=3?'tag-yes':'tag-no'}">${r.ft_totale>=3?'SI':'NO'}</span></td>
-  </tr>`).join('') + (xs.length>80?`<tr><td colspan="9">Mostrate 80 di ${xs.length}</td></tr>`:'');
 }
 
 $('minChips').innerHTML = MIN_CHIPS.map(m=>`<button class="chip" data-m="${m}" type="button">${m}'</button>`).join('');
