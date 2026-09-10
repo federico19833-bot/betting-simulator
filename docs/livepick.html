@@ -416,7 +416,7 @@ function render(){
   const lamUse = lambda(n>=8 ? xs : (windowRows(false,false).length>=8 ? windowRows(false,false) : rows.filter(r=>r.segnale_minuto>=55)));
   function empOrPois(need, count){
     if (need<=0) return 1;
-    if (n>=5) return count/n;
+    if (n>=1) return count/n;
     return poissonAtLeast(lamUse*remain, need);
   }
   const showGol = empOrPois(1, k);
@@ -434,7 +434,7 @@ function render(){
     ? `Due gol dopo non può essere più alto del prossimo gol: i ${k2} casi con 2+ gol sono già dentro i ${k} casi con almeno 1 gol. Per questo ${pct(showDue)} ≤ ${pct(showGol)}.`
     : `Due gol dopo è sempre un sottoinsieme del prossimo gol: per farne 2 devi prima farne 1.`;
   $('explain').textContent = n
-    ? `Dal ${score()} tra ${winFrom()}' e ${winTo()}'${campTxt}: prossimo gol ${k}/${n}, due gol dopo ${k2}/${n}.`
+    ? `Dal ${score()} tra ${winFrom()}' e ${winTo()}'${campTxt}: prossimo gol ${k}/${n}, due gol dopo ${k2}/${n}.${n<8?' Campione piccolo: la % è poco stabile.':''}`
     : `Pochi casi esatti. Stima: prossimo gol ${pct(showGol)}, due gol dopo ${pct(showDue)}.`;
   $('scoreHint').textContent = state.scoreLocked
     ? `Risultato scelto da te · finestra ${winFrom()}'–${winTo()}'`
@@ -486,7 +486,7 @@ $('leagues').onclick = e => {
 };
 
 fetch(DATA+'?'+Date.now()).then(r=>r.json()).then(data=>{
-  rows = data;
+  rows = data.filter(r => r.gol_dopo>=0 && r.casa_dopo>=0 && r.ospite_dopo>=0);
   $('excelLink').href = ROOT+'livepick_segnali.xlsx';
   $('dashLink').href = ROOT+'index.html';
   const paesi = [...new Set(rows.map(r=>r.paese))].sort();

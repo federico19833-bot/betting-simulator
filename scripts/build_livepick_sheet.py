@@ -165,6 +165,10 @@ def load_rows() -> list[dict]:
             if not (ht and ft and pk and minute is not None):
                 continue
             gol_dopo = (ft[0] + ft[1]) - (pk[0] + pk[1])
+            casa_dopo = ft[0] - pk[0]
+            ospite_dopo = ft[1] - pk[1]
+            if gol_dopo < 0 or casa_dopo < 0 or ospite_dopo < 0:
+                continue
             scarto = pk[0] - pk[1]
             if scarto > 0:
                 stato = "Vantaggio casa"
@@ -196,8 +200,8 @@ def load_rows() -> list[dict]:
                     "ft_totale": ft[0] + ft[1],
                     "gol_dopo": gol_dopo,
                     "altro_gol": gol_dopo > 0,
-                    "casa_dopo": ft[0] - pk[0],
-                    "ospite_dopo": ft[1] - pk[1],
+                    "casa_dopo": casa_dopo,
+                    "ospite_dopo": ospite_dopo,
                     "minuti_residui_90": residui,
                 }
             )
