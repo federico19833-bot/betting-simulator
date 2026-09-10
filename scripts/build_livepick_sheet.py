@@ -754,7 +754,7 @@ def main() -> None:
     OUT_PARTITE.write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
     OUT_LOOKUP.write_text(json.dumps(lookup, ensure_ascii=False), encoding="utf-8")
     build_xlsx(rows, lookup)
-    write_html()
+    print("sito=docs/livepick.html (non sovrascritto)")
     print(f"partite={len(rows)}")
     print(f"xlsx={OUT_XLSX}")
     print(f"lookup paesi={len(lookup['paesi'])}")
