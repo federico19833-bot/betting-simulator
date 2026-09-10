@@ -101,8 +101,12 @@ fetch('livepick_partite.json?'+Date.now()).then(r=>r.json()).then(data=>{
   const camp = [...new Set(rows.map(r=>r.campionato))].sort();
   $('paese').innerHTML += paesi.map(p=>`<option>${p}</option>`).join('');
   $('campionato').innerHTML += camp.map(p=>`<option>${p}</option>`).join('');
+  const q = new URLSearchParams(location.search);
+  ['paese','campionato','minuto','risultato','altro','squadra'].forEach(id => {
+    if (q.get(id)) $(id).value = q.get(id);
+    $(id).addEventListener('input', render);
+  });
   $('sub').textContent = `${rows.length} segnali storici · filtra paese / minuto / risultato per la probabilità di un altro gol dal segnale`;
-  ['paese','campionato','minuto','risultato','altro','squadra'].forEach(id => $(id).addEventListener('input', render));
   render();
 }).catch(e => { $('sub').textContent = 'Errore: '+e.message; });
 </script>
