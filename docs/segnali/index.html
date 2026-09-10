@@ -319,11 +319,9 @@ function fillTeams(xs){
   const picked = (state.matchId && sorted.find(r => r.id === state.matchId)) || sorted[0];
   $('teamHome').textContent = picked.casa || 'Casa';
   $('teamAway').textContent = picked.ospite || 'Ospite';
-  const max = 80;
-  const show = sorted.slice(0, max);
   list.hidden = false;
   list.innerHTML = `<div class="head">${sorted.length} partite con ${esc(score())} · dalle migliori alle peggiori</div>` +
-    show.map(r => {
+    sorted.map(r => {
       const hit = state.pick==='due' ? r.gol_dopo>=2 : r.altro_gol;
       const outClass = hit ? 'green' : 'red';
       return `<div class="row${picked && picked.id===r.id ? ' on':''}" data-id="${r.id}">
@@ -333,8 +331,7 @@ function fillTeams(xs){
       </div>
       <div class="out ${outClass}">+${r.gol_dopo}</div>
     </div>`;
-    }).join('') +
-    (sorted.length>max ? `<div class="row"><div class="meta">Altre ${sorted.length-max} partite non mostrate.</div></div>` : '');
+    }).join('');
 }
 
 function fillScoreSelect(){
