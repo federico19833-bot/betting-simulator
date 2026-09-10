@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LivePick — Segnali di ingresso</title>
+<style>
+:root { --bg:#0f172a; --card:#1e293b; --line:#334155; --txt:#e2e8f0; --mut:#94a3b8; --yes:#86efac; --no:#fca5a5; --acc:#38bdf8; }
+* { box-sizing:border-box; margin:0; padding:0; }
+body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; background:var(--bg); color:var(--txt); padding:20px; }
+h1 { font-size:22px; margin-bottom:6px; }
+.sub { color:var(--mut); font-size:13px; margin-bottom:16px; }
+.filters { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:10px; background:var(--card); padding:14px; border-radius:10px; margin-bottom:16px; }
+.filters label { font-size:11px; color:var(--mut); display:block; margin-bottom:4px; }
+.filters input, .filters select { width:100%; padding:8px 10px; border-radius:6px; border:1px solid var(--line); background:#0f172a; color:var(--txt); }
+.stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(130px,1fr)); gap:10px; margin-bottom:16px; }
+.stat { background:var(--card); border-radius:10px; padding:12px; text-align:center; }
+.stat .val { font-size:20px; font-weight:700; }
+.stat .lbl { font-size:11px; color:var(--mut); margin-top:2px; }
+.green { color:#22c55e; } .red { color:#ef4444; } .blue { color:#38bdf8; } .yellow { color:#f59e0b; }
+.table-wrap { overflow:auto; background:var(--card); border-radius:10px; max-height:70vh; }
+table { width:100%; border-collapse:collapse; font-size:13px; }
+th { position:sticky; top:0; background:#334155; padding:8px; text-align:left; }
+td { padding:7px 8px; border-bottom:1px solid var(--line); white-space:nowrap; }
+tr:hover { background:#1a2744; }
+.tag-yes { background:#166534; color:var(--yes); padding:1px 6px; border-radius:4px; font-size:11px; font-weight:700; }
+.tag-no { background:#7f1d1d; color:var(--no); padding:1px 6px; border-radius:4px; font-size:11px; font-weight:700; }
+a { color:var(--acc); }
+.links { margin:10px 0 16px; font-size:13px; }
+</style>
+</head>
+<body>
+<h1>LivePick — segnali di ingresso</h1>
+<div class="sub" id="sub">Caricamento...</div>
+<div class="links">
+  <a href="livepick_segnali.xlsx">Scarica Excel</a>
+  · <a href="livepick_lookup.json">Lookup JSON</a>
+</div>
+<div class="filters">
+  <div><label>Paese</label><select id="paese"><option value="">Tutti</option></select></div>
+  <div><label>Campionato</label><select id="campionato"><option value="">Tutti</option></select></div>
+  <div><label>Minuto segnale</label><input id="minuto" type="number" min="1" max="90" placeholder="es. 64"></div>
+  <div><label>Risultato segnale</label><input id="risultato" placeholder="es. 2-1"></div>
+  <div><label>Altro gol</label><select id="altro"><option value="">Tutti</option><option value="1">SI</option><option value="0">NO</option></select></div>
+  <div><label>Cerca squadra</label><input id="squadra" placeholder="nome squadra"></div>
+</div>
+<div class="stats" id="stats"></div>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Paese</th><th>Campionato</th><th>Casa</th><th>Ospite</th><th>Min</th>
+<th>Segnale</th><th>HT</th><th>FT</th><th>Gol dopo</th><th>Altro gol</th>
+</tr>
+</thead>
+<tbody id="body"></tbody>
+</table>
+</div>
+<script>
+let rows = [];
+const $ = id => document.getElementById(id);
+function normScore(s){ return (s||'').replace(/\s+/g,'').replace('–','-'); }
+function render(){
+  const paese = $('paese').value;
+  const camp = $('campionato').value;
+  const minuto = $('minuto').value;
+  const ris = normScore($('risultato').value);
+  const altro = $('altro').value;
+  const sq = $('squadra').value.trim().toLowerCase();
+  const xs = rows.filter(r => {
+    if (paese && r.paese !== paese) return false;
+    if (camp && r.campionato !== camp) return false;
+    if (minuto !== '' && String(r.segnale_minuto) !== String(parseInt(minuto,10))) return false;
+    if (ris && r.segnale_risultato !== ris) return false;
+    if (altro === '1' && !r.altro_gol) return false;
+    if (altro === '0' && r.altro_gol) return false;
+    if (sq && !(`${r.casa} ${r.ospite}`.toLowerCase().includes(sq))) return false;
+    return true;
+  });
+  const n = xs.length;
+  const k = xs.filter(r => r.altro_gol).length;
+  const p = n ? k/n : 0;
+  const e = n ? xs.reduce((s,r)=>s+r.gol_dopo,0)/n : 0;
+  $('stats').innerHTML = `
+    <div class="stat"><div class="val blue">${n}</div><div class="lbl">Partite filtrate</div></div>
+    <div class="stat"><div class="val green">${k}</div><div class="lbl">Altro gol SI</div></div>
+    <div class="stat"><div class="val red">${n-k}</div><div class="lbl">Altro gol NO</div></div>
+    <div class="stat"><div class="val ${p>=0.7?'green':p>=0.5?'yellow':'red'}">${(p*100).toFixed(1)}%</div><div class="lbl">P altro gol dal segnale</div></div>
+    <div class="stat"><div class="val yellow">${e.toFixed(2)}</div><div class="lbl">Gol medi dopo</div></div>`;
+  const show = xs.slice(0, 500);
+  $('body').innerHTML = show.map(r => `<tr>
+    <td>${r.paese}</td><td>${r.campionato}</td><td>${r.casa}</td><td>${r.ospite}</td>
+    <td>${r.segnale_minuto}</td><td>${r.segnale_risultato}</td><td>${r.ht}</td><td>${r.ft}</td>
+    <td>${r.gol_dopo}</td>
+    <td><span class="${r.altro_gol?'tag-yes':'tag-no'}">${r.altro_gol?'SI':'NO'}</span></td>
+  </tr>`).join('') + (xs.length>500?`<tr><td colspan="10">Mostrate 500 di ${xs.length} righe. Restringi i filtri.</td></tr>`:'');
+}
+fetch('livepick_partite.json?'+Date.now()).then(r=>r.json()).then(data=>{
+  rows = data;
+  const paesi = [...new Set(rows.map(r=>r.paese))].sort();
+  const camp = [...new Set(rows.map(r=>r.campionato))].sort();
+  $('paese').innerHTML += paesi.map(p=>`<option>${p}</option>`).join('');
+  $('campionato').innerHTML += camp.map(p=>`<option>${p}</option>`).join('');
+  $('sub').textContent = `${rows.length} segnali storici · filtra paese / minuto / risultato per la probabilità di un altro gol dal segnale`;
+  ['paese','campionato','minuto','risultato','altro','squadra'].forEach(id => $(id).addEventListener('input', render));
+  render();
+}).catch(e => { $('sub').textContent = 'Errore: '+e.message; });
+</script>
+</body>
+</html>
