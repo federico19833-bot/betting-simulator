@@ -33,12 +33,13 @@ h1 { font-size:24px; letter-spacing:-.02em; }
 .scoreboard .role { font-size:10px; color:var(--mut); text-transform:uppercase; letter-spacing:.06em; margin-top:2px; }
 .teams { margin-top:10px; max-height:220px; overflow:auto; border:1px solid var(--line); border-radius:12px; background:#0b1220; text-align:left; }
 .teams .head { padding:8px 10px; font-size:11px; color:var(--mut); border-bottom:1px solid var(--line); position:sticky; top:0; background:#0b1220; }
-.teams .row { padding:8px 10px; border-bottom:1px solid var(--line); cursor:pointer; }
+.teams .row { padding:8px 10px; border-bottom:1px solid var(--line); cursor:pointer; display:flex; justify-content:space-between; gap:10px; align-items:center; }
 .teams .row.on { background:#13213a; }
 .scoreboard .team:empty { display:none; }
 .teams .row:last-child { border-bottom:0; }
 .teams .vs { font-size:13px; font-weight:600; }
 .teams .meta { font-size:11px; color:var(--mut); margin-top:2px; }
+.teams .out { font-size:13px; font-weight:800; white-space:nowrap; }
 .chips { display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
 .chip { border:1px solid var(--line); background:#0e1626; color:#d5def0; border-radius:999px; padding:6px 10px; font-size:12px; cursor:pointer; }
 .chip.on { background:#1d4ed8; border-color:#3b82f6; color:#fff; }
@@ -197,12 +198,12 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
   <div class="tops">
     <section class="card">
       <h2>Top risultati</h2>
-      <p class="note" style="margin-top:0;margin-bottom:8px">Ogni riga mostra sia +1 sia +2. Tocca per usare quel risultato.</p>
+      <p class="note" style="margin-top:0;margin-bottom:8px">Dalle migliori alle peggiori. Tocca per usare quel risultato.</p>
       <div id="topScores"></div>
     </section>
     <section class="card">
       <h2>Top campionati</h2>
-      <p class="note" style="margin-top:0;margin-bottom:8px">Ogni riga mostra sia +1 sia +2. Tocca per filtrare.</p>
+      <p class="note" style="margin-top:0;margin-bottom:8px">Dalle migliori alle peggiori. Tocca per filtrare.</p>
       <div id="leagues"></div>
     </section>
   </div>
@@ -310,18 +311,29 @@ function fillTeams(xs){
     list.innerHTML = '';
     return;
   }
-  const sorted = xs.slice().sort((a,b)=> a.segnale_minuto-b.segnale_minuto || a.casa.localeCompare(b.casa));
+  const sorted = xs.slice().sort((a,b)=>{
+    const aHit = state.pick==='due' ? (a.gol_dopo>=2?1:0) : (a.altro_gol?1:0);
+    const bHit = state.pick==='due' ? (b.gol_dopo>=2?1:0) : (b.altro_gol?1:0);
+    return bHit-aHit || b.gol_dopo-a.gol_dopo || a.casa.localeCompare(b.casa);
+  });
   const picked = (state.matchId && sorted.find(r => r.id === state.matchId)) || sorted[0];
   $('teamHome').textContent = picked.casa || 'Casa';
   $('teamAway').textContent = picked.ospite || 'Ospite';
   const max = 80;
   const show = sorted.slice(0, max);
   list.hidden = false;
-  list.innerHTML = `<div class="head">${sorted.length} partite con ${esc(score())} nella finestra</div>` +
-    show.map(r => `<div class="row${picked && picked.id===r.id ? ' on':''}" data-id="${r.id}">
-      <div class="vs">${esc(r.casa)} vs ${esc(r.ospite)}</div>
-      <div class="meta">${esc(r.paese)} · ${esc(r.campionato)} · ${r.segnale_minuto}'</div>
-    </div>`).join('') +
+  list.innerHTML = `<div class="head">${sorted.length} partite con ${esc(score())} · dalle migliori alle peggiori</div>` +
+    show.map(r => {
+      const hit = state.pick==='due' ? r.gol_dopo>=2 : r.altro_gol;
+      const outClass = hit ? 'green' : 'red';
+      return `<div class="row${picked && picked.id===r.id ? ' on':''}" data-id="${r.id}">
+      <div>
+        <div class="vs">${esc(r.casa)} vs ${esc(r.ospite)}</div>
+        <div class="meta">${esc(r.paese)} · ${esc(r.campionato)} · ${r.segnale_minuto}'</div>
+      </div>
+      <div class="out ${outClass}">+${r.gol_dopo}</div>
+    </div>`;
+    }).join('') +
     (sorted.length>max ? `<div class="row"><div class="meta">Altre ${sorted.length-max} partite non mostrate.</div></div>` : '');
 }
 
