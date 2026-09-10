@@ -64,6 +64,10 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
 .green { color:#34d399; } .yellow { color:#fbbf24; } .red { color:#f87171; } .blue { color:#60a5fa; }
 .section { margin-top:14px; }
 .filters-mini { display:grid; grid-template-columns:1fr 1fr auto; gap:8px; align-items:end; }
+.tops { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:14px; }
+.pcts { text-align:right; font-size:12px; white-space:nowrap; }
+.pcts b { display:block; font-size:16px; }
+@media (max-width:860px) { .tops { grid-template-columns:1fr; } }
 @media (max-width:640px) {
   .filters-mini, .row2, .probs { grid-template-columns:1fr; }
   .score-show .big { font-size:44px; }
@@ -137,13 +141,13 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
   </div>
 
   <section class="card section">
-    <h2>Top campionati più performanti</h2>
+    <h2>Classifiche più performanti</h2>
     <div class="filters-mini">
       <div>
         <label class="field">Classifica su</label>
         <select id="topMode">
-          <option value="globale" selected>Tutti i segnali</option>
-          <option value="filtri">Stessa finestra e risultato</option>
+          <option value="filtri" selected>Finestra 10 minuti</option>
+          <option value="globale">Tutti i segnali</option>
         </select>
       </div>
       <div>
@@ -155,11 +159,23 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
       </div>
       <div>
         <label class="field">&nbsp;</label>
-        <button class="chip" id="clearCamp" type="button">Tutti i campionati</button>
+        <button class="chip" id="clearCamp" type="button">Reset filtri</button>
       </div>
     </div>
-    <div id="leagues"></div>
   </section>
+
+  <div class="tops">
+    <section class="card">
+      <h2>Top risultati</h2>
+      <p class="note" style="margin-top:0;margin-bottom:8px">Risultati al segnale con più altro gol / Over 2.5. Tocca per usarlo.</p>
+      <div id="topScores"></div>
+    </section>
+    <section class="card">
+      <h2>Top campionati</h2>
+      <p class="note" style="margin-top:0;margin-bottom:8px">Campionati più performanti. Tocca per filtrare.</p>
+      <div id="leagues"></div>
+    </section>
+  </div>
 
   <section class="card section">
     <h2>Partite della finestra</h2>
@@ -276,16 +292,44 @@ function wilsonLow(k,n,z=1.96){
   const err=z*Math.sqrt((p*(1-p)+z*z/(4*n))/n)/den;
   return centre-err;
 }
-function leagueRank(list, metric){
+function groupRank(list, keyFn, minN){
   const by = {};
-  for (const r of list) (by[r.campionato] ||= []).push(r);
+  for (const r of list) {
+    const key = keyFn(r);
+    (by[key] ||= []).push(r);
+  }
+  const metric = $('topMetric').value;
   return Object.entries(by).map(([name,xs]) => {
     const n=xs.length;
     const kGol=xs.filter(x=>x.altro_gol).length;
     const kO=xs.filter(x=>x.ft_totale>=3).length;
     const k = metric==='o25' ? kO : kGol;
-    return { name, paese: xs[0].paese, n, k, p:k/n, e: xs.reduce((s,x)=>s+x.gol_dopo,0)/n, low:wilsonLow(k,n) };
-  }).filter(x=>x.n>=8).sort((a,b)=> b.low-a.low || b.n-a.n).slice(0,12);
+    return {
+      name, n, k, kGol, kO,
+      p:k/n, pGol:kGol/n, pO:kO/n,
+      e: xs.reduce((s,x)=>s+x.gol_dopo,0)/n,
+      low:wilsonLow(k,n),
+      paese: xs[0].paese
+    };
+  }).filter(x=>x.n>=minN).sort((a,b)=> b.low-a.low || b.n-a.n).slice(0,10);
+}
+function rankRow(item, i, kind){
+  const metric = $('topMetric').value;
+  const main = metric==='o25' ? item.pO : item.pGol;
+  const data = kind==='score' ? `data-s="${item.name}"` : `data-c="${item.name.replace(/"/g,'&quot;')}"`;
+  const meta = kind==='score'
+    ? `${item.n} segnali · altro gol ${pct(item.pGol)} · Over 2.5 ${pct(item.pO)} · media ${item.e.toFixed(2)}`
+    : `${item.paese} · ${item.n} segnali · altro gol ${pct(item.pGol)} · Over 2.5 ${pct(item.pO)}`;
+  return `<div class="league" ${data}>
+    <div>
+      <div class="name">${i+1}. ${item.name}</div>
+      <div class="meta">${meta}</div>
+    </div>
+    <div class="pcts">
+      <b class="${colorP(main)}">${pct(main)}</b>
+      <div class="pbar"><i style="width:${Math.min(100,main*100)}%"></i></div>
+    </div>
+  </div>`;
 }
 
 function render(){
@@ -326,21 +370,16 @@ function render(){
     : `Impostato in automatico sul più frequente nella finestra ${winFrom()}'–${winTo()}'`;
 
   const mode = $('topMode').value;
-  const metric = $('topMetric').value;
-  const pool = mode==='globale' ? rows : windowRows(false, true);
-  let leagues = leagueRank(pool, metric);
-  if (!leagues.length) leagues = leagueRank(rows, metric);
-  $('leagues').innerHTML = leagues.map((l,i)=>`
-    <div class="league" data-c="${l.name.replace(/"/g,'&quot;')}">
-      <div>
-        <div class="name">${i+1}. ${l.name}</div>
-        <div class="meta">${l.paese} · ${l.k}/${l.n} ${metric==='o25'?'Over 2.5':'altro gol'} · media ${l.e.toFixed(2)}</div>
-      </div>
-      <div style="text-align:right">
-        <div class="${colorP(l.p)}" style="font-weight:700">${pct(l.p)}</div>
-        <div class="pbar"><i style="width:${Math.min(100,l.p*100)}%"></i></div>
-      </div>
-    </div>`).join('');
+  const pool = mode==='globale' ? ( $('paese').value ? rows.filter(r=>r.paese===$('paese').value) : rows ) : windowRows(false, false);
+  const minN = mode==='globale' ? 8 : 6;
+  const topScores = groupRank(pool, r => r.segnale_risultato, minN);
+  const leagues = groupRank(pool, r => r.campionato, minN);
+  $('topScores').innerHTML = topScores.length
+    ? topScores.map((l,i)=>rankRow(l,i,'score')).join('')
+    : '<p class="note">Pochi risultati in questa finestra.</p>';
+  $('leagues').innerHTML = leagues.length
+    ? leagues.map((l,i)=>rankRow(l,i,'camp')).join('')
+    : '<p class="note">Pochi campionati in questa finestra.</p>';
 
   const show = xs.slice(0,80);
   $('body').innerHTML = show.map(r=>`<tr>
@@ -361,8 +400,15 @@ $('scoreChips').onclick = e => {
 };
 $('minuto').oninput = () => setMinuto($('minuto').value);
 $('minutoNum').onchange = () => setMinuto($('minutoNum').value);
-['paese','topMode','topMetric'].forEach(id => $(id).addEventListener('input', () => { state.scoreLocked=false; autoScore(); fillScoreChips(); render(); }));
-$('clearCamp').onclick = () => { state.campionato=''; render(); };
+['paese'].forEach(id => $(id).addEventListener('input', () => { state.scoreLocked=false; autoScore(); fillScoreChips(); render(); }));
+['topMode','topMetric'].forEach(id => $(id).addEventListener('input', render));
+$('clearCamp').onclick = () => { state.campionato=''; state.scoreLocked=false; autoScore(); render(); };
+$('topScores').onclick = e => {
+  const row = e.target.closest('.league');
+  if (!row || !row.dataset.s) return;
+  const [h,a]=row.dataset.s.split('-').map(Number);
+  setScore(h,a,true);
+};
 $('leagues').onclick = e => {
   const row = e.target.closest('.league');
   if (!row) return;
