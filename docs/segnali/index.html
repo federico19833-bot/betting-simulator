@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>LivePick — +1 gol, +2 gol e Over 2.5</title>
-<meta name="description" content="Probabilità di un altro gol, di altri 2 gol e Over 2.5 dal segnale LivePick.">
+<title>LivePick — prossimi 2 gol</title>
+<meta name="description" content="Probabilità dei due gol successivi dal segnale LivePick.">
 <style>
 :root {
   --bg:#070b16; --card:#121a2b; --card2:#1a2438; --line:#2a3754;
@@ -39,9 +39,9 @@ input[type=range] { width:100%; accent-color:#3b82f6; }
 .row2 { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
 .minute-read { font-size:28px; font-weight:700; text-align:center; margin:4px 0 8px; }
 .window { text-align:center; font-size:13px; color:#93c5fd; margin-bottom:8px; }
-.probs { display:grid; grid-template-columns:1fr 1fr 1fr; gap:10px; }
+.probs { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
 .bigp { text-align:center; background:#0b1220; border-radius:14px; padding:14px 8px; }
-.bigp .pct { font-size:36px; font-weight:800; line-height:1; }
+.bigp .pct { font-size:42px; font-weight:800; line-height:1; }
 .bigp .lbl { color:var(--mut); margin-top:6px; font-size:12px; }
 .kpis { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-top:12px; }
 .kpi { background:#0b1220; border-radius:12px; padding:10px; text-align:center; }
@@ -79,7 +79,7 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
 <div class="wrap">
   <header>
     <div>
-      <h1>LivePick — +1 gol, +2 gol e Over 2.5</h1>
+      <h1>LivePick — i due gol successivi</h1>
       <div class="sub" id="sub">Caricamento storico segnali…</div>
     </div>
     <div class="nav">
@@ -115,30 +115,21 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
     </section>
 
     <section class="card card-prob">
-      <h2>Probabilità nella finestra</h2>
+      <h2>Probabilità dei gol successivi</h2>
       <div class="probs">
         <div class="bigp">
           <div class="pct" id="pctGol">—</div>
-          <div class="lbl">+1 gol al 90'</div>
+          <div class="lbl">prossimo gol (+1)</div>
         </div>
         <div class="bigp">
           <div class="pct" id="pctDue">—</div>
-          <div class="lbl">+2 gol al 90'</div>
-        </div>
-        <div class="bigp">
-          <div class="pct" id="pctO25">—</div>
-          <div class="lbl">Over 2.5 dal risultato</div>
+          <div class="lbl">due gol dopo (+2)</div>
         </div>
       </div>
       <div class="kpis">
         <div class="kpi"><b id="kN">—</b><span>partite in finestra</span></div>
-        <div class="kpi"><b id="kO15">—</b><span>Over 1.5 dal risultato</span></div>
         <div class="kpi"><b id="kE">—</b><span>gol medi dopo</span></div>
-      </div>
-      <div class="kpis">
-        <div class="kpi"><b id="kP0">—</b><span>resta lo stesso</span></div>
-        <div class="kpi"><b id="kNeed">—</b><span>gol per Over 2.5</span></div>
-        <div class="kpi"><b id="k10">—</b><span>gol nei prossimi 10'</span></div>
+        <div class="kpi"><b id="kP0">—</b><span>nessun altro gol</span></div>
       </div>
       <p class="note" id="explain"></p>
     </section>
@@ -157,9 +148,8 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
       <div>
         <label class="field">Ordina per</label>
         <select id="topMetric">
-          <option value="gol">+1 gol</option>
-          <option value="due">+2 gol</option>
-          <option value="o25">Over 2.5</option>
+          <option value="gol">Prossimo gol</option>
+          <option value="due">Due gol dopo</option>
         </select>
       </div>
       <div>
@@ -172,7 +162,7 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
   <div class="tops">
     <section class="card">
       <h2>Top risultati</h2>
-      <p class="note" style="margin-top:0;margin-bottom:8px">Risultati al segnale con più +1 gol / +2 gol. Tocca per usarlo.</p>
+      <p class="note" style="margin-top:0;margin-bottom:8px">Risultati con più gol successivi. Tocca per usarlo.</p>
       <div id="topScores"></div>
     </section>
     <section class="card">
@@ -294,11 +284,10 @@ function groupRank(list, keyFn, minN){
     const n=xs.length;
     const kGol=xs.filter(x=>x.altro_gol).length;
     const kDue=xs.filter(x=>x.gol_dopo>=2).length;
-    const kO=xs.filter(x=>x.ft_totale>=3).length;
-    const k = metric==='due' ? kDue : metric==='o25' ? kO : kGol;
+    const k = metric==='due' ? kDue : kGol;
     return {
-      name, n, k, kGol, kDue, kO,
-      p:k/n, pGol:kGol/n, pDue:kDue/n, pO:kO/n,
+      name, n, k, kGol, kDue,
+      p:k/n, pGol:kGol/n, pDue:kDue/n,
       e: xs.reduce((s,x)=>s+x.gol_dopo,0)/n,
       low:wilsonLow(k,n),
       paese: xs[0].paese
@@ -307,11 +296,11 @@ function groupRank(list, keyFn, minN){
 }
 function rankRow(item, i, kind){
   const metric = $('topMetric').value;
-  const main = metric==='due' ? item.pDue : metric==='o25' ? item.pO : item.pGol;
+  const main = metric==='due' ? item.pDue : item.pGol;
   const data = kind==='score' ? `data-s="${item.name}"` : `data-c="${item.name.replace(/"/g,'&quot;')}"`;
   const meta = kind==='score'
-    ? `${item.n} · +1 ${pct(item.pGol)} · +2 ${pct(item.pDue)} · O2.5 ${pct(item.pO)}`
-    : `${item.paese} · ${item.n} · +1 ${pct(item.pGol)} · +2 ${pct(item.pDue)}`;
+    ? `${item.n} · prossimo ${pct(item.pGol)} · due dopo ${pct(item.pDue)}`
+    : `${item.paese} · ${item.n} · prossimo ${pct(item.pGol)} · due dopo ${pct(item.pDue)}`;
   return `<div class="league" ${data}>
     <div>
       <div class="name">${i+1}. ${item.name}</div>
@@ -333,12 +322,8 @@ function render(){
   const k2 = xs.filter(r=>r.gol_dopo>=2).length;
   const e = n? xs.reduce((s,r)=>s+r.gol_dopo,0)/n : 0;
   const p0 = n? xs.filter(r=>r.gol_dopo<=0).length/n : 0;
-  const totNow = state.home + state.away;
-  const need15 = Math.max(0, 2 - totNow);
-  const need25 = Math.max(0, 3 - totNow);
   const remain = Math.max(90-state.minuto,1);
   const lamUse = lambda(n>=8 ? xs : (windowRows(false,false).length>=8 ? windowRows(false,false) : rows.filter(r=>r.segnale_minuto>=55)));
-  const p10 = poisson(lamUse * WINDOW);
   function empOrPois(need, count){
     if (need<=0) return 1;
     if (n>=5) return count/n;
@@ -346,25 +331,18 @@ function render(){
   }
   const showGol = empOrPois(1, k);
   const showDue = empOrPois(2, k2);
-  const showO15 = empOrPois(need15, xs.filter(r=>r.gol_dopo>=need15).length);
-  const showO25 = empOrPois(need25, xs.filter(r=>r.gol_dopo>=need25).length);
 
   $('pctGol').className = 'pct '+colorP(showGol);
   $('pctGol').textContent = pct(showGol);
   $('pctDue').className = 'pct '+colorP(showDue);
   $('pctDue').textContent = pct(showDue);
-  $('pctO25').className = 'pct '+colorP(showO25);
-  $('pctO25').textContent = pct(showO25);
   $('kN').textContent = n;
-  $('kO15').textContent = pct(showO15);
   $('kE').textContent = n? e.toFixed(2) : '—';
   $('kP0').textContent = n? pct(p0) : '—';
-  $('kNeed').textContent = need25===0 ? '0 (già 3+)' : String(need25);
-  $('k10').textContent = pct(p10);
   const campTxt = state.campionato ? ` · ${state.campionato}` : '';
   $('explain').textContent = n
-    ? `Sul ${score()} tra ${winFrom()}' e ${winTo()}'${campTxt}: +1 gol ${k}/${n}, +2 gol ${k2}/${n}. Over 1.5 ${pct(showO15)} (servono ${need15} gol), Over 2.5 ${pct(showO25)} (servono ${need25} gol).`
-    : `Pochi casi esatti. Stima: +1 ${pct(showGol)}, +2 ${pct(showDue)}, Over 2.5 ${pct(showO25)}.`;
+    ? `Dal ${score()} tra ${winFrom()}' e ${winTo()}'${campTxt}: prossimo gol ${k}/${n}, due gol dopo ${k2}/${n}.`
+    : `Pochi casi esatti. Stima: prossimo gol ${pct(showGol)}, due gol dopo ${pct(showDue)}.`;
   $('scoreHint').textContent = state.scoreLocked
     ? `Risultato scelto da te · finestra ${winFrom()}'–${winTo()}'`
     : `Impostato in automatico sul più frequente nella finestra ${winFrom()}'–${winTo()}'`;
