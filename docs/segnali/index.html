@@ -40,9 +40,16 @@ input[type=range] { width:100%; accent-color:#3b82f6; }
 .minute-read { font-size:28px; font-weight:700; text-align:center; margin:4px 0 8px; }
 .window { text-align:center; font-size:13px; color:#93c5fd; margin-bottom:8px; }
 .probs { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
-.bigp { text-align:center; background:#0b1220; border-radius:14px; padding:14px 8px; }
+.bigp {
+  text-align:center; background:#0b1220; border-radius:14px; padding:14px 8px;
+  border:1px solid var(--line); color:inherit; cursor:pointer; width:100%;
+  font-family:inherit;
+}
 .bigp .pct { font-size:42px; font-weight:800; line-height:1; }
-.bigp .lbl { color:var(--mut); margin-top:6px; font-size:12px; }
+.bigp .lbl { color:var(--mut); margin-top:6px; font-size:13px; font-weight:700; }
+.bigp .sublbl { color:#6b7a99; margin-top:4px; font-size:11px; line-height:1.35; }
+.bigp.on { background:#13213a; border-color:#3b82f6; box-shadow:0 0 0 1px #3b82f6 inset; }
+.bigp.on .lbl { color:#bfdbfe; }
 .kpis { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-top:12px; }
 .kpi { background:#0b1220; border-radius:12px; padding:10px; text-align:center; }
 .kpi b { display:block; font-size:18px; }
@@ -63,10 +70,14 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
 .tag-no { background:#7f1d1d; color:#fca5a5; }
 .green { color:#34d399; } .yellow { color:#fbbf24; } .red { color:#f87171; } .blue { color:#60a5fa; }
 .section { margin-top:14px; }
-.filters-mini { display:grid; grid-template-columns:1fr 1fr auto; gap:8px; align-items:end; }
+.filters-mini { display:grid; grid-template-columns:1fr auto; gap:8px; align-items:end; }
 .tops { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:14px; }
-.pcts { text-align:right; font-size:12px; white-space:nowrap; }
-.pcts b { display:block; font-size:16px; }
+.pcts { display:grid; grid-template-columns:1fr 1fr; gap:8px; min-width:150px; text-align:center; }
+.pcts .col { background:#0b1220; border-radius:10px; padding:6px 4px; border:1px solid transparent; }
+.pcts .col.on { border-color:#3b82f6; }
+.pcts b { display:block; font-size:15px; }
+.pcts span { font-size:10px; color:var(--mut); text-transform:uppercase; letter-spacing:.04em; }
+.why { margin-top:10px; padding:10px 12px; background:#0b1220; border-radius:12px; font-size:12px; color:#c9d4ea; line-height:1.45; border:1px solid var(--line); }
 @media (max-width:860px) { .tops { grid-template-columns:1fr; } }
 @media (max-width:640px) {
   .filters-mini, .row2, .probs { grid-template-columns:1fr; }
@@ -111,21 +122,25 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
         <div class="big" id="scoreBig">1-1</div>
         <div class="hint" id="scoreHint">Impostato in automatico sul più frequente nella finestra</div>
       </div>
-      <div class="chips" id="scoreChips"></div>
+      <label class="field">Cambia risultato (se diverso)</label>
+      <select id="scoreSelect"></select>
     </section>
 
     <section class="card card-prob">
-      <h2>Probabilità dei gol successivi</h2>
+      <h2>Due selezioni dopo il risultato</h2>
       <div class="probs">
-        <div class="bigp">
+        <button class="bigp on" id="pickGol" data-pick="gol" type="button">
           <div class="pct" id="pctGol">—</div>
-          <div class="lbl">prossimo gol (+1)</div>
-        </div>
-        <div class="bigp">
+          <div class="lbl">prossimo gol</div>
+          <div class="sublbl">almeno 1 gol dopo questo risultato</div>
+        </button>
+        <button class="bigp" id="pickDue" data-pick="due" type="button">
           <div class="pct" id="pctDue">—</div>
-          <div class="lbl">due gol dopo (+2)</div>
-        </div>
+          <div class="lbl">due gol dopo</div>
+          <div class="sublbl">almeno 2 gol dopo questo risultato</div>
+        </button>
       </div>
+      <p class="why" id="why"></p>
       <div class="kpis">
         <div class="kpi"><b id="kN">—</b><span>partite in finestra</span></div>
         <div class="kpi"><b id="kE">—</b><span>gol medi dopo</span></div>
@@ -146,13 +161,6 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
         </select>
       </div>
       <div>
-        <label class="field">Ordina per</label>
-        <select id="topMetric">
-          <option value="gol">Prossimo gol</option>
-          <option value="due">Due gol dopo</option>
-        </select>
-      </div>
-      <div>
         <label class="field">&nbsp;</label>
         <button class="chip" id="clearCamp" type="button">Reset filtri</button>
       </div>
@@ -162,12 +170,12 @@ td { padding:8px; border-bottom:1px solid var(--line); white-space:nowrap; }
   <div class="tops">
     <section class="card">
       <h2>Top risultati</h2>
-      <p class="note" style="margin-top:0;margin-bottom:8px">Risultati con più gol successivi. Tocca per usarlo.</p>
+      <p class="note" style="margin-top:0;margin-bottom:8px">Ogni riga mostra sia +1 sia +2. Tocca per usare quel risultato.</p>
       <div id="topScores"></div>
     </section>
     <section class="card">
       <h2>Top campionati</h2>
-      <p class="note" style="margin-top:0;margin-bottom:8px">Campionati più performanti. Tocca per filtrare.</p>
+      <p class="note" style="margin-top:0;margin-bottom:8px">Ogni riga mostra sia +1 sia +2. Tocca per filtrare.</p>
       <div id="leagues"></div>
     </section>
   </div>
@@ -179,7 +187,7 @@ const ROOT = location.pathname.includes('/segnali') ? '../' : '';
 const WINDOW = 10;
 const $ = id => document.getElementById(id);
 let rows = [];
-let state = { home: 1, away: 1, minuto: 64, campionato: '', scoreLocked: false };
+let state = { home: 1, away: 1, minuto: 64, campionato: '', scoreLocked: false, pick: 'gol' };
 const MIN_CHIPS = [50,52,55,58,60,62,63,64,65,69];
 
 function score(){ return `${state.home}-${state.away}`; }
@@ -216,12 +224,20 @@ function mostCommonScore(list){
   return best;
 }
 
+function setPick(pick){
+  state.pick = pick === 'due' ? 'due' : 'gol';
+  $('pickGol').classList.toggle('on', state.pick==='gol');
+  $('pickDue').classList.toggle('on', state.pick==='due');
+  render();
+}
+
 function setScore(h,a, locked){
   state.home = Math.max(0, Math.min(9, h));
   state.away = Math.max(0, Math.min(9, a));
   if (locked) state.scoreLocked = true;
   $('scoreBig').textContent = score();
-  document.querySelectorAll('#scoreChips .chip').forEach(c => c.classList.toggle('on', c.dataset.s===score()));
+  const sel = $('scoreSelect');
+  if (sel && [...sel.options].some(o => o.value===score())) sel.value = score();
   render();
 }
 
@@ -245,19 +261,19 @@ function setMinuto(m){
   $('windowLbl').textContent = `Finestra 10 minuti: ${winFrom()}'–${winTo()}'`;
   document.querySelectorAll('#minChips .chip').forEach(c => c.classList.toggle('on', Number(c.dataset.m)===m));
   autoScore();
-  fillScoreChips();
+  fillScoreSelect();
   render();
 }
 
-function fillScoreChips(){
+function fillScoreSelect(){
   const pool = windowRows(false, false);
   const c = {};
   for (const r of pool) c[r.segnale_risultato]=(c[r.segnale_risultato]||0)+1;
-  const extra = ['0-0','1-0','0-1','1-1','2-0','0-2','2-1','1-2','2-2','3-0','0-3','3-1','1-3','3-2','2-3','4-0','0-4','4-1','1-4','4-2','2-4','3-3','5-0','0-5'];
-  extra.forEach(s => { if (c[s]==null) c[s]=0; });
   const items = Object.entries(c).sort((a,b)=> b[1]-a[1] || a[0].localeCompare(b[0]));
-  $('scoreChips').innerHTML = items.slice(0,28).map(([s,n]) =>
-    `<button class="chip${s===score()?' on':''}" data-s="${s}" type="button">${s}${n?`<span class="n">${n}</span>`:''}</button>`
+  const cur = score();
+  if (!c[cur]) items.unshift([cur, 0]);
+  $('scoreSelect').innerHTML = items.map(([s,n]) =>
+    `<option value="${s}"${s===cur?' selected':''}>${s}${n?` · ${n} partite`:''}</option>`
   ).join('');
 }
 
@@ -279,7 +295,7 @@ function groupRank(list, keyFn, minN){
     const key = keyFn(r);
     (by[key] ||= []).push(r);
   }
-  const metric = $('topMetric').value;
+  const metric = state.pick;
   return Object.entries(by).map(([name,xs]) => {
     const n=xs.length;
     const kGol=xs.filter(x=>x.altro_gol).length;
@@ -295,27 +311,31 @@ function groupRank(list, keyFn, minN){
   }).filter(x=>x.n>=minN).sort((a,b)=> b.low-a.low || b.n-a.n).slice(0,10);
 }
 function rankRow(item, i, kind){
-  const metric = $('topMetric').value;
-  const main = metric==='due' ? item.pDue : item.pGol;
   const data = kind==='score' ? `data-s="${item.name}"` : `data-c="${item.name.replace(/"/g,'&quot;')}"`;
-  const meta = kind==='score'
-    ? `${item.n} · prossimo ${pct(item.pGol)} · due dopo ${pct(item.pDue)}`
-    : `${item.paese} · ${item.n} · prossimo ${pct(item.pGol)} · due dopo ${pct(item.pDue)}`;
+  const meta = kind==='score' ? `${item.n} partite` : `${item.paese} · ${item.n} partite`;
   return `<div class="league" ${data}>
     <div>
       <div class="name">${i+1}. ${item.name}</div>
       <div class="meta">${meta}</div>
     </div>
     <div class="pcts">
-      <b class="${colorP(main)}">${pct(main)}</b>
-      <div class="pbar"><i style="width:${Math.min(100,main*100)}%"></i></div>
+      <div class="col${state.pick==='gol'?' on':''}">
+        <span>+1</span>
+        <b class="${colorP(item.pGol)}">${pct(item.pGol)}</b>
+      </div>
+      <div class="col${state.pick==='due'?' on':''}">
+        <span>+2</span>
+        <b class="${colorP(item.pDue)}">${pct(item.pDue)}</b>
+      </div>
     </div>
   </div>`;
 }
 
 function render(){
   if (!rows.length) return;
-  fillScoreChips();
+  fillScoreSelect();
+  $('pickGol').classList.toggle('on', state.pick==='gol');
+  $('pickDue').classList.toggle('on', state.pick==='due');
   const xs = windowRows(true, true);
   const n = xs.length;
   const k = xs.filter(r=>r.altro_gol).length;
@@ -330,7 +350,7 @@ function render(){
     return poissonAtLeast(lamUse*remain, need);
   }
   const showGol = empOrPois(1, k);
-  const showDue = empOrPois(2, k2);
+  const showDue = Math.min(empOrPois(2, k2), showGol);
 
   $('pctGol').className = 'pct '+colorP(showGol);
   $('pctGol').textContent = pct(showGol);
@@ -340,6 +360,9 @@ function render(){
   $('kE').textContent = n? e.toFixed(2) : '—';
   $('kP0').textContent = n? pct(p0) : '—';
   const campTxt = state.campionato ? ` · ${state.campionato}` : '';
+  $('why').textContent = n
+    ? `Due gol dopo non può essere più alto del prossimo gol: i ${k2} casi con 2+ gol sono già dentro i ${k} casi con almeno 1 gol. Per questo ${pct(showDue)} ≤ ${pct(showGol)}.`
+    : `Due gol dopo è sempre un sottoinsieme del prossimo gol: per farne 2 devi prima farne 1.`;
   $('explain').textContent = n
     ? `Dal ${score()} tra ${winFrom()}' e ${winTo()}'${campTxt}: prossimo gol ${k}/${n}, due gol dopo ${k2}/${n}.`
     : `Pochi casi esatti. Stima: prossimo gol ${pct(showGol)}, due gol dopo ${pct(showDue)}.`;
@@ -362,15 +385,16 @@ function render(){
 
 $('minChips').innerHTML = MIN_CHIPS.map(m=>`<button class="chip" data-m="${m}" type="button">${m}'</button>`).join('');
 $('minChips').onclick = e => { const b=e.target.closest('.chip'); if(!b) return; setMinuto(b.dataset.m); };
-$('scoreChips').onclick = e => {
-  const b=e.target.closest('.chip'); if(!b) return;
-  const [h,a]=b.dataset.s.split('-').map(Number);
+$('scoreSelect').onchange = () => {
+  const [h,a]=$('scoreSelect').value.split('-').map(Number);
   setScore(h,a,true);
 };
+$('pickGol').onclick = () => setPick('gol');
+$('pickDue').onclick = () => setPick('due');
 $('minuto').oninput = () => setMinuto($('minuto').value);
 $('minutoNum').onchange = () => setMinuto($('minutoNum').value);
-['paese'].forEach(id => $(id).addEventListener('input', () => { state.scoreLocked=false; autoScore(); fillScoreChips(); render(); }));
-['topMode','topMetric'].forEach(id => $(id).addEventListener('input', render));
+['paese'].forEach(id => $(id).addEventListener('input', () => { state.scoreLocked=false; autoScore(); fillScoreSelect(); render(); }));
+$('topMode').addEventListener('input', render);
 $('clearCamp').onclick = () => { state.campionato=''; state.scoreLocked=false; autoScore(); render(); };
 $('topScores').onclick = e => {
   const row = e.target.closest('.league');
