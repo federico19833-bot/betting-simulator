@@ -290,14 +290,12 @@ function autoScore(){
 function setMinuto(m){
   m = Math.max(1, Math.min(90, parseInt(m,10)||64));
   state.minuto = m;
-  state.scoreLocked = false;
-  state.matchId = null;
   $('minuto').value = Math.max(40, Math.min(70, m));
   $('minutoNum').value = m;
   $('minRead').textContent = m;
   $('windowLbl').textContent = `Finestra 10 minuti: ${winFrom()}'–${winTo()}'`;
   document.querySelectorAll('#minChips .chip').forEach(c => c.classList.toggle('on', Number(c.dataset.m)===m));
-  autoScore();
+  if (!state.scoreLocked) autoScore();
   fillScoreSelect();
   render();
 }
@@ -437,7 +435,7 @@ function render(){
     ? `Dal ${score()} tra ${winFrom()}' e ${winTo()}'${campTxt}: prossimo gol ${k}/${n}, due gol dopo ${k2}/${n}.${n<8?' Campione piccolo: la % è poco stabile.':''}`
     : `Pochi casi esatti. Stima: prossimo gol ${pct(showGol)}, due gol dopo ${pct(showDue)}.`;
   $('scoreHint').textContent = state.scoreLocked
-    ? `Risultato scelto da te · finestra ${winFrom()}'–${winTo()}'`
+    ? `Risultato bloccato · resta ${score()} anche se sposti i minuti · finestra ${winFrom()}'–${winTo()}'`
     : `Impostato in automatico sul più frequente nella finestra ${winFrom()}'–${winTo()}'`;
 
   const mode = $('topMode').value;
