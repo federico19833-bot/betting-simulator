@@ -157,7 +157,7 @@ def load_rows() -> list[dict]:
         for i, raw in enumerate(csv.DictReader(fh), start=1):
             ht = parse_score(raw.get("Half-Time Result"))
             ft = parse_score(raw.get("Full-Time Result"))
-            pk = parse_score(raw.get("Picked Score"))
+            pk = parse_score(raw.get("Picked Score")) or ht
             try:
                 minute = int(raw.get("Picked Minute") or "")
             except ValueError:
